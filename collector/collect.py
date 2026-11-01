@@ -292,7 +292,7 @@ def gastro_news() -> list[dict]:
 
 
 EVENT_MUSTER = re.compile(
-    r"\b(konzert\w*|festival\w*|open[- ]?air\w*|messe|ausstellung\w*|vernissage|premiere|"
+    r"\b(konzert\w*|festival\w*|open[- ]?air\w*|messe|ausstellung\w*|vernissage|"
     r"tournee|bühne|theater\w*|musical\w*|oper|comedy|"
     r"weihnachtsm[aä]rkt\w*|chilbi|fasnacht|street ?parade|tickets?|veranstaltung\w*)\b",
     re.IGNORECASE,
