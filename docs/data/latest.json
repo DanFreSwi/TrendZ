@@ -1,12 +1,12 @@
 {
-  "aktualisiert": "2026-11-01T12:47:37+00:00",
+  "aktualisiert": "2026-11-01T12:53:52+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-01T12:47:37+00:00",
+      "stand": "2026-11-01T12:53:52+00:00",
       "eintraege": [
         {
           "titel": "Polizei findet Frau schwer verletzt auf – Mann festgenommen",
@@ -38,22 +38,22 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-01T12:47:37+00:00",
+      "stand": "2026-11-01T12:53:52+00:00",
       "eintraege": [
-        {
-          "titel": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
-          "untertitel": "Warnings of escalating clampdown on press freedom come after Cairo court convicts Attalah of managing an unlicensed website Lina Attalah, a prominent Egyptian journalist and the …",
-          "link": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
-          "bild": "https://i.guim.co.uk/img/media/75e7c001f076ab3b02f724b5cffa0f0d6b244e26/320_316_1688_1351/master/1688.jpg?width=140&quality=85&auto=format&fit=max&s=c553b3acef6d1af022889b33d7e9eaa3",
-          "quelle": "The Guardian",
-          "info": "2 Quellen berichten"
-        },
         {
           "titel": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
           "untertitel": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
           "link": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
           "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cde/live/f5e426a0-d586-11f1-a6a4-9b195a139571.jpg",
           "quelle": "BBC",
+          "info": "2 Quellen berichten"
+        },
+        {
+          "titel": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
+          "untertitel": "Warnings of escalating clampdown on press freedom come after Cairo court convicts Attalah of managing an unlicensed website Lina Attalah, a prominent Egyptian journalist and the …",
+          "link": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
+          "bild": "https://i.guim.co.uk/img/media/75e7c001f076ab3b02f724b5cffa0f0d6b244e26/320_316_1688_1351/master/1688.jpg?width=140&quality=85&auto=format&fit=max&s=c553b3acef6d1af022889b33d7e9eaa3",
+          "quelle": "The Guardian",
           "info": "2 Quellen berichten"
         },
         {
@@ -70,8 +70,16 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-01T12:47:37+00:00",
+      "stand": "2026-11-01T12:53:52+00:00",
       "eintraege": [
+        {
+          "titel": "2027",
+          "untertitel": "Senators Announce 2027 Home Game Times",
+          "link": "https://www.mlb.com/milb/harrisburg/news/game-times-2027",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQyTYESrhqPzn4ipVupKj3msE-j_wwtoQX1tS37WwTnfTJgMLuHJDa07J_n6q0",
+          "quelle": "Google Trends · MLB.com",
+          "info": "100+ Suchanfragen"
+        },
         {
           "titel": "ciara mageean",
           "untertitel": "Ciara Mageean: European champion and Olympian dies aged 34",
@@ -86,15 +94,7 @@
           "link": "https://www.skysports.com/tennis/watch/9215660149519068112/swiss-indoors-basel-2026",
           "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsTawluhkHMbkJYnAmGyAU6UFQs15TozA6GReZycfBfc-OhxyzbC9TNbhdKog",
           "quelle": "Google Trends · Sky Sports",
-          "info": "200+ Suchanfragen"
-        },
-        {
-          "titel": "route du rhum 2026",
-          "untertitel": "Comment suivre le départ ?",
-          "link": "https://www.routedurhum.com/post/comment-suivre-le-d%C3%A9part",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLVbspXTFkWwaFFL27Qvpde4meQIAiPIbesw0zipr2703neUOHTFcKuz5IV18",
-          "quelle": "Google Trends · Route du Rhum",
-          "info": "200+ Suchanfragen"
+          "info": "500+ Suchanfragen"
         }
       ]
     },
@@ -102,7 +102,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-01T12:45:37+00:00",
+      "stand": "2026-11-01T12:53:52+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -134,7 +134,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-01T12:47:37+00:00",
+      "stand": "2026-11-01T12:53:52+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -166,7 +166,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-01T12:47:37+00:00",
+      "stand": "2026-11-01T12:53:52+00:00",
       "eintraege": [
         {
           "titel": "«Chestene-Chilbi»: In Greppen LU zelebriert man die Kastanie",
@@ -182,7 +182,7 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-01T12:47:37+00:00",
+      "stand": "2026-11-01T12:53:52+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
@@ -213,7 +213,7 @@
         },
         {
           "titel": "Genf",
-          "untertitel": "Bewölkt · 6° bis 10°",
+          "untertitel": "Bewölkt · 6° bis 9°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
