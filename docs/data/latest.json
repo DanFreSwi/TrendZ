@@ -1,12 +1,12 @@
 {
-  "aktualisiert": "2026-11-01T12:22:00+00:00",
+  "aktualisiert": "2026-11-01T12:37:51+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-01T12:22:00+00:00",
+      "stand": "2026-11-01T12:37:51+00:00",
       "eintraege": [
         {
           "titel": "Krawalle in Zürich und Basel – Die Allianz der Ideologen mit den Krawallbrüdern",
@@ -17,20 +17,20 @@
           "info": "3 Quellen berichten"
         },
         {
-          "titel": "Halloween-Bilanz: 80 Polizeieinsätze gleichzeitig",
-          "untertitel": "Rund um die Langstrasse im Zürcher Kreis 4 ist es am Samstagabend zu einer unbewilligten Demo aus dem linksextremen Milieu gekommen. Die Polizei ist in Vollmontur und mit einem …",
-          "link": "https://www.20min.ch/story/zuerich-live-ticker-zur-halloween-demo-im-kreis-4-103659225",
-          "bild": "https://image.20min.ch/2026/10/31/4f3387d0-7fd2-4db4-8ab5-54a878f72b2d.png?s=f5519b6fd6caa16324757f10ab8be4a8",
-          "quelle": "20 Minuten",
-          "info": "3 Quellen berichten"
-        },
-        {
           "titel": "Clubräumung in Bern eskaliert – Polizist verletzt",
           "untertitel": "Nach der Räumung eines Clubs an der Stauffacherstrasse in Bern sind Polizisten mit Flaschen und Steinen angegriffen worden. Ein Beamter wurde leicht verletzt. Die Polizei setzte …",
           "link": "https://www.blick.ch/schweiz/bern/clubraeumung-in-bern-eskaliert-polizist-verletzt/fmz0hg0",
           "bild": "https://ocdn.eu/pulscms-transforms/1/BEkktkuTURBXy9hMzQxNGRkOC02MjVmLTRlODYtYWFlZC1jM2I2YmEwYWY5MWMuanBlZ5KTBc0CWM0BO5MJpmM2NzJjZAY/6dqdmrfnze.jpg",
           "quelle": "Blick",
           "info": "3 Quellen berichten"
+        },
+        {
+          "titel": "Junglenker (19) überschlägt sich bei Selbstunfall in Haslen AI",
+          "untertitel": "Am frühen Sonntagmorgen hat sich das Auto eines 19-jährigen Junglenkers in Haslen bei einem Unfall überschlagen. Der 20-jährige Beifahrer wurde leicht verletzt.",
+          "link": "https://www.blick.ch/schweiz/ostschweiz/appenzell-innerrhoden/junglenker-ueberschlaegt-sich-bei-selbstunfall-in-haslen-ai/0193kbz",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/eN-ktkuTURBXy9mNmJjMzM5Ni1iNzBlLTRjNDctOTkzMi1mZmU5ZDllOTVmOTYuanBlZ5KTBc0CWM0BO5MJpjlhYzEwMAY/rywzhyuvu8o.jpg",
+          "quelle": "Blick",
+          "info": "2 Quellen berichten"
         }
       ]
     },
@@ -38,7 +38,7 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-01T12:22:00+00:00",
+      "stand": "2026-11-01T12:37:51+00:00",
       "eintraege": [
         {
           "titel": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
@@ -70,15 +70,23 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-01T12:22:00+00:00",
+      "stand": "2026-11-01T12:37:51+00:00",
       "eintraege": [
+        {
+          "titel": "henry bernet",
+          "untertitel": "Sports News, Transfers, Scores | Watch Live Sport",
+          "link": "https://www.skysports.com/tennis/watch/9215660149519068112/swiss-indoors-basel-2026",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsTawluhkHMbkJYnAmGyAU6UFQs15TozA6GReZycfBfc-OhxyzbC9TNbhdKog",
+          "quelle": "Google Trends · Sky Sports",
+          "info": "200+ Suchanfragen"
+        },
         {
           "titel": "route du rhum 2026",
           "untertitel": "Comment suivre le départ ?",
           "link": "https://www.routedurhum.com/post/comment-suivre-le-d%C3%A9part",
           "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLVbspXTFkWwaFFL27Qvpde4meQIAiPIbesw0zipr2703neUOHTFcKuz5IV18",
           "quelle": "Google Trends · Route du Rhum",
-          "info": "100+ Suchanfragen"
+          "info": "200+ Suchanfragen"
         },
         {
           "titel": "como - venezia",
@@ -87,14 +95,6 @@
           "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw",
           "quelle": "Google Trends · BBC",
           "info": "200+ Suchanfragen"
-        },
-        {
-          "titel": "basel-stadt",
-          "untertitel": "Basler Regierung lehnt Pharma-Initiative ab: Fonds würde 96 Millionen Franken kosten",
-          "link": "https://www.bazonline.ch/basel-stadt-regierung-lehnt-pharma-volksinitiative-ab-954335567934",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDtyJA_Cz_Cv0Aj0_TJQ64vrBEY3HWCyTarl1V5eD4WlL2yVxgQX1DBZdExTM",
-          "quelle": "Google Trends · Basler Zeitung",
-          "info": "200+ Suchanfragen"
         }
       ]
     },
@@ -102,7 +102,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-01T12:22:00+00:00",
+      "stand": "2026-11-01T12:37:51+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -134,7 +134,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-01T12:22:00+00:00",
+      "stand": "2026-11-01T12:37:51+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -163,18 +163,36 @@
       ]
     },
     {
-      "id": "filme",
-      "name": "Filme im Kino",
-      "symbol": "🎬",
-      "stand": null,
-      "eintraege": []
-    },
-    {
-      "id": "videos",
-      "name": "Videos",
-      "symbol": "▶️",
-      "stand": null,
-      "eintraege": []
+      "id": "gastro",
+      "name": "Restaurants & Bars",
+      "symbol": "🍽️",
+      "stand": "2026-11-01T12:37:51+00:00",
+      "eintraege": [
+        {
+          "titel": "Restaurants in Sardinien verbieten Familien das Handy am Tisch",
+          "untertitel": "Eine Gruppe sardinischer Restaurants verbietet Familien das Nutzen von Handys und Bildschirm-Geräten.",
+          "link": "https://www.watson.ch/international/konsum/703491376-restaurants-in-sardinien-verbieten-familien-handynutzung-am-tisch",
+          "bild": "",
+          "quelle": "watson",
+          "info": ""
+        },
+        {
+          "titel": "KI-Bilder auf der Speisekarte: Das sagen die Restaurants dazu",
+          "untertitel": "Restaurants ohne eigene Fotos werben bei Schweizer Lieferdiensten teilweise mit KI-generierten Essensbildern. Zwei Schweizer Betriebe erzählen, warum sie KI-Bilder nutzen – oder …",
+          "link": "https://www.20min.ch/story/ki-bilder-bei-restaurants-just-eat-generiert-essensfotos-103657960",
+          "bild": "https://image.20min.ch/2026/10/28/04aeaa64-ec76-48a8-a3ea-903a611fd336.jpg?s=9be41273eb87f94c9001ac8a3def232a",
+          "quelle": "20 Minuten",
+          "info": ""
+        },
+        {
+          "titel": "Sardische Restaurants wollen Handys von ihren Tischen verbannen",
+          "untertitel": "In 15 Restaurants auf Sardinien sollen Familien beim Essen auf Smartphone und Tablet verzichten. Statt Bildschirm gibts Spiele und Gesprächsstoff. Die Pilotphase startet am 1. …",
+          "link": "https://www.20min.ch/story/kein-handy-am-tisch-restaurants-in-sardinien-starten-pilotphase-103657673",
+          "bild": "https://image.20min.ch/2026/10/28/27bb9e87-c6e8-4bd9-b7fb-7f51438d3265.jpg?s=6bb4b2f9f3924bffb353a4eac2f436a6",
+          "quelle": "20 Minuten",
+          "info": ""
+        }
+      ]
     }
   ]
 }
