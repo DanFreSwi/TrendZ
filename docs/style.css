@@ -1,0 +1,93 @@
+:root {
+  --hintergrund: #f5f6fa;
+  --kachel: #ffffff;
+  --text: #1c1e26;
+  --leise: #6b7080;
+  --akzent: #e5243b;
+  --linie: #e6e8ef;
+  --schatten: 0 2px 10px rgba(20, 24, 40, 0.06);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --hintergrund: #12131a;
+    --kachel: #1c1e28;
+    --text: #eceef5;
+    --leise: #9a9fb2;
+    --linie: #2b2e3b;
+    --schatten: none;
+  }
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  background: var(--hintergrund);
+  color: var(--text);
+  line-height: 1.4;
+}
+
+a { color: inherit; }
+
+.kopf { text-align: center; padding: 2.5rem 1rem 1.5rem; }
+.kopf h1 { margin: 0; font-size: clamp(2.4rem, 7vw, 3.6rem); letter-spacing: -0.03em; }
+.kopf h1 span { color: var(--akzent); }
+.claim { margin: 0.3rem 0 0; font-size: 1.1rem; }
+.stand { margin: 0.5rem 0 0; color: var(--leise); font-size: 0.9rem; }
+
+.kacheln {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 1.25rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem 2rem;
+}
+
+.kachel {
+  background: var(--kachel);
+  border-radius: 16px;
+  padding: 1.1rem 1.2rem 0.8rem;
+  box-shadow: var(--schatten);
+  border: 1px solid var(--linie);
+}
+.kachel h2 { margin: 0 0 0.6rem; font-size: 1.15rem; }
+
+.liste { list-style: none; margin: 0; padding: 0; }
+.liste li + li { border-top: 1px solid var(--linie); }
+
+.eintrag {
+  display: grid;
+  grid-template-columns: 1.6rem 64px 1fr;
+  gap: 0.75rem;
+  align-items: center;
+  padding: 0.7rem 0;
+  text-decoration: none;
+}
+.eintrag:hover .titel { text-decoration: underline; }
+
+.platz { font-size: 1.4rem; font-weight: 800; color: var(--akzent); text-align: center; }
+
+.bild {
+  width: 64px; height: 64px; border-radius: 10px;
+  object-fit: cover; background: var(--linie);
+}
+.bild.leer { display: grid; place-items: center; font-size: 1.6rem; }
+
+.titel { display: block; font-weight: 650; }
+.untertitel {
+  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;
+  overflow: hidden; color: var(--leise); font-size: 0.88rem; margin-top: 0.1rem;
+}
+.meta { display: block; color: var(--leise); font-size: 0.78rem; margin-top: 0.2rem; }
+
+.kachel-stand { margin: 0.3rem 0 0; color: var(--leise); font-size: 0.75rem; text-align: right; }
+.bald { color: var(--leise); padding: 0.8rem 0; margin: 0; }
+
+.fuss {
+  max-width: 800px; margin: 0 auto; padding: 1rem 1rem 3rem;
+  text-align: center; color: var(--leise); font-size: 0.85rem;
+}
+.klein { font-size: 0.75rem; }

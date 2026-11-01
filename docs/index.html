@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="de-CH">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>TrendZ – Was gerade abgeht</title>
+  <meta name="description" content="Die Top 3 Trends der Schweiz: News, Musik, Podcasts, Filme, Videos und Suchtrends auf einen Blick.">
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📈</text></svg>">
+</head>
+<body>
+  <header class="kopf">
+    <h1>Trend<span>Z</span></h1>
+    <p class="claim">Die Top 3 von allem, was in der Schweiz gerade abgeht.</p>
+    <p class="stand" id="stand">Lade Trends …</p>
+  </header>
+
+  <main id="kacheln" class="kacheln" aria-live="polite"></main>
+
+  <footer class="fuss">
+    <p>TrendZ ist ein nicht-kommerzielles Hobbyprojekt. Alle Inhalte gehören den jeweiligen Quellen,
+      jeder Eintrag verlinkt auf das Original.</p>
+    <p>Quellen: SRF, Blick, 20 Minuten, watson, BBC, The Guardian, tagesschau, Google Trends,
+      Apple Music &amp; Apple Podcasts Charts, TMDB, YouTube.</p>
+    <p class="klein">Filmdaten: This product uses the TMDB API but is not endorsed or certified by TMDB.</p>
+    <p><a href="impressum.html">Impressum &amp; Datenschutz</a></p>
+  </footer>
+
+  <template id="kachel-vorlage">
+    <section class="kachel">
+      <h2><span class="symbol"></span> <span class="name"></span></h2>
+      <ol class="liste"></ol>
+      <p class="kachel-stand"></p>
+    </section>
+  </template>
+
+  <script src="app.js"></script>
+</body>
+</html>
