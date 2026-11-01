@@ -1,12 +1,12 @@
 {
-  "aktualisiert": "2026-11-01T18:50:31+00:00",
+  "aktualisiert": "2026-11-01T21:42:29+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-01T18:50:31+00:00",
+      "stand": "2026-11-01T21:42:29+00:00",
       "eintraege": [
         {
           "titel": "Unverständnis und Forderungen – Nach der Krawallnacht in Zürich – so reagiert die Politik",
@@ -14,7 +14,15 @@
           "link": "https://www.srf.ch/news/schweiz/unverstaendnis-und-forderungen-nach-der-krawallnacht-in-zuerich-so-reagiert-die-politik",
           "bild": "https://www.srf.ch/static/cms/images//320ws/0e6a5c.webp",
           "quelle": "SRF",
-          "info": "4 Quellen berichten"
+          "info": "3 Quellen berichten"
+        },
+        {
+          "titel": "«Fühlte sich wie Mini-Street-Parade an – dann eskalierte es»",
+          "untertitel": "An der Zürcher Langstrasse ist Halloween am Samstagabend in Krawalle gekippt. Die Polizei rückte mit Wasserwerfern und Tränengas an. Noch am Morgen danach klagen Anwohner über …",
+          "link": "https://www.blick.ch/schweiz/zuerich/halloween-ausschreitungen-in-zuerich-coop-verwuestet/0kvxpeq",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/c6uktkuTURBXy9jOTljZjJiMy0xMGZkLTQ3NGEtYmIyNy0yYTIxNDliNzMyYTQuanBlZ5KTBc0CWM0BO5MJpmM3ZWViNwY/5cdehqo7e7l.jpg",
+          "quelle": "Blick",
+          "info": "3 Quellen berichten"
         },
         {
           "titel": "Sieben Männer nach versuchtem Einbruchdiebstahl in Höchstetten BE angehalten",
@@ -22,15 +30,7 @@
           "link": "https://www.blick.ch/schweiz/bern/hoechstetten-be-maenner-nach-versuchtem-einbruch-festgenommen/0vgrvez",
           "bild": "https://ocdn.eu/pulscms-transforms/1/8sVktktTURBXy8zMjI4ZWVmZC0yOWNjLTRmNzMtYjY4MS05ZGY4ZGIyMDMwZjQucG5nkpMFzQJYzQE7kwmmOGU4ZGRjBg/fuhmjjptij.jpg",
           "quelle": "Blick",
-          "info": "4 Quellen berichten"
-        },
-        {
-          "titel": "Clubräumung in Bern eskaliert – Polizist verletzt",
-          "untertitel": "Nach der Räumung eines Clubs in Bern sind Polizisten mit Flaschen und Steinen angegriffen worden. Ein Beamter wurde leicht verletzt. Die Polizei setzte Tränengas, Pfefferspray …",
-          "link": "https://www.blick.ch/schweiz/bern/clubraeumung-in-bern-eskaliert-polizist-verletzt/fmz0hg0",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/aGbktkuTURBXy9hMzQxNGRkOC02MjVmLTRlODYtYWFlZC1jM2I2YmEwYWY5MWMuanBlZ5KTBc0CWM0BO5MJpmM5ODlhMgY/izafmiuv93.jpg",
-          "quelle": "Blick",
-          "info": "4 Quellen berichten"
+          "info": "3 Quellen berichten"
         }
       ]
     },
@@ -38,8 +38,16 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-01T18:50:31+00:00",
+      "stand": "2026-11-01T21:42:29+00:00",
       "eintraege": [
+        {
+          "titel": "Shops looted as German cost-of-living protests turn violent",
+          "untertitel": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+          "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ace/live/3e4ef120-d5d4-11f1-8629-7b9503d639be.jpg",
+          "quelle": "BBC",
+          "info": "2 Quellen berichten"
+        },
         {
           "titel": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
           "untertitel": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment The “unprecedented” …",
@@ -49,18 +57,10 @@
           "info": "2 Quellen berichten"
         },
         {
-          "titel": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-          "untertitel": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
-          "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg",
-          "quelle": "BBC",
-          "info": "2 Quellen berichten"
-        },
-        {
-          "titel": "‘Amateur morons’: Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery",
-          "untertitel": "Brazilian media ridicule defeated candidate over ‘shameful’ absconsion to US and bizarre letter with wrong coat of arms Flávio Bolsonaro had hoped that by Sunday night people …",
-          "link": "https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil",
-          "bild": "https://i.guim.co.uk/img/media/c08befb6c1e61651220ef68b5db709a770adcf35/413_0_4001_3202/master/4001.jpg?width=140&quality=85&auto=format&fit=max&s=cbfaced3620018ffcae42b99c53bcde5",
+          "titel": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
+          "untertitel": "British prime minister has now agreed to structured dialogue on reparatory justice but issue remains off formal Chogm agenda British officials initially insisted that discussions …",
+          "link": "https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda",
+          "bild": "https://i.guim.co.uk/img/media/3aa8217e3ba513aa013ca78934624c405592db3a/825_27_4852_3884/master/4852.jpg?width=140&quality=85&auto=format&fit=max&s=15987da48c5c1fcf175bb20b07717adc",
           "quelle": "The Guardian",
           "info": "2 Quellen berichten"
         }
@@ -70,30 +70,30 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-01T18:50:31+00:00",
+      "stand": "2026-11-01T21:42:29+00:00",
       "eintraege": [
         {
-          "titel": "dfb pokal auslosung",
-          "untertitel": "Die Achtelfinal-Auslosung im Live-Ticker: Bekommen wir jetzt einen Pokal-Kracher?",
-          "link": "https://www.bild.de/sport/fussball/die-achtelfinal-auslosung-im-live-ticker-bekommen-wir-jetzt-einen-pokal-kracher-6ae75e5faedea8cd9ffc0cfc",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBOj-GYwEVpgslHH7tslygckUPKBqaTjVQBxIqY0h4HmPnZ3UYaDzpL1GhPqE",
-          "quelle": "Google Trends · BILD",
+          "titel": "bob dylan zürich",
+          "untertitel": "",
+          "link": "https://www.google.ch/search?q=bob+dylan+z%C3%BCrich",
+          "bild": "",
+          "quelle": "Google Trends",
           "info": "100+ Suchanfragen"
         },
         {
-          "titel": "stromausfall brugg",
-          "untertitel": "Ursache unklar: Grösserer Stromausfall in Brugg",
-          "link": "https://www.tagesanzeiger.ch/stromausfall-in-brugg-stoerung-dauert-bis-zu-6-stunden-435674654663",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTC0Gdfyc5v6UasP5svwP1SfckZtzHHhubJGaBZbiALhNJVMzFhZ01VW5qQg0",
-          "quelle": "Google Trends · Tages-Anzeiger",
-          "info": "200+ Suchanfragen"
+          "titel": "karl bushby",
+          "untertitel": "World trekker Karl Bushby's final push home to Hull",
+          "link": "https://www.bbc.com/news/articles/cq8rz38jr50go",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSsiVXsvCr20KIl61ldLB5WfqBWQoCRNgdmxRd8AcQVG1qLHsowoBEa2WmRmmQ",
+          "quelle": "Google Trends · BBC",
+          "info": "100+ Suchanfragen"
         },
         {
-          "titel": "ol – angers",
-          "untertitel": "L'OL reprend son élan en battant Angers",
-          "link": "https://www.lequipe.fr/Football/Actualites/L-ol-reprend-son-elan-en-battant-angers/1740342",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQf0qRBb0T211oHJ9TWayLOyymksAWoX97gC8keAatc6u35u7ivjapJ4-UmRY",
-          "quelle": "Google Trends · L'Équipe",
+          "titel": "paulo fonseca",
+          "untertitel": "Rui Borges já não é treinador do Sporting",
+          "link": "https://www.cmjornal.pt/desporto/futebol/detalhe/rui-borges-ja-nao-e-treinador-do-sporting",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzisQEYMmO-RUPakUnJFyi_14laoh4t31-RkA7LKObGktoDa-zAFvj-No-V2A",
+          "quelle": "Google Trends · Correio da Manhã",
           "info": "100+ Suchanfragen"
         }
       ]
@@ -102,7 +102,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-01T18:50:31+00:00",
+      "stand": "2026-11-01T21:42:29+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -134,7 +134,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-01T18:50:31+00:00",
+      "stand": "2026-11-01T21:42:29+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -166,7 +166,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-01T18:50:31+00:00",
+      "stand": "2026-11-01T21:42:29+00:00",
       "eintraege": [
         {
           "titel": "«Chestene-Chilbi»: In Greppen LU zelebriert man die Kastanie",
@@ -182,7 +182,7 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-01T18:50:31+00:00",
+      "stand": "2026-11-01T21:42:29+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
@@ -204,16 +204,16 @@
         },
         {
           "titel": "Basel",
-          "untertitel": "Leichter Niesel · 1° bis 10°",
+          "untertitel": "Nebel · 2° bis 10°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
           "info": "Regenrisiko 0%",
-          "emoji": "🌦️"
+          "emoji": "🌫️"
         },
         {
           "titel": "Genf",
-          "untertitel": "Bewölkt · 6° bis 10°",
+          "untertitel": "Bewölkt · 5° bis 10°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
