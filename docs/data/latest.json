@@ -1,36 +1,36 @@
 {
-  "aktualisiert": "2026-11-01T15:41:26+00:00",
+  "aktualisiert": "2026-11-01T18:50:31+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-01T15:41:26+00:00",
+      "stand": "2026-11-01T18:50:31+00:00",
       "eintraege": [
         {
-          "titel": "Schweizer Kleinstädte beleben – Laufenburger Altstadt wurde aufgemöbelt – mit Geld der Stadt",
-          "untertitel": "Dass eine Kleinstadt 20 Millionen Franken in die Aufwertung der Altstadt investiert, sei unüblich, sagt ein Experte.",
-          "link": "https://www.srf.ch/news/schweiz/schweizer-kleinstaedte-beleben-laufenburger-altstadt-wurde-aufgemoebelt-mit-geld-der-stadt",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/0382b76.webp",
+          "titel": "Unverständnis und Forderungen – Nach der Krawallnacht in Zürich – so reagiert die Politik",
+          "untertitel": "Nach den gewalttätigen Protesten linksextremer Kreise in Zürich reagieren die Parteien mit viel Unverständnis.",
+          "link": "https://www.srf.ch/news/schweiz/unverstaendnis-und-forderungen-nach-der-krawallnacht-in-zuerich-so-reagiert-die-politik",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/0e6a5c.webp",
           "quelle": "SRF",
           "info": "4 Quellen berichten"
         },
         {
-          "titel": "Krawalle in Zürich und Basel – Die Allianz der Ideologen mit den Krawallbrüdern",
-          "untertitel": "Der ideologisch harte Kern der Gewaltbereiten hält Ausschreitungen wie letzte Nacht in Zürich tatsächlich für politisch.",
-          "link": "https://www.srf.ch/news/schweiz/krawalle-in-zuerich-und-basel-die-allianz-der-ideologen-mit-den-krawallbruedern",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/f52716.webp",
-          "quelle": "SRF",
-          "info": "3 Quellen berichten"
+          "titel": "Sieben Männer nach versuchtem Einbruchdiebstahl in Höchstetten BE angehalten",
+          "untertitel": "In der Nacht auf Sonntag hat die Kantonspolizei Bern in Höchstetten vier mutmassliche Täter nach einem versuchten Einbruchdiebstahl in ein Verkaufsgeschäft angehalten. Im Rahmen …",
+          "link": "https://www.blick.ch/schweiz/bern/hoechstetten-be-maenner-nach-versuchtem-einbruch-festgenommen/0vgrvez",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/8sVktktTURBXy8zMjI4ZWVmZC0yOWNjLTRmNzMtYjY4MS05ZGY4ZGIyMDMwZjQucG5nkpMFzQJYzQE7kwmmOGU4ZGRjBg/fuhmjjptij.jpg",
+          "quelle": "Blick",
+          "info": "4 Quellen berichten"
         },
         {
-          "titel": "Junglenker (19) überschlägt sich bei Selbstunfall in Haslen AI",
-          "untertitel": "Am frühen Sonntagmorgen hat sich das Auto eines 19-jährigen Junglenkers in Haslen bei einem Unfall überschlagen. Der 20-jährige Beifahrer wurde leicht verletzt.",
-          "link": "https://www.blick.ch/schweiz/ostschweiz/appenzell-innerrhoden/junglenker-ueberschlaegt-sich-bei-selbstunfall-in-haslen-ai/0193kbz",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/1DwktkuTURBXy9mNmJjMzM5Ni1iNzBlLTRjNDctOTkzMi1mZmU5ZDllOTVmOTYuanBlZ5KTBc0CWM0BO5MJpjRhODUxNwY/vkj2xqmjmko.jpg",
+          "titel": "Clubräumung in Bern eskaliert – Polizist verletzt",
+          "untertitel": "Nach der Räumung eines Clubs in Bern sind Polizisten mit Flaschen und Steinen angegriffen worden. Ein Beamter wurde leicht verletzt. Die Polizei setzte Tränengas, Pfefferspray …",
+          "link": "https://www.blick.ch/schweiz/bern/clubraeumung-in-bern-eskaliert-polizist-verletzt/fmz0hg0",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/aGbktkuTURBXy9hMzQxNGRkOC02MjVmLTRlODYtYWFlZC1jM2I2YmEwYWY5MWMuanBlZ5KTBc0CWM0BO5MJpmM5ODlhMgY/izafmiuv93.jpg",
           "quelle": "Blick",
-          "info": "3 Quellen berichten"
+          "info": "4 Quellen berichten"
         }
       ]
     },
@@ -38,29 +38,29 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-01T15:41:26+00:00",
+      "stand": "2026-11-01T18:50:31+00:00",
       "eintraege": [
-        {
-          "titel": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
-          "untertitel": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
-          "link": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cde/live/f5e426a0-d586-11f1-a6a4-9b195a139571.jpg",
-          "quelle": "BBC",
-          "info": "2 Quellen berichten"
-        },
-        {
-          "titel": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
-          "untertitel": "Warnings of escalating clampdown on press freedom come after Cairo court convicts Attalah of managing an unlicensed website Lina Attalah, a prominent Egyptian journalist and the …",
-          "link": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
-          "bild": "https://i.guim.co.uk/img/media/75e7c001f076ab3b02f724b5cffa0f0d6b244e26/320_316_1688_1351/master/1688.jpg?width=140&quality=85&auto=format&fit=max&s=c553b3acef6d1af022889b33d7e9eaa3",
-          "quelle": "The Guardian",
-          "info": "2 Quellen berichten"
-        },
         {
           "titel": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
           "untertitel": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment The “unprecedented” …",
           "link": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
           "bild": "https://i.guim.co.uk/img/media/4c8a92421c88cf3bb5c2743cd8f6b4900e511a1f/538_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=4eca9873ee9ecb59fb15e289980ef771",
+          "quelle": "The Guardian",
+          "info": "2 Quellen berichten"
+        },
+        {
+          "titel": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+          "untertitel": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+          "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg",
+          "quelle": "BBC",
+          "info": "2 Quellen berichten"
+        },
+        {
+          "titel": "‘Amateur morons’: Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery",
+          "untertitel": "Brazilian media ridicule defeated candidate over ‘shameful’ absconsion to US and bizarre letter with wrong coat of arms Flávio Bolsonaro had hoped that by Sunday night people …",
+          "link": "https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil",
+          "bild": "https://i.guim.co.uk/img/media/c08befb6c1e61651220ef68b5db709a770adcf35/413_0_4001_3202/master/4001.jpg?width=140&quality=85&auto=format&fit=max&s=cbfaced3620018ffcae42b99c53bcde5",
           "quelle": "The Guardian",
           "info": "2 Quellen berichten"
         }
@@ -70,31 +70,31 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-01T15:41:26+00:00",
+      "stand": "2026-11-01T18:50:31+00:00",
       "eintraege": [
         {
-          "titel": "regina ziegler",
-          "untertitel": "Bis zuletzt arbeitete sie an neuen Projekten: Film-Königin Regina Ziegler (82) ist tot",
-          "link": "https://www.bild.de/unterhaltung/stars-und-leute/filmwelt-in-trauer-regina-ziegler-ist-tot-6ae72c105e7018b4bea94b00",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrz8d_f4pnNJN7yuG9wSfo8g7A2i1gtaUsAy3e89v2hVvy4RLH7u1xv_0s6mI",
+          "titel": "dfb pokal auslosung",
+          "untertitel": "Die Achtelfinal-Auslosung im Live-Ticker: Bekommen wir jetzt einen Pokal-Kracher?",
+          "link": "https://www.bild.de/sport/fussball/die-achtelfinal-auslosung-im-live-ticker-bekommen-wir-jetzt-einen-pokal-kracher-6ae75e5faedea8cd9ffc0cfc",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBOj-GYwEVpgslHH7tslygckUPKBqaTjVQBxIqY0h4HmPnZ3UYaDzpL1GhPqE",
           "quelle": "Google Trends · BILD",
           "info": "100+ Suchanfragen"
         },
         {
-          "titel": "schweizer super league",
-          "untertitel": "Livestream: FC Luzern vs FC Sion (Sa 31.10.2026 20:30) - Super League - Fussball Resultate",
-          "link": "https://www.srf.ch/sport/resultcenter/live/football/1844957",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTz3aqDv0u1KHGoyJM-d_k52iaNtNUZ1oLUgJIG2ttyVl7YnoVPoK5LpYsy1f8",
-          "quelle": "Google Trends · SRF",
-          "info": "2000+ Suchanfragen"
+          "titel": "stromausfall brugg",
+          "untertitel": "Ursache unklar: Grösserer Stromausfall in Brugg",
+          "link": "https://www.tagesanzeiger.ch/stromausfall-in-brugg-stoerung-dauert-bis-zu-6-stunden-435674654663",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTC0Gdfyc5v6UasP5svwP1SfckZtzHHhubJGaBZbiALhNJVMzFhZ01VW5qQg0",
+          "quelle": "Google Trends · Tages-Anzeiger",
+          "info": "200+ Suchanfragen"
         },
         {
-          "titel": "vacherot valentin",
-          "untertitel": "Vacherot in his first final since the upset in Shanghai",
-          "link": "https://www.bluewin.ch/en/sport/vacherot-in-his-first-final-since-the-upset-in-shanghai-li.3656153",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRyH20eZZGQC-3Yk3tM-0NvNikE-XDSBpFlNFwUXhpeL1FwR7xV-5_AJ969PRY",
-          "quelle": "Google Trends · blue News",
-          "info": "500+ Suchanfragen"
+          "titel": "ol – angers",
+          "untertitel": "L'OL reprend son élan en battant Angers",
+          "link": "https://www.lequipe.fr/Football/Actualites/L-ol-reprend-son-elan-en-battant-angers/1740342",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQf0qRBb0T211oHJ9TWayLOyymksAWoX97gC8keAatc6u35u7ivjapJ4-UmRY",
+          "quelle": "Google Trends · L'Équipe",
+          "info": "100+ Suchanfragen"
         }
       ]
     },
@@ -102,7 +102,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-01T12:53:52+00:00",
+      "stand": "2026-11-01T18:50:31+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -113,20 +113,20 @@
           "info": "Pop"
         },
         {
-          "titel": "Thriller",
-          "untertitel": "Michael Jackson",
-          "link": "https://music.apple.com/ch/album/thriller/269572838?i=269573303",
-          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/300x300bb.jpg",
-          "quelle": "Apple Music Charts CH",
-          "info": "Pop, R&B/Soul"
-        },
-        {
           "titel": "BbY WOW",
           "untertitel": "KAROL G, Judeline & rusowsky",
           "link": "https://music.apple.com/ch/album/bby-wow/6796864741?i=6796864754",
           "bild": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/300x300bb.jpg",
           "quelle": "Apple Music Charts CH",
           "info": "Latin"
+        },
+        {
+          "titel": "Thriller",
+          "untertitel": "Michael Jackson",
+          "link": "https://music.apple.com/ch/album/thriller/269572838?i=269573303",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/300x300bb.jpg",
+          "quelle": "Apple Music Charts CH",
+          "info": "Pop, R&B/Soul"
         }
       ]
     },
@@ -134,7 +134,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-01T15:41:26+00:00",
+      "stand": "2026-11-01T18:50:31+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -166,7 +166,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-01T15:41:26+00:00",
+      "stand": "2026-11-01T18:50:31+00:00",
       "eintraege": [
         {
           "titel": "«Chestene-Chilbi»: In Greppen LU zelebriert man die Kastanie",
@@ -182,7 +182,7 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-01T15:41:26+00:00",
+      "stand": "2026-11-01T18:50:31+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
@@ -204,7 +204,7 @@
         },
         {
           "titel": "Basel",
-          "untertitel": "Leichter Niesel · 2° bis 9°",
+          "untertitel": "Leichter Niesel · 1° bis 10°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -213,7 +213,7 @@
         },
         {
           "titel": "Genf",
-          "untertitel": "Bewölkt · 6° bis 9°",
+          "untertitel": "Bewölkt · 6° bis 10°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -222,7 +222,7 @@
         },
         {
           "titel": "Lugano",
-          "untertitel": "Sonnig · 4° bis 15°",
+          "untertitel": "Sonnig · 4° bis 14°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
