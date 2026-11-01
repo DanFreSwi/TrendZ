@@ -1,13 +1,21 @@
 {
-  "aktualisiert": "2026-11-01T12:37:51+00:00",
+  "aktualisiert": "2026-11-01T12:43:14+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-01T12:37:51+00:00",
+      "stand": "2026-11-01T12:43:14+00:00",
       "eintraege": [
+        {
+          "titel": "Polizei findet Frau schwer verletzt auf – Mann festgenommen",
+          "untertitel": "Am Samstag fand die Kantonspolizei Zürich nach einem Notruf eine schwer verletzte Frau in ihrem Einfamilienhaus auf. Eine verdächtige Person wurde festgenommen.",
+          "link": "https://www.20min.ch/story/bachs-zh-polizei-findet-frau-schwer-verletzt-auf-mann-festgenommen-103659982",
+          "bild": "https://image.20min.ch/2026/11/01/a6cc3846-4c2d-4680-9245-c3274a440c8a.jpg?s=b07db11b9c3a063221ec0fc5eee01950",
+          "quelle": "20 Minuten",
+          "info": "4 Quellen berichten"
+        },
         {
           "titel": "Krawalle in Zürich und Basel – Die Allianz der Ideologen mit den Krawallbrüdern",
           "untertitel": "Der ideologisch harte Kern der Gewaltbereiten hält Ausschreitungen wie letzte Nacht in Zürich tatsächlich für politisch.",
@@ -17,20 +25,12 @@
           "info": "3 Quellen berichten"
         },
         {
-          "titel": "Clubräumung in Bern eskaliert – Polizist verletzt",
-          "untertitel": "Nach der Räumung eines Clubs an der Stauffacherstrasse in Bern sind Polizisten mit Flaschen und Steinen angegriffen worden. Ein Beamter wurde leicht verletzt. Die Polizei setzte …",
-          "link": "https://www.blick.ch/schweiz/bern/clubraeumung-in-bern-eskaliert-polizist-verletzt/fmz0hg0",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/BEkktkuTURBXy9hMzQxNGRkOC02MjVmLTRlODYtYWFlZC1jM2I2YmEwYWY5MWMuanBlZ5KTBc0CWM0BO5MJpmM2NzJjZAY/6dqdmrfnze.jpg",
-          "quelle": "Blick",
+          "titel": "Schweizer Curlerinnen holen EM-Silber ++ Hamilton schnappt sich Pole Position",
+          "untertitel": "Die wichtigsten News aus der weiten Welt des Sports: Fussball, Eishockey, Boxen, Tennis und mehr.",
+          "link": "https://www.watson.ch/sport/sport-news/195933263-sportnews-ticker-schweizer-curlerinnen-holen-em-silber",
+          "bild": "",
+          "quelle": "watson",
           "info": "3 Quellen berichten"
-        },
-        {
-          "titel": "Junglenker (19) überschlägt sich bei Selbstunfall in Haslen AI",
-          "untertitel": "Am frühen Sonntagmorgen hat sich das Auto eines 19-jährigen Junglenkers in Haslen bei einem Unfall überschlagen. Der 20-jährige Beifahrer wurde leicht verletzt.",
-          "link": "https://www.blick.ch/schweiz/ostschweiz/appenzell-innerrhoden/junglenker-ueberschlaegt-sich-bei-selbstunfall-in-haslen-ai/0193kbz",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/eN-ktkuTURBXy9mNmJjMzM5Ni1iNzBlLTRjNDctOTkzMi1mZmU5ZDllOTVmOTYuanBlZ5KTBc0CWM0BO5MJpjlhYzEwMAY/rywzhyuvu8o.jpg",
-          "quelle": "Blick",
-          "info": "2 Quellen berichten"
         }
       ]
     },
@@ -38,8 +38,16 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-01T12:37:51+00:00",
+      "stand": "2026-11-01T12:43:14+00:00",
       "eintraege": [
+        {
+          "titel": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
+          "untertitel": "Warnings of escalating clampdown on press freedom come after Cairo court convicts Attalah of managing an unlicensed website Lina Attalah, a prominent Egyptian journalist and the …",
+          "link": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
+          "bild": "https://i.guim.co.uk/img/media/75e7c001f076ab3b02f724b5cffa0f0d6b244e26/320_316_1688_1351/master/1688.jpg?width=140&quality=85&auto=format&fit=max&s=c553b3acef6d1af022889b33d7e9eaa3",
+          "quelle": "The Guardian",
+          "info": "2 Quellen berichten"
+        },
         {
           "titel": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
           "untertitel": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
@@ -55,14 +63,6 @@
           "bild": "https://i.guim.co.uk/img/media/4c8a92421c88cf3bb5c2743cd8f6b4900e511a1f/538_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=4eca9873ee9ecb59fb15e289980ef771",
           "quelle": "The Guardian",
           "info": "2 Quellen berichten"
-        },
-        {
-          "titel": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-          "untertitel": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
-          "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg",
-          "quelle": "BBC",
-          "info": "2 Quellen berichten"
         }
       ]
     },
@@ -70,8 +70,16 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-01T12:37:51+00:00",
+      "stand": "2026-11-01T12:43:14+00:00",
       "eintraege": [
+        {
+          "titel": "ciara mageean",
+          "untertitel": "Ciara Mageean: European champion and Olympian dies aged 34",
+          "link": "https://www.bbc.com/sport/athletics/articles/cn81px29032o",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSI7CQluEEOzqxGwebeNlMYG3NL-06AEZm6wyXdUD4Wx9yAuC3MyI9Ym03P7Zo",
+          "quelle": "Google Trends · BBC",
+          "info": "100+ Suchanfragen"
+        },
         {
           "titel": "henry bernet",
           "untertitel": "Sports News, Transfers, Scores | Watch Live Sport",
@@ -87,14 +95,6 @@
           "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLVbspXTFkWwaFFL27Qvpde4meQIAiPIbesw0zipr2703neUOHTFcKuz5IV18",
           "quelle": "Google Trends · Route du Rhum",
           "info": "200+ Suchanfragen"
-        },
-        {
-          "titel": "como - venezia",
-          "untertitel": "Como vs Venezia: Italian Serie A stats & head-to-head",
-          "link": "https://www.bbc.com/sport/football/live/cj93zwrnpzp4t",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw",
-          "quelle": "Google Trends · BBC",
-          "info": "200+ Suchanfragen"
         }
       ]
     },
@@ -102,7 +102,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-01T12:37:51+00:00",
+      "stand": "2026-11-01T12:43:14+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -134,7 +134,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-01T12:37:51+00:00",
+      "stand": "2026-11-01T12:43:14+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -166,7 +166,7 @@
       "id": "gastro",
       "name": "Restaurants & Bars",
       "symbol": "🍽️",
-      "stand": "2026-11-01T12:37:51+00:00",
+      "stand": "2026-11-01T12:43:14+00:00",
       "eintraege": [
         {
           "titel": "Restaurants in Sardinien verbieten Familien das Handy am Tisch",
@@ -185,12 +185,65 @@
           "info": ""
         },
         {
-          "titel": "Sardische Restaurants wollen Handys von ihren Tischen verbannen",
-          "untertitel": "In 15 Restaurants auf Sardinien sollen Familien beim Essen auf Smartphone und Tablet verzichten. Statt Bildschirm gibts Spiele und Gesprächsstoff. Die Pilotphase startet am 1. …",
-          "link": "https://www.20min.ch/story/kein-handy-am-tisch-restaurants-in-sardinien-starten-pilotphase-103657673",
-          "bild": "https://image.20min.ch/2026/10/28/27bb9e87-c6e8-4bd9-b7fb-7f51438d3265.jpg?s=6bb4b2f9f3924bffb353a4eac2f436a6",
-          "quelle": "20 Minuten",
+          "titel": "«In meinem Kräuter-Burger von Coop hats Schweinefleisch!»",
+          "untertitel": "Ein Coop-Kunde aus der Ostschweiz findet Schweinefleisch in Burgern, die ausdrücklich kein solches enthalten sollten. Das schmeckt ihm gar nicht! Coop räumt gegenüber Blick einen …",
+          "link": "https://www.blick.ch/schweiz/ostschweiz/coop-kunde-haessig-schweinefleisch-im-kraeuter-burger/7ybn58k",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/jcDktkuTURBXy85MDgzMWM0NS01MDY4LTQxZDQtYjRkMS1kOTU4MDJhY2M1NjQuanBlZ5KTBc0CWM0BO5MJpjI1MzRmZAY/atbl5gu4j3.jpg",
+          "quelle": "Blick",
           "info": ""
+        }
+      ]
+    },
+    {
+      "id": "wetter",
+      "name": "Wetter morgen",
+      "symbol": "🌤️",
+      "stand": "2026-11-01T12:43:14+00:00",
+      "eintraege": [
+        {
+          "titel": "Zürich",
+          "untertitel": "Bewölkt · 4° bis 8°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 0%",
+          "emoji": "☁️"
+        },
+        {
+          "titel": "Bern",
+          "untertitel": "Bewölkt · 3° bis 7°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 0%",
+          "emoji": "☁️"
+        },
+        {
+          "titel": "Basel",
+          "untertitel": "Leichter Niesel · 2° bis 10°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 0%",
+          "emoji": "🌦️"
+        },
+        {
+          "titel": "Genf",
+          "untertitel": "Bewölkt · 6° bis 10°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 0%",
+          "emoji": "☁️"
+        },
+        {
+          "titel": "Lugano",
+          "untertitel": "Sonnig · 4° bis 15°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 0%",
+          "emoji": "☀️"
         }
       ]
     }
