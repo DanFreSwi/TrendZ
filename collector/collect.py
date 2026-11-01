@@ -6,7 +6,8 @@ Quellen (RSS-Feeds und APIs), wählt pro Kategorie die Top 3 aus und speichert
 das Ergebnis als Datei:
 
     docs/data/latest.json          -> wird von der Website angezeigt
-    docs/data/archiv/JJJJ-MM-TT.json -> Archiv: was war an diesem Tag Trend?
+    docs/data/archiv/JJJJ-MM-TT.json -> Tagesabschluss (ab 22 Uhr Schweizer Zeit)
+    docs/data/archiv/index.json      -> Liste aller archivierten Tage
 
 Es läuft automatisch alle paar Stunden über GitHub Actions
 (siehe .github/workflows/sammeln.yml). Du musst es nicht selbst starten.
@@ -27,6 +28,7 @@ import sys
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from pathlib import Path
+from zoneinfo import ZoneInfo
 from urllib import robotparser
 from urllib.parse import quote_plus, urlparse
 
@@ -41,6 +43,10 @@ from urllib3.util.retry import Retry
 
 LAND = "ch"  # Schweiz
 TOP_N = 3
+ZEITZONE = ZoneInfo("Europe/Zurich")
+# Ab dieser Stunde (Schweizer Zeit) wird der Stand als Tagesabschluss archiviert.
+# Der letzte Durchlauf des Tages läuft um ca. 22:17 Uhr.
+ARCHIV_AB_STUNDE = 22
 TIMEOUT = 20  # Sekunden, bevor wir eine Quelle aufgeben
 
 # So stellt sich der Sammler bei den Quellen vor (höflich und ehrlich).
@@ -518,6 +524,50 @@ def vorherige_daten() -> dict:
     return {}
 
 
+def vortag_laden(heute: str) -> dict:
+    """Lädt den letzten Tagesabschluss vor heute, um Auf- und Absteiger zu erkennen."""
+    tage = sorted(d.stem for d in (DATEN_ORDNER / "archiv").glob("????-??-??.json") if d.stem < heute)
+    if not tage:
+        return {}
+    try:
+        daten = json.loads((DATEN_ORDNER / "archiv" / f"{tage[-1]}.json").read_text("utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return {}
+    return {k["id"]: k for k in daten.get("kategorien", [])}
+
+
+def trends_markieren(kategorien: list[dict], vortag: dict) -> None:
+    """Vergleicht mit dem Vortag: neu, gestiegen, gefallen oder gleich geblieben."""
+    if not vortag:
+        return
+    for k in kategorien:
+        if k["id"] == "wetter" or k["id"] not in vortag:
+            continue
+        frueher = {
+            e["titel"].strip().lower(): platz
+            for platz, e in enumerate(vortag[k["id"]].get("eintraege", []), start=1)
+        }
+        for platz, e in enumerate(k["eintraege"], start=1):
+            alt = frueher.get(e["titel"].strip().lower())
+            if alt is None:
+                e["trend"] = "neu"
+            elif alt > platz:
+                e["trend"] = "hoch"
+            elif alt < platz:
+                e["trend"] = "runter"
+            else:
+                e["trend"] = "gleich"
+
+
+def archiv_verzeichnis_schreiben() -> None:
+    """Schreibt eine Liste aller archivierten Tage (neueste zuerst) für die Website."""
+    tage = sorted(
+        (d.stem for d in (DATEN_ORDNER / "archiv").glob("????-??-??.json")),
+        reverse=True,
+    )
+    (DATEN_ORDNER / "archiv" / "index.json").write_text(json.dumps({"tage": tage}) + "\n", "utf-8")
+
+
 def main() -> int:
     jetzt = datetime.now(timezone.utc)
     alt = vorherige_daten()
@@ -547,13 +597,21 @@ def main() -> int:
             {"id": schluessel, "name": name, "symbol": symbol, "stand": stand, "eintraege": eintraege}
         )
 
+    trends_markieren(kategorien, vortag_laden(f"{jetzt.astimezone(ZEITZONE):%Y-%m-%d}"))
+
     daten = {"aktualisiert": jetzt.isoformat(timespec="seconds"), "land": LAND, "kategorien": kategorien}
 
     DATEN_ORDNER.mkdir(parents=True, exist_ok=True)
     (DATEN_ORDNER / "archiv").mkdir(exist_ok=True)
     inhalt = json.dumps(daten, ensure_ascii=False, indent=2)
     (DATEN_ORDNER / "latest.json").write_text(inhalt + "\n", "utf-8")
-    (DATEN_ORDNER / "archiv" / f"{jetzt:%Y-%m-%d}.json").write_text(inhalt + "\n", "utf-8")
+
+    # Tagesabschluss: Der letzte Durchlauf des Tages wird eingefroren und archiviert.
+    schweiz = jetzt.astimezone(ZEITZONE)
+    if schweiz.hour >= ARCHIV_AB_STUNDE:
+        (DATEN_ORDNER / "archiv" / f"{schweiz:%Y-%m-%d}.json").write_text(inhalt + "\n", "utf-8")
+        log(f"Tagesabschluss für den {schweiz:%d.%m.%Y} archiviert.")
+    archiv_verzeichnis_schreiben()
 
     log(f"Fertig: {erfolgreich} von {len(KATEGORIEN)} Kategorien frisch aktualisiert.")
     return 0 if erfolgreich else 1

@@ -25,7 +25,20 @@ function eintragBauen(e, platz, symbol) {
   a.target = "_blank";
   a.rel = "noopener noreferrer";
 
-  a.append(element("span", "platz", String(platz)));
+  const platzBox = element("span", "platz", String(platz));
+  const TRENDS = {
+    neu: ["NEU", "Neu seit gestern"],
+    hoch: ["▲", "Gestiegen seit gestern"],
+    runter: ["▼", "Gefallen seit gestern"],
+    gleich: ["=", "Gleich wie gestern"],
+  };
+  if (TRENDS[e.trend]) {
+    const [zeichen, erklaerung] = TRENDS[e.trend];
+    const marke = element("span", `trend trend-${e.trend}`, zeichen);
+    marke.title = erklaerung;
+    platzBox.append(marke);
+  }
+  a.append(platzBox);
 
   if (e.emoji) {
     a.append(element("span", "bild leer", e.emoji));
@@ -52,17 +65,52 @@ function eintragBauen(e, platz, symbol) {
   return li;
 }
 
+function datumSchoen(tag) {
+  const [j, m, t] = tag.split("-").map(Number);
+  return new Date(j, m - 1, t).toLocaleDateString("de-CH", {
+    weekday: "short", day: "numeric", month: "long", year: "numeric",
+  });
+}
+
+async function archivListeLaden() {
+  try {
+    const antwort = await fetch("data/archiv/index.json", { cache: "no-store" });
+    if (!antwort.ok) return;
+    const { tage } = await antwort.json();
+    if (!tage.length) return;
+    const auswahl = document.getElementById("archiv-tag");
+    for (const tag of tage) {
+      const option = document.createElement("option");
+      option.value = tag;
+      option.textContent = `Tagesabschluss ${datumSchoen(tag)}`;
+      auswahl.append(option);
+    }
+    auswahl.value = tage.includes(location.hash.slice(1)) ? location.hash.slice(1) : "";
+    document.getElementById("archiv-wahl").hidden = false;
+  } catch (fehler) {
+    console.error(fehler);
+  }
+}
+
 async function laden() {
   const bereich = document.getElementById("kacheln");
   const stand = document.getElementById("stand");
+  const tag = location.hash.slice(1);
+  const istArchiv = /^\d{4}-\d{2}-\d{2}$/.test(tag);
+  const datei = istArchiv ? `data/archiv/${tag}.json` : "data/latest.json";
   try {
-    const antwort = await fetch("data/latest.json", { cache: "no-store" });
+    const antwort = await fetch(datei, { cache: "no-store" });
     if (!antwort.ok) throw new Error(antwort.status);
     const daten = await antwort.json();
 
-    stand.textContent = daten.aktualisiert
-      ? `Aktualisiert ${vorWieLange(daten.aktualisiert)}`
-      : "Die ersten Trends werden gerade gesammelt …";
+    stand.classList.toggle("archiv", istArchiv);
+    if (istArchiv) {
+      stand.textContent = `Archiv: So sah es am ${datumSchoen(tag)} um 22:17 Uhr aus`;
+    } else {
+      stand.textContent = daten.aktualisiert
+        ? `Aktualisiert ${vorWieLange(daten.aktualisiert)}`
+        : "Die ersten Trends werden gerade gesammelt …";
+    }
     const vorlage = document.getElementById("kachel-vorlage");
     bereich.replaceChildren();
 
@@ -73,9 +121,9 @@ async function laden() {
       const liste = kachel.querySelector(".liste");
       if (k.eintraege.length) {
         k.eintraege.forEach((e, i) => liste.append(eintragBauen(e, i + 1, k.symbol)));
-        kachel.querySelector(".kachel-stand").textContent = `Stand: ${vorWieLange(k.stand)}`;
+        if (!istArchiv) kachel.querySelector(".kachel-stand").textContent = `Stand: ${vorWieLange(k.stand)}`;
       } else {
-        liste.replaceWith(element("p", "bald", "Kommt bald …"));
+        liste.replaceWith(element("p", "bald", istArchiv ? "Keine Einträge an diesem Tag." : "Kommt bald …"));
       }
       bereich.append(kachel);
     }
@@ -85,4 +133,12 @@ async function laden() {
   }
 }
 
+document.getElementById("archiv-tag").addEventListener("change", (ereignis) => {
+  location.hash = ereignis.target.value;
+  if (!ereignis.target.value) history.replaceState(null, "", location.pathname);
+  laden();
+});
+window.addEventListener("hashchange", laden);
+
+archivListeLaden();
 laden();
