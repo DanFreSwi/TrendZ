@@ -498,7 +498,7 @@ KATEGORIEN = [
     ("suche", "Gesucht in der Schweiz", "🔎", google_suchtrends),
     ("musik", "Musik", "🎵", lambda: apple_charts("musik")),
     ("podcasts", "Podcasts", "🎙️", lambda: apple_charts("podcasts")),
-    ("gastro", "Restaurants & Bars", "🍽️", gastro_news),
+    # ("gastro", "Restaurants & Bars", "🍽️", gastro_news),  # vorerst ausgeschaltet
     ("events", "Events in den News", "🎟️", event_news),
     ("wetter", "Wetter morgen", "🌤️", wetter_morgen),
     # Vorerst ausgeschaltet. Zum Einschalten die "#" entfernen und die
