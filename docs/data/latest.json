@@ -1,12 +1,12 @@
 {
-  "aktualisiert": "2026-11-01T12:43:14+00:00",
+  "aktualisiert": "2026-11-01T12:44:41+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-01T12:43:14+00:00",
+      "stand": "2026-11-01T12:44:41+00:00",
       "eintraege": [
         {
           "titel": "Polizei findet Frau schwer verletzt auf – Mann festgenommen",
@@ -38,7 +38,7 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-01T12:43:14+00:00",
+      "stand": "2026-11-01T12:44:41+00:00",
       "eintraege": [
         {
           "titel": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
@@ -70,7 +70,7 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-01T12:43:14+00:00",
+      "stand": "2026-11-01T12:44:41+00:00",
       "eintraege": [
         {
           "titel": "ciara mageean",
@@ -102,7 +102,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-01T12:43:14+00:00",
+      "stand": "2026-11-01T12:44:41+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -134,7 +134,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-01T12:43:14+00:00",
+      "stand": "2026-11-01T12:44:41+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -166,7 +166,7 @@
       "id": "gastro",
       "name": "Restaurants & Bars",
       "symbol": "🍽️",
-      "stand": "2026-11-01T12:43:14+00:00",
+      "stand": "2026-11-01T12:44:41+00:00",
       "eintraege": [
         {
           "titel": "Restaurants in Sardinien verbieten Familien das Handy am Tisch",
@@ -195,10 +195,34 @@
       ]
     },
     {
+      "id": "events",
+      "name": "Events in den News",
+      "symbol": "🎟️",
+      "stand": "2026-11-01T12:44:41+00:00",
+      "eintraege": [
+        {
+          "titel": "«Chestene-Chilbi»: In Greppen LU zelebriert man die Kastanie",
+          "untertitel": "«Chestene-Chilbi»: In Greppen LU zelebriert man die Kastanie",
+          "link": "https://www.blick.ch/schweiz/chestene-chilbi-in-greppen-lu-zelebtriert-man-die-kastanie/mn599bs",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/j0rktktTURBXy9jYzQyYzMyMS05ZmQwLTQ4YWUtODYxZi1jOWVlM2NiYWJjODUucG5nkpMFzQJYzQE7kwmmMWY5MzUzBg/dw2sfwd4zmt.jpg",
+          "quelle": "Blick",
+          "info": ""
+        },
+        {
+          "titel": "Historische Premiere – Papst hat in USA gewählt – Leo gibt per Briefwahl Stimme ab",
+          "untertitel": "Als erster Pontifex hat Papst Leo bei den Wahlen in den USA seine Stimme abgegeben. Wen er gewählt hat, bleibt offen.",
+          "link": "https://www.srf.ch/news/international/usa/historische-premiere-papst-hat-in-usa-gewaehlt-leo-gibt-per-briefwahl-stimme-ab",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/287c319.webp",
+          "quelle": "SRF",
+          "info": ""
+        }
+      ]
+    },
+    {
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-01T12:43:14+00:00",
+      "stand": "2026-11-01T12:44:41+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
