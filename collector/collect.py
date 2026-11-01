@@ -32,6 +32,8 @@ from urllib.parse import quote_plus, urlparse
 
 import feedparser
 import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 # ---------------------------------------------------------------------------
 # Einstellungen
@@ -68,6 +70,9 @@ DATEN_ORDNER = PROJEKT_ORDNER / "docs" / "data"
 
 session = requests.Session()
 session.headers["User-Agent"] = USER_AGENT
+# Antwortet eine Quelle einmal nicht, versuchen wir es kurz darauf nochmals.
+_nochmal = Retry(total=2, backoff_factor=3, status_forcelist=(429, 500, 502, 503, 504), allowed_methods=("GET",))
+session.mount("https://", HTTPAdapter(max_retries=_nochmal))
 
 
 # ---------------------------------------------------------------------------
