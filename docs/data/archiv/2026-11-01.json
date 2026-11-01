@@ -1,12 +1,12 @@
 {
-  "aktualisiert": "2026-11-01T12:45:37+00:00",
+  "aktualisiert": "2026-11-01T12:47:37+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-01T12:45:37+00:00",
+      "stand": "2026-11-01T12:47:37+00:00",
       "eintraege": [
         {
           "titel": "Polizei findet Frau schwer verletzt auf – Mann festgenommen",
@@ -38,7 +38,7 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-01T12:45:37+00:00",
+      "stand": "2026-11-01T12:47:37+00:00",
       "eintraege": [
         {
           "titel": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
@@ -70,7 +70,7 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-01T12:45:37+00:00",
+      "stand": "2026-11-01T12:47:37+00:00",
       "eintraege": [
         {
           "titel": "ciara mageean",
@@ -134,7 +134,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-01T12:45:37+00:00",
+      "stand": "2026-11-01T12:47:37+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -163,42 +163,10 @@
       ]
     },
     {
-      "id": "gastro",
-      "name": "Restaurants & Bars",
-      "symbol": "🍽️",
-      "stand": "2026-11-01T12:45:37+00:00",
-      "eintraege": [
-        {
-          "titel": "Restaurants in Sardinien verbieten Familien das Handy am Tisch",
-          "untertitel": "Eine Gruppe sardinischer Restaurants verbietet Familien das Nutzen von Handys und Bildschirm-Geräten.",
-          "link": "https://www.watson.ch/international/konsum/703491376-restaurants-in-sardinien-verbieten-familien-handynutzung-am-tisch",
-          "bild": "",
-          "quelle": "watson",
-          "info": ""
-        },
-        {
-          "titel": "KI-Bilder auf der Speisekarte: Das sagen die Restaurants dazu",
-          "untertitel": "Restaurants ohne eigene Fotos werben bei Schweizer Lieferdiensten teilweise mit KI-generierten Essensbildern. Zwei Schweizer Betriebe erzählen, warum sie KI-Bilder nutzen – oder …",
-          "link": "https://www.20min.ch/story/ki-bilder-bei-restaurants-just-eat-generiert-essensfotos-103657960",
-          "bild": "https://image.20min.ch/2026/10/28/04aeaa64-ec76-48a8-a3ea-903a611fd336.jpg?s=9be41273eb87f94c9001ac8a3def232a",
-          "quelle": "20 Minuten",
-          "info": ""
-        },
-        {
-          "titel": "«In meinem Kräuter-Burger von Coop hats Schweinefleisch!»",
-          "untertitel": "Ein Coop-Kunde aus der Ostschweiz findet Schweinefleisch in Burgern, die ausdrücklich kein solches enthalten sollten. Das schmeckt ihm gar nicht! Coop räumt gegenüber Blick einen …",
-          "link": "https://www.blick.ch/schweiz/ostschweiz/coop-kunde-haessig-schweinefleisch-im-kraeuter-burger/7ybn58k",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/jcDktkuTURBXy85MDgzMWM0NS01MDY4LTQxZDQtYjRkMS1kOTU4MDJhY2M1NjQuanBlZ5KTBc0CWM0BO5MJpjI1MzRmZAY/atbl5gu4j3.jpg",
-          "quelle": "Blick",
-          "info": ""
-        }
-      ]
-    },
-    {
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-01T12:45:37+00:00",
+      "stand": "2026-11-01T12:47:37+00:00",
       "eintraege": [
         {
           "titel": "«Chestene-Chilbi»: In Greppen LU zelebriert man die Kastanie",
@@ -214,7 +182,7 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-01T12:45:37+00:00",
+      "stand": "2026-11-01T12:47:37+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
