@@ -1,19 +1,19 @@
 {
-  "aktualisiert": "2026-11-01T12:53:52+00:00",
+  "aktualisiert": "2026-11-01T15:41:26+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-01T12:53:52+00:00",
+      "stand": "2026-11-01T15:41:26+00:00",
       "eintraege": [
         {
-          "titel": "Polizei findet Frau schwer verletzt auf – Mann festgenommen",
-          "untertitel": "Am Samstag fand die Kantonspolizei Zürich nach einem Notruf eine schwer verletzte Frau in ihrem Einfamilienhaus auf. Eine verdächtige Person wurde festgenommen.",
-          "link": "https://www.20min.ch/story/bachs-zh-polizei-findet-frau-schwer-verletzt-auf-mann-festgenommen-103659982",
-          "bild": "https://image.20min.ch/2026/11/01/a6cc3846-4c2d-4680-9245-c3274a440c8a.jpg?s=b07db11b9c3a063221ec0fc5eee01950",
-          "quelle": "20 Minuten",
+          "titel": "Schweizer Kleinstädte beleben – Laufenburger Altstadt wurde aufgemöbelt – mit Geld der Stadt",
+          "untertitel": "Dass eine Kleinstadt 20 Millionen Franken in die Aufwertung der Altstadt investiert, sei unüblich, sagt ein Experte.",
+          "link": "https://www.srf.ch/news/schweiz/schweizer-kleinstaedte-beleben-laufenburger-altstadt-wurde-aufgemoebelt-mit-geld-der-stadt",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/0382b76.webp",
+          "quelle": "SRF",
           "info": "4 Quellen berichten"
         },
         {
@@ -25,11 +25,11 @@
           "info": "3 Quellen berichten"
         },
         {
-          "titel": "Schweizer Curlerinnen holen EM-Silber ++ Hamilton schnappt sich Pole Position",
-          "untertitel": "Die wichtigsten News aus der weiten Welt des Sports: Fussball, Eishockey, Boxen, Tennis und mehr.",
-          "link": "https://www.watson.ch/sport/sport-news/195933263-sportnews-ticker-schweizer-curlerinnen-holen-em-silber",
-          "bild": "",
-          "quelle": "watson",
+          "titel": "Junglenker (19) überschlägt sich bei Selbstunfall in Haslen AI",
+          "untertitel": "Am frühen Sonntagmorgen hat sich das Auto eines 19-jährigen Junglenkers in Haslen bei einem Unfall überschlagen. Der 20-jährige Beifahrer wurde leicht verletzt.",
+          "link": "https://www.blick.ch/schweiz/ostschweiz/appenzell-innerrhoden/junglenker-ueberschlaegt-sich-bei-selbstunfall-in-haslen-ai/0193kbz",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/1DwktkuTURBXy9mNmJjMzM5Ni1iNzBlLTRjNDctOTkzMi1mZmU5ZDllOTVmOTYuanBlZ5KTBc0CWM0BO5MJpjRhODUxNwY/vkj2xqmjmko.jpg",
+          "quelle": "Blick",
           "info": "3 Quellen berichten"
         }
       ]
@@ -38,7 +38,7 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-01T12:53:52+00:00",
+      "stand": "2026-11-01T15:41:26+00:00",
       "eintraege": [
         {
           "titel": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
@@ -70,30 +70,30 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-01T12:53:52+00:00",
+      "stand": "2026-11-01T15:41:26+00:00",
       "eintraege": [
         {
-          "titel": "2027",
-          "untertitel": "Senators Announce 2027 Home Game Times",
-          "link": "https://www.mlb.com/milb/harrisburg/news/game-times-2027",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQyTYESrhqPzn4ipVupKj3msE-j_wwtoQX1tS37WwTnfTJgMLuHJDa07J_n6q0",
-          "quelle": "Google Trends · MLB.com",
+          "titel": "regina ziegler",
+          "untertitel": "Bis zuletzt arbeitete sie an neuen Projekten: Film-Königin Regina Ziegler (82) ist tot",
+          "link": "https://www.bild.de/unterhaltung/stars-und-leute/filmwelt-in-trauer-regina-ziegler-ist-tot-6ae72c105e7018b4bea94b00",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrz8d_f4pnNJN7yuG9wSfo8g7A2i1gtaUsAy3e89v2hVvy4RLH7u1xv_0s6mI",
+          "quelle": "Google Trends · BILD",
           "info": "100+ Suchanfragen"
         },
         {
-          "titel": "ciara mageean",
-          "untertitel": "Ciara Mageean: European champion and Olympian dies aged 34",
-          "link": "https://www.bbc.com/sport/athletics/articles/cn81px29032o",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSI7CQluEEOzqxGwebeNlMYG3NL-06AEZm6wyXdUD4Wx9yAuC3MyI9Ym03P7Zo",
-          "quelle": "Google Trends · BBC",
-          "info": "100+ Suchanfragen"
+          "titel": "schweizer super league",
+          "untertitel": "Livestream: FC Luzern vs FC Sion (Sa 31.10.2026 20:30) - Super League - Fussball Resultate",
+          "link": "https://www.srf.ch/sport/resultcenter/live/football/1844957",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTz3aqDv0u1KHGoyJM-d_k52iaNtNUZ1oLUgJIG2ttyVl7YnoVPoK5LpYsy1f8",
+          "quelle": "Google Trends · SRF",
+          "info": "2000+ Suchanfragen"
         },
         {
-          "titel": "henry bernet",
-          "untertitel": "Sports News, Transfers, Scores | Watch Live Sport",
-          "link": "https://www.skysports.com/tennis/watch/9215660149519068112/swiss-indoors-basel-2026",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsTawluhkHMbkJYnAmGyAU6UFQs15TozA6GReZycfBfc-OhxyzbC9TNbhdKog",
-          "quelle": "Google Trends · Sky Sports",
+          "titel": "vacherot valentin",
+          "untertitel": "Vacherot in his first final since the upset in Shanghai",
+          "link": "https://www.bluewin.ch/en/sport/vacherot-in-his-first-final-since-the-upset-in-shanghai-li.3656153",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRyH20eZZGQC-3Yk3tM-0NvNikE-XDSBpFlNFwUXhpeL1FwR7xV-5_AJ969PRY",
+          "quelle": "Google Trends · blue News",
           "info": "500+ Suchanfragen"
         }
       ]
@@ -134,7 +134,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-01T12:53:52+00:00",
+      "stand": "2026-11-01T15:41:26+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -166,7 +166,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-01T12:53:52+00:00",
+      "stand": "2026-11-01T15:41:26+00:00",
       "eintraege": [
         {
           "titel": "«Chestene-Chilbi»: In Greppen LU zelebriert man die Kastanie",
@@ -182,7 +182,7 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-01T12:53:52+00:00",
+      "stand": "2026-11-01T15:41:26+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
@@ -204,7 +204,7 @@
         },
         {
           "titel": "Basel",
-          "untertitel": "Leichter Niesel · 2° bis 10°",
+          "untertitel": "Leichter Niesel · 2° bis 9°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
