@@ -246,7 +246,8 @@ GASTRO_MUSTER = re.compile(
 )
 
 
-def gastro_news() -> list[dict]:
+def news_gefiltert(muster: re.Pattern, art: str) -> list[dict]:
+    """Sucht in den Schweizer News nach Artikeln, die zu einem Thema passen."""
     treffer = []
     for name, url in NEWS_SCHWEIZ:
         if not erlaubt(url):
@@ -264,7 +265,7 @@ def gastro_news() -> list[dict]:
             if not titel or not link or link.endswith("/undefined"):
                 continue
             # Ein Treffer im Titel zählt doppelt so viel wie einer im Teaser.
-            punkte = 2 * len(GASTRO_MUSTER.findall(titel)) + len(GASTRO_MUSTER.findall(teaser))
+            punkte = 2 * len(muster.findall(titel)) + len(muster.findall(teaser))
             if punkte >= 2:
                 treffer.append(
                     {
@@ -274,7 +275,7 @@ def gastro_news() -> list[dict]:
                         "position": position,
                     }
                 )
-    log(f"  - {len(treffer)} Gastro-Artikel gefunden")
+    log(f"  - {len(treffer)} {art}-Artikel gefunden")
     treffer.sort(key=lambda t: (-t["punkte"], t["position"]))
     auswahl = []
     for t in treffer:
@@ -284,6 +285,23 @@ def gastro_news() -> list[dict]:
         if len(auswahl) == TOP_N:
             break
     return [t["eintrag"] for t in auswahl]
+
+
+def gastro_news() -> list[dict]:
+    return news_gefiltert(GASTRO_MUSTER, "Gastro")
+
+
+EVENT_MUSTER = re.compile(
+    r"\b(konzert\w*|festival\w*|open[- ]?air\w*|messe|ausstellung\w*|vernissage|premiere|"
+    r"tournee|bühne|theater\w*|musical\w*|oper|comedy|"
+    r"weihnachtsm[aä]rkt\w*|chilbi|fasnacht|street ?parade|tickets?|veranstaltung\w*)\b",
+    re.IGNORECASE,
+)
+
+
+def event_news() -> list[dict]:
+    return news_gefiltert(EVENT_MUSTER, "Event")
+
 
 
 # ---------------------------------------------------------------------------
@@ -481,6 +499,7 @@ KATEGORIEN = [
     ("musik", "Musik", "🎵", lambda: apple_charts("musik")),
     ("podcasts", "Podcasts", "🎙️", lambda: apple_charts("podcasts")),
     ("gastro", "Restaurants & Bars", "🍽️", gastro_news),
+    ("events", "Events in den News", "🎟️", event_news),
     ("wetter", "Wetter morgen", "🌤️", wetter_morgen),
     # Vorerst ausgeschaltet. Zum Einschalten die "#" entfernen und die
     # Schlüssel TMDB_API_KEY bzw. YOUTUBE_API_KEY in GitHub hinterlegen.
