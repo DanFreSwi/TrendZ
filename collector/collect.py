@@ -165,7 +165,9 @@ STOPPWOERTER = set(
 
 def stichwoerter(text: str) -> set[str]:
     woerter = re.findall(r"[a-zA-ZäöüÄÖÜàéèçÀÉÈ]{4,}", text.lower())
-    return {w for w in woerter if w not in STOPPWOERTER}
+    # Nur die ersten 5 Buchstaben vergleichen, damit z.B. "Sardinien" und
+    # "sardische" oder "Handy" und "Handys" als gleich erkannt werden.
+    return {w[:5] for w in woerter if w not in STOPPWOERTER}
 
 
 def news_top(quellen: list[tuple[str, str]], pro_quelle: int = 15) -> list[dict]:
@@ -408,6 +410,66 @@ def videos() -> list[dict]:
 
 
 # ---------------------------------------------------------------------------
+# Wetter für morgen (Open-Meteo, gratis und ohne Schlüssel)
+# ---------------------------------------------------------------------------
+
+STAEDTE = [
+    ("Zürich", 47.3769, 8.5417),
+    ("Bern", 46.9481, 7.4474),
+    ("Basel", 47.5596, 7.5886),
+    ("Genf", 46.2044, 6.1432),
+    ("Lugano", 46.0037, 8.9511),
+]
+
+# Wettercodes (WMO) -> Beschreibung und Symbol
+WETTERCODES = {
+    0: ("Sonnig", "☀️"), 1: ("Meist sonnig", "🌤️"), 2: ("Teils bewölkt", "⛅"), 3: ("Bewölkt", "☁️"),
+    45: ("Nebel", "🌫️"), 48: ("Nebel", "🌫️"),
+    51: ("Leichter Niesel", "🌦️"), 53: ("Niesel", "🌦️"), 55: ("Starker Niesel", "🌧️"),
+    56: ("Gefrierender Niesel", "🌧️"), 57: ("Gefrierender Niesel", "🌧️"),
+    61: ("Leichter Regen", "🌦️"), 63: ("Regen", "🌧️"), 65: ("Starker Regen", "🌧️"),
+    66: ("Gefrierender Regen", "🌧️"), 67: ("Gefrierender Regen", "🌧️"),
+    71: ("Leichter Schneefall", "🌨️"), 73: ("Schneefall", "🌨️"), 75: ("Starker Schneefall", "❄️"),
+    77: ("Schneegriesel", "🌨️"), 80: ("Regenschauer", "🌦️"), 81: ("Regenschauer", "🌧️"),
+    82: ("Heftige Schauer", "⛈️"), 85: ("Schneeschauer", "🌨️"), 86: ("Schneeschauer", "❄️"),
+    95: ("Gewitter", "⛈️"), 96: ("Gewitter mit Hagel", "⛈️"), 99: ("Gewitter mit Hagel", "⛈️"),
+}
+
+
+def wetter_morgen() -> list[dict]:
+    antwort = session.get(
+        "https://api.open-meteo.com/v1/forecast",
+        params={
+            "latitude": ",".join(str(s[1]) for s in STAEDTE),
+            "longitude": ",".join(str(s[2]) for s in STAEDTE),
+            "daily": "weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max",
+            "timezone": "Europe/Zurich",
+            "forecast_days": 2,
+        },
+        timeout=TIMEOUT,
+    )
+    antwort.raise_for_status()
+    daten = antwort.json()
+    if isinstance(daten, dict):  # bei nur einer Stadt kommt keine Liste zurück
+        daten = [daten]
+    ergebnis = []
+    for (stadt, _lat, _lon), ort in zip(STAEDTE, daten):
+        t = ort["daily"]  # Index 0 = heute, Index 1 = morgen
+        beschreibung, symbol = WETTERCODES.get(t["weather_code"][1], ("Wetter", "🌡️"))
+        regen = (t.get("precipitation_probability_max") or [None, None])[1]
+        e = eintrag(
+            stadt,
+            "https://www.meteoschweiz.admin.ch/",
+            "Open-Meteo",
+            untertitel=f"{beschreibung} · {round(t['temperature_2m_min'][1])}° bis {round(t['temperature_2m_max'][1])}°",
+            info=f"Regenrisiko {regen}%" if regen is not None else "",
+        )
+        e["emoji"] = symbol
+        ergebnis.append(e)
+    return ergebnis
+
+
+# ---------------------------------------------------------------------------
 # Alles zusammen
 # ---------------------------------------------------------------------------
 
@@ -419,6 +481,7 @@ KATEGORIEN = [
     ("musik", "Musik", "🎵", lambda: apple_charts("musik")),
     ("podcasts", "Podcasts", "🎙️", lambda: apple_charts("podcasts")),
     ("gastro", "Restaurants & Bars", "🍽️", gastro_news),
+    ("wetter", "Wetter morgen", "🌤️", wetter_morgen),
     # Vorerst ausgeschaltet. Zum Einschalten die "#" entfernen und die
     # Schlüssel TMDB_API_KEY bzw. YOUTUBE_API_KEY in GitHub hinterlegen.
     # ("filme", "Filme im Kino", "🎬", filme),

@@ -27,7 +27,9 @@ function eintragBauen(e, platz, symbol) {
 
   a.append(element("span", "platz", String(platz)));
 
-  if (e.bild) {
+  if (e.emoji) {
+    a.append(element("span", "bild leer", e.emoji));
+  } else if (e.bild) {
     const img = element("img", "bild");
     img.src = e.bild;
     img.alt = "";
