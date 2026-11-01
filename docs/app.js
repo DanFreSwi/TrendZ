@@ -105,7 +105,7 @@ async function laden() {
 
     stand.classList.toggle("archiv", istArchiv);
     if (istArchiv) {
-      stand.textContent = `Archiv: So sah es am ${datumSchoen(tag)} um 22:17 Uhr aus`;
+      stand.textContent = `Archiv: So sah es am ${datumSchoen(tag)} beim Tagesabschluss (ca. 22:17 Uhr) aus`;
     } else {
       stand.textContent = daten.aktualisiert
         ? `Aktualisiert ${vorWieLange(daten.aktualisiert)}`
