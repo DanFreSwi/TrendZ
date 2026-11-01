@@ -363,8 +363,10 @@ KATEGORIEN = [
     ("suche", "Gesucht in der Schweiz", "🔎", google_suchtrends),
     ("musik", "Musik", "🎵", lambda: apple_charts("musik")),
     ("podcasts", "Podcasts", "🎙️", lambda: apple_charts("podcasts")),
-    ("filme", "Filme im Kino", "🎬", filme),
-    ("videos", "Videos", "▶️", videos),
+    # Vorerst ausgeschaltet. Zum Einschalten die "#" entfernen und die
+    # Schlüssel TMDB_API_KEY bzw. YOUTUBE_API_KEY in GitHub hinterlegen.
+    # ("filme", "Filme im Kino", "🎬", filme),
+    # ("videos", "Videos", "▶️", videos),
 ]
 
 
