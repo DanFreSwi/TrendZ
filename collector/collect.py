@@ -230,6 +230,61 @@ def news_top(quellen: list[tuple[str, str]], pro_quelle: int = 15) -> list[dict]
 
 
 # ---------------------------------------------------------------------------
+# Restaurants & Bars in den News
+# ---------------------------------------------------------------------------
+# Google und Apple geben keine Klickzahlen von Maps heraus. Stattdessen suchen
+# wir in den Schweizer News nach Artikeln über Restaurants, Bars und Gastro.
+
+GASTRO_MUSTER = re.compile(
+    r"\b(restaurants?|beiz|beizen|gastro\w*|gastronom\w*|bars?|cocktail\w*|café|cafés|kaffee|"
+    r"brunch|köch(?:e|in|innen)?|spitzenkoch|michelin|gault|millau|sterneküche|"
+    r"burger|pizzeria|pizza|bistro|food|foodtruck|wein\w*|bier\w*|brauerei|"
+    r"neueröffnung\w*|sterne?koch\w*)\b",
+    re.IGNORECASE,
+)
+
+
+def gastro_news() -> list[dict]:
+    treffer = []
+    for name, url in NEWS_SCHWEIZ:
+        if not erlaubt(url):
+            continue
+        try:
+            antwort = session.get(url, timeout=TIMEOUT)
+            antwort.raise_for_status()
+        except requests.RequestException as fehler:
+            log(f"  - {name}: nicht erreichbar ({fehler}), übersprungen")
+            continue
+        for position, item in enumerate(feedparser.parse(antwort.content).entries):
+            titel = item.get("title", "")
+            link = item.get("link", "")
+            teaser = text_kuerzen(item.get("summary", ""))
+            if not titel or not link or link.endswith("/undefined"):
+                continue
+            # Ein Treffer im Titel zählt doppelt so viel wie einer im Teaser.
+            punkte = 2 * len(GASTRO_MUSTER.findall(titel)) + len(GASTRO_MUSTER.findall(teaser))
+            if punkte >= 2:
+                treffer.append(
+                    {
+                        "eintrag": eintrag(titel, link, name, untertitel=teaser, bild=bild_aus_feed(item)),
+                        "woerter": stichwoerter(titel),
+                        "punkte": punkte,
+                        "position": position,
+                    }
+                )
+    log(f"  - {len(treffer)} Gastro-Artikel gefunden")
+    treffer.sort(key=lambda t: (-t["punkte"], t["position"]))
+    auswahl = []
+    for t in treffer:
+        if any(len(t["woerter"] & a["woerter"]) >= 2 for a in auswahl):
+            continue
+        auswahl.append(t)
+        if len(auswahl) == TOP_N:
+            break
+    return [t["eintrag"] for t in auswahl]
+
+
+# ---------------------------------------------------------------------------
 # Die übrigen Kategorien
 # ---------------------------------------------------------------------------
 
@@ -363,6 +418,7 @@ KATEGORIEN = [
     ("suche", "Gesucht in der Schweiz", "🔎", google_suchtrends),
     ("musik", "Musik", "🎵", lambda: apple_charts("musik")),
     ("podcasts", "Podcasts", "🎙️", lambda: apple_charts("podcasts")),
+    ("gastro", "Restaurants & Bars", "🍽️", gastro_news),
     # Vorerst ausgeschaltet. Zum Einschalten die "#" entfernen und die
     # Schlüssel TMDB_API_KEY bzw. YOUTUBE_API_KEY in GitHub hinterlegen.
     # ("filme", "Filme im Kino", "🎬", filme),
