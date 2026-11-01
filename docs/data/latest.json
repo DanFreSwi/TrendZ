@@ -1,1 +1,155 @@
-{"aktualisiert": null, "land": "ch", "kategorien": []}
+{
+  "aktualisiert": "2026-11-01T12:21:01+00:00",
+  "land": "ch",
+  "kategorien": [
+    {
+      "id": "news_ch",
+      "name": "News Schweiz",
+      "symbol": "🇨🇭",
+      "stand": "2026-11-01T12:21:01+00:00",
+      "eintraege": [
+        {
+          "titel": "Krawalle in Zürich und Basel – Die Allianz der Ideologen mit den Krawallbrüdern",
+          "untertitel": "Der ideologisch harte Kern der Gewaltbereiten hält Ausschreitungen wie letzte Nacht in Zürich tatsächlich für politisch.",
+          "link": "https://www.srf.ch/news/schweiz/krawalle-in-zuerich-und-basel-die-allianz-der-ideologen-mit-den-krawallbruedern",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/f52716.webp",
+          "quelle": "SRF",
+          "info": "3 Quellen berichten"
+        },
+        {
+          "titel": "Halloween-Bilanz: 80 Polizeieinsätze gleichzeitig",
+          "untertitel": "Rund um die Langstrasse im Zürcher Kreis 4 ist es am Samstagabend zu einer unbewilligten Demo aus dem linksextremen Milieu gekommen. Die Polizei ist in Vollmontur und mit einem …",
+          "link": "https://www.20min.ch/story/zuerich-live-ticker-zur-halloween-demo-im-kreis-4-103659225",
+          "bild": "https://image.20min.ch/2026/10/31/4f3387d0-7fd2-4db4-8ab5-54a878f72b2d.png?s=f5519b6fd6caa16324757f10ab8be4a8",
+          "quelle": "20 Minuten",
+          "info": "3 Quellen berichten"
+        },
+        {
+          "titel": "Clubräumung in Bern eskaliert – Polizist verletzt",
+          "untertitel": "Nach der Räumung eines Clubs an der Stauffacherstrasse in Bern sind Polizisten mit Flaschen und Steinen angegriffen worden. Ein Beamter wurde leicht verletzt. Die Polizei setzte …",
+          "link": "https://www.blick.ch/schweiz/bern/clubraeumung-in-bern-eskaliert-polizist-verletzt/fmz0hg0",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/BEkktkuTURBXy9hMzQxNGRkOC02MjVmLTRlODYtYWFlZC1jM2I2YmEwYWY5MWMuanBlZ5KTBc0CWM0BO5MJpmM2NzJjZAY/6dqdmrfnze.jpg",
+          "quelle": "Blick",
+          "info": "3 Quellen berichten"
+        }
+      ]
+    },
+    {
+      "id": "news_welt",
+      "name": "News Welt",
+      "symbol": "🌍",
+      "stand": "2026-11-01T12:21:01+00:00",
+      "eintraege": [
+        {
+          "titel": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+          "untertitel": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
+          "link": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cde/live/f5e426a0-d586-11f1-a6a4-9b195a139571.jpg",
+          "quelle": "BBC",
+          "info": "2 Quellen berichten"
+        },
+        {
+          "titel": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
+          "untertitel": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment The “unprecedented” …",
+          "link": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
+          "bild": "https://i.guim.co.uk/img/media/4c8a92421c88cf3bb5c2743cd8f6b4900e511a1f/538_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=4eca9873ee9ecb59fb15e289980ef771",
+          "quelle": "The Guardian",
+          "info": "2 Quellen berichten"
+        },
+        {
+          "titel": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+          "untertitel": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+          "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg",
+          "quelle": "BBC",
+          "info": "2 Quellen berichten"
+        }
+      ]
+    },
+    {
+      "id": "suche",
+      "name": "Gesucht in der Schweiz",
+      "symbol": "🔎",
+      "stand": "2026-11-01T12:21:01+00:00",
+      "eintraege": [
+        {
+          "titel": "route du rhum 2026",
+          "untertitel": "Comment suivre le départ ?",
+          "link": "https://www.routedurhum.com/post/comment-suivre-le-d%C3%A9part",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLVbspXTFkWwaFFL27Qvpde4meQIAiPIbesw0zipr2703neUOHTFcKuz5IV18",
+          "quelle": "Google Trends · Route du Rhum",
+          "info": "100+ Suchanfragen"
+        },
+        {
+          "titel": "como - venezia",
+          "untertitel": "Como vs Venezia: Italian Serie A stats & head-to-head",
+          "link": "https://www.bbc.com/sport/football/live/cj93zwrnpzp4t",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw",
+          "quelle": "Google Trends · BBC",
+          "info": "200+ Suchanfragen"
+        },
+        {
+          "titel": "basel-stadt",
+          "untertitel": "Basler Regierung lehnt Pharma-Initiative ab: Fonds würde 96 Millionen Franken kosten",
+          "link": "https://www.bazonline.ch/basel-stadt-regierung-lehnt-pharma-volksinitiative-ab-954335567934",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDtyJA_Cz_Cv0Aj0_TJQ64vrBEY3HWCyTarl1V5eD4WlL2yVxgQX1DBZdExTM",
+          "quelle": "Google Trends · Basler Zeitung",
+          "info": "200+ Suchanfragen"
+        }
+      ]
+    },
+    {
+      "id": "musik",
+      "name": "Musik",
+      "symbol": "🎵",
+      "stand": null,
+      "eintraege": []
+    },
+    {
+      "id": "podcasts",
+      "name": "Podcasts",
+      "symbol": "🎙️",
+      "stand": "2026-11-01T12:21:01+00:00",
+      "eintraege": [
+        {
+          "titel": "Echo der Zeit",
+          "untertitel": "Schweizer Radio und Fernsehen (SRF)",
+          "link": "https://podcasts.apple.com/ch/podcast/echo-der-zeit/id81345425",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/91/51/f5/9151f5c8-97b2-43c1-d728-1850b4311aaf/mza_10466666821884933927.jpg/300x300bb.png",
+          "quelle": "Apple Podcasts Charts CH",
+          "info": "Nachrichten"
+        },
+        {
+          "titel": "RONZHEIMER.",
+          "untertitel": "Paul Ronzheimer",
+          "link": "https://podcasts.apple.com/ch/podcast/ronzheimer/id1700432142",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/16/ab/81/16ab81cb-e31f-5ea0-81a7-902a96dfd750/mza_17924075471806194431.jpg/300x300bb.png",
+          "quelle": "Apple Podcasts Charts CH",
+          "info": "Nachrichten"
+        },
+        {
+          "titel": "Lanz + Precht",
+          "untertitel": "ZDF, Markus Lanz & Richard David Precht",
+          "link": "https://podcasts.apple.com/ch/podcast/lanz-precht/id1582828457",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/77/6b/e0/776be00d-6661-737d-a7dd-f5662c5fa110/mza_18360247097984895676.jpg/300x300bb.png",
+          "quelle": "Apple Podcasts Charts CH",
+          "info": "Nachrichten, Gesellschaft und Kultur"
+        }
+      ]
+    },
+    {
+      "id": "filme",
+      "name": "Filme im Kino",
+      "symbol": "🎬",
+      "stand": null,
+      "eintraege": []
+    },
+    {
+      "id": "videos",
+      "name": "Videos",
+      "symbol": "▶️",
+      "stand": null,
+      "eintraege": []
+    }
+  ]
+}
