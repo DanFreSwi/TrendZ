@@ -1,39 +1,39 @@
 {
-  "aktualisiert": "2026-11-02T10:13:28+00:00",
+  "aktualisiert": "2026-11-02T13:14:19+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-02T10:13:28+00:00",
+      "stand": "2026-11-02T13:14:19+00:00",
       "eintraege": [
         {
-          "titel": "EZB-Chefin Lagarde tritt am 7. Februar zurück",
-          "untertitel": "EZB-Präsidentin Christine Lagarde tritt am 7. Februar 2027 zurück. Das teilte die Europäische Zentralbank (EZB) in Frankfurt mit.",
-          "link": "https://www.watson.ch/wirtschaft/banken/632166542-ezb-chefin-christine-lagarde-tritt-am-7-februar-zurueck",
-          "bild": "",
-          "quelle": "watson",
-          "info": "4 Quellen berichten",
-          "trend": "neu"
-        },
-        {
-          "titel": "Mann soll während Auseinandersetzung geschossen haben",
-          "untertitel": "Der Schaffhauser Polizei wurde am Sonntag eine mögliche Schussabgabe in Neuhausen am Rheinfall gemeldet. Während einer Auseinandersetzung soll einer der Beteiligten eine Waffe …",
-          "link": "https://www.blick.ch/schweiz/schaffhausen/neuhausen-am-rheinfall-moegliche-schussabgabe-bei-streit/43qdcym",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/S8iktktTURBXy8wODlmNTkxMC00M2FkLTQ1NGItODE4ZC1lZTg3M2YxNTI5YWMucG5nkpMFzQJYzQE7kwmmNDZiMmNiBg/so7immp9mhl.jpg",
-          "quelle": "Blick",
+          "titel": "SRF-Insider: «Wusste nichts, hätte aber Bescheid wissen müssen»",
+          "untertitel": "Der Fall Hans Jucker sorgt für grosses Aufsehen in der Szene. Das SRF soll intern seit einigen Wochen Bescheid gewusst haben.",
+          "link": "https://www.20min.ch/story/fall-hans-jucker-srf-insider-wusste-nichts-haette-aber-bescheid-wissen-muessen-103660654",
+          "bild": "https://image.20min.ch/2026/11/02/5e35ab3b-b0e2-46d7-88dd-597422fc53ed.jpg?s=e5e74e779c245d4e10d2da11ce7c65a7",
+          "quelle": "20 Minuten",
           "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Sieben Männer nach versuchtem Einbruchdiebstahl in Höchstetten BE angehalten",
-          "untertitel": "In der Nacht auf Sonntag hat die Kantonspolizei Bern in Höchstetten vier mutmassliche Täter nach einem versuchten Einbruchdiebstahl in ein Verkaufsgeschäft angehalten. Im Rahmen …",
-          "link": "https://www.blick.ch/schweiz/bern/hoechstetten-be-maenner-nach-versuchtem-einbruch-festgenommen/0vgrvez",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/8sVktktTURBXy8zMjI4ZWVmZC0yOWNjLTRmNzMtYjY4MS05ZGY4ZGIyMDMwZjQucG5nkpMFzQJYzQE7kwmmOGU4ZGRjBg/fuhmjjptij.jpg",
-          "quelle": "Blick",
+          "titel": "Elon Musk spendet halbe Milliarde Dollar – das ist die Top 20",
+          "untertitel": "Am 3. November sind in den USA die Zwischenwahlen, die Midterms. 20 Minuten ist in den USA und hält euch im Ticker vor, während und nach der Wahlnacht auf dem Laufenden.",
+          "link": "https://www.20min.ch/story/us-midterms-2026-stimmen-aus-den-usa-vor-den-zwischenwahlen-103657162",
+          "bild": "https://image.20min.ch/2026/11/02/cfc58b4e-23b8-4729-affe-6c7048b6015d.jpg?s=3b4ed39562044de65af2a8e3a692e166",
+          "quelle": "20 Minuten",
           "info": "3 Quellen berichten",
-          "trend": "gleich"
+          "trend": "neu"
+        },
+        {
+          "titel": "Zwei Berggänger verunglücken in Göschenen UR tödlich",
+          "untertitel": "Die Urner Staatsanwaltschaft und die Kantonspolizei ermitteln im Falle zweier verunglückter Berggänger. Sie konnten am Sonntag nur noch tot geborgen werden.",
+          "link": "https://www.blick.ch/schweiz/zentralschweiz/uri/unfall-in-goeschenen-ur-zwei-tote-personen-geborgen/124cm57",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/uf4ktkuTURBXy9kNTk0MGMxNS1mZGIxLTRlYWItYmE2NS01ZDA0NzkwODdmOWQuanBlZ5KTBc0CWM0BO5MJpjIzMGU4MgY/x64gnbg4awg.jpg",
+          "quelle": "Blick",
+          "info": "2 Quellen berichten",
+          "trend": "neu"
         }
       ]
     },
@@ -41,31 +41,31 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-02T10:13:28+00:00",
+      "stand": "2026-11-02T13:14:19+00:00",
       "eintraege": [
         {
-          "titel": "Bildungsministerin Prien: Gewalt nach Jugenddemos wirft Integrationsfragen auf",
-          "untertitel": "Frankfurt, Köln, Hamburg: In mehreren Städten eskalierte am Wochenende die Lage nach den \"Gen Z regelt\"-Protesten. Wer waren die Gewalttäter? Darüber gibt es eine Debatte. Für …",
-          "link": "https://www.tagesschau.de/inland/gesellschaft/jugendprotest-ausschreitungen-prien-100.html",
-          "bild": "",
-          "quelle": "tagesschau",
-          "info": "2 Quellen berichten",
-          "trend": "neu"
-        },
-        {
-          "titel": "Trump makes final campaign push in final weekend before election",
-          "untertitel": "The US president rallied in states that Republicans previously won - showcasing how tight Tuesday's elections could be in determining control of Congress.",
-          "link": "https://www.bbc.co.uk/news/articles/c3j47gjx29vro?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb59/live/6d764030-d650-11f1-ada6-c195ef2b6417.jpg",
+          "titel": "Shop freezers in six European countries hit by suspected cyber-attack",
+          "untertitel": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
+          "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b784/live/f4fabf40-d6be-11f1-a701-fddedf244c16.jpg",
           "quelle": "BBC",
           "info": "2 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Binance users withdraw $3.6bn after largest-ever crypto hack",
-          "untertitel": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
-          "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a7f/live/ad865b20-d64f-11f1-a701-fddedf244c16.jpg",
+          "titel": "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job",
+          "untertitel": "Critics cite Lana Nusseibeh’s denial of accusations the UAE is fuelling Sudan war by supporting paramilitary RSF Members of the Sudanese diaspora and international human rights …",
+          "link": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
+          "bild": "https://i.guim.co.uk/img/media/1a207f81e70f26c6fb300fd2353ecaa161bc7714/0_0_2895_2317/master/2895.jpg?width=140&quality=85&auto=format&fit=max&s=4b30b227f8f2e941aab03d70ddbb2708",
+          "quelle": "The Guardian",
+          "info": "2 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Nine killed as small jet crashes on Florida street",
+          "untertitel": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
+          "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5800/live/cf28de00-d691-11f1-93e1-3b657b665bcf.jpg",
           "quelle": "BBC",
           "info": "2 Quellen berichten",
           "trend": "neu"
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-02T10:13:28+00:00",
+      "stand": "2026-11-02T13:14:19+00:00",
       "eintraege": [
         {
-          "titel": "königsjodler klettersteig",
-          "untertitel": "«Hätte nicht überlebt»: Freund (20) auf Berg zurückgelassen",
-          "link": "https://www.20min.ch/story/koenigsjodler-haette-nicht-ueberlebt-freund-20-auf-berg-zurueckgelassen-103660544",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRva4-tSbggHjcx1xzI2ZjcNRfwEdYcfg7XukWkjsmKeRKRQBbNrJRmmImF3XM",
-          "quelle": "Google Trends · 20 Minuten",
-          "info": "1000+ Suchanfragen",
+          "titel": "20 minuten",
+          "untertitel": "Unverständnis und Forderungen - Nach der Krawallnacht in Zürich – so reagiert die Politik",
+          "link": "https://www.srf.ch/news/schweiz/unverstaendnis-und-forderungen-nach-der-krawallnacht-in-zuerich-so-reagiert-die-politik",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJ9pOd5b7ZuyQQZkFzR_UjGnHkUmyxWqbBEmzEFV0YGtuq2yhjT0vvBnTIaDQ",
+          "quelle": "Google Trends · SRF",
+          "info": "2000+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "schiff",
-          "untertitel": "„Mein Schiff 3“ nach Unfall zur Reparatur in Werft eingelaufen",
-          "link": "https://www.stern.de/panorama/weltgeschehen/-mein-schiff-3--nach-unfall-zur-reparatur-in-werft-eingelaufen-38485848.html",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNug_vysv6gLAfUV6hbOZBt4sF_yCk-9j9_TQqfK9p2sp66-QpK7VsHYdWpEw",
-          "quelle": "Google Trends · STERN.de",
+          "titel": "verbot",
+          "untertitel": "«Verboten» und «strengstens verboten»: Was ist der Unterschied?",
+          "link": "https://www.srf.ch/sendungen/kassensturz-espresso/services/espresso-aha/fragwuerdige-steigerung-verboten-und-strengstens-verboten-was-ist-der-unterschied",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDH8wiseN0PhDdSN89oc85TukZmOLv5a6GgGfPF7Ivzl6NdAQfW8YNjSPWHFU",
+          "quelle": "Google Trends · SRF",
           "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "cham",
-          "untertitel": "Bahnhof Cham: 59-Jähriger stirbt nach Stromschlag",
-          "link": "https://www.blick.ch/schweiz/zentralschweiz/zug/cham-zg-mann-59-durch-stromschlag-an-bahnhof-getoetet/y050vqr",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcTC_yABbn5gPskI5FO7x7JERP_m16jTELoCQr4BI_4klMVGs5T4lOjMKKDWM",
+          "titel": "brienzwiler",
+          "untertitel": "In Brienzwiler ist der Teufel los: Gemeinderäte treten ab",
+          "link": "https://www.blick.ch/politik/in-brienzwiler-kommts-zum-grossen-knall-gemeinderaete-treten-ab/2s1sxgg",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJp6AM8CFcDNLyJNvqFLUaUrFXkeXXilh9C-pyXEEW49soZOnSRRebvAripYQ",
           "quelle": "Google Trends · Blick",
-          "info": "2000+ Suchanfragen",
+          "info": "500+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-02T10:13:28+00:00",
+      "stand": "2026-11-02T13:14:19+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-02T10:13:28+00:00",
+      "stand": "2026-11-02T13:14:19+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-02T10:13:28+00:00",
+      "stand": "2026-11-02T13:14:19+00:00",
       "eintraege": [
         {
           "titel": "Bob Dylan im Hallenstadion – Niemand enttäuscht so gut wie Bob Dylan – der Konzertcheck",
@@ -193,13 +193,13 @@
           "trend": "neu"
         },
         {
-          "titel": "«Chestene-Chilbi»: In Greppen LU zelebriert man die Kastanie",
-          "untertitel": "«Chestene-Chilbi»: In Greppen LU zelebriert man die Kastanie",
-          "link": "https://www.blick.ch/schweiz/chestene-chilbi-in-greppen-lu-zelebtriert-man-die-kastanie/mn599bs",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/j0rktktTURBXy9jYzQyYzMyMS05ZmQwLTQ4YWUtODYxZi1jOWVlM2NiYWJjODUucG5nkpMFzQJYzQE7kwmmMWY5MzUzBg/dw2sfwd4zmt.jpg",
-          "quelle": "Blick",
+          "titel": "Kulturnews in Kurzform – Frontmann im Spital: Deep Purple sagen Konzerte ab",
+          "untertitel": "Sänger Ian Gillan liegt nach einem medizinischen Notfall im Spital. Ist sogar die ganze Tour in Gefahr?",
+          "link": "https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-frontmann-im-spital-deep-purple-sagen-konzerte-ab",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/de1b5f.webp",
+          "quelle": "SRF",
           "info": "",
-          "trend": "runter"
+          "trend": "neu"
         }
       ]
     },
@@ -207,7 +207,7 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-02T10:13:28+00:00",
+      "stand": "2026-11-02T13:14:19+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
@@ -247,7 +247,7 @@
         },
         {
           "titel": "Lugano",
-          "untertitel": "Bewölkt · 5° bis 14°",
+          "untertitel": "Bewölkt · 4° bis 14°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
