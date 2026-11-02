@@ -1,38 +1,38 @@
 {
-  "aktualisiert": "2026-11-02T13:14:19+00:00",
+  "aktualisiert": "2026-11-02T16:07:04+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-02T13:14:19+00:00",
+      "stand": "2026-11-02T16:07:04+00:00",
       "eintraege": [
         {
-          "titel": "SRF-Insider: «Wusste nichts, hätte aber Bescheid wissen müssen»",
-          "untertitel": "Der Fall Hans Jucker sorgt für grosses Aufsehen in der Szene. Das SRF soll intern seit einigen Wochen Bescheid gewusst haben.",
-          "link": "https://www.20min.ch/story/fall-hans-jucker-srf-insider-wusste-nichts-haette-aber-bescheid-wissen-muessen-103660654",
-          "bild": "https://image.20min.ch/2026/11/02/5e35ab3b-b0e2-46d7-88dd-597422fc53ed.jpg?s=e5e74e779c245d4e10d2da11ce7c65a7",
-          "quelle": "20 Minuten",
+          "titel": "Berner Oberland – Nach Streit in Brienzwiler tritt Gemeinderat geschlossen zurück",
+          "untertitel": "Der gesamte Gemeinderat von Brienzwiler tritt zurück. Auslöser sind Konflikte und hoher Druck im Dorf.",
+          "link": "https://www.srf.ch/news/schweiz/berner-oberland-nach-streit-in-brienzwiler-tritt-gemeinderat-geschlossen-zurueck",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/108c0c.webp",
+          "quelle": "SRF",
           "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Elon Musk spendet halbe Milliarde Dollar – das ist die Top 20",
-          "untertitel": "Am 3. November sind in den USA die Zwischenwahlen, die Midterms. 20 Minuten ist in den USA und hält euch im Ticker vor, während und nach der Wahlnacht auf dem Laufenden.",
-          "link": "https://www.20min.ch/story/us-midterms-2026-stimmen-aus-den-usa-vor-den-zwischenwahlen-103657162",
-          "bild": "https://image.20min.ch/2026/11/02/cfc58b4e-23b8-4729-affe-6c7048b6015d.jpg?s=3b4ed39562044de65af2a8e3a692e166",
-          "quelle": "20 Minuten",
-          "info": "3 Quellen berichten",
-          "trend": "neu"
-        },
-        {
-          "titel": "Zwei Berggänger verunglücken in Göschenen UR tödlich",
-          "untertitel": "Die Urner Staatsanwaltschaft und die Kantonspolizei ermitteln im Falle zweier verunglückter Berggänger. Sie konnten am Sonntag nur noch tot geborgen werden.",
-          "link": "https://www.blick.ch/schweiz/zentralschweiz/uri/unfall-in-goeschenen-ur-zwei-tote-personen-geborgen/124cm57",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/uf4ktkuTURBXy9kNTk0MGMxNS1mZGIxLTRlYWItYmE2NS01ZDA0NzkwODdmOWQuanBlZ5KTBc0CWM0BO5MJpjIzMGU4MgY/x64gnbg4awg.jpg",
+          "titel": "Fussgängerin (†19) auf Autobahn A12 angefahren – tot",
+          "untertitel": "Am Sonntag wurde eine Fussgängerin auf der Autobahn A12 von mehreren Fahrzeugen erfasst. Sie kam dabei ums Leben, teilt die Kantonspolizei Freiburg mit. Unklar ist, warum sich …",
+          "link": "https://www.blick.ch/schweiz/freiburg/tragoedie-fussgaengerin-19-auf-autobahn-a12-angefahren/4kp4e1q",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/p0pktktTURBXy9lMmU2MWU0Mi1iNThjLTQzYTktYWFhMi01OWZiODE1NDlkMjMucG5nkpMFzQJYzQE7kwmmOTY3Nzk2Bg/mp5gi2iaeet.jpg",
           "quelle": "Blick",
-          "info": "2 Quellen berichten",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Hier findest du trotz grauem Herbstwetter noch die Sonne",
+          "untertitel": "Grau und kühl zeigt sich das Wetter in dieser Woche vor allem im Mittelland. Zäh hält sich der Hochnebel in vielen Regionen. Doch es gibt auch Orte, an denen sich die Sonne …",
+          "link": "https://www.blick.ch/schweiz/hier-findest-du-trotz-grauem-herbstwetter-noch-die-sonne/sre8q9j",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/rvjktkuTURBXy85YjMxNzcwMy0zMDY1LTQxYjktYjcxOC00ZmMwNjliYmE2MzMuanBlZ5KTBc0CWM0BO5MJpjMxNmQ5OAY/ck2gk4fnwpa.jpg",
+          "quelle": "Blick",
+          "info": "3 Quellen berichten",
           "trend": "neu"
         }
       ]
@@ -41,13 +41,22 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-02T13:14:19+00:00",
+      "stand": "2026-11-02T16:07:04+00:00",
       "eintraege": [
         {
-          "titel": "Shop freezers in six European countries hit by suspected cyber-attack",
+          "titel": "Shop freezers in seven European countries hit by cyber-attack",
           "untertitel": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
           "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b784/live/f4fabf40-d6be-11f1-a701-fddedf244c16.jpg",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31c7/live/152ec730-d6c3-11f1-93e1-3b657b665bcf.jpg",
+          "quelle": "BBC",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
+          "untertitel": "Neither government has confirmed who was responsible for the cyberattacks on Sunday evening.",
+          "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07ec/live/ca38c7e0-d6cb-11f1-b441-2b33b063138f.jpg",
           "quelle": "BBC",
           "info": "2 Quellen berichten",
           "trend": "neu"
@@ -60,15 +69,6 @@
           "quelle": "The Guardian",
           "info": "2 Quellen berichten",
           "trend": "neu"
-        },
-        {
-          "titel": "Nine killed as small jet crashes on Florida street",
-          "untertitel": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
-          "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5800/live/cf28de00-d691-11f1-93e1-3b657b665bcf.jpg",
-          "quelle": "BBC",
-          "info": "2 Quellen berichten",
-          "trend": "neu"
         }
       ]
     },
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-02T13:14:19+00:00",
+      "stand": "2026-11-02T16:07:04+00:00",
       "eintraege": [
         {
-          "titel": "20 minuten",
-          "untertitel": "Unverständnis und Forderungen - Nach der Krawallnacht in Zürich – so reagiert die Politik",
-          "link": "https://www.srf.ch/news/schweiz/unverstaendnis-und-forderungen-nach-der-krawallnacht-in-zuerich-so-reagiert-die-politik",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJ9pOd5b7ZuyQQZkFzR_UjGnHkUmyxWqbBEmzEFV0YGtuq2yhjT0vvBnTIaDQ",
-          "quelle": "Google Trends · SRF",
-          "info": "2000+ Suchanfragen",
-          "trend": "neu"
-        },
-        {
-          "titel": "verbot",
-          "untertitel": "«Verboten» und «strengstens verboten»: Was ist der Unterschied?",
-          "link": "https://www.srf.ch/sendungen/kassensturz-espresso/services/espresso-aha/fragwuerdige-steigerung-verboten-und-strengstens-verboten-was-ist-der-unterschied",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDH8wiseN0PhDdSN89oc85TukZmOLv5a6GgGfPF7Ivzl6NdAQfW8YNjSPWHFU",
-          "quelle": "Google Trends · SRF",
+          "titel": "göschenen",
+          "untertitel": "Göschenen: Die Staatsanwaltschaft Uri und die Kantonspolizei Uri teilen mit – Zwei Berggänger tödlich verunglückt",
+          "link": "https://www.ur.ch/polizeimeldungen/139279",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXprfd59AO1ogjoVtNj7zgF-EdxJ6OBuNmfJ8W46fY_Qk0Hek57gyvwVzwrSo",
+          "quelle": "Google Trends · Kanton Uri",
           "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "brienzwiler",
-          "untertitel": "In Brienzwiler ist der Teufel los: Gemeinderäte treten ab",
-          "link": "https://www.blick.ch/politik/in-brienzwiler-kommts-zum-grossen-knall-gemeinderaete-treten-ab/2s1sxgg",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJp6AM8CFcDNLyJNvqFLUaUrFXkeXXilh9C-pyXEEW49soZOnSRRebvAripYQ",
+          "titel": "winter",
+          "untertitel": "WMO Global Seasonal Climate Outlook informs humanitarian action",
+          "link": "https://wmo.int/media/news/wmo-global-seasonal-climate-outlook-informs-humanitarian-action",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQdvRErkucCkY0m1zWmajp0aED00-3HmOsYtHzVBOY6Lgk4XQJ_YlUJ1RUmxQ",
+          "quelle": "Google Trends · World Meteorological Organization WMO",
+          "info": "100+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "jana pallaske",
+          "untertitel": "«Fack ju Göhte»-Star trauert um Partner",
+          "link": "https://www.blick.ch/people-tv/international/jana-pallaske-schauspielerin-trauert-um-ihren-partner/n9n24lc",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQW1O25JEeo3QmVtpdawur59-j_C61ewv3OkHn8RDbiJHQJ8EddAITMZhyMpuQ",
           "quelle": "Google Trends · Blick",
-          "info": "500+ Suchanfragen",
+          "info": "200+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-02T13:14:19+00:00",
+      "stand": "2026-11-02T16:07:04+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-02T13:14:19+00:00",
+      "stand": "2026-11-02T16:07:04+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -167,13 +167,13 @@
           "trend": "gleich"
         },
         {
-          "titel": "Lanz + Precht",
-          "untertitel": "ZDF, Markus Lanz & Richard David Precht",
-          "link": "https://podcasts.apple.com/ch/podcast/lanz-precht/id1582828457",
-          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/77/6b/e0/776be00d-6661-737d-a7dd-f5662c5fa110/mza_18360247097984895676.jpg/300x300bb.png",
+          "titel": "MORD AUF EX",
+          "untertitel": "Leonie Bartsch & Linn Schütze",
+          "link": "https://podcasts.apple.com/ch/podcast/mord-auf-ex/id1486608425",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b9/17/07/b91707ba-b4bf-2021-bafe-b4dd1e1f0196/mza_6370841172422755338.jpg/300x300bb.png",
           "quelle": "Apple Podcasts Charts CH",
-          "info": "Nachrichten, Gesellschaft und Kultur",
-          "trend": "gleich"
+          "info": "Wahre Kriminalfälle, Geschichte",
+          "trend": "neu"
         }
       ]
     },
@@ -181,22 +181,13 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-02T13:14:19+00:00",
+      "stand": "2026-11-02T16:07:04+00:00",
       "eintraege": [
         {
           "titel": "Bob Dylan im Hallenstadion – Niemand enttäuscht so gut wie Bob Dylan – der Konzertcheck",
           "untertitel": "Keine Hits, mehr Museum als Konzert, nur noch was für Dylan-Diplomierte? Die Hallenstadion-Show im Gegencheck.",
           "link": "https://www.srf.ch/radio-srf-3/musik/bob-dylan-im-hallenstadion-niemand-enttaeuscht-so-gut-wie-bob-dylan-der-konzertcheck",
           "bild": "https://www.srf.ch/static/cms/images//320ws/4a2845.webp",
-          "quelle": "SRF",
-          "info": "",
-          "trend": "neu"
-        },
-        {
-          "titel": "Kulturnews in Kurzform – Frontmann im Spital: Deep Purple sagen Konzerte ab",
-          "untertitel": "Sänger Ian Gillan liegt nach einem medizinischen Notfall im Spital. Ist sogar die ganze Tour in Gefahr?",
-          "link": "https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-frontmann-im-spital-deep-purple-sagen-konzerte-ab",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/de1b5f.webp",
           "quelle": "SRF",
           "info": "",
           "trend": "neu"
@@ -207,11 +198,11 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-02T13:14:19+00:00",
+      "stand": "2026-11-02T16:07:04+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
-          "untertitel": "Bewölkt · 5° bis 8°",
+          "untertitel": "Bewölkt · 4° bis 8°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -238,7 +229,7 @@
         },
         {
           "titel": "Genf",
-          "untertitel": "Leichter Regen · 6° bis 10°",
+          "untertitel": "Leichter Regen · 6° bis 9°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
