@@ -1,12 +1,12 @@
 {
-  "aktualisiert": "2026-11-02T01:12:01+00:00",
+  "aktualisiert": "2026-11-02T04:00:25+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-02T01:12:01+00:00",
+      "stand": "2026-11-02T04:00:25+00:00",
       "eintraege": [
         {
           "titel": "Unverständnis und Forderungen – Nach der Krawallnacht in Zürich – so reagiert die Politik",
@@ -27,13 +27,13 @@
           "trend": "hoch"
         },
         {
-          "titel": "«Fühlte sich wie Mini-Street-Parade an – dann eskalierte es»",
-          "untertitel": "An der Zürcher Langstrasse ist Halloween am Samstagabend in Krawalle gekippt. Die Polizei rückte mit Wasserwerfern und Tränengas an. Noch am Morgen danach klagen Anwohner über …",
-          "link": "https://www.blick.ch/schweiz/zuerich/halloween-ausschreitungen-in-zuerich-coop-verwuestet/0kvxpeq",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/tVfktkuTURBXy9jOTljZjJiMy0xMGZkLTQ3NGEtYmIyNy0yYTIxNDliNzMyYTQuanBlZ5KTBc0CWM0BO5MJpjhmODg4MgY/6q6up54ljf5.jpg",
-          "quelle": "Blick",
+          "titel": "Kanton Waadt – «Habe Albträume» – Flüchtlinge seit Monaten in Zivilschutzanlagen",
+          "untertitel": "Weil es nicht genug Unterkünfte hat, leben im Kanton Waadt rund hundert Flüchtlinge seit Monaten in Zivilschutzanlagen.",
+          "link": "https://www.srf.ch/news/dialog/kanton-waadt-habe-albtraeume-fluechtlinge-seit-monaten-in-zivilschutzanlagen",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/148b19.webp",
+          "quelle": "SRF",
           "info": "3 Quellen berichten",
-          "trend": "runter"
+          "trend": "neu"
         }
       ]
     },
@@ -41,17 +41,8 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-02T01:12:01+00:00",
+      "stand": "2026-11-02T04:00:25+00:00",
       "eintraege": [
-        {
-          "titel": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
-          "untertitel": "Authorities say there is no threat and have advised the public to stay calm and follow official channels for information.",
-          "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3608/live/1d2513e0-d646-11f1-b441-2b33b063138f.jpg",
-          "quelle": "BBC",
-          "info": "2 Quellen berichten",
-          "trend": "neu"
-        },
         {
           "titel": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
           "untertitel": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment The “unprecedented” …",
@@ -59,7 +50,16 @@
           "bild": "https://i.guim.co.uk/img/media/4c8a92421c88cf3bb5c2743cd8f6b4900e511a1f/538_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=4eca9873ee9ecb59fb15e289980ef771",
           "quelle": "The Guardian",
           "info": "2 Quellen berichten",
-          "trend": "gleich"
+          "trend": "hoch"
+        },
+        {
+          "titel": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
+          "untertitel": "British prime minister has now agreed to structured dialogue on reparatory justice but issue remains off formal Chogm agenda British officials reportedly insisted that …",
+          "link": "https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda",
+          "bild": "https://i.guim.co.uk/img/media/223fc946a9add0d85761c121fd3c2a08504026a8/935_87_6394_5115/master/6394.jpg?width=140&quality=85&auto=format&fit=max&s=39795ee7bc05b59b05d2c09e63b91738",
+          "quelle": "The Guardian",
+          "info": "2 Quellen berichten",
+          "trend": "hoch"
         },
         {
           "titel": "Ausschreitungen nach Protesten: Unterwanderung oder spontane Eskalation?",
@@ -76,23 +76,23 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-02T01:12:01+00:00",
+      "stand": "2026-11-02T04:00:25+00:00",
       "eintraege": [
         {
           "titel": "lewis hamilton",
-          "untertitel": "Lewis Hamilton: Ferrari have 'big problems' after Charles Leclerc incident at Mexico City GP",
-          "link": "https://www.espn.com/f1/story/_/id/50320324/mexico-city-grand-prix-formula-1-lewis-hamilton-charles-leclerc-ferrari-big-issues",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxv1ppNuIUSBbuYkp7wCNhEu04Iho4toyN7BM57ae_rUfCDl8hsLibEwYdlwo",
-          "quelle": "Google Trends · ESPN",
+          "untertitel": "'We've got big problems' - Hamilton says Ferrari need 'serious talks'",
+          "link": "https://www.bbc.com/sport/formula1/articles/cmwy7dl879gzo",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsxEkO0XSRoraHu2O4VBCLKMciTEkTrAhRpLcyDevonac6ndQAN1RBEOlLeaA",
+          "quelle": "Google Trends · BBC",
           "info": "200+ Suchanfragen",
           "trend": "neu"
         },
         {
           "titel": "assurance maladie",
-          "untertitel": "Frais annexes facturés aux patients : l’Assurance maladie brandit la menace du déconventionnement",
-          "link": "https://www.egora.fr/gestion-du-cabinet/juridique/frais-annexes-factures-aux-patients-lassurance-maladie-brandit-la",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQiZuaNHAyAxVeMhI-9j_9z73v0LSdakqOL2FdBFdEM_BE2Owhfx1GdlNnYqSY",
-          "quelle": "Google Trends · Egora",
+          "untertitel": "Cette astuce pour payer son assurance maladie moins cher est toujours efficace",
+          "link": "https://www.watson.ch/fr/suisse/economie/380048348-suisse-ceux-qui-changent-d-assurance-maladie-paient-moins",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw_nBWm7NguDYO4FzwZIm2KO-GPLDkiPWe_JpC4XVwB3PqHt3h3KrLxq8t0rM",
+          "quelle": "Google Trends · Watson",
           "info": "200+ Suchanfragen",
           "trend": "neu"
         },
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-02T01:12:01+00:00",
+      "stand": "2026-11-02T04:00:25+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-02T01:12:01+00:00",
+      "stand": "2026-11-02T04:00:25+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-02T01:12:01+00:00",
+      "stand": "2026-11-02T04:00:25+00:00",
       "eintraege": [
         {
           "titel": "Bob Dylan im Hallenstadion – Niemand enttäuscht so gut wie Bob Dylan – der Konzertcheck",
@@ -207,7 +207,7 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-02T01:12:01+00:00",
+      "stand": "2026-11-02T04:00:25+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
@@ -229,7 +229,7 @@
         },
         {
           "titel": "Basel",
-          "untertitel": "Bewölkt · 3° bis 9°",
+          "untertitel": "Bewölkt · 2° bis 9°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -238,12 +238,12 @@
         },
         {
           "titel": "Genf",
-          "untertitel": "Bewölkt · 6° bis 10°",
+          "untertitel": "Leichter Regen · 6° bis 10°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
           "info": "Regenrisiko 3%",
-          "emoji": "☁️"
+          "emoji": "🌦️"
         },
         {
           "titel": "Lugano",
