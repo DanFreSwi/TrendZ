@@ -1,13 +1,22 @@
 {
-  "aktualisiert": "2026-11-02T16:07:04+00:00",
+  "aktualisiert": "2026-11-02T19:00:19+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-02T16:07:04+00:00",
+      "stand": "2026-11-02T19:00:19+00:00",
       "eintraege": [
+        {
+          "titel": "«Das begleitet dich ein Leben lang»",
+          "untertitel": "TV-Legende Hans Jucker wurde 1971 wegen sexueller Handlungen mit Jugendlichen zu acht Monaten bedingt verurteilt. Auch das ehemalige Heimkind Willi Fegble ist eines der Opfer.",
+          "link": "https://www.blick.ch/schweiz/mittelland/aargau/willi-fegble-71-spricht-ueber-hans-jucker/2tyy841",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/XVNktkuTURBXy8wOWI5MWUyNC04NDc4LTRkMTEtOTQ3ZC05MDVkMmNjNjk2N2MuanBlZ5KTBc0CWM0BO5MJpjMyY2YzMgY/wrsy0keu3vo.jpg",
+          "quelle": "Blick",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
         {
           "titel": "Berner Oberland – Nach Streit in Brienzwiler tritt Gemeinderat geschlossen zurück",
           "untertitel": "Der gesamte Gemeinderat von Brienzwiler tritt zurück. Auslöser sind Konflikte und hoher Druck im Dorf.",
@@ -18,20 +27,11 @@
           "trend": "neu"
         },
         {
-          "titel": "Fussgängerin (†19) auf Autobahn A12 angefahren – tot",
-          "untertitel": "Am Sonntag wurde eine Fussgängerin auf der Autobahn A12 von mehreren Fahrzeugen erfasst. Sie kam dabei ums Leben, teilt die Kantonspolizei Freiburg mit. Unklar ist, warum sich …",
-          "link": "https://www.blick.ch/schweiz/freiburg/tragoedie-fussgaengerin-19-auf-autobahn-a12-angefahren/4kp4e1q",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/p0pktktTURBXy9lMmU2MWU0Mi1iNThjLTQzYTktYWFhMi01OWZiODE1NDlkMjMucG5nkpMFzQJYzQE7kwmmOTY3Nzk2Bg/mp5gi2iaeet.jpg",
-          "quelle": "Blick",
-          "info": "3 Quellen berichten",
-          "trend": "neu"
-        },
-        {
-          "titel": "Hier findest du trotz grauem Herbstwetter noch die Sonne",
-          "untertitel": "Grau und kühl zeigt sich das Wetter in dieser Woche vor allem im Mittelland. Zäh hält sich der Hochnebel in vielen Regionen. Doch es gibt auch Orte, an denen sich die Sonne …",
-          "link": "https://www.blick.ch/schweiz/hier-findest-du-trotz-grauem-herbstwetter-noch-die-sonne/sre8q9j",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/rvjktkuTURBXy85YjMxNzcwMy0zMDY1LTQxYjktYjcxOC00ZmMwNjliYmE2MzMuanBlZ5KTBc0CWM0BO5MJpjMxNmQ5OAY/ck2gk4fnwpa.jpg",
-          "quelle": "Blick",
+          "titel": "Norwegisches Königshaus – Norwegisches Gericht will Høiby aus U-Haft freilassen",
+          "untertitel": "Ein Gericht will Marius Borg Høiby aus der Untersuchungshaft entlassen. Doch die Anklage legt sofort Berufung ein.",
+          "link": "https://www.srf.ch/news/international/norwegisches-koenigshaus-norwegisches-gericht-will-hoiby-aus-u-haft-freilassen",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/3e1dc1.webp",
+          "quelle": "SRF",
           "info": "3 Quellen berichten",
           "trend": "neu"
         }
@@ -41,7 +41,7 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-02T16:07:04+00:00",
+      "stand": "2026-11-02T19:00:19+00:00",
       "eintraege": [
         {
           "titel": "Shop freezers in seven European countries hit by cyber-attack",
@@ -53,20 +53,20 @@
           "trend": "neu"
         },
         {
-          "titel": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
-          "untertitel": "Neither government has confirmed who was responsible for the cyberattacks on Sunday evening.",
-          "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07ec/live/ca38c7e0-d6cb-11f1-b441-2b33b063138f.jpg",
-          "quelle": "BBC",
-          "info": "2 Quellen berichten",
-          "trend": "neu"
-        },
-        {
           "titel": "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job",
           "untertitel": "Critics cite Lana Nusseibeh’s denial of accusations the UAE is fuelling Sudan war by supporting paramilitary RSF Members of the Sudanese diaspora and international human rights …",
           "link": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
           "bild": "https://i.guim.co.uk/img/media/1a207f81e70f26c6fb300fd2353ecaa161bc7714/0_0_2895_2317/master/2895.jpg?width=140&quality=85&auto=format&fit=max&s=4b30b227f8f2e941aab03d70ddbb2708",
           "quelle": "The Guardian",
+          "info": "2 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+          "untertitel": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
+          "link": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5be/live/174cc760-d6d2-11f1-a701-fddedf244c16.jpg",
+          "quelle": "BBC",
           "info": "2 Quellen berichten",
           "trend": "neu"
         }
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-02T16:07:04+00:00",
+      "stand": "2026-11-02T19:00:19+00:00",
       "eintraege": [
         {
-          "titel": "göschenen",
-          "untertitel": "Göschenen: Die Staatsanwaltschaft Uri und die Kantonspolizei Uri teilen mit – Zwei Berggänger tödlich verunglückt",
-          "link": "https://www.ur.ch/polizeimeldungen/139279",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXprfd59AO1ogjoVtNj7zgF-EdxJ6OBuNmfJ8W46fY_Qk0Hek57gyvwVzwrSo",
-          "quelle": "Google Trends · Kanton Uri",
+          "titel": "marsens",
+          "untertitel": "Marsens : une piétonne de 19 ans meurt percutée sur l'autoroute A12",
+          "link": "https://www.20min.ch/fr/story/marsens-fr-une-pietonne-de-19-ans-meurt-percutee-sur-l-a12-103660790",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAV5hGwNnSozLl9Da1bn9x5mYteM1t5321x4bjRkVcOq-CmJRgBQ-f5V1NASA",
+          "quelle": "Google Trends · 20 Minuten",
           "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "winter",
-          "untertitel": "WMO Global Seasonal Climate Outlook informs humanitarian action",
-          "link": "https://wmo.int/media/news/wmo-global-seasonal-climate-outlook-informs-humanitarian-action",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQdvRErkucCkY0m1zWmajp0aED00-3HmOsYtHzVBOY6Lgk4XQJ_YlUJ1RUmxQ",
-          "quelle": "Google Trends · World Meteorological Organization WMO",
+          "titel": "kai pflaume",
+          "untertitel": "Kai Pflaume läuft Marathon live im TV: Experte warnt vor Belastung",
+          "link": "https://www.bild.de/leben-wissen/medizin/kai-pflaume-laeuft-marathon-live-im-tv-experte-warnt-vor-belastung-6ad25bac199dc15f1abd6bbe",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ6nfid3CHwCHef9pFDIdr2x_RmBlVtGiPORZo-phxAkB223UFVT-kqjUswdM",
+          "quelle": "Google Trends · BILD",
           "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "jana pallaske",
-          "untertitel": "«Fack ju Göhte»-Star trauert um Partner",
-          "link": "https://www.blick.ch/people-tv/international/jana-pallaske-schauspielerin-trauert-um-ihren-partner/n9n24lc",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQW1O25JEeo3QmVtpdawur59-j_C61ewv3OkHn8RDbiJHQJ8EddAITMZhyMpuQ",
-          "quelle": "Google Trends · Blick",
-          "info": "200+ Suchanfragen",
+          "titel": "goldpreis prognose",
+          "untertitel": "Wie weiter mit Gold?",
+          "link": "https://themarket.ch/makro-maerkte/wie-weiter-mit-gold-ld.18044",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTYiSIm4slMow4Xt7NMIYl5dHnZAxkmom-lBKVsaVCAN_MFCrO51I393oXKlw",
+          "quelle": "Google Trends · The Market – Analysen und Hintergründe aus der Wirtschaft",
+          "info": "100+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-02T16:07:04+00:00",
+      "stand": "2026-11-02T19:00:19+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-02T16:07:04+00:00",
+      "stand": "2026-11-02T19:00:19+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-02T16:07:04+00:00",
+      "stand": "2026-11-02T19:00:19+00:00",
       "eintraege": [
         {
           "titel": "Bob Dylan im Hallenstadion – Niemand enttäuscht so gut wie Bob Dylan – der Konzertcheck",
@@ -198,11 +198,11 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-02T16:07:04+00:00",
+      "stand": "2026-11-02T19:00:19+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
-          "untertitel": "Bewölkt · 4° bis 8°",
+          "untertitel": "Bewölkt · 5° bis 8°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -220,20 +220,20 @@
         },
         {
           "titel": "Basel",
-          "untertitel": "Nebel · 2° bis 9°",
+          "untertitel": "Bewölkt · 3° bis 9°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
           "info": "Regenrisiko 0%",
-          "emoji": "🌫️"
+          "emoji": "☁️"
         },
         {
           "titel": "Genf",
-          "untertitel": "Leichter Regen · 6° bis 9°",
+          "untertitel": "Leichter Regen · 6° bis 10°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 0%",
+          "info": "Regenrisiko 3%",
           "emoji": "🌦️"
         },
         {
@@ -242,7 +242,7 @@
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 3%",
+          "info": "Regenrisiko 5%",
           "emoji": "☁️"
         }
       ]
