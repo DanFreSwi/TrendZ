@@ -1,37 +1,37 @@
 {
-  "aktualisiert": "2026-11-02T04:00:25+00:00",
+  "aktualisiert": "2026-11-02T07:32:08+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-02T04:00:25+00:00",
+      "stand": "2026-11-02T07:32:08+00:00",
       "eintraege": [
-        {
-          "titel": "Unverständnis und Forderungen – Nach der Krawallnacht in Zürich – so reagiert die Politik",
-          "untertitel": "Nach den gewalttätigen Protesten linksextremer Kreise in Zürich reagieren die Parteien mit viel Unverständnis.",
-          "link": "https://www.srf.ch/news/schweiz/unverstaendnis-und-forderungen-nach-der-krawallnacht-in-zuerich-so-reagiert-die-politik",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/0e6a5c.webp",
-          "quelle": "SRF",
-          "info": "4 Quellen berichten",
-          "trend": "gleich"
-        },
         {
           "titel": "Sieben Männer nach versuchtem Einbruchdiebstahl in Höchstetten BE angehalten",
           "untertitel": "In der Nacht auf Sonntag hat die Kantonspolizei Bern in Höchstetten vier mutmassliche Täter nach einem versuchten Einbruchdiebstahl in ein Verkaufsgeschäft angehalten. Im Rahmen …",
           "link": "https://www.blick.ch/schweiz/bern/hoechstetten-be-maenner-nach-versuchtem-einbruch-festgenommen/0vgrvez",
           "bild": "https://ocdn.eu/pulscms-transforms/1/8sVktktTURBXy8zMjI4ZWVmZC0yOWNjLTRmNzMtYjY4MS05ZGY4ZGIyMDMwZjQucG5nkpMFzQJYzQE7kwmmOGU4ZGRjBg/fuhmjjptij.jpg",
           "quelle": "Blick",
-          "info": "4 Quellen berichten",
+          "info": "3 Quellen berichten",
           "trend": "hoch"
         },
         {
-          "titel": "Kanton Waadt – «Habe Albträume» – Flüchtlinge seit Monaten in Zivilschutzanlagen",
-          "untertitel": "Weil es nicht genug Unterkünfte hat, leben im Kanton Waadt rund hundert Flüchtlinge seit Monaten in Zivilschutzanlagen.",
-          "link": "https://www.srf.ch/news/dialog/kanton-waadt-habe-albtraeume-fluechtlinge-seit-monaten-in-zivilschutzanlagen",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/148b19.webp",
-          "quelle": "SRF",
+          "titel": "Nach Ruag-Betrug: «Bundesrat muss gegen die Chefs klagen»",
+          "untertitel": "Betrügt es sich in Bundesbetrieben besonders leicht? Während die SP nach dem jüngsten Skandal bei der Ruag eine parlamentarische Untersuchungskommission fordert, pocht die SVP …",
+          "link": "https://www.20min.ch/story/folgen-von-panzer-deals-nach-ruag-betrug-bundesrat-muss-gegen-die-chefs-klagen-103659913",
+          "bild": "https://image.20min.ch/2026/11/01/9f19b68b-057a-4802-a39e-509b2c9fa737.jpg?s=65523f597fe56fb2fe5f1dec20f6a165",
+          "quelle": "20 Minuten",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Junglenker (19) überschlägt sich bei Selbstunfall in Haslen AI",
+          "untertitel": "Am frühen Sonntagmorgen hat sich das Auto eines 19-jährigen Junglenkers in Haslen bei einem Unfall überschlagen. Der 20-jährige Beifahrer wurde leicht verletzt.",
+          "link": "https://www.blick.ch/schweiz/ostschweiz/appenzell-innerrhoden/junglenker-ueberschlaegt-sich-bei-selbstunfall-in-haslen-ai/0193kbz",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/1DwktkuTURBXy9mNmJjMzM5Ni1iNzBlLTRjNDctOTkzMi1mZmU5ZDllOTVmOTYuanBlZ5KTBc0CWM0BO5MJpjRhODUxNwY/vkj2xqmjmko.jpg",
+          "quelle": "Blick",
           "info": "3 Quellen berichten",
           "trend": "neu"
         }
@@ -41,32 +41,32 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-02T04:00:25+00:00",
+      "stand": "2026-11-02T07:32:08+00:00",
       "eintraege": [
         {
-          "titel": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
-          "untertitel": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment The “unprecedented” …",
-          "link": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
-          "bild": "https://i.guim.co.uk/img/media/4c8a92421c88cf3bb5c2743cd8f6b4900e511a1f/538_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=4eca9873ee9ecb59fb15e289980ef771",
-          "quelle": "The Guardian",
-          "info": "2 Quellen berichten",
-          "trend": "hoch"
+          "titel": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+          "untertitel": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.",
+          "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4570/live/1ef80da0-d46e-11f1-93e1-3b657b665bcf.jpg",
+          "quelle": "BBC",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
         },
         {
-          "titel": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
-          "untertitel": "British prime minister has now agreed to structured dialogue on reparatory justice but issue remains off formal Chogm agenda British officials reportedly insisted that …",
-          "link": "https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda",
-          "bild": "https://i.guim.co.uk/img/media/223fc946a9add0d85761c121fd3c2a08504026a8/935_87_6394_5115/master/6394.jpg?width=140&quality=85&auto=format&fit=max&s=39795ee7bc05b59b05d2c09e63b91738",
-          "quelle": "The Guardian",
+          "titel": "Nine killed as small jet crashes on Florida street",
+          "untertitel": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
+          "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3052/live/e9a4c050-d68c-11f1-b7fe-13bd08d80ad6.jpg",
+          "quelle": "BBC",
           "info": "2 Quellen berichten",
-          "trend": "hoch"
+          "trend": "neu"
         },
         {
-          "titel": "Ausschreitungen nach Protesten: Unterwanderung oder spontane Eskalation?",
-          "untertitel": "Verletzte und geplünderte Geschäfte - die Ausschreitungen nach den Protesten der Gen Z lösen Entsetzen aus. In Köln und Frankfurt wurden die Demos nach Einschätzung der Polizei …",
-          "link": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-ausschreitungen-100.html",
-          "bild": "",
-          "quelle": "tagesschau",
+          "titel": "Binance users withdraw $3.6bn after largest-ever crypto hack",
+          "untertitel": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
+          "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a7f/live/ad865b20-d64f-11f1-a701-fddedf244c16.jpg",
+          "quelle": "BBC",
           "info": "2 Quellen berichten",
           "trend": "neu"
         }
@@ -76,32 +76,32 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-02T04:00:25+00:00",
+      "stand": "2026-11-02T07:32:08+00:00",
       "eintraege": [
         {
-          "titel": "lewis hamilton",
-          "untertitel": "'We've got big problems' - Hamilton says Ferrari need 'serious talks'",
-          "link": "https://www.bbc.com/sport/formula1/articles/cmwy7dl879gzo",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsxEkO0XSRoraHu2O4VBCLKMciTEkTrAhRpLcyDevonac6ndQAN1RBEOlLeaA",
-          "quelle": "Google Trends · BBC",
-          "info": "200+ Suchanfragen",
+          "titel": "faltbares smartphone",
+          "untertitel": "Foldable: Samsung lästert in Werbung über iPhone Duos Displayfehler",
+          "link": "https://www.golem.de/news/foldable-samsung-laestert-in-werbung-ueber-iphone-duos-displayfehler-2610-214716.html",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZBQOltLq2ar1nYCK88_VbMk60vj_eg39bk5Drm6u1ygida3T8P_aEpJQF0uA",
+          "quelle": "Google Trends · Golem",
+          "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "assurance maladie",
-          "untertitel": "Cette astuce pour payer son assurance maladie moins cher est toujours efficace",
-          "link": "https://www.watson.ch/fr/suisse/economie/380048348-suisse-ceux-qui-changent-d-assurance-maladie-paient-moins",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw_nBWm7NguDYO4FzwZIm2KO-GPLDkiPWe_JpC4XVwB3PqHt3h3KrLxq8t0rM",
-          "quelle": "Google Trends · Watson",
-          "info": "200+ Suchanfragen",
+          "titel": "moretti crans montana",
+          "untertitel": "Incendie de Crans-Montana: Jacques Moretti retourne lundi devant les procureures",
+          "link": "https://www.20min.ch/fr/story/incendie-de-crans-montana-jacques-moretti-retourne-lundi-devant-les-procureures-103660506",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5kG5ClXIyYtTJQTqiz5cBjFRGr0OHR2Rugw7nqG051dtbD6iSzG8Z1EvgatI",
+          "quelle": "Google Trends · 20 Minuten",
+          "info": "500+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "classifica di juventus football club - società sportiva calcio napoli",
-          "untertitel": "Juventus 2-0 Napoli (Nov 1, 2026) Game Analysis",
-          "link": "https://www.espn.com/soccer/report/_/gameId/401874949",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEHCf5nA7EubGKqJ09A5WMuA-R-6AIP5GXbu2Fbm0WV3VP_SxrYWkmDehATYo",
-          "quelle": "Google Trends · ESPN",
+          "titel": "fribourg",
+          "untertitel": "Le bilan de la nuit d'Halloween à Fribourg. Après les déprédations, le propriétaire de la boulangerie pillée et les TPF portent plainte",
+          "link": "https://www.laliberte.ch/articles/regions/ville-de-fribourg/casse-feux-et-pillage-a-fribourg-1476203",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9YBieoQx06b4hKqzRKV03pve5PCVO3YPlkRT9Q_BlE8dYHombDG19qHUHxrU",
+          "quelle": "Google Trends · La Liberté",
           "info": "200+ Suchanfragen",
           "trend": "neu"
         }
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-02T04:00:25+00:00",
+      "stand": "2026-11-02T07:32:08+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-02T04:00:25+00:00",
+      "stand": "2026-11-02T07:32:08+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-02T04:00:25+00:00",
+      "stand": "2026-11-02T07:32:08+00:00",
       "eintraege": [
         {
           "titel": "Bob Dylan im Hallenstadion – Niemand enttäuscht so gut wie Bob Dylan – der Konzertcheck",
@@ -207,7 +207,7 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-02T04:00:25+00:00",
+      "stand": "2026-11-02T07:32:08+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
@@ -215,12 +215,12 @@
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 0%",
+          "info": "Regenrisiko 3%",
           "emoji": "☁️"
         },
         {
           "titel": "Bern",
-          "untertitel": "Bewölkt · 4° bis 7°",
+          "untertitel": "Bewölkt · 4° bis 8°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -229,12 +229,12 @@
         },
         {
           "titel": "Basel",
-          "untertitel": "Bewölkt · 2° bis 9°",
+          "untertitel": "Nebel · 2° bis 10°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
           "info": "Regenrisiko 0%",
-          "emoji": "☁️"
+          "emoji": "🌫️"
         },
         {
           "titel": "Genf",
@@ -242,17 +242,17 @@
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 3%",
+          "info": "Regenrisiko 0%",
           "emoji": "🌦️"
         },
         {
           "titel": "Lugano",
-          "untertitel": "Bewölkt · 4° bis 14°",
+          "untertitel": "Teils bewölkt · 4° bis 14°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 1%",
-          "emoji": "☁️"
+          "info": "Regenrisiko 3%",
+          "emoji": "⛅"
         }
       ]
     }
