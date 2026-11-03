@@ -1,12 +1,12 @@
 {
-  "aktualisiert": "2026-11-03T09:59:28+00:00",
+  "aktualisiert": "2026-11-03T13:09:08+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-03T09:59:28+00:00",
+      "stand": "2026-11-03T13:09:08+00:00",
       "eintraege": [
         {
           "titel": "Helikopter kollidieren am Mount Everest – ein Toter",
@@ -18,20 +18,20 @@
           "trend": "neu"
         },
         {
-          "titel": "Mittlerer Westen vor Midterms – Wie Trumps Iran-Krieg seine Partei bei den Wahlen belastet",
-          "untertitel": "In Nebraska und Iowa ist die republikanische Partei in der Defensive. Die gestiegenen Benzinpreise sorgen für Unmut.",
-          "link": "https://www.srf.ch/news/international/usa/mittlerer-westen-vor-midterms-wie-trumps-iran-krieg-seine-partei-bei-den-wahlen-belastet",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/2b42c5.webp",
+          "titel": "UBS-Lohnumfrage – Schweizer Löhne steigen 2027 nur leicht",
+          "untertitel": "Die Wirtschaft erholt sich zwar, doch am Arbeitsmarkt und bei den Löhnen kommt der Aufschwung kaum an.",
+          "link": "https://www.srf.ch/news/schweiz/ubs-lohnumfrage-schweizer-loehne-steigen-2027-nur-leicht",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/3ab5b8.webp",
           "quelle": "SRF",
-          "info": "2 Quellen berichten",
+          "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Im Detailhandel gibts nichts: Hier steigen die Löhne am stärksten",
-          "untertitel": "Die Wirtschaft brummt, aber die Reallöhne steigen im Schnitt nur um 0,2 Prozent. Manche können sich aber über leicht höhere Lohnsprünge freuen.",
-          "link": "https://www.20min.ch/story/2027-im-detailhandel-gibts-nichts-hier-steigen-die-loehne-am-staerksten-103661107",
-          "bild": "https://image.20min.ch/2026/11/03/f4708208-5e16-4df4-b1af-4356af62f86b.jpg?s=245b32629f958fce5e7319119c0579a8",
-          "quelle": "20 Minuten",
+          "titel": "Midterms in den USA – Wer kontrolliert künftig den US-Kongress? Die neuesten Umfragen",
+          "untertitel": "Wer erlangt die Mehrheit im Senat, wer im Repräsentantenhaus? Der Überblick in Grafiken.",
+          "link": "https://www.srf.ch/news/international/usa/midterms-in-den-usa-wer-kontrolliert-kuenftig-den-us-kongress-die-neuesten-umfragen",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/0f992e.webp",
+          "quelle": "SRF",
           "info": "2 Quellen berichten",
           "trend": "neu"
         }
@@ -41,13 +41,13 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-03T09:59:28+00:00",
+      "stand": "2026-11-03T13:09:08+00:00",
       "eintraege": [
         {
-          "titel": "Americans head to the polls for elections that could define Trump's closing chapter",
-          "untertitel": "The midterms will shape Congress for the last years of his presidency, writes Sarah Smith, but they are also a test of what politics may look like without him.",
-          "link": "https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c2d/live/2dcbeb40-d76a-11f1-93e1-3b657b665bcf.jpg",
+          "titel": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+          "untertitel": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state.",
+          "link": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c3e/live/cffa1c00-d726-11f1-b237-93d5595d4291.jpg",
           "quelle": "BBC",
           "info": "3 Quellen berichten",
           "trend": "neu"
@@ -62,13 +62,13 @@
           "trend": "neu"
         },
         {
-          "titel": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
-          "untertitel": "The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause.",
-          "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92c9/live/894f8890-d75c-11f1-93e1-3b657b665bcf.jpg",
+          "titel": "Shop freezers in seven European countries hit by cyber-attack",
+          "untertitel": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
+          "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31c7/live/152ec730-d6c3-11f1-93e1-3b657b665bcf.jpg",
           "quelle": "BBC",
           "info": "2 Quellen berichten",
-          "trend": "neu"
+          "trend": "runter"
         }
       ]
     },
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-03T09:59:28+00:00",
+      "stand": "2026-11-03T13:09:08+00:00",
       "eintraege": [
         {
-          "titel": "jesús de miguel",
-          "untertitel": "Muere el delantero del Tenerife Jesús de Miguel tras el brutal choque con el portero del Andorra",
-          "link": "https://www.elmundo.es/deportes/futbol/segunda-division/2026/11/03/6ae97d60e4d4d8e9038b459e.html",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNgP_TYgP0--GhfRtYACfpGKX6ZE_LtV-N629dMDFFySdqjW3uaNjbENcPDrE",
-          "quelle": "Google Trends · El Mundo",
-          "info": "200+ Suchanfragen",
+          "titel": "midterms wahlen usa",
+          "untertitel": "Die Midterms 2026 im Liveticker",
+          "link": "https://www.srf.ch/news/international/midterms-2026-die-usa-waehlen-neuen-kongress-erste-wahlbueros-sind-offen",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEIpO_XLKpYMD3Y__KI3XEvznJ5ftvSocZtGsEQajM3qsBLdpLPuM1Nm_32S8",
+          "quelle": "Google Trends · SRF",
+          "info": "500+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "geldautomat",
-          "untertitel": "Unterseen: Unbekannte wollen Geldautomaten stehlen und scheitern",
-          "link": "https://www.bernerzeitung.ch/unterseen-diebstahl-von-geldautomat-scheitert-753387777663",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdd5RAhYlxxImZManLvn9Q6RBTMcsNsaanZBvMi6_rt9ONIjYcWfnRmzbpmGc",
-          "quelle": "Google Trends · Berner Zeitung",
-          "info": "100+ Suchanfragen",
+          "titel": "flugzeugabsturz florida flugzeug",
+          "untertitel": "Tech-Millionär und Familie sterben bei Learjet-Absturz in Florida",
+          "link": "https://www.blick.ch/ausland/tech-millionaer-und-familie-sterben-bei-learjet-absturz-in-florida/v5q17mt",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRmZXfRDfMEykb5P0gB3-ZVk_0sRak70TwoyzWvf-J43JUmCkxNUW1o3F3RE2A",
+          "quelle": "Google Trends · Blick",
+          "info": "1000+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "jesus de miguel",
-          "untertitel": "Tenerife footballer Jesús de Miguel dies aged 30 after on-pitch collision",
-          "link": "https://www.theguardian.com/football/2026/nov/03/tenerife-footballer-jesus-de-miguel-hospital-collision",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN0C_ZMWkER47Li3396wHNRy3DQ2I2v_p6xYSsTTDU9XS5faHfxcg6rAVlHsY",
-          "quelle": "Google Trends · The Guardian",
-          "info": "2000+ Suchanfragen",
+          "titel": "apple",
+          "untertitel": "Apple's John Ternus faces early test as global memory crisis hurts profits",
+          "link": "https://www.cnbc.com/2026/11/03/apple-earnings-john-ternus-faces-first-test-amid-high-memory-costs.html",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqPD-wEsEwKHyQ0hlAeanV-ra39cDwk6r2w-gtLQm5xtxy5gC12s27AQF2IKw",
+          "quelle": "Google Trends · CNBC",
+          "info": "1000+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-03T09:59:28+00:00",
+      "stand": "2026-11-03T13:09:08+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-03T09:59:28+00:00",
+      "stand": "2026-11-03T13:09:08+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-03T09:59:28+00:00",
+      "stand": "2026-11-03T13:09:08+00:00",
       "eintraege": [
         {
           "titel": "Kulturnews in Kurzform – Deep Purple blasen ganze Europa-Tournee ab",
@@ -207,7 +207,7 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-03T09:59:28+00:00",
+      "stand": "2026-11-03T13:09:08+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
@@ -247,7 +247,7 @@
         },
         {
           "titel": "Lugano",
-          "untertitel": "Regenschauer · 8° bis 12°",
+          "untertitel": "Regenschauer · 7° bis 13°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
