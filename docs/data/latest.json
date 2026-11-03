@@ -1,39 +1,39 @@
 {
-  "aktualisiert": "2026-11-03T03:57:26+00:00",
+  "aktualisiert": "2026-11-03T07:16:40+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-03T03:57:26+00:00",
+      "stand": "2026-11-03T07:16:40+00:00",
       "eintraege": [
         {
-          "titel": "Krieg in der Ukraine – Witkoff: Nächste Woche Verhandlungen mit Ukraine und Russland",
-          "untertitel": "Das trilaterale Treffen auf Arbeitsebene solle nächste Woche Dienstag und Mittwoch in Abu Dhabi stattfinden.",
-          "link": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-witkoff-naechste-woche-verhandlungen-mit-ukraine-und-russland",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/861e6d.webp",
+          "titel": "Krieg in der Ukraine – Selenski warnt vor russischen Angriffen während US-Midterms",
+          "untertitel": "Kiew befürchtet, dass Russland die Angriffe während den US-Kongresswahlen intensivieren wird.",
+          "link": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-selenski-warnt-vor-russischen-angriffen-waehrend-us-midterms",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/a226d5f.webp",
           "quelle": "SRF",
           "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "«Ich war überrascht von dem Ganzen»",
-          "untertitel": "Alle sieben Gemeinderäte treten per sofort zurück. Im 500-Seelen-Dorf Brienzwiler BE ist ein jahrelanger Streit eskaliert. Blick war vor Ort und hat mit dem Gemeindepräsidenten …",
-          "link": "https://www.blick.ch/schweiz/bern/brienzwiler-be-gemeinderaete-treten-ab-blick-vor-ort/gxzhbh7",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/eSSktkuTURBXy8wODZiZDY0NS01ZTU2LTQzYTctYjc4Ni0zNmNhMmUxMDZhNmYuanBlZ5KTBc0CWM0BO5MJpjNlMWY2ZQY/jqz3ewmbdb9.jpg",
+          "titel": "Trotz hoher Treibstoffkosten – Swiss steigert Gewinn leicht",
+          "untertitel": "Von Januar bis September verdiente die Fluggesellschaft rund 10 Millionen mehr, wie die Lufthansa-Tochter bekannt gibt.",
+          "link": "https://www.srf.ch/news/wirtschaft/trotz-hoher-treibstoffkosten-swiss-steigert-gewinn-leicht",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/8640fa.webp",
+          "quelle": "SRF",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Patek-Chef schnappt sich Luxus-Anwesen für 38 Millionen",
+          "untertitel": "Uhren-König Thierry Stern (56) leistet sich ein neues Traumhaus. Der Patek-Philippe-Eigentümer legte im Genfer Promi-Vorort Cologny 38 Millionen Franken auf den Tisch. Das zeigt …",
+          "link": "https://www.blick.ch/schweiz/westschweiz/genf/patek-philippe-patron-kauft-38-millionen-villa-in-cologny-ge/rk9rc7q",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/CYPktkuTURBXy9mOGE2MGZiZC1jYTNiLTQ5NjAtYmUwZi04ZGNmYTNhMmE3NTguanBlZ5KTBc0CWM0BO5MJpjY3ZmYxZQY/am616j8rdi4.jpg",
           "quelle": "Blick",
           "info": "3 Quellen berichten",
           "trend": "runter"
-        },
-        {
-          "titel": "SRF «verurteilt» Sexualstraftäter – stellte 2022 aber einen an",
-          "untertitel": "Die Vorfälle um TV-Sportmoderator Hans Jucker sorgen für Aufsehen: Das SRF verurteilt sie. Gleichzeitig beschäftigt der Sender einen verurteilten Sexualstraftäter. Er befindet …",
-          "link": "https://www.20min.ch/story/zweiter-fall-wird-publik-srf-verurteilt-sexualstraftaeter-stellte-2022-aber-einen-an-103660738",
-          "bild": "https://media.20min.ch/6/image/2026/01/08/ea3fa5b6-80ae-4ef1-b2b6-4f5479daef56.jpg?s=997d41f77202d9733e30fc0a66cd0445",
-          "quelle": "20 Minuten",
-          "info": "2 Quellen berichten",
-          "trend": "neu"
         }
       ]
     },
@@ -41,7 +41,7 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-03T03:57:26+00:00",
+      "stand": "2026-11-03T07:16:40+00:00",
       "eintraege": [
         {
           "titel": "Supreme Court rejects Trump's request to stop California counting disputed votes",
@@ -76,34 +76,34 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-03T03:57:26+00:00",
+      "stand": "2026-11-03T07:16:40+00:00",
       "eintraege": [
         {
-          "titel": "crans-montana",
-          "untertitel": "Tragédie de Crans-Montana : l'absence de Jessica Moretti indigne les victimes",
-          "link": "https://www.20min.ch/fr/story/tragedie-de-crans-montana-une-audience-qui-est-prise-a-la-rigolade-deplore-une-victime-103660919",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUEpI0eaiZe8cc4oHvosNoFBXWw0kVeb8snH9swK3w6cOzG_lMkgGLewS2uVo",
-          "quelle": "Google Trends · 20 Minuten",
+          "titel": "cheval",
+          "untertitel": "Des dizaines de chevaux morts: la myopathie atypique frappe durement le Jura et le Jura bernois",
+          "link": "https://www.lqj.ch/articles/des-dizaines-de-chevaux-morts-la-myopathie-atypique-frappe-durement-le-jura-et-le-jura-bernois-148930",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRmAsRiCXZYH4xXySixACLsL-EQ2ttJmASAZMKWNanWBNtlD0JV8OmhaaEhKU4",
+          "quelle": "Google Trends · Le Quotidien Jurassien",
           "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "zürich",
-          "untertitel": "Linksextreme Gewalt in der Schweiz: Wer steckt dahinter?",
-          "link": "https://www.srf.ch/news/schweiz/nach-demos-in-zuerich-und-basel-wer-steckt-hinter-linksextremer-gewalt-in-der-schweiz",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkWY__9KaSwWLrOAKEz9fuMRbKY_8ycqYjA4JsII2MjW9TKGS20bz_gnXmDww",
-          "quelle": "Google Trends · SRF",
-          "info": "100+ Suchanfragen",
+          "titel": "check-in",
+          "untertitel": "A new rule will affect nearly everyone flying into the US",
+          "link": "https://www.usatoday.com/story/travel/2026/10/30/ebola-democratic-republic-congo-cdc-flights/92512982007/",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfOvAbXQpRfwlcwd6hlF9QDM9aXy6Tea2TzeKmwtSuspj_DANJUQgf4M3TYKY",
+          "quelle": "Google Trends · USA Today",
+          "info": "200+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "david schwimmer",
-          "untertitel": "Today’s famous birthdays list for November 2, 2026 includes celebrities David Schwimmer, Reshma Shetty",
-          "link": "https://www.cleveland.com/entertainment/2026/11/todays-famous-birthdays-list-for-november-2-2026-includes-celebrities-david-schwimmer-reshma-shetty.html",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT40h-Jq6_vqgC3zcu6UMPDYF8LOyApJ5cKDI1-SvzXbA1LN3LISFP89KNooDI",
-          "quelle": "Google Trends · Cleveland.com",
-          "info": "100+ Suchanfragen",
-          "trend": "runter"
+          "titel": "flugzeugabsturz florida",
+          "untertitel": "Tech-Millionär und Familie sterben bei Learjet-Absturz in Florida",
+          "link": "https://www.blick.ch/ausland/tech-millionaer-und-familie-sterben-bei-learjet-absturz-in-florida/v5q17mt",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRmZXfRDfMEykb5P0gB3-ZVk_0sRak70TwoyzWvf-J43JUmCkxNUW1o3F3RE2A",
+          "quelle": "Google Trends · Blick",
+          "info": "200+ Suchanfragen",
+          "trend": "neu"
         }
       ]
     },
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-03T03:57:26+00:00",
+      "stand": "2026-11-03T07:16:40+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-03T03:57:26+00:00",
+      "stand": "2026-11-03T07:16:40+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-03T03:57:26+00:00",
+      "stand": "2026-11-03T07:16:40+00:00",
       "eintraege": [
         {
           "titel": "Bob Dylan im Hallenstadion – Niemand enttäuscht so gut wie Bob Dylan – der Konzertcheck",
@@ -198,7 +198,7 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-03T03:57:26+00:00",
+      "stand": "2026-11-03T07:16:40+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
@@ -211,12 +211,12 @@
         },
         {
           "titel": "Bern",
-          "untertitel": "Nebel · 2° bis 9°",
+          "untertitel": "Bewölkt · 3° bis 9°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
           "info": "Regenrisiko 0%",
-          "emoji": "🌫️"
+          "emoji": "☁️"
         },
         {
           "titel": "Basel",
@@ -238,11 +238,11 @@
         },
         {
           "titel": "Lugano",
-          "untertitel": "Regenschauer · 8° bis 12°",
+          "untertitel": "Regenschauer · 9° bis 12°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 18%",
+          "info": "Regenrisiko 15%",
           "emoji": "🌦️"
         }
       ]
