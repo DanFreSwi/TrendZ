@@ -1,0 +1,251 @@
+{
+  "aktualisiert": "2026-11-03T21:52:19+00:00",
+  "land": "ch",
+  "kategorien": [
+    {
+      "id": "news_ch",
+      "name": "News Schweiz",
+      "symbol": "🇨🇭",
+      "stand": "2026-11-03T21:52:19+00:00",
+      "eintraege": [
+        {
+          "titel": "Restaurant von Zürcher Gastro-Vize pleite – jetzt legt er sein Amt nieder",
+          "untertitel": "Anfang Jahr wurde Dirk Hany zum Vizepräsidenten von Gastro Stadt Zürich ernannt. Jetzt tritt er bereits wieder zurück. Hintergrund ist die Pleite seines Restaurants Sinaloa – und …",
+          "link": "https://www.blick.ch/schweiz/zuerich/zuercher-gastro-vize-tritt-nach-restaurant-pleite-ueberraschend-ab/h52xmdc",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/l-AktkuTURBXy83MmFkYmNhNy0xYmM0LTRiYTUtYTE2Zi00YjZhZjM1ZTVhYzMuanBlZ5KTBc0CWM0BO5MJpmM4M2FlNAY/ymuhxb4vgy.jpg",
+          "quelle": "Blick",
+          "info": "4 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Mehrere Fälle in Europa – Spitze Metallteile in Halloween-Süssigkeiten verletzen Kinder",
+          "untertitel": "Nadeln und Nägel in Halloween-Süsskram führen europaweit zu Ermittlungen. Die Häufung der Fälle ist aussergewöhnlich.",
+          "link": "https://www.srf.ch/news/international/mehrere-faelle-in-europa-spitze-metallteile-in-halloween-suessigkeiten-verletzen-kinder",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/0d8b678.webp",
+          "quelle": "SRF",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "So aufwendig ist der Unterhalt im Gotthard-Basistunnel",
+          "untertitel": "Seit zehn Jahren fahren täglich über 150 Züge durch den Gotthard-Basistunnel. Dessen Unterhalt ist aufwendig, zeitintensiv und kostet die SBB jährlich 35 Millionen Franken. Blick …",
+          "link": "https://www.blick.ch/schweiz/tessin/gotthard-basistunnel-sbb-saugen-15-tonnen-dreck-raus/s4krtvf",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/ZjmktkuTURBXy84OTdhMjcyYi02YWE5LTQxMWUtOWI5My00N2VmZTM2OWUyNWEuanBlZ5KTBc0CWM0BO5MJpmQ4MGZkZQY/btsv0j46w7.jpg",
+          "quelle": "Blick",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        }
+      ]
+    },
+    {
+      "id": "news_welt",
+      "name": "News Welt",
+      "symbol": "🌍",
+      "stand": "2026-11-03T21:52:19+00:00",
+      "eintraege": [
+        {
+          "titel": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
+          "untertitel": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
+          "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a5b/live/6de1e2e0-d7c7-11f1-a719-bf3dc3a3d5b5.jpg",
+          "quelle": "BBC",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
+          "untertitel": "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.",
+          "link": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a890/live/d92739f0-d778-11f1-9539-05485195b558.jpg",
+          "quelle": "BBC",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+          "untertitel": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
+          "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b517/live/8d68c970-d7a0-11f1-84dd-e55f4bec0ecd.jpg",
+          "quelle": "BBC",
+          "info": "2 Quellen berichten",
+          "trend": "neu"
+        }
+      ]
+    },
+    {
+      "id": "suche",
+      "name": "Gesucht in der Schweiz",
+      "symbol": "🔎",
+      "stand": "2026-11-03T21:52:19+00:00",
+      "eintraege": [
+        {
+          "titel": "nathalia gadelha filgueiras",
+          "untertitel": "NASA Administrator Isaacman defends Learjet copilot after Florida crash",
+          "link": "https://www.floridatoday.com/story/tech/science/space/2026/11/02/nasa-chief-jared-isaacman-defends-learjet-copilot-in-fatal-palm-beach-crash/92570178007/",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLk0tB6W5Mj_DZn7Y_BNMJ_zgvfgM5OEXIF92N21cD1QyhS3FSjgOLFTVkIt0",
+          "quelle": "Google Trends · Florida Today",
+          "info": "100+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "elections usa mi mandat",
+          "untertitel": "Élections de mi-mandat 2026: les États-Unis aux urnes",
+          "link": "https://www.rts.ch/info/monde/2026/minute-par-minute/29402944.html",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTLOKlxjw7dsix-QknR1qLNSCEF-hzCPmWZc74iF_v9gXQ32oExQfKqccs3rC8",
+          "quelle": "Google Trends · rts.ch",
+          "info": "100+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "bayern atletico",
+          "untertitel": "Champions League live updates: Roma strike twice past Man United, Barça lead Villa",
+          "link": "https://www.espn.com/soccer/story/_/id/50329034/uefa-champions-league-live-updates-atletico-madrid-bayern-munich-manchester-united-roma-barcelona-aston-villa",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDtm3NnaBJN8YNVFMibLZ7DBNVvMJS7ExVqJEclsH54m2oHoKzQnP63GmP0-g",
+          "quelle": "Google Trends · ESPN",
+          "info": "100+ Suchanfragen",
+          "trend": "neu"
+        }
+      ]
+    },
+    {
+      "id": "musik",
+      "name": "Musik",
+      "symbol": "🎵",
+      "stand": "2026-11-03T21:52:19+00:00",
+      "eintraege": [
+        {
+          "titel": "Housewife",
+          "untertitel": "Tate McRae",
+          "link": "https://music.apple.com/ch/album/housewife/6822497770?i=6822497774",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/300x300bb.jpg",
+          "quelle": "Apple Music Charts CH",
+          "info": "Pop",
+          "trend": "gleich"
+        },
+        {
+          "titel": "BbY WOW",
+          "untertitel": "KAROL G, Judeline & rusowsky",
+          "link": "https://music.apple.com/ch/album/bby-wow/6796864741?i=6796864754",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/300x300bb.jpg",
+          "quelle": "Apple Music Charts CH",
+          "info": "Latin",
+          "trend": "gleich"
+        },
+        {
+          "titel": "Movin' To The Sun",
+          "untertitel": "HUGEL, Imael Angel & Ultra Naté",
+          "link": "https://music.apple.com/ch/album/movin-to-the-sun/6769069923?i=6769070199",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/300x300bb.jpg",
+          "quelle": "Apple Music Charts CH",
+          "info": "Electronic, Dance",
+          "trend": "gleich"
+        }
+      ]
+    },
+    {
+      "id": "podcasts",
+      "name": "Podcasts",
+      "symbol": "🎙️",
+      "stand": "2026-11-03T21:52:19+00:00",
+      "eintraege": [
+        {
+          "titel": "Echo der Zeit",
+          "untertitel": "Schweizer Radio und Fernsehen (SRF)",
+          "link": "https://podcasts.apple.com/ch/podcast/echo-der-zeit/id81345425",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/91/51/f5/9151f5c8-97b2-43c1-d728-1850b4311aaf/mza_10466666821884933927.jpg/300x300bb.png",
+          "quelle": "Apple Podcasts Charts CH",
+          "info": "Nachrichten",
+          "trend": "gleich"
+        },
+        {
+          "titel": "RONZHEIMER.",
+          "untertitel": "Paul Ronzheimer",
+          "link": "https://podcasts.apple.com/ch/podcast/ronzheimer/id1700432142",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/16/ab/81/16ab81cb-e31f-5ea0-81a7-902a96dfd750/mza_17924075471806194431.jpg/300x300bb.png",
+          "quelle": "Apple Podcasts Charts CH",
+          "info": "Nachrichten",
+          "trend": "gleich"
+        },
+        {
+          "titel": "MORD AUF EX",
+          "untertitel": "Leonie Bartsch & Linn Schütze",
+          "link": "https://podcasts.apple.com/ch/podcast/mord-auf-ex/id1486608425",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b9/17/07/b91707ba-b4bf-2021-bafe-b4dd1e1f0196/mza_6370841172422755338.jpg/300x300bb.png",
+          "quelle": "Apple Podcasts Charts CH",
+          "info": "Wahre Kriminalfälle, Geschichte",
+          "trend": "gleich"
+        }
+      ]
+    },
+    {
+      "id": "events",
+      "name": "Events in den News",
+      "symbol": "🎟️",
+      "stand": "2026-11-03T21:52:19+00:00",
+      "eintraege": [
+        {
+          "titel": "Bob Dylan im Hallenstadion – Niemand enttäuscht so gut wie Bob Dylan – der Konzertcheck",
+          "untertitel": "Keine Hits, mehr Museum als Konzert, nur noch was für Dylan-Diplomierte? Die Hallenstadion-Show im Gegencheck.",
+          "link": "https://www.srf.ch/radio-srf-3/musik/bob-dylan-im-hallenstadion-niemand-enttaeuscht-so-gut-wie-bob-dylan-der-konzertcheck",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/4a2845.webp",
+          "quelle": "SRF",
+          "info": "",
+          "trend": "gleich"
+        }
+      ]
+    },
+    {
+      "id": "wetter",
+      "name": "Wetter morgen",
+      "symbol": "🌤️",
+      "stand": "2026-11-03T21:52:19+00:00",
+      "eintraege": [
+        {
+          "titel": "Zürich",
+          "untertitel": "Bewölkt · 5° bis 9°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 0%",
+          "emoji": "☁️"
+        },
+        {
+          "titel": "Bern",
+          "untertitel": "Nebel · 4° bis 8°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 0%",
+          "emoji": "🌫️"
+        },
+        {
+          "titel": "Basel",
+          "untertitel": "Bewölkt · 5° bis 10°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 0%",
+          "emoji": "☁️"
+        },
+        {
+          "titel": "Genf",
+          "untertitel": "Bewölkt · 6° bis 10°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 0%",
+          "emoji": "☁️"
+        },
+        {
+          "titel": "Lugano",
+          "untertitel": "Leichter Regen · 9° bis 12°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 65%",
+          "emoji": "🌦️"
+        }
+      ]
+    }
+  ]
+}

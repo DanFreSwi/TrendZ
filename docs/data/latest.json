@@ -1,35 +1,35 @@
 {
-  "aktualisiert": "2026-11-03T18:59:09+00:00",
+  "aktualisiert": "2026-11-03T21:52:19+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-03T18:59:09+00:00",
+      "stand": "2026-11-03T21:52:19+00:00",
       "eintraege": [
         {
-          "titel": "«Ich war überrascht von dem Ganzen»",
-          "untertitel": "Alle sieben Gemeinderäte treten per sofort zurück. Im 500-Seelen-Dorf Brienzwiler BE ist ein jahrelanger Streit eskaliert. Blick war vor Ort und hat mit dem Gemeindepräsidenten …",
-          "link": "https://www.blick.ch/schweiz/bern/brienzwiler-be-gemeinderaete-treten-ab-blick-vor-ort/gxzhbh7",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/eSSktkuTURBXy8wODZiZDY0NS01ZTU2LTQzYTctYjc4Ni0zNmNhMmUxMDZhNmYuanBlZ5KTBc0CWM0BO5MJpjNlMWY2ZQY/jqz3ewmbdb9.jpg",
+          "titel": "Restaurant von Zürcher Gastro-Vize pleite – jetzt legt er sein Amt nieder",
+          "untertitel": "Anfang Jahr wurde Dirk Hany zum Vizepräsidenten von Gastro Stadt Zürich ernannt. Jetzt tritt er bereits wieder zurück. Hintergrund ist die Pleite seines Restaurants Sinaloa – und …",
+          "link": "https://www.blick.ch/schweiz/zuerich/zuercher-gastro-vize-tritt-nach-restaurant-pleite-ueberraschend-ab/h52xmdc",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/l-AktkuTURBXy83MmFkYmNhNy0xYmM0LTRiYTUtYTE2Zi00YjZhZjM1ZTVhYzMuanBlZ5KTBc0CWM0BO5MJpmM4M2FlNAY/ymuhxb4vgy.jpg",
           "quelle": "Blick",
           "info": "4 Quellen berichten",
-          "trend": "gleich"
+          "trend": "neu"
         },
         {
-          "titel": "Zwei Halloween-Randalierer (19 und 21) müssen für mehrere Monate in den Knast",
-          "untertitel": "Die Staatsanwaltschaft Kanton Zürich hat gegen zwei junge Männer, die während der Ausschreitungen am Halloween-Wochenende in der Stadt Zürich verhaftet wurden, Strafbefehle …",
-          "link": "https://www.blick.ch/schweiz/zuerich/halloween-randalierer-von-zuerich-muessen-in-den-knast/1m5pmyx",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/OnSktkuTURBXy81MTNiZGNiNS1iYzA3LTQyZGUtOTk1MC0xNzA5YzEyNTc4NGMuanBlZ5KTBc0CWM0BO5MJpjhhZjc4NQY/5o9x5g86yhi.jpg",
-          "quelle": "Blick",
+          "titel": "Mehrere Fälle in Europa – Spitze Metallteile in Halloween-Süssigkeiten verletzen Kinder",
+          "untertitel": "Nadeln und Nägel in Halloween-Süsskram führen europaweit zu Ermittlungen. Die Häufung der Fälle ist aussergewöhnlich.",
+          "link": "https://www.srf.ch/news/international/mehrere-faelle-in-europa-spitze-metallteile-in-halloween-suessigkeiten-verletzen-kinder",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/0d8b678.webp",
+          "quelle": "SRF",
           "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
           "titel": "So aufwendig ist der Unterhalt im Gotthard-Basistunnel",
           "untertitel": "Seit zehn Jahren fahren täglich über 150 Züge durch den Gotthard-Basistunnel. Dessen Unterhalt ist aufwendig, zeitintensiv und kostet die SBB jährlich 35 Millionen Franken. Blick …",
-          "link": "https://www.blick.ch/schweiz/zentralschweiz/uri/gotthard-basistunnel-sbb-saugen-15-tonnen-dreck-raus/rvr74v6",
+          "link": "https://www.blick.ch/schweiz/tessin/gotthard-basistunnel-sbb-saugen-15-tonnen-dreck-raus/s4krtvf",
           "bild": "https://ocdn.eu/pulscms-transforms/1/ZjmktkuTURBXy84OTdhMjcyYi02YWE5LTQxMWUtOWI5My00N2VmZTM2OWUyNWEuanBlZ5KTBc0CWM0BO5MJpmQ4MGZkZQY/btsv0j46w7.jpg",
           "quelle": "Blick",
           "info": "3 Quellen berichten",
@@ -41,13 +41,13 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-03T18:59:09+00:00",
+      "stand": "2026-11-03T21:52:19+00:00",
       "eintraege": [
         {
           "titel": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
           "untertitel": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
           "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eae/live/d2df48e0-d79a-11f1-b441-2b33b063138f.jpg",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a5b/live/6de1e2e0-d7c7-11f1-a719-bf3dc3a3d5b5.jpg",
           "quelle": "BBC",
           "info": "3 Quellen berichten",
           "trend": "neu"
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-03T18:59:09+00:00",
+      "stand": "2026-11-03T21:52:19+00:00",
       "eintraege": [
         {
-          "titel": "nathalia filgueiras",
-          "untertitel": "Piloto de 55 anos que morreu em queda de avião na Flórida é identificado; conheça as vítimas",
-          "link": "https://oglobo.globo.com/mundo/noticia/2026/11/03/piloto-de-55-anos-que-morreu-em-queda-de-aviao-na-florida-e-identificado.ghtml",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC8t2-ZMAgTLhTNE2Ew3e9LBL19UbxilCfTuKMzFD8cFCiyjY453WmgiupWS4",
-          "quelle": "Google Trends · O GLOBO",
-          "info": "2000+ Suchanfragen",
-          "trend": "neu"
-        },
-        {
-          "titel": "philip wüthrich",
-          "untertitel": "Persönliche Entscheidung: Ambri-Goalie wird Klub verlassen",
-          "link": "https://www.blick.ch/sport/eishockey/nl/national-league-philip-wuethrich-verlaesst-ambri-am-saisonende/ms61hr1",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQE8jQnG4W-gqZGl_eI7tsbP1FL0RA-DM51DLk-2eJ1u2yxWj6xu3ablMdif9o",
-          "quelle": "Google Trends · Blick",
+          "titel": "nathalia gadelha filgueiras",
+          "untertitel": "NASA Administrator Isaacman defends Learjet copilot after Florida crash",
+          "link": "https://www.floridatoday.com/story/tech/science/space/2026/11/02/nasa-chief-jared-isaacman-defends-learjet-copilot-in-fatal-palm-beach-crash/92570178007/",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLk0tB6W5Mj_DZn7Y_BNMJ_zgvfgM5OEXIF92N21cD1QyhS3FSjgOLFTVkIt0",
+          "quelle": "Google Trends · Florida Today",
           "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "galatasaray",
-          "untertitel": "CANLI | Galatasaray - Stuttgart maçı Canlı Anlatım - GS - STU maçı kadrosu, skoru ve istatistikleri",
-          "link": "https://www.fanatik.com.tr/galatasaray/live-galatasaray-stuttgart-maci-canli-anlatim-gs-stu-maci-kadrosu-skoru-ve-istatistikleri-2643231",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSo-1nnug2DxeIzdTZoVgKwF2-20JbUaZBn3cvUVbfv1GR09OJMl-VTy4_1v5c",
-          "quelle": "Google Trends · Fanatik",
-          "info": "500+ Suchanfragen",
+          "titel": "elections usa mi mandat",
+          "untertitel": "Élections de mi-mandat 2026: les États-Unis aux urnes",
+          "link": "https://www.rts.ch/info/monde/2026/minute-par-minute/29402944.html",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTLOKlxjw7dsix-QknR1qLNSCEF-hzCPmWZc74iF_v9gXQ32oExQfKqccs3rC8",
+          "quelle": "Google Trends · rts.ch",
+          "info": "100+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "bayern atletico",
+          "untertitel": "Champions League live updates: Roma strike twice past Man United, Barça lead Villa",
+          "link": "https://www.espn.com/soccer/story/_/id/50329034/uefa-champions-league-live-updates-atletico-madrid-bayern-munich-manchester-united-roma-barcelona-aston-villa",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDtm3NnaBJN8YNVFMibLZ7DBNVvMJS7ExVqJEclsH54m2oHoKzQnP63GmP0-g",
+          "quelle": "Google Trends · ESPN",
+          "info": "100+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-03T18:59:09+00:00",
+      "stand": "2026-11-03T21:52:19+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-03T18:59:09+00:00",
+      "stand": "2026-11-03T21:52:19+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-03T18:59:09+00:00",
+      "stand": "2026-11-03T21:52:19+00:00",
       "eintraege": [
         {
           "titel": "Bob Dylan im Hallenstadion – Niemand enttäuscht so gut wie Bob Dylan – der Konzertcheck",
@@ -198,11 +198,11 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-03T18:59:09+00:00",
+      "stand": "2026-11-03T21:52:19+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
-          "untertitel": "Bewölkt · 4° bis 9°",
+          "untertitel": "Bewölkt · 5° bis 9°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -220,7 +220,7 @@
         },
         {
           "titel": "Basel",
-          "untertitel": "Bewölkt · 6° bis 10°",
+          "untertitel": "Bewölkt · 5° bis 10°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -233,16 +233,16 @@
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 3%",
+          "info": "Regenrisiko 0%",
           "emoji": "☁️"
         },
         {
           "titel": "Lugano",
-          "untertitel": "Regenschauer · 8° bis 12°",
+          "untertitel": "Leichter Regen · 9° bis 12°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 58%",
+          "info": "Regenrisiko 65%",
           "emoji": "🌦️"
         }
       ]
