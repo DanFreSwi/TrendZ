@@ -1,13 +1,22 @@
 {
-  "aktualisiert": "2026-11-03T01:09:28+00:00",
+  "aktualisiert": "2026-11-03T03:57:26+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-03T01:09:28+00:00",
+      "stand": "2026-11-03T03:57:26+00:00",
       "eintraege": [
+        {
+          "titel": "Krieg in der Ukraine – Witkoff: Nächste Woche Verhandlungen mit Ukraine und Russland",
+          "untertitel": "Das trilaterale Treffen auf Arbeitsebene solle nächste Woche Dienstag und Mittwoch in Abu Dhabi stattfinden.",
+          "link": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-witkoff-naechste-woche-verhandlungen-mit-ukraine-und-russland",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/861e6d.webp",
+          "quelle": "SRF",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
         {
           "titel": "«Ich war überrascht von dem Ganzen»",
           "untertitel": "Alle sieben Gemeinderäte treten per sofort zurück. Im 500-Seelen-Dorf Brienzwiler BE ist ein jahrelanger Streit eskaliert. Blick war vor Ort und hat mit dem Gemeindepräsidenten …",
@@ -15,25 +24,16 @@
           "bild": "https://ocdn.eu/pulscms-transforms/1/eSSktkuTURBXy8wODZiZDY0NS01ZTU2LTQzYTctYjc4Ni0zNmNhMmUxMDZhNmYuanBlZ5KTBc0CWM0BO5MJpjNlMWY2ZQY/jqz3ewmbdb9.jpg",
           "quelle": "Blick",
           "info": "3 Quellen berichten",
-          "trend": "gleich"
+          "trend": "runter"
         },
         {
-          "titel": "Patek-Chef schnappt sich Luxus-Anwesen für 38 Millionen",
-          "untertitel": "Uhren-König Thierry Stern (56) leistet sich ein neues Traumhaus. Der Patek-Philippe-Eigentümer legte im Genfer Promi-Vorort Cologny 38 Millionen Franken auf den Tisch. Das zeigt …",
-          "link": "https://www.blick.ch/schweiz/westschweiz/genf/patek-philippe-patron-kauft-38-millionen-villa-in-cologny-ge/rk9rc7q",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/CYPktkuTURBXy9mOGE2MGZiZC1jYTNiLTQ5NjAtYmUwZi04ZGNmYTNhMmE3NTguanBlZ5KTBc0CWM0BO5MJpjY3ZmYxZQY/am616j8rdi4.jpg",
-          "quelle": "Blick",
-          "info": "3 Quellen berichten",
-          "trend": "gleich"
-        },
-        {
-          "titel": "EZB-Chefin Lagarde tritt am 7. Februar zurück",
-          "untertitel": "EZB-Präsidentin Christine Lagarde tritt am 7. Februar 2027 zurück. Das teilte die Europäische Zentralbank (EZB) in Frankfurt mit.",
-          "link": "https://www.watson.ch/wirtschaft/banken/632166542-ezb-chefin-christine-lagarde-tritt-am-7-februar-zurueck",
-          "bild": "",
-          "quelle": "watson",
-          "info": "3 Quellen berichten",
-          "trend": "gleich"
+          "titel": "SRF «verurteilt» Sexualstraftäter – stellte 2022 aber einen an",
+          "untertitel": "Die Vorfälle um TV-Sportmoderator Hans Jucker sorgen für Aufsehen: Das SRF verurteilt sie. Gleichzeitig beschäftigt der Sender einen verurteilten Sexualstraftäter. Er befindet …",
+          "link": "https://www.20min.ch/story/zweiter-fall-wird-publik-srf-verurteilt-sexualstraftaeter-stellte-2022-aber-einen-an-103660738",
+          "bild": "https://media.20min.ch/6/image/2026/01/08/ea3fa5b6-80ae-4ef1-b2b6-4f5479daef56.jpg?s=997d41f77202d9733e30fc0a66cd0445",
+          "quelle": "20 Minuten",
+          "info": "2 Quellen berichten",
+          "trend": "neu"
         }
       ]
     },
@@ -41,8 +41,17 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-03T01:09:28+00:00",
+      "stand": "2026-11-03T03:57:26+00:00",
       "eintraege": [
+        {
+          "titel": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+          "untertitel": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state.",
+          "link": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c3e/live/cffa1c00-d726-11f1-b237-93d5595d4291.jpg",
+          "quelle": "BBC",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
         {
           "titel": "Shop freezers in seven European countries hit by cyber-attack",
           "untertitel": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
@@ -50,7 +59,7 @@
           "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31c7/live/152ec730-d6c3-11f1-93e1-3b657b665bcf.jpg",
           "quelle": "BBC",
           "info": "3 Quellen berichten",
-          "trend": "gleich"
+          "trend": "runter"
         },
         {
           "titel": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
@@ -59,16 +68,7 @@
           "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5be/live/174cc760-d6d2-11f1-a701-fddedf244c16.jpg",
           "quelle": "BBC",
           "info": "3 Quellen berichten",
-          "trend": "gleich"
-        },
-        {
-          "titel": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-          "untertitel": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
-          "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee1e/live/8480acc0-d6eb-11f1-a741-236ee91c2e25.png",
-          "quelle": "BBC",
-          "info": "2 Quellen berichten",
-          "trend": "gleich"
+          "trend": "runter"
         }
       ]
     },
@@ -76,15 +76,24 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-03T01:09:28+00:00",
+      "stand": "2026-11-03T03:57:26+00:00",
       "eintraege": [
         {
-          "titel": "anthropic",
-          "untertitel": "Inside Anthropic’s Hunt for A.I. Computing Power",
-          "link": "https://www.nytimes.com/2026/11/02/technology/anthropic-ai-computing-power.html",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtaZoBshvBXRVpLY5wvJX5UKUhzS43yDsCXlT7UaGb9gVOqGwJrEqRDtdHmWg",
-          "quelle": "Google Trends · The New York Times",
-          "info": "200+ Suchanfragen",
+          "titel": "crans-montana",
+          "untertitel": "Tragédie de Crans-Montana : l'absence de Jessica Moretti indigne les victimes",
+          "link": "https://www.20min.ch/fr/story/tragedie-de-crans-montana-une-audience-qui-est-prise-a-la-rigolade-deplore-une-victime-103660919",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUEpI0eaiZe8cc4oHvosNoFBXWw0kVeb8snH9swK3w6cOzG_lMkgGLewS2uVo",
+          "quelle": "Google Trends · 20 Minuten",
+          "info": "100+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "zürich",
+          "untertitel": "Linksextreme Gewalt in der Schweiz: Wer steckt dahinter?",
+          "link": "https://www.srf.ch/news/schweiz/nach-demos-in-zuerich-und-basel-wer-steckt-hinter-linksextremer-gewalt-in-der-schweiz",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkWY__9KaSwWLrOAKEz9fuMRbKY_8ycqYjA4JsII2MjW9TKGS20bz_gnXmDww",
+          "quelle": "Google Trends · SRF",
+          "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
@@ -95,15 +104,6 @@
           "quelle": "Google Trends · Cleveland.com",
           "info": "100+ Suchanfragen",
           "trend": "runter"
-        },
-        {
-          "titel": "adam robinson",
-          "untertitel": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
-          "link": "https://www.bbc.com/news/articles/cm369yy7lw73o",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS08AvRB3j6GqjzH19VYTt4kSo0ZKVgFgwEfNYBGr_3XtkCm2hDVaFL0ZEJibc",
-          "quelle": "Google Trends · BBC",
-          "info": "1000+ Suchanfragen",
-          "trend": "runter"
         }
       ]
     },
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-03T01:09:28+00:00",
+      "stand": "2026-11-03T03:57:26+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-03T01:09:28+00:00",
+      "stand": "2026-11-03T03:57:26+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-03T01:09:28+00:00",
+      "stand": "2026-11-03T03:57:26+00:00",
       "eintraege": [
         {
           "titel": "Bob Dylan im Hallenstadion – Niemand enttäuscht so gut wie Bob Dylan – der Konzertcheck",
@@ -198,11 +198,11 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-03T01:09:28+00:00",
+      "stand": "2026-11-03T03:57:26+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
-          "untertitel": "Bewölkt · 5° bis 9°",
+          "untertitel": "Bewölkt · 4° bis 9°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -211,16 +211,16 @@
         },
         {
           "titel": "Bern",
-          "untertitel": "Bewölkt · 2° bis 9°",
+          "untertitel": "Nebel · 2° bis 9°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
           "info": "Regenrisiko 0%",
-          "emoji": "☁️"
+          "emoji": "🌫️"
         },
         {
           "titel": "Basel",
-          "untertitel": "Bewölkt · 3° bis 11°",
+          "untertitel": "Bewölkt · 4° bis 11°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -238,7 +238,7 @@
         },
         {
           "titel": "Lugano",
-          "untertitel": "Regenschauer · 7° bis 12°",
+          "untertitel": "Regenschauer · 8° bis 12°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
