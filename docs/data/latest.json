@@ -1,39 +1,39 @@
 {
-  "aktualisiert": "2026-11-03T07:16:40+00:00",
+  "aktualisiert": "2026-11-03T09:59:28+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-03T07:16:40+00:00",
+      "stand": "2026-11-03T09:59:28+00:00",
       "eintraege": [
         {
-          "titel": "Krieg in der Ukraine – Selenski warnt vor russischen Angriffen während US-Midterms",
-          "untertitel": "Kiew befürchtet, dass Russland die Angriffe während den US-Kongresswahlen intensivieren wird.",
-          "link": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-selenski-warnt-vor-russischen-angriffen-waehrend-us-midterms",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/a226d5f.webp",
-          "quelle": "SRF",
-          "info": "3 Quellen berichten",
+          "titel": "Helikopter kollidieren am Mount Everest – ein Toter",
+          "untertitel": "Nahe dem Basislager des Mount Everest stiessen am Dienstag zwei Helikopter zusammen. Ein Mensch kam dabei ums Leben. Zwei weitere Personen wurden verletzt. Laut den Behörden …",
+          "link": "https://www.20min.ch/video/nepal-helikopter-kollidieren-am-mount-everest-ein-toter-103661144",
+          "bild": "https://image.20min.ch/2026/11/03/9e113e61-32d2-46b6-89e9-fda8c72acff8.jpg?s=bd9232712c20573842a28f53c5f637b0",
+          "quelle": "20 Minuten",
+          "info": "4 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Trotz hoher Treibstoffkosten – Swiss steigert Gewinn leicht",
-          "untertitel": "Von Januar bis September verdiente die Fluggesellschaft rund 10 Millionen mehr, wie die Lufthansa-Tochter bekannt gibt.",
-          "link": "https://www.srf.ch/news/wirtschaft/trotz-hoher-treibstoffkosten-swiss-steigert-gewinn-leicht",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/8640fa.webp",
+          "titel": "Mittlerer Westen vor Midterms – Wie Trumps Iran-Krieg seine Partei bei den Wahlen belastet",
+          "untertitel": "In Nebraska und Iowa ist die republikanische Partei in der Defensive. Die gestiegenen Benzinpreise sorgen für Unmut.",
+          "link": "https://www.srf.ch/news/international/usa/mittlerer-westen-vor-midterms-wie-trumps-iran-krieg-seine-partei-bei-den-wahlen-belastet",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/2b42c5.webp",
           "quelle": "SRF",
-          "info": "3 Quellen berichten",
+          "info": "2 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Patek-Chef schnappt sich Luxus-Anwesen für 38 Millionen",
-          "untertitel": "Uhren-König Thierry Stern (56) leistet sich ein neues Traumhaus. Der Patek-Philippe-Eigentümer legte im Genfer Promi-Vorort Cologny 38 Millionen Franken auf den Tisch. Das zeigt …",
-          "link": "https://www.blick.ch/schweiz/westschweiz/genf/patek-philippe-patron-kauft-38-millionen-villa-in-cologny-ge/rk9rc7q",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/CYPktkuTURBXy9mOGE2MGZiZC1jYTNiLTQ5NjAtYmUwZi04ZGNmYTNhMmE3NTguanBlZ5KTBc0CWM0BO5MJpjY3ZmYxZQY/am616j8rdi4.jpg",
-          "quelle": "Blick",
-          "info": "3 Quellen berichten",
-          "trend": "runter"
+          "titel": "Im Detailhandel gibts nichts: Hier steigen die Löhne am stärksten",
+          "untertitel": "Die Wirtschaft brummt, aber die Reallöhne steigen im Schnitt nur um 0,2 Prozent. Manche können sich aber über leicht höhere Lohnsprünge freuen.",
+          "link": "https://www.20min.ch/story/2027-im-detailhandel-gibts-nichts-hier-steigen-die-loehne-am-staerksten-103661107",
+          "bild": "https://image.20min.ch/2026/11/03/f4708208-5e16-4df4-b1af-4356af62f86b.jpg?s=245b32629f958fce5e7319119c0579a8",
+          "quelle": "20 Minuten",
+          "info": "2 Quellen berichten",
+          "trend": "neu"
         }
       ]
     },
@@ -41,34 +41,34 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-03T07:16:40+00:00",
+      "stand": "2026-11-03T09:59:28+00:00",
       "eintraege": [
         {
-          "titel": "Supreme Court rejects Trump's request to stop California counting disputed votes",
-          "untertitel": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state.",
-          "link": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c3e/live/cffa1c00-d726-11f1-b237-93d5595d4291.jpg",
+          "titel": "Americans head to the polls for elections that could define Trump's closing chapter",
+          "untertitel": "The midterms will shape Congress for the last years of his presidency, writes Sarah Smith, but they are also a test of what politics may look like without him.",
+          "link": "https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c2d/live/2dcbeb40-d76a-11f1-93e1-3b657b665bcf.jpg",
           "quelle": "BBC",
           "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Shop freezers in seven European countries hit by cyber-attack",
-          "untertitel": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
-          "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31c7/live/152ec730-d6c3-11f1-93e1-3b657b665bcf.jpg",
-          "quelle": "BBC",
-          "info": "3 Quellen berichten",
-          "trend": "runter"
+          "titel": "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job",
+          "untertitel": "Critics cite Lana Nusseibeh’s denial of accusations the UAE is fuelling Sudan war by supporting paramilitary RSF Members of the Sudanese diaspora and international human rights …",
+          "link": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
+          "bild": "https://i.guim.co.uk/img/media/1a207f81e70f26c6fb300fd2353ecaa161bc7714/0_0_2895_2317/master/2895.jpg?width=140&quality=85&auto=format&fit=max&s=4b30b227f8f2e941aab03d70ddbb2708",
+          "quelle": "The Guardian",
+          "info": "2 Quellen berichten",
+          "trend": "neu"
         },
         {
-          "titel": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
-          "untertitel": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
-          "link": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5be/live/174cc760-d6d2-11f1-a701-fddedf244c16.jpg",
+          "titel": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
+          "untertitel": "The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause.",
+          "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92c9/live/894f8890-d75c-11f1-93e1-3b657b665bcf.jpg",
           "quelle": "BBC",
-          "info": "3 Quellen berichten",
-          "trend": "runter"
+          "info": "2 Quellen berichten",
+          "trend": "neu"
         }
       ]
     },
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-03T07:16:40+00:00",
+      "stand": "2026-11-03T09:59:28+00:00",
       "eintraege": [
         {
-          "titel": "cheval",
-          "untertitel": "Des dizaines de chevaux morts: la myopathie atypique frappe durement le Jura et le Jura bernois",
-          "link": "https://www.lqj.ch/articles/des-dizaines-de-chevaux-morts-la-myopathie-atypique-frappe-durement-le-jura-et-le-jura-bernois-148930",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRmAsRiCXZYH4xXySixACLsL-EQ2ttJmASAZMKWNanWBNtlD0JV8OmhaaEhKU4",
-          "quelle": "Google Trends · Le Quotidien Jurassien",
+          "titel": "jesús de miguel",
+          "untertitel": "Muere el delantero del Tenerife Jesús de Miguel tras el brutal choque con el portero del Andorra",
+          "link": "https://www.elmundo.es/deportes/futbol/segunda-division/2026/11/03/6ae97d60e4d4d8e9038b459e.html",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNgP_TYgP0--GhfRtYACfpGKX6ZE_LtV-N629dMDFFySdqjW3uaNjbENcPDrE",
+          "quelle": "Google Trends · El Mundo",
+          "info": "200+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "geldautomat",
+          "untertitel": "Unterseen: Unbekannte wollen Geldautomaten stehlen und scheitern",
+          "link": "https://www.bernerzeitung.ch/unterseen-diebstahl-von-geldautomat-scheitert-753387777663",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdd5RAhYlxxImZManLvn9Q6RBTMcsNsaanZBvMi6_rt9ONIjYcWfnRmzbpmGc",
+          "quelle": "Google Trends · Berner Zeitung",
           "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "check-in",
-          "untertitel": "A new rule will affect nearly everyone flying into the US",
-          "link": "https://www.usatoday.com/story/travel/2026/10/30/ebola-democratic-republic-congo-cdc-flights/92512982007/",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfOvAbXQpRfwlcwd6hlF9QDM9aXy6Tea2TzeKmwtSuspj_DANJUQgf4M3TYKY",
-          "quelle": "Google Trends · USA Today",
-          "info": "200+ Suchanfragen",
-          "trend": "neu"
-        },
-        {
-          "titel": "flugzeugabsturz florida",
-          "untertitel": "Tech-Millionär und Familie sterben bei Learjet-Absturz in Florida",
-          "link": "https://www.blick.ch/ausland/tech-millionaer-und-familie-sterben-bei-learjet-absturz-in-florida/v5q17mt",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRmZXfRDfMEykb5P0gB3-ZVk_0sRak70TwoyzWvf-J43JUmCkxNUW1o3F3RE2A",
-          "quelle": "Google Trends · Blick",
-          "info": "200+ Suchanfragen",
+          "titel": "jesus de miguel",
+          "untertitel": "Tenerife footballer Jesús de Miguel dies aged 30 after on-pitch collision",
+          "link": "https://www.theguardian.com/football/2026/nov/03/tenerife-footballer-jesus-de-miguel-hospital-collision",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN0C_ZMWkER47Li3396wHNRy3DQ2I2v_p6xYSsTTDU9XS5faHfxcg6rAVlHsY",
+          "quelle": "Google Trends · The Guardian",
+          "info": "2000+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-03T07:16:40+00:00",
+      "stand": "2026-11-03T09:59:28+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-03T07:16:40+00:00",
+      "stand": "2026-11-03T09:59:28+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,8 +181,17 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-03T07:16:40+00:00",
+      "stand": "2026-11-03T09:59:28+00:00",
       "eintraege": [
+        {
+          "titel": "Kulturnews in Kurzform – Deep Purple blasen ganze Europa-Tournee ab",
+          "untertitel": "Es scheint etwas Ernstes: Die britische Rockband sagt bis auf Weiteres alle Konzerte ab – ihr Leadsänger ist im Spital.",
+          "link": "https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-deep-purple-blasen-ganze-europa-tournee-ab",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/946a48.webp",
+          "quelle": "SRF",
+          "info": "",
+          "trend": "neu"
+        },
         {
           "titel": "Bob Dylan im Hallenstadion – Niemand enttäuscht so gut wie Bob Dylan – der Konzertcheck",
           "untertitel": "Keine Hits, mehr Museum als Konzert, nur noch was für Dylan-Diplomierte? Die Hallenstadion-Show im Gegencheck.",
@@ -190,7 +199,7 @@
           "bild": "https://www.srf.ch/static/cms/images//320ws/4a2845.webp",
           "quelle": "SRF",
           "info": "",
-          "trend": "gleich"
+          "trend": "runter"
         }
       ]
     },
@@ -198,7 +207,7 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-03T07:16:40+00:00",
+      "stand": "2026-11-03T09:59:28+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
@@ -238,11 +247,11 @@
         },
         {
           "titel": "Lugano",
-          "untertitel": "Regenschauer · 9° bis 12°",
+          "untertitel": "Regenschauer · 8° bis 12°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 15%",
+          "info": "Regenrisiko 30%",
           "emoji": "🌦️"
         }
       ]
