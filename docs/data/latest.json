@@ -1,38 +1,38 @@
 {
-  "aktualisiert": "2026-11-03T13:09:08+00:00",
+  "aktualisiert": "2026-11-03T15:58:09+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-03T13:09:08+00:00",
+      "stand": "2026-11-03T15:58:09+00:00",
       "eintraege": [
         {
-          "titel": "Helikopter kollidieren am Mount Everest – ein Toter",
-          "untertitel": "Nahe dem Basislager des Mount Everest stiessen am Dienstag zwei Helikopter zusammen. Ein Mensch kam dabei ums Leben. Zwei weitere Personen wurden verletzt. Laut den Behörden …",
-          "link": "https://www.20min.ch/video/nepal-helikopter-kollidieren-am-mount-everest-ein-toter-103661144",
-          "bild": "https://image.20min.ch/2026/11/03/9e113e61-32d2-46b6-89e9-fda8c72acff8.jpg?s=bd9232712c20573842a28f53c5f637b0",
+          "titel": "Tragödie auf Teneriffa: Ehefrau sass mit Tochter auf Tribüne",
+          "untertitel": "Der Tod von Teneriffa-Stürmer Jesús de Miguel erschüttert den spanischen Fussball in seinen Grundfesten. Die Nationalpolizei ermittelt nun wegen fahrlässiger Tötung.",
+          "link": "https://www.20min.ch/story/zustand-verschlechtert-horror-zusammenprall-stuermer-30-erleidet-herzstillstand-103661270",
+          "bild": "https://image.20min.ch/2026/11/03/64512434-d3ae-4f40-aaf6-818b69c90d72.jpg?s=07096a54bdfc96190bc0a717192f5105",
           "quelle": "20 Minuten",
-          "info": "4 Quellen berichten",
-          "trend": "neu"
-        },
-        {
-          "titel": "UBS-Lohnumfrage – Schweizer Löhne steigen 2027 nur leicht",
-          "untertitel": "Die Wirtschaft erholt sich zwar, doch am Arbeitsmarkt und bei den Löhnen kommt der Aufschwung kaum an.",
-          "link": "https://www.srf.ch/news/schweiz/ubs-lohnumfrage-schweizer-loehne-steigen-2027-nur-leicht",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/3ab5b8.webp",
-          "quelle": "SRF",
           "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Midterms in den USA – Wer kontrolliert künftig den US-Kongress? Die neuesten Umfragen",
-          "untertitel": "Wer erlangt die Mehrheit im Senat, wer im Repräsentantenhaus? Der Überblick in Grafiken.",
-          "link": "https://www.srf.ch/news/international/usa/midterms-in-den-usa-wer-kontrolliert-kuenftig-den-us-kongress-die-neuesten-umfragen",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/0f992e.webp",
-          "quelle": "SRF",
-          "info": "2 Quellen berichten",
+          "titel": "«Ich war überrascht von dem Ganzen»",
+          "untertitel": "Alle sieben Gemeinderäte treten per sofort zurück. Im 500-Seelen-Dorf Brienzwiler BE ist ein jahrelanger Streit eskaliert. Blick war vor Ort und hat mit dem Gemeindepräsidenten …",
+          "link": "https://www.blick.ch/schweiz/bern/brienzwiler-be-gemeinderaete-treten-ab-blick-vor-ort/gxzhbh7",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/eSSktkuTURBXy8wODZiZDY0NS01ZTU2LTQzYTctYjc4Ni0zNmNhMmUxMDZhNmYuanBlZ5KTBc0CWM0BO5MJpjNlMWY2ZQY/jqz3ewmbdb9.jpg",
+          "quelle": "Blick",
+          "info": "3 Quellen berichten",
+          "trend": "runter"
+        },
+        {
+          "titel": "«Das begleitet dich ein Leben lang»",
+          "untertitel": "TV-Legende Hans Jucker wurde 1971 wegen sexueller Handlungen mit Jugendlichen zu acht Monaten bedingt verurteilt. Auch das ehemalige Heimkind Willi Fegble ist eines der Opfer.",
+          "link": "https://www.blick.ch/schweiz/mittelland/aargau/willi-fegble-71-spricht-ueber-hans-jucker/2tyy841",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/XVNktkuTURBXy8wOWI5MWUyNC04NDc4LTRkMTEtOTQ3ZC05MDVkMmNjNjk2N2MuanBlZ5KTBc0CWM0BO5MJpjMyY2YzMgY/wrsy0keu3vo.jpg",
+          "quelle": "Blick",
+          "info": "3 Quellen berichten",
           "trend": "neu"
         }
       ]
@@ -41,7 +41,7 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-03T13:09:08+00:00",
+      "stand": "2026-11-03T15:58:09+00:00",
       "eintraege": [
         {
           "titel": "Supreme Court rejects Trump's request to stop California counting disputed votes",
@@ -62,13 +62,13 @@
           "trend": "neu"
         },
         {
-          "titel": "Shop freezers in seven European countries hit by cyber-attack",
-          "untertitel": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
-          "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31c7/live/152ec730-d6c3-11f1-93e1-3b657b665bcf.jpg",
-          "quelle": "BBC",
+          "titel": "Merz verspricht mehr Hilfe für die Ukraine und appelliert an Europäer",
+          "untertitel": "Russische Angriffe auf die Energie-Infrastruktur, Raketeneinschläge in den Städten: Der Ukraine droht ein harter Kriegswinter. Kanzler Merz sagt Unterstützung zu - fordert aber …",
+          "link": "https://www.tagesschau.de/ausland/europa/merz-selenskyj-134.html",
+          "bild": "",
+          "quelle": "tagesschau",
           "info": "2 Quellen berichten",
-          "trend": "runter"
+          "trend": "neu"
         }
       ]
     },
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-03T13:09:08+00:00",
+      "stand": "2026-11-03T15:58:09+00:00",
       "eintraege": [
         {
-          "titel": "midterms wahlen usa",
-          "untertitel": "Die Midterms 2026 im Liveticker",
-          "link": "https://www.srf.ch/news/international/midterms-2026-die-usa-waehlen-neuen-kongress-erste-wahlbueros-sind-offen",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEIpO_XLKpYMD3Y__KI3XEvznJ5ftvSocZtGsEQajM3qsBLdpLPuM1Nm_32S8",
-          "quelle": "Google Trends · SRF",
-          "info": "500+ Suchanfragen",
+          "titel": "football",
+          "untertitel": "Fantasy Football Panic Meter: You shouldn't give up on Parker Washington after two subpar games",
+          "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-panic-meter-you-shouldnt-give-up-on-parker-washington-after-two-subpar-games-150520045.html",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0dz62g9Gha8yYm-_OH_6HlCP6ZyW8dnngg-eN8sI8mJoSgbqhMf26pEvMDGM",
+          "quelle": "Google Trends · Yahoo Sports",
+          "info": "200+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "flugzeugabsturz florida flugzeug",
-          "untertitel": "Tech-Millionär und Familie sterben bei Learjet-Absturz in Florida",
-          "link": "https://www.blick.ch/ausland/tech-millionaer-und-familie-sterben-bei-learjet-absturz-in-florida/v5q17mt",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRmZXfRDfMEykb5P0gB3-ZVk_0sRak70TwoyzWvf-J43JUmCkxNUW1o3F3RE2A",
-          "quelle": "Google Trends · Blick",
-          "info": "1000+ Suchanfragen",
+          "titel": "novak djokovic",
+          "untertitel": "Djokovic's big opportunity to make a move towards Turin in Basel",
+          "link": "https://www.atptour.com/en/news/djokovic-pif-atp-live-race-to-turin-29-october-2026",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQF1R-QUkd2jrArxk9gJgXIxgp7cjWvvqckWbqXI9LpZKCxtmC3397MofUOPVg",
+          "quelle": "Google Trends · ATP Tour",
+          "info": "2000+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "apple",
-          "untertitel": "Apple's John Ternus faces early test as global memory crisis hurts profits",
-          "link": "https://www.cnbc.com/2026/11/03/apple-earnings-john-ternus-faces-first-test-amid-high-memory-costs.html",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqPD-wEsEwKHyQ0hlAeanV-ra39cDwk6r2w-gtLQm5xtxy5gC12s27AQF2IKw",
-          "quelle": "Google Trends · CNBC",
-          "info": "1000+ Suchanfragen",
+          "titel": "sunrise",
+          "untertitel": "McKenna Grace Channels Jennifer Lawrence & 'Hunger Games' Past During 'Sunrise On The Reaping' Press Tour",
+          "link": "https://deadline.com/gallery/hunger-games-mckenna-grace-jennifer-lawrence-photos/",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxYyEIEX7uXZcoejk6swTv-YD7MABYbg4x8_XOuOSaWLE-L7o6QZQFSa9uF_4",
+          "quelle": "Google Trends · Deadline",
+          "info": "200+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-03T13:09:08+00:00",
+      "stand": "2026-11-03T15:58:09+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,17 +181,8 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-03T13:09:08+00:00",
+      "stand": "2026-11-03T15:58:09+00:00",
       "eintraege": [
-        {
-          "titel": "Kulturnews in Kurzform – Deep Purple blasen ganze Europa-Tournee ab",
-          "untertitel": "Es scheint etwas Ernstes: Die britische Rockband sagt bis auf Weiteres alle Konzerte ab – ihr Leadsänger ist im Spital.",
-          "link": "https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-deep-purple-blasen-ganze-europa-tournee-ab",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/946a48.webp",
-          "quelle": "SRF",
-          "info": "",
-          "trend": "neu"
-        },
         {
           "titel": "Bob Dylan im Hallenstadion – Niemand enttäuscht so gut wie Bob Dylan – der Konzertcheck",
           "untertitel": "Keine Hits, mehr Museum als Konzert, nur noch was für Dylan-Diplomierte? Die Hallenstadion-Show im Gegencheck.",
@@ -199,7 +190,7 @@
           "bild": "https://www.srf.ch/static/cms/images//320ws/4a2845.webp",
           "quelle": "SRF",
           "info": "",
-          "trend": "runter"
+          "trend": "gleich"
         }
       ]
     },
@@ -207,7 +198,7 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-03T13:09:08+00:00",
+      "stand": "2026-11-03T15:58:09+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
@@ -220,16 +211,16 @@
         },
         {
           "titel": "Bern",
-          "untertitel": "Bewölkt · 3° bis 9°",
+          "untertitel": "Nebel · 4° bis 8°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
           "info": "Regenrisiko 0%",
-          "emoji": "☁️"
+          "emoji": "🌫️"
         },
         {
           "titel": "Basel",
-          "untertitel": "Bewölkt · 4° bis 11°",
+          "untertitel": "Bewölkt · 5° bis 10°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -247,7 +238,7 @@
         },
         {
           "titel": "Lugano",
-          "untertitel": "Regenschauer · 7° bis 13°",
+          "untertitel": "Regenschauer · 8° bis 12°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
