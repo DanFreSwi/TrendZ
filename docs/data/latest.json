@@ -1,22 +1,13 @@
 {
-  "aktualisiert": "2026-11-04T07:24:00+00:00",
+  "aktualisiert": "2026-11-04T13:11:29+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-04T07:24:00+00:00",
+      "stand": "2026-11-04T13:11:29+00:00",
       "eintraege": [
-        {
-          "titel": "Bahnkatastrophe in Spanien – Nach Zugunglück: Spanischer Verkehrsminister tritt zurück",
-          "untertitel": "Die Regierung in Madrid zieht erste Konsequenzen aus dem Unglück mit 69 Toten.",
-          "link": "https://www.srf.ch/news/international/bahnkatastrophe-in-spanien-nach-zugunglueck-spanischer-verkehrsminister-tritt-zurueck",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/439c24.webp",
-          "quelle": "SRF",
-          "info": "4 Quellen berichten",
-          "trend": "neu"
-        },
         {
           "titel": "Zwischenwahlen in den USA – Republikaner für Trump-Treue bestraft – Demokraten mit Sensation",
           "untertitel": "Es ist eine blaue Welle bis nach Texas, die sich bei den Midterms abzeichnet. Was hinter dem Erdrutsch steckt.",
@@ -27,11 +18,20 @@
           "trend": "neu"
         },
         {
-          "titel": "«Ich sah nur noch das riesige Rad vor meinem Gesicht»",
-          "untertitel": "Dass ein Fahrzeug ein Rad verliert, passiert immer wieder. Dass aber ein Mensch von einem solch schweren Teil getroffen wird, ist eher selten. Rolf Frick (64) hat dies in …",
-          "link": "https://www.blick.ch/schweiz/mittelland/solothurn/ich-sah-nur-noch-das-riesige-rad-vor-meinem-gesicht/1d464zn",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/fkkktkuTURBXy80MTFlYjg5OC04Yzk2LTQ1NjAtYjFjNC03N2U3Mjk3MDdkNDQuanBlZ5KTBc0CWM0BO5MJpjFiNGY3YQY/lovn6p43pwo.jpg",
-          "quelle": "Blick",
+          "titel": "40-Millionen-Raub: Frau steht auf «Most Wanted»-Liste",
+          "untertitel": "Europol fahndet nach vier Männern und einer Frau, nachdem sie 2022 auf einer angesehenen Kunst- und Antiquitätenmesse in Maastricht Juwelen mit Millionenwert erbeutet haben sollen.",
+          "link": "https://www.20min.ch/story/niederlande-40-millionen-raub-frau-steht-auf-most-wanted-liste-103662105",
+          "bild": "https://image.20min.ch/2026/11/04/6203b569-c2f0-490a-818c-39b68bfe3017.png?s=cfa85056305143ee5919bc88124d61a3",
+          "quelle": "20 Minuten",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Gewalttat: Vater und Kleinkind (2) tot aufgefunden",
+          "untertitel": "Am Dienstagabend sind im Kanton St. Gallen ein Mann und ein Kind tot aufgefunden worden. Der Vater hätte das Kind eigentlich zur Mutter zurückbringen sollen.",
+          "link": "https://www.20min.ch/story/wattwil-sg-gewalttat-mann-und-kleinkind-tot-aufgefunden-103662162",
+          "bild": "https://image.20min.ch/2026/11/04/9f01596d-894b-43b4-a76c-43a41345cd2f.png?s=8c4960142edbf12eb6c6c639c4f6d7c8",
+          "quelle": "20 Minuten",
           "info": "3 Quellen berichten",
           "trend": "neu"
         }
@@ -41,14 +41,14 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-04T07:24:00+00:00",
+      "stand": "2026-11-04T13:11:29+00:00",
       "eintraege": [
         {
-          "titel": "Florida Republicans fend off Democrats as state elects first black governor",
-          "untertitel": "Republican Byron Donalds, who was backed by President Donald Trump, will be the first black governor of Florida.",
-          "link": "https://www.bbc.co.uk/news/articles/c9146d88pl32o?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee47/live/138d4020-d80b-11f1-915d-779ac405bbbc.jpg",
-          "quelle": "BBC",
+          "titel": "Liveblog zu den Midterms: ++ Iran erwartet keinen Kurswechsel der US-Politik ++",
+          "untertitel": "Nach der Niederlage von Trumps Republikanern äußert sich die iranische Staatsspitze und gibt sich kämpferisch. Der EU-Parlamentarier Lange befürchtet, dass der US-Präsident noch …",
+          "link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
+          "bild": "",
+          "quelle": "tagesschau",
           "info": "3 Quellen berichten",
           "trend": "neu"
         },
@@ -62,13 +62,13 @@
           "trend": "neu"
         },
         {
-          "titel": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-          "untertitel": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
-          "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b517/live/8d68c970-d7a0-11f1-84dd-e55f4bec0ecd.jpg",
+          "titel": "Left-wing Democrat Abdul El-Sayed wins in Michigan to become first Muslim senator",
+          "untertitel": "El-Sayed bested Republican Mike Rogers to become the first Muslim senator in US history.",
+          "link": "https://www.bbc.co.uk/news/articles/c893z55pxrewo?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b2d/live/afbf5fd0-d83f-11f1-93e1-3b657b665bcf.jpg",
           "quelle": "BBC",
           "info": "2 Quellen berichten",
-          "trend": "gleich"
+          "trend": "neu"
         }
       ]
     },
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-04T07:24:00+00:00",
+      "stand": "2026-11-04T13:11:29+00:00",
       "eintraege": [
         {
-          "titel": "iphone",
-          "untertitel": "Apple unsure when it will get more foldable iPhones ahead of Christmas",
-          "link": "https://www.bbc.com/news/articles/c6n8dn457ypko",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXjFUZgG_WqKpos6Onm1DVHRR_MzbNqaW_Hodp0OLPlYoJ3BoXJzqwf5Jw8Do",
-          "quelle": "Google Trends · BBC",
-          "info": "100+ Suchanfragen",
+          "titel": "altenrhein",
+          "untertitel": "Altenrhein: Bei Arbeitsunfall schwer verletzt",
+          "link": "https://www.sg.ch/news/sgch_kantonspolizei/2026/11/altenrhein--bei-arbeitsunfall-schwer-verletzt.html",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPBbNUM8uUB4wssZcExYW8oSFJChSKEk1Bmt9AQ_i1t8MALbPlGn6epe7-5hI",
+          "quelle": "Google Trends · Kanton St. Gallen",
+          "info": "1000+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "amy acton",
-          "untertitel": "Democrat Amy Acton wins Ohio governor race, defeating Vivek Ramaswamy",
-          "link": "https://www.bbc.com/news/articles/cmx2dlz8574jo",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQivJZjs-R7T_4Ml0SAsicHfk3gQrtAjNK5OtJwV4sVPAlPVGzrJrGpIVzjyts",
-          "quelle": "Google Trends · BBC",
+          "titel": "janosch",
+          "untertitel": "Der Schöpfer der Tigerente ist tot: Janosch ist mit 95 Jahren gestorben",
+          "link": "https://www.srf.ch/kultur/gesellschaft-religion/schriftsteller-und-illustrator-der-tigerente-schoepfer-janosch-ist-tot",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQl3Sgg9mh8uWoWpGy5v7AAEeDEmnRXx-c6w7k-BGjIyU-HhzkEXCsrz95UY8s",
+          "quelle": "Google Trends · SRF",
+          "info": "1000+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "twint",
+          "untertitel": "QR-Rechnungen können Sie neu mit Twint bezahlen – mit einer Einschränkung",
+          "link": "https://www.tagesanzeiger.ch/twint-rechnung-qr-rechnungen-direkt-per-app-bezahlen-971624691553",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBcUdRkGm_N66R4G6U8a0tLOTvlNgIjS96RMN5AlAQWYQ8S54SkAXKhf3Y_ig",
+          "quelle": "Google Trends · Tages-Anzeiger",
           "info": "200+ Suchanfragen",
-          "trend": "neu"
-        },
-        {
-          "titel": "luftwaffe",
-          "untertitel": "Schweizer Armee übt mit Frachtflugzeug A400M in Mollis GL",
-          "link": "https://www.blick.ch/schweiz/ostschweiz/glarus/schweizer-armee-uebt-mit-frachtflugzeug-a400m-in-mollis-gl/zcghvlw",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj4LMSHTHlleR412yCKnev3E5WJcMehh8BnHiXAhP1pJobUWlv2YuNJ4yxmWQ",
-          "quelle": "Google Trends · Blick",
-          "info": "100+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-04T07:24:00+00:00",
+      "stand": "2026-11-04T13:11:29+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -198,7 +198,7 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-04T07:24:00+00:00",
+      "stand": "2026-11-04T13:11:29+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
@@ -211,7 +211,7 @@
         },
         {
           "titel": "Bern",
-          "untertitel": "Nebel · 2° bis 8°",
+          "untertitel": "Nebel · 4° bis 8°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -229,20 +229,20 @@
         },
         {
           "titel": "Genf",
-          "untertitel": "Leichter Regen · 6° bis 12°",
+          "untertitel": "Bewölkt · 7° bis 11°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 30%",
+          "emoji": "☁️"
+        },
+        {
+          "titel": "Lugano",
+          "untertitel": "Bewölkt · 8° bis 13°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
           "info": "Regenrisiko 20%",
-          "emoji": "🌦️"
-        },
-        {
-          "titel": "Lugano",
-          "untertitel": "Bewölkt · 9° bis 13°",
-          "link": "https://www.meteoschweiz.admin.ch/",
-          "bild": "",
-          "quelle": "Open-Meteo",
-          "info": "Regenrisiko 23%",
           "emoji": "☁️"
         }
       ]
