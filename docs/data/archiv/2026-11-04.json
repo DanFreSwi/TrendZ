@@ -1,0 +1,251 @@
+{
+  "aktualisiert": "2026-11-04T21:55:03+00:00",
+  "land": "ch",
+  "kategorien": [
+    {
+      "id": "news_ch",
+      "name": "News Schweiz",
+      "symbol": "🇨🇭",
+      "stand": "2026-11-04T21:55:03+00:00",
+      "eintraege": [
+        {
+          "titel": "In diesem ehemaligen Hotel wurden die Toten aufgefunden",
+          "untertitel": "Am Dienstagabend hat die Kantonspolizei St. Gallen in einer Liegenschaft in Wattwil einen Mann und ein Kleinkind tot aufgefunden. Die Polizei geht von einer Gewalttat aus.",
+          "link": "https://www.blick.ch/schweiz/ostschweiz/st-gallen/in-diesem-ehemaligen-hotel-wurden-die-toten-aufgefunden/f0thm1r",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/r-WktkuTURBXy84YWRiN2ZjZS1jNmRiLTQxYTktYjUxOS1lZjA4YWFmYmU2OTAuanBlZ5KTBc0CWM0BO5MJpjhlM2E5OQY/arxqwngzswh.jpg",
+          "quelle": "Blick",
+          "info": "4 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Auto landet nach Crash in Rorschach SG auf Bahngleis",
+          "untertitel": "Unfall am frühen Mittwochabend in Rorschach SG: Zwei Autos kollidierten auf der Hauptstrasse. Eines wurde über Wiesenland und Hecken geschleudert und blieb auf einem Bahngleis …",
+          "link": "https://www.blick.ch/schweiz/ostschweiz/st-gallen/auto-landet-nach-crash-in-rorschach-sg-auf-bahngleis/6h1yt5y",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/KTVktkuTURBXy8yYTA1YjU1NS1jNmY1LTQ5YmQtOWY4My03MTkzNDQyNDRkMzguanBlZ5KTBc0CWM0BO5MJpjY0MjI1NwY/6tm9vpef173.jpg",
+          "quelle": "Blick",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Alkoholtest war positiv – Marius bleibt in U-Haft",
+          "untertitel": "Nachdem ein Gericht am Montag Marius Borg Høibys Freilassung angeordnet hatte, hat die nächste Instanz den Entscheid nun aufgehoben. Der Sohn der norwegischen Königin Mette-Marit …",
+          "link": "https://www.20min.ch/story/marius-borg-hoiby-bleibt-in-untersuchungshaft-berufungsgericht-kippt-freilassung-103662219",
+          "bild": "https://image.20min.ch/2026/09/10/f90a405c-93bd-4f9f-b7f0-02a3b1ccb328.jpg?s=23d23da95dabf4f129fd2b38b2522c5e",
+          "quelle": "20 Minuten",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        }
+      ]
+    },
+    {
+      "id": "news_welt",
+      "name": "News Welt",
+      "symbol": "🌍",
+      "stand": "2026-11-04T21:55:03+00:00",
+      "eintraege": [
+        {
+          "titel": "Liveblog zu den Midterms: ++ Trump verteidigt Iran-Krieg ++",
+          "untertitel": "US-Präsident Trump hat trotz des Wahldebakels betont, am Kurs im Iran-Krieg festhalten zu wollen. Außenminister Wadephul erwartet weiterhin eine konstruktive Zusammenarbeit mit …",
+          "link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
+          "bild": "",
+          "quelle": "tagesschau",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+          "untertitel": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
+          "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0c3/live/16cca880-d85f-11f1-b441-2b33b063138f.jpg",
+          "quelle": "BBC",
+          "info": "2 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "ANC faces anger over poor services as South Africans vote in local elections",
+          "untertitel": "Party expected to get less than a third of the vote amid frustration over water outages and power cuts The African National Congress is on course for a bruising result in South …",
+          "link": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
+          "bild": "https://i.guim.co.uk/img/media/e9b250d3d92ad0c01aabfd863c7f2487bcf38208/405_0_4412_3530/master/4412.jpg?width=140&quality=85&auto=format&fit=max&s=7bceed75caf55f60ac90f3af40571ef2",
+          "quelle": "The Guardian",
+          "info": "2 Quellen berichten",
+          "trend": "neu"
+        }
+      ]
+    },
+    {
+      "id": "suche",
+      "name": "Gesucht in der Schweiz",
+      "symbol": "🔎",
+      "stand": "2026-11-04T21:55:03+00:00",
+      "eintraege": [
+        {
+          "titel": "hélène darroze",
+          "untertitel": "\"Le monde de la Gastronomie vient de perdre l’une des plus grandes cuisinières au monde\" : Hélène Darroze, Alain Ducasse, Jean-François Piège... ils ont tous des mots honorables …",
+          "link": "https://www.purepeople.com/article/le-monde-de-la-gastronomie-vient-de-perdre-lune-des-plus-grandes-cuisinieres-au-monde-helene-darroze-alain-ducasse-jean-francois-piege-ils-ont-tous-des-mots-honorables-pour-ce-grand-nom_a555806/1",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_u77K571MsSXZi01lzwWvS3uGEBzWFqkRhhgys_8xbl0wg3Foaum3BclbW2A",
+          "quelle": "Google Trends · Ode (Purepeople)",
+          "info": "200+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "hausi leutenegger",
+          "untertitel": "Diagnose beim Olympiasieger: Hausi Leutenegger ist unheilbar krank",
+          "link": "https://www.tagesanzeiger.ch/hausi-leutenegger-er-ist-unheilbar-krank-383978860745",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRR7nRaAfElkJTJlPzlkED7r4fL_Iu8nmI24G_E-rVIzYrXSz5wCp4vZTRSj7c",
+          "quelle": "Google Trends · Tages-Anzeiger",
+          "info": "200+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "como",
+          "untertitel": "La FIFA vuelve a visitar el estadio de Anoeta para evaluarlo como posible sede del Mundial",
+          "link": "https://as.com/futbol/la-fifa-vuelve-a-visitar-el-estadio-de-anoeta-para-evaluarlo-como-posible-sede-del-mundial-f202611-n/",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX4ZzdOIvBhVNaeqzKZzMBbqvuITKniZ9ITR4XDEruTP750DEfl80D5FdzMNQ",
+          "quelle": "Google Trends · Diario AS",
+          "info": "200+ Suchanfragen",
+          "trend": "neu"
+        }
+      ]
+    },
+    {
+      "id": "musik",
+      "name": "Musik",
+      "symbol": "🎵",
+      "stand": "2026-11-04T21:55:03+00:00",
+      "eintraege": [
+        {
+          "titel": "Housewife",
+          "untertitel": "Tate McRae",
+          "link": "https://music.apple.com/ch/album/housewife/6822497770?i=6822497774",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/300x300bb.jpg",
+          "quelle": "Apple Music Charts CH",
+          "info": "Pop",
+          "trend": "gleich"
+        },
+        {
+          "titel": "BbY WOW",
+          "untertitel": "KAROL G, Judeline & rusowsky",
+          "link": "https://music.apple.com/ch/album/bby-wow/6796864741?i=6796864754",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/300x300bb.jpg",
+          "quelle": "Apple Music Charts CH",
+          "info": "Latin",
+          "trend": "gleich"
+        },
+        {
+          "titel": "Movin' To The Sun",
+          "untertitel": "HUGEL, Imael Angel & Ultra Naté",
+          "link": "https://music.apple.com/ch/album/movin-to-the-sun/6769069923?i=6769070199",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/300x300bb.jpg",
+          "quelle": "Apple Music Charts CH",
+          "info": "Electronic, Dance",
+          "trend": "gleich"
+        }
+      ]
+    },
+    {
+      "id": "podcasts",
+      "name": "Podcasts",
+      "symbol": "🎙️",
+      "stand": "2026-11-04T21:55:03+00:00",
+      "eintraege": [
+        {
+          "titel": "Echo der Zeit",
+          "untertitel": "Schweizer Radio und Fernsehen (SRF)",
+          "link": "https://podcasts.apple.com/ch/podcast/echo-der-zeit/id81345425",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/91/51/f5/9151f5c8-97b2-43c1-d728-1850b4311aaf/mza_10466666821884933927.jpg/300x300bb.png",
+          "quelle": "Apple Podcasts Charts CH",
+          "info": "Nachrichten",
+          "trend": "gleich"
+        },
+        {
+          "titel": "RONZHEIMER.",
+          "untertitel": "Paul Ronzheimer",
+          "link": "https://podcasts.apple.com/ch/podcast/ronzheimer/id1700432142",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/16/ab/81/16ab81cb-e31f-5ea0-81a7-902a96dfd750/mza_17924075471806194431.jpg/300x300bb.png",
+          "quelle": "Apple Podcasts Charts CH",
+          "info": "Nachrichten",
+          "trend": "gleich"
+        },
+        {
+          "titel": "Podcast am Pistenrand",
+          "untertitel": "Tina Weirather, Marc Berthod und Michael Schweizer",
+          "link": "https://podcasts.apple.com/ch/podcast/podcast-am-pistenrand/id1649823890",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/b5/33/1b/b5331b80-51d6-a9b5-0202-26549181440f/mza_6739746491336226460.jpeg/300x300bb.png",
+          "quelle": "Apple Podcasts Charts CH",
+          "info": "Sport, Comedy",
+          "trend": "neu"
+        }
+      ]
+    },
+    {
+      "id": "events",
+      "name": "Events in den News",
+      "symbol": "🎟️",
+      "stand": "2026-11-04T21:55:03+00:00",
+      "eintraege": [
+        {
+          "titel": "Weihnachtsmarkt am Bellevue: «Man wird auch bar bezahlen können»",
+          "untertitel": "Dieses Jahr wird der Weihnachtsmarkt vor dem Zürcher Opernhaus von neuen Veranstaltern errichtet. Der begehbare Adventskranz aus Holz ist bereits im Bau. Am 19. November geht es …",
+          "link": "https://www.20min.ch/story/weihnachtsmarkt-bellevue-bei-bellevue-noel-kann-man-auch-bar-bezahlen-103662132",
+          "bild": "https://image.20min.ch/2026/11/04/bc35278e-f8d4-4d54-9f31-2afcd1616e1c.jpg?s=b0a0642d0eb47848393bb358470d6147",
+          "quelle": "20 Minuten",
+          "info": "",
+          "trend": "neu"
+        }
+      ]
+    },
+    {
+      "id": "wetter",
+      "name": "Wetter morgen",
+      "symbol": "🌤️",
+      "stand": "2026-11-04T21:55:03+00:00",
+      "eintraege": [
+        {
+          "titel": "Zürich",
+          "untertitel": "Bewölkt · 5° bis 10°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 0%",
+          "emoji": "☁️"
+        },
+        {
+          "titel": "Bern",
+          "untertitel": "Bewölkt · 4° bis 9°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 0%",
+          "emoji": "☁️"
+        },
+        {
+          "titel": "Basel",
+          "untertitel": "Bewölkt · 4° bis 13°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 0%",
+          "emoji": "☁️"
+        },
+        {
+          "titel": "Genf",
+          "untertitel": "Leichter Regen · 6° bis 11°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 40%",
+          "emoji": "🌦️"
+        },
+        {
+          "titel": "Lugano",
+          "untertitel": "Bewölkt · 8° bis 14°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 13%",
+          "emoji": "☁️"
+        }
+      ]
+    }
+  ]
+}
