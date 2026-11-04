@@ -1,38 +1,38 @@
 {
-  "aktualisiert": "2026-11-04T03:58:56+00:00",
+  "aktualisiert": "2026-11-04T07:24:00+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-04T03:58:56+00:00",
+      "stand": "2026-11-04T07:24:00+00:00",
       "eintraege": [
         {
-          "titel": "Restaurant von Zürcher Gastro-Vize pleite – jetzt legt er sein Amt nieder",
-          "untertitel": "Anfang Jahr wurde Dirk Hany zum Vizepräsidenten von Gastro Stadt Zürich ernannt. Jetzt tritt er bereits wieder zurück. Hintergrund ist die Pleite seines Restaurants Sinaloa – und …",
-          "link": "https://www.blick.ch/schweiz/zuerich/zuercher-gastro-vize-tritt-nach-restaurant-pleite-ueberraschend-ab/h52xmdc",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/L--ktkuTURBXy83MmFkYmNhNy0xYmM0LTRiYTUtYTE2Zi00YjZhZjM1ZTVhYzMuanBlZ5KTBc0CWM0BO5MJpmM3OTUxOQY/asvq3wrmjd8.jpg",
-          "quelle": "Blick",
-          "info": "3 Quellen berichten",
-          "trend": "gleich"
-        },
-        {
-          "titel": "So aufwendig ist der Unterhalt im Gotthard-Basistunnel",
-          "untertitel": "Seit zehn Jahren fahren täglich über 150 Züge durch den Gotthard-Basistunnel. Dessen Unterhalt ist aufwendig, zeitintensiv und kostet die SBB jährlich 35 Millionen Franken. Blick …",
-          "link": "https://www.blick.ch/schweiz/zentralschweiz/uri/gotthard-basistunnel-sbb-saugen-15-tonnen-dreck-raus/rvr74v6",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/TjdktkuTURBXy84OTdhMjcyYi02YWE5LTQxMWUtOWI5My00N2VmZTM2OWUyNWEuanBlZ5KTBc0CWM0BO5MJpjdlNWEyMAY/rx84tythu9.jpg",
-          "quelle": "Blick",
-          "info": "3 Quellen berichten",
-          "trend": "hoch"
-        },
-        {
-          "titel": "Midterms 2026 – CNN: Demokraten erobern Mehrheit im US-Repräsentantenhaus",
-          "untertitel": "Die Midterms bestimmen darüber, wer die Mehrheit im Kongress hat. Wir halten Sie über das Neueste auf dem Laufenden.",
-          "link": "https://www.srf.ch/news/international/midterms-2026-cnn-demokraten-erobern-mehrheit-im-us-repraesentantenhaus",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/85a4cc.webp",
+          "titel": "Bahnkatastrophe in Spanien – Nach Zugunglück: Spanischer Verkehrsminister tritt zurück",
+          "untertitel": "Die Regierung in Madrid zieht erste Konsequenzen aus dem Unglück mit 69 Toten.",
+          "link": "https://www.srf.ch/news/international/bahnkatastrophe-in-spanien-nach-zugunglueck-spanischer-verkehrsminister-tritt-zurueck",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/439c24.webp",
           "quelle": "SRF",
-          "info": "2 Quellen berichten",
+          "info": "4 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Zwischenwahlen in den USA – Republikaner für Trump-Treue bestraft – Demokraten mit Sensation",
+          "untertitel": "Es ist eine blaue Welle bis nach Texas, die sich bei den Midterms abzeichnet. Was hinter dem Erdrutsch steckt.",
+          "link": "https://www.srf.ch/news/international/usa/zwischenwahlen-in-den-usa-republikaner-fuer-trump-treue-bestraft-demokraten-mit-sensation",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/fbd58d4.webp",
+          "quelle": "SRF",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "«Ich sah nur noch das riesige Rad vor meinem Gesicht»",
+          "untertitel": "Dass ein Fahrzeug ein Rad verliert, passiert immer wieder. Dass aber ein Mensch von einem solch schweren Teil getroffen wird, ist eher selten. Rolf Frick (64) hat dies in …",
+          "link": "https://www.blick.ch/schweiz/mittelland/solothurn/ich-sah-nur-noch-das-riesige-rad-vor-meinem-gesicht/1d464zn",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/fkkktkuTURBXy80MTFlYjg5OC04Yzk2LTQ1NjAtYjFjNC03N2U3Mjk3MDdkNDQuanBlZ5KTBc0CWM0BO5MJpjFiNGY3YQY/lovn6p43pwo.jpg",
+          "quelle": "Blick",
+          "info": "3 Quellen berichten",
           "trend": "neu"
         }
       ]
@@ -41,16 +41,25 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-04T03:58:56+00:00",
+      "stand": "2026-11-04T07:24:00+00:00",
       "eintraege": [
         {
-          "titel": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
-          "untertitel": "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.",
-          "link": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a890/live/d92739f0-d778-11f1-9539-05485195b558.jpg",
+          "titel": "Florida Republicans fend off Democrats as state elects first black governor",
+          "untertitel": "Republican Byron Donalds, who was backed by President Donald Trump, will be the first black governor of Florida.",
+          "link": "https://www.bbc.co.uk/news/articles/c9146d88pl32o?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee47/live/138d4020-d80b-11f1-915d-779ac405bbbc.jpg",
           "quelle": "BBC",
           "info": "3 Quellen berichten",
-          "trend": "hoch"
+          "trend": "neu"
+        },
+        {
+          "titel": "ANC faces anger over poor services as South Africans vote in local elections",
+          "untertitel": "Party expected to get less than a third of the vote amid frustration over water outages and power cuts The African National Congress is on course for a bruising result in South …",
+          "link": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
+          "bild": "https://i.guim.co.uk/img/media/ab849d0dfce7fca0440c040983efe4e27460cf1e/1440_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=d1afb9ab291e0f9db2fa068014f10740",
+          "quelle": "The Guardian",
+          "info": "2 Quellen berichten",
+          "trend": "neu"
         },
         {
           "titel": "Binance says fake job interviews used as part of $6.3bn crypto hack",
@@ -59,16 +68,7 @@
           "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b517/live/8d68c970-d7a0-11f1-84dd-e55f4bec0ecd.jpg",
           "quelle": "BBC",
           "info": "2 Quellen berichten",
-          "trend": "hoch"
-        },
-        {
-          "titel": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
-          "untertitel": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment The “unprecedented” …",
-          "link": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
-          "bild": "https://i.guim.co.uk/img/media/4c8a92421c88cf3bb5c2743cd8f6b4900e511a1f/538_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=4eca9873ee9ecb59fb15e289980ef771",
-          "quelle": "The Guardian",
-          "info": "2 Quellen berichten",
-          "trend": "neu"
+          "trend": "gleich"
         }
       ]
     },
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-04T03:58:56+00:00",
+      "stand": "2026-11-04T07:24:00+00:00",
       "eintraege": [
         {
-          "titel": "jacques moretti",
-          "untertitel": "Lawyer urges probe into Crans-Montana finances",
-          "link": "https://www.swissinfo.ch/eng/swiss-politics/lawyer-urges-probe-into-crans-montana-finances/92308983",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2w-UH7w-c-fE4cuSbLsfNQ1jPDk9hqZXVHpM_3DAOc8s3jHNabGrMyzvqyfY",
-          "quelle": "Google Trends · SWI swissinfo.ch",
-          "info": "200+ Suchanfragen",
-          "trend": "neu"
-        },
-        {
-          "titel": "jon ossoff",
-          "untertitel": "Georgia U.S. Senate Election 2026 Live Results: Jon Ossoff Wins",
-          "link": "https://www.nbcnews.com/politics/2026-elections/georgia-senate-results",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ9fLjn0vlz1wfno7mqLCRQV146EkQMpaqF85X2nR75QOUih3LLml22tGMyBo",
-          "quelle": "Google Trends · NBC News",
+          "titel": "iphone",
+          "untertitel": "Apple unsure when it will get more foldable iPhones ahead of Christmas",
+          "link": "https://www.bbc.com/news/articles/c6n8dn457ypko",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXjFUZgG_WqKpos6Onm1DVHRR_MzbNqaW_Hodp0OLPlYoJ3BoXJzqwf5Jw8Do",
+          "quelle": "Google Trends · BBC",
           "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "election americaine",
-          "untertitel": "Midterms 2026 : les démocrates en tête des premiers résultats",
-          "link": "https://www.rts.ch/info/monde/2026/minute-par-minute/29402944.html",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKJZs6uyswp0ZF2zEpGiVhorM_XcM6Ho3VANP22x--7iPs2HoCly3pC03K7ZY",
-          "quelle": "Google Trends · rts.ch",
+          "titel": "amy acton",
+          "untertitel": "Democrat Amy Acton wins Ohio governor race, defeating Vivek Ramaswamy",
+          "link": "https://www.bbc.com/news/articles/cmx2dlz8574jo",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQivJZjs-R7T_4Ml0SAsicHfk3gQrtAjNK5OtJwV4sVPAlPVGzrJrGpIVzjyts",
+          "quelle": "Google Trends · BBC",
           "info": "200+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "luftwaffe",
+          "untertitel": "Schweizer Armee übt mit Frachtflugzeug A400M in Mollis GL",
+          "link": "https://www.blick.ch/schweiz/ostschweiz/glarus/schweizer-armee-uebt-mit-frachtflugzeug-a400m-in-mollis-gl/zcghvlw",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj4LMSHTHlleR412yCKnev3E5WJcMehh8BnHiXAhP1pJobUWlv2YuNJ4yxmWQ",
+          "quelle": "Google Trends · Blick",
+          "info": "100+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-04T03:58:56+00:00",
+      "stand": "2026-11-04T07:24:00+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-04T03:58:56+00:00",
+      "stand": "2026-11-04T07:24:00+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -167,13 +167,13 @@
           "trend": "gleich"
         },
         {
-          "titel": "MORD AUF EX",
-          "untertitel": "Leonie Bartsch & Linn Schütze",
-          "link": "https://podcasts.apple.com/ch/podcast/mord-auf-ex/id1486608425",
-          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b9/17/07/b91707ba-b4bf-2021-bafe-b4dd1e1f0196/mza_6370841172422755338.jpg/300x300bb.png",
+          "titel": "Podcast am Pistenrand",
+          "untertitel": "Tina Weirather, Marc Berthod und Michael Schweizer",
+          "link": "https://podcasts.apple.com/ch/podcast/podcast-am-pistenrand/id1649823890",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/b5/33/1b/b5331b80-51d6-a9b5-0202-26549181440f/mza_6739746491336226460.jpeg/300x300bb.png",
           "quelle": "Apple Podcasts Charts CH",
-          "info": "Wahre Kriminalfälle, Geschichte",
-          "trend": "gleich"
+          "info": "Sport, Comedy",
+          "trend": "neu"
         }
       ]
     },
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-04T03:58:56+00:00",
+      "stand": "2026-11-04T07:24:00+00:00",
       "eintraege": [
         {
           "titel": "Bob Dylan im Hallenstadion – Niemand enttäuscht so gut wie Bob Dylan – der Konzertcheck",
@@ -198,7 +198,7 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-04T03:58:56+00:00",
+      "stand": "2026-11-04T07:24:00+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
@@ -211,7 +211,7 @@
         },
         {
           "titel": "Bern",
-          "untertitel": "Nebel · 3° bis 8°",
+          "untertitel": "Nebel · 2° bis 8°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -220,7 +220,7 @@
         },
         {
           "titel": "Basel",
-          "untertitel": "Bewölkt · 4° bis 12°",
+          "untertitel": "Bewölkt · 3° bis 13°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -229,21 +229,21 @@
         },
         {
           "titel": "Genf",
-          "untertitel": "Bewölkt · 6° bis 12°",
-          "link": "https://www.meteoschweiz.admin.ch/",
-          "bild": "",
-          "quelle": "Open-Meteo",
-          "info": "Regenrisiko 22%",
-          "emoji": "☁️"
-        },
-        {
-          "titel": "Lugano",
-          "untertitel": "Nebel · 9° bis 14°",
+          "untertitel": "Leichter Regen · 6° bis 12°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
           "info": "Regenrisiko 20%",
-          "emoji": "🌫️"
+          "emoji": "🌦️"
+        },
+        {
+          "titel": "Lugano",
+          "untertitel": "Bewölkt · 9° bis 13°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 23%",
+          "emoji": "☁️"
         }
       ]
     }
