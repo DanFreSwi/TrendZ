@@ -1,12 +1,12 @@
 {
-  "aktualisiert": "2026-11-04T01:10:43+00:00",
+  "aktualisiert": "2026-11-04T03:58:56+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-04T01:10:43+00:00",
+      "stand": "2026-11-04T03:58:56+00:00",
       "eintraege": [
         {
           "titel": "Restaurant von Zürcher Gastro-Vize pleite – jetzt legt er sein Amt nieder",
@@ -14,26 +14,26 @@
           "link": "https://www.blick.ch/schweiz/zuerich/zuercher-gastro-vize-tritt-nach-restaurant-pleite-ueberraschend-ab/h52xmdc",
           "bild": "https://ocdn.eu/pulscms-transforms/1/L--ktkuTURBXy83MmFkYmNhNy0xYmM0LTRiYTUtYTE2Zi00YjZhZjM1ZTVhYzMuanBlZ5KTBc0CWM0BO5MJpmM3OTUxOQY/asvq3wrmjd8.jpg",
           "quelle": "Blick",
-          "info": "4 Quellen berichten",
+          "info": "3 Quellen berichten",
           "trend": "gleich"
         },
         {
-          "titel": "Demokraten holen den ersten Senatssitz",
-          "untertitel": "Am 3. November sind in den USA die Zwischenwahlen, die sogenannten Midterms. Im 20-Minuten-Ticker erfährst du alles rund um die Wahlnacht.",
-          "link": "https://www.20min.ch/story/us-midterms-2026-liveticker-ergebnisse-103660611",
-          "bild": "https://image.20min.ch/2026/10/15/1ec59364-594d-48d2-acf8-cc3b8eb31127.jpg?s=cc9c10f41d6b5b64f23df5a15a6cd0c3",
-          "quelle": "20 Minuten",
+          "titel": "So aufwendig ist der Unterhalt im Gotthard-Basistunnel",
+          "untertitel": "Seit zehn Jahren fahren täglich über 150 Züge durch den Gotthard-Basistunnel. Dessen Unterhalt ist aufwendig, zeitintensiv und kostet die SBB jährlich 35 Millionen Franken. Blick …",
+          "link": "https://www.blick.ch/schweiz/zentralschweiz/uri/gotthard-basistunnel-sbb-saugen-15-tonnen-dreck-raus/rvr74v6",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/TjdktkuTURBXy84OTdhMjcyYi02YWE5LTQxMWUtOWI5My00N2VmZTM2OWUyNWEuanBlZ5KTBc0CWM0BO5MJpjdlNWEyMAY/rx84tythu9.jpg",
+          "quelle": "Blick",
           "info": "3 Quellen berichten",
-          "trend": "neu"
+          "trend": "hoch"
         },
         {
-          "titel": "Mehrere Fälle in Europa – Spitze Metallteile in Halloween-Süssigkeiten verletzen Kinder",
-          "untertitel": "Nadeln und Nägel in Halloween-Süsskram führen europaweit zu Ermittlungen. Die Häufung der Fälle ist aussergewöhnlich.",
-          "link": "https://www.srf.ch/news/international/mehrere-faelle-in-europa-spitze-metallteile-in-halloween-suessigkeiten-verletzen-kinder",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/0d8b678.webp",
+          "titel": "Midterms 2026 – CNN: Demokraten erobern Mehrheit im US-Repräsentantenhaus",
+          "untertitel": "Die Midterms bestimmen darüber, wer die Mehrheit im Kongress hat. Wir halten Sie über das Neueste auf dem Laufenden.",
+          "link": "https://www.srf.ch/news/international/midterms-2026-cnn-demokraten-erobern-mehrheit-im-us-repraesentantenhaus",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/85a4cc.webp",
           "quelle": "SRF",
-          "info": "3 Quellen berichten",
-          "trend": "runter"
+          "info": "2 Quellen berichten",
+          "trend": "neu"
         }
       ]
     },
@@ -41,7 +41,7 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-04T01:10:43+00:00",
+      "stand": "2026-11-04T03:58:56+00:00",
       "eintraege": [
         {
           "titel": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-04T01:10:43+00:00",
+      "stand": "2026-11-04T03:58:56+00:00",
       "eintraege": [
         {
-          "titel": "elections usa",
-          "untertitel": "Élections de mi-mandat 2026: les États-Unis aux urnes",
+          "titel": "jacques moretti",
+          "untertitel": "Lawyer urges probe into Crans-Montana finances",
+          "link": "https://www.swissinfo.ch/eng/swiss-politics/lawyer-urges-probe-into-crans-montana-finances/92308983",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2w-UH7w-c-fE4cuSbLsfNQ1jPDk9hqZXVHpM_3DAOc8s3jHNabGrMyzvqyfY",
+          "quelle": "Google Trends · SWI swissinfo.ch",
+          "info": "200+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "jon ossoff",
+          "untertitel": "Georgia U.S. Senate Election 2026 Live Results: Jon Ossoff Wins",
+          "link": "https://www.nbcnews.com/politics/2026-elections/georgia-senate-results",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ9fLjn0vlz1wfno7mqLCRQV146EkQMpaqF85X2nR75QOUih3LLml22tGMyBo",
+          "quelle": "Google Trends · NBC News",
+          "info": "100+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "election americaine",
+          "untertitel": "Midterms 2026 : les démocrates en tête des premiers résultats",
           "link": "https://www.rts.ch/info/monde/2026/minute-par-minute/29402944.html",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTLOKlxjw7dsix-QknR1qLNSCEF-hzCPmWZc74iF_v9gXQ32oExQfKqccs3rC8",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKJZs6uyswp0ZF2zEpGiVhorM_XcM6Ho3VANP22x--7iPs2HoCly3pC03K7ZY",
           "quelle": "Google Trends · rts.ch",
           "info": "200+ Suchanfragen",
-          "trend": "neu"
-        },
-        {
-          "titel": "fox news",
-          "untertitel": "2026 Midterm Election Results: Latest Updates",
-          "link": "https://www.politico.com/storyline/live/2026/11/03/midterm-election-results",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTb7rTn2KOBaQ67dgPoQta8JMKnHDmU42fZNpxXzXjge8oKGXwGl_RXTsfpYU8",
-          "quelle": "Google Trends · Politico",
-          "info": "200+ Suchanfragen",
-          "trend": "neu"
-        },
-        {
-          "titel": "cnn news",
-          "untertitel": "Opinion | Don’t Be a Haley Stevens",
-          "link": "https://www.nytimes.com/2026/11/02/opinion/trump-midterms-history.html",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQs9xFJtuYGvZu9-nZVPMGB-yde0pnnrunLGU_afuc6-hE3yB-wLR8mnmaOwZQ",
-          "quelle": "Google Trends · The New York Times",
-          "info": "100+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-04T01:10:43+00:00",
+      "stand": "2026-11-04T03:58:56+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-04T01:10:43+00:00",
+      "stand": "2026-11-04T03:58:56+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-04T01:10:43+00:00",
+      "stand": "2026-11-04T03:58:56+00:00",
       "eintraege": [
         {
           "titel": "Bob Dylan im Hallenstadion – Niemand enttäuscht so gut wie Bob Dylan – der Konzertcheck",
@@ -198,11 +198,11 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-04T01:10:43+00:00",
+      "stand": "2026-11-04T03:58:56+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
-          "untertitel": "Bewölkt · 5° bis 10°",
+          "untertitel": "Bewölkt · 4° bis 10°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -220,16 +220,16 @@
         },
         {
           "titel": "Basel",
-          "untertitel": "Nebel · 2° bis 12°",
+          "untertitel": "Bewölkt · 4° bis 12°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
           "info": "Regenrisiko 0%",
-          "emoji": "🌫️"
+          "emoji": "☁️"
         },
         {
           "titel": "Genf",
-          "untertitel": "Bewölkt · 6° bis 11°",
+          "untertitel": "Bewölkt · 6° bis 12°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -238,7 +238,7 @@
         },
         {
           "titel": "Lugano",
-          "untertitel": "Nebel · 8° bis 14°",
+          "untertitel": "Nebel · 9° bis 14°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
