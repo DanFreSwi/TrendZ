@@ -1,37 +1,37 @@
 {
-  "aktualisiert": "2026-11-04T13:11:29+00:00",
+  "aktualisiert": "2026-11-04T15:59:27+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-04T13:11:29+00:00",
+      "stand": "2026-11-04T15:59:27+00:00",
       "eintraege": [
         {
-          "titel": "Zwischenwahlen in den USA – Republikaner für Trump-Treue bestraft – Demokraten mit Sensation",
-          "untertitel": "Es ist eine blaue Welle bis nach Texas, die sich bei den Midterms abzeichnet. Was hinter dem Erdrutsch steckt.",
-          "link": "https://www.srf.ch/news/international/usa/zwischenwahlen-in-den-usa-republikaner-fuer-trump-treue-bestraft-demokraten-mit-sensation",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/fbd58d4.webp",
-          "quelle": "SRF",
+          "titel": "Auto landet nach Crash in Rorschach SG auf Bahngleis",
+          "untertitel": "Unfall am frühen Mittwochabend in Rorschach SG: Zwei Autos kollidierten auf der Hauptstrasse. Eines wurde über Wiesenland und Hecken geschleudert und blieb auf einem Bahngleis …",
+          "link": "https://www.blick.ch/schweiz/ostschweiz/st-gallen/auto-landet-nach-crash-in-rorschach-sg-auf-bahngleis/6h1yt5y",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/KTVktkuTURBXy8yYTA1YjU1NS1jNmY1LTQ5YmQtOWY4My03MTkzNDQyNDRkMzguanBlZ5KTBc0CWM0BO5MJpjY0MjI1NwY/6tm9vpef173.jpg",
+          "quelle": "Blick",
           "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "40-Millionen-Raub: Frau steht auf «Most Wanted»-Liste",
-          "untertitel": "Europol fahndet nach vier Männern und einer Frau, nachdem sie 2022 auf einer angesehenen Kunst- und Antiquitätenmesse in Maastricht Juwelen mit Millionenwert erbeutet haben sollen.",
-          "link": "https://www.20min.ch/story/niederlande-40-millionen-raub-frau-steht-auf-most-wanted-liste-103662105",
-          "bild": "https://image.20min.ch/2026/11/04/6203b569-c2f0-490a-818c-39b68bfe3017.png?s=cfa85056305143ee5919bc88124d61a3",
-          "quelle": "20 Minuten",
+          "titel": "Kreuzfahrt-Aus in Kambodscha sorgt weltweit für Aufsehen",
+          "untertitel": "Das Kreuzfahrtschiff Odyssey soll in Sihanoukville tanken und anschliessend weiterfahren. Wohin es geht und ob Passagiere an Bord sein werden, bleibt unklar.",
+          "link": "https://www.watson.ch/international/%C3%96l/489018966-sihanoukville-kreuzfahrtschiff-odyssey-soll-schon-bald-weiterfahren",
+          "bild": "",
+          "quelle": "watson",
           "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Gewalttat: Vater und Kleinkind (2) tot aufgefunden",
-          "untertitel": "Am Dienstagabend sind im Kanton St. Gallen ein Mann und ein Kind tot aufgefunden worden. Der Vater hätte das Kind eigentlich zur Mutter zurückbringen sollen.",
-          "link": "https://www.20min.ch/story/wattwil-sg-gewalttat-mann-und-kleinkind-tot-aufgefunden-103662162",
-          "bild": "https://image.20min.ch/2026/11/04/9f01596d-894b-43b4-a76c-43a41345cd2f.png?s=8c4960142edbf12eb6c6c639c4f6d7c8",
-          "quelle": "20 Minuten",
+          "titel": "Elon Musk will Texas kaufen",
+          "untertitel": "Ein eigener republikanischer Senator ist dem reichsten Mann der Welt rund 200 Millionen Dollar wert.",
+          "link": "https://www.watson.ch/international/analyse/312008068-us-midterms-elon-musk-will-texas-kaufen",
+          "bild": "",
+          "quelle": "watson",
           "info": "3 Quellen berichten",
           "trend": "neu"
         }
@@ -41,31 +41,31 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-04T13:11:29+00:00",
+      "stand": "2026-11-04T15:59:27+00:00",
       "eintraege": [
         {
-          "titel": "Liveblog zu den Midterms: ++ Iran erwartet keinen Kurswechsel der US-Politik ++",
-          "untertitel": "Nach der Niederlage von Trumps Republikanern äußert sich die iranische Staatsspitze und gibt sich kämpferisch. Der EU-Parlamentarier Lange befürchtet, dass der US-Präsident noch …",
-          "link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
-          "bild": "",
-          "quelle": "tagesschau",
-          "info": "3 Quellen berichten",
+          "titel": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+          "untertitel": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
+          "link": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5315/live/41e364b0-d854-11f1-94f3-cf7d1e52bb8c.jpg",
+          "quelle": "BBC",
+          "info": "2 Quellen berichten",
           "trend": "neu"
         },
         {
           "titel": "ANC faces anger over poor services as South Africans vote in local elections",
           "untertitel": "Party expected to get less than a third of the vote amid frustration over water outages and power cuts The African National Congress is on course for a bruising result in South …",
           "link": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
-          "bild": "https://i.guim.co.uk/img/media/ab849d0dfce7fca0440c040983efe4e27460cf1e/1440_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=d1afb9ab291e0f9db2fa068014f10740",
+          "bild": "https://i.guim.co.uk/img/media/e9b250d3d92ad0c01aabfd863c7f2487bcf38208/405_0_4412_3530/master/4412.jpg?width=140&quality=85&auto=format&fit=max&s=7bceed75caf55f60ac90f3af40571ef2",
           "quelle": "The Guardian",
           "info": "2 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Left-wing Democrat Abdul El-Sayed wins in Michigan to become first Muslim senator",
-          "untertitel": "El-Sayed bested Republican Mike Rogers to become the first Muslim senator in US history.",
-          "link": "https://www.bbc.co.uk/news/articles/c893z55pxrewo?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b2d/live/afbf5fd0-d83f-11f1-93e1-3b657b665bcf.jpg",
+          "titel": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
+          "untertitel": "\"This wasn't just a tsunami, not just a referendum, but this was a bloodbath,\" one expert told the BBC on Democrats' historic wins in Texas.",
+          "link": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73ea/live/1e2e9940-d836-11f1-a701-fddedf244c16.jpg",
           "quelle": "BBC",
           "info": "2 Quellen berichten",
           "trend": "neu"
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-04T13:11:29+00:00",
+      "stand": "2026-11-04T15:59:27+00:00",
       "eintraege": [
         {
-          "titel": "altenrhein",
-          "untertitel": "Altenrhein: Bei Arbeitsunfall schwer verletzt",
-          "link": "https://www.sg.ch/news/sgch_kantonspolizei/2026/11/altenrhein--bei-arbeitsunfall-schwer-verletzt.html",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPBbNUM8uUB4wssZcExYW8oSFJChSKEk1Bmt9AQ_i1t8MALbPlGn6epe7-5hI",
-          "quelle": "Google Trends · Kanton St. Gallen",
-          "info": "1000+ Suchanfragen",
+          "titel": "novak djokovic",
+          "untertitel": "Djokovic Defeats Swiss Indoors Champion Vacherot",
+          "link": "https://www.bluewin.ch/en/sport/djokovic-defeats-swiss-indoors-champion-vacherot-li.3659780",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx-s1wZaY61xwN0CXXajDjDYfSrrguc0OeD_o_3GUiff9IPiMtVQP68NuEqYY",
+          "quelle": "Google Trends · blue News",
+          "info": "500+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "janosch",
-          "untertitel": "Der Schöpfer der Tigerente ist tot: Janosch ist mit 95 Jahren gestorben",
-          "link": "https://www.srf.ch/kultur/gesellschaft-religion/schriftsteller-und-illustrator-der-tigerente-schoepfer-janosch-ist-tot",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQl3Sgg9mh8uWoWpGy5v7AAEeDEmnRXx-c6w7k-BGjIyU-HhzkEXCsrz95UY8s",
+          "titel": "srg ssr",
+          "untertitel": "Claudia Kilchmann aus Obernau LU (Staffel 20, Folge 1)",
+          "link": "https://www.srf.ch/play/tv/srf-bi-de-luet---landfrauenkueche/video/claudia-kilchmann-aus-obernau-lu-staffel-20-folge-1?urn=urn:srf:video:26e776d2-9187-40ca-a1e8-eb5ee43dc7be",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTfaZFLmNqZY-LHEcBQ0nA4H3-g05_u7TRb9E9v4e6-c5xVA_jpbJXVWf8JmtY",
           "quelle": "Google Trends · SRF",
-          "info": "1000+ Suchanfragen",
+          "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "twint",
-          "untertitel": "QR-Rechnungen können Sie neu mit Twint bezahlen – mit einer Einschränkung",
-          "link": "https://www.tagesanzeiger.ch/twint-rechnung-qr-rechnungen-direkt-per-app-bezahlen-971624691553",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBcUdRkGm_N66R4G6U8a0tLOTvlNgIjS96RMN5AlAQWYQ8S54SkAXKhf3Y_ig",
-          "quelle": "Google Trends · Tages-Anzeiger",
-          "info": "200+ Suchanfragen",
+          "titel": "midterms usa wahlen",
+          "untertitel": "Midterms: Warum die «Blaue Welle» der Demokraten historisch ist",
+          "link": "https://www.srf.ch/news/international/usa/midterms-in-den-usa-das-macht-die-blaue-welle-historisch",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQE1PwTwkHg6cysgRYzOUKOqIp7HRspgCJzITa6aAG__aX7hwjwY00wHD1pBgk",
+          "quelle": "Google Trends · SRF",
+          "info": "10000+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-04T13:11:29+00:00",
+      "stand": "2026-11-04T15:59:27+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-04T07:24:00+00:00",
+      "stand": "2026-11-04T15:59:27+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,16 +181,16 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-04T07:24:00+00:00",
+      "stand": "2026-11-04T15:59:27+00:00",
       "eintraege": [
         {
-          "titel": "Bob Dylan im Hallenstadion – Niemand enttäuscht so gut wie Bob Dylan – der Konzertcheck",
-          "untertitel": "Keine Hits, mehr Museum als Konzert, nur noch was für Dylan-Diplomierte? Die Hallenstadion-Show im Gegencheck.",
-          "link": "https://www.srf.ch/radio-srf-3/musik/bob-dylan-im-hallenstadion-niemand-enttaeuscht-so-gut-wie-bob-dylan-der-konzertcheck",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/4a2845.webp",
-          "quelle": "SRF",
+          "titel": "Weihnachtsmarkt am Bellevue: «Man wird auch bar bezahlen können»",
+          "untertitel": "Dieses Jahr wird der Weihnachtsmarkt vor dem Zürcher Opernhaus von neuen Veranstaltern errichtet. Der begehbare Adventskranz aus Holz ist bereits im Bau. Am 19. November geht es …",
+          "link": "https://www.20min.ch/story/weihnachtsmarkt-bellevue-bei-bellevue-noel-kann-man-auch-bar-bezahlen-103662132",
+          "bild": "https://image.20min.ch/2026/11/04/bc35278e-f8d4-4d54-9f31-2afcd1616e1c.jpg?s=b0a0642d0eb47848393bb358470d6147",
+          "quelle": "20 Minuten",
           "info": "",
-          "trend": "gleich"
+          "trend": "neu"
         }
       ]
     },
@@ -198,7 +198,7 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-04T13:11:29+00:00",
+      "stand": "2026-11-04T15:59:27+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
@@ -211,7 +211,7 @@
         },
         {
           "titel": "Bern",
-          "untertitel": "Nebel · 4° bis 8°",
+          "untertitel": "Nebel · 4° bis 9°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -220,7 +220,7 @@
         },
         {
           "titel": "Basel",
-          "untertitel": "Bewölkt · 3° bis 13°",
+          "untertitel": "Bewölkt · 5° bis 12°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -229,7 +229,7 @@
         },
         {
           "titel": "Genf",
-          "untertitel": "Bewölkt · 7° bis 11°",
+          "untertitel": "Bewölkt · 6° bis 11°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -238,7 +238,7 @@
         },
         {
           "titel": "Lugano",
-          "untertitel": "Bewölkt · 8° bis 13°",
+          "untertitel": "Bewölkt · 8° bis 14°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
