@@ -1,20 +1,29 @@
 {
-  "aktualisiert": "2026-11-03T21:52:19+00:00",
+  "aktualisiert": "2026-11-04T01:10:43+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-03T21:52:19+00:00",
+      "stand": "2026-11-04T01:10:43+00:00",
       "eintraege": [
         {
           "titel": "Restaurant von Zürcher Gastro-Vize pleite – jetzt legt er sein Amt nieder",
           "untertitel": "Anfang Jahr wurde Dirk Hany zum Vizepräsidenten von Gastro Stadt Zürich ernannt. Jetzt tritt er bereits wieder zurück. Hintergrund ist die Pleite seines Restaurants Sinaloa – und …",
           "link": "https://www.blick.ch/schweiz/zuerich/zuercher-gastro-vize-tritt-nach-restaurant-pleite-ueberraschend-ab/h52xmdc",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/l-AktkuTURBXy83MmFkYmNhNy0xYmM0LTRiYTUtYTE2Zi00YjZhZjM1ZTVhYzMuanBlZ5KTBc0CWM0BO5MJpmM4M2FlNAY/ymuhxb4vgy.jpg",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/L--ktkuTURBXy83MmFkYmNhNy0xYmM0LTRiYTUtYTE2Zi00YjZhZjM1ZTVhYzMuanBlZ5KTBc0CWM0BO5MJpmM3OTUxOQY/asvq3wrmjd8.jpg",
           "quelle": "Blick",
           "info": "4 Quellen berichten",
+          "trend": "gleich"
+        },
+        {
+          "titel": "Demokraten holen den ersten Senatssitz",
+          "untertitel": "Am 3. November sind in den USA die Zwischenwahlen, die sogenannten Midterms. Im 20-Minuten-Ticker erfährst du alles rund um die Wahlnacht.",
+          "link": "https://www.20min.ch/story/us-midterms-2026-liveticker-ergebnisse-103660611",
+          "bild": "https://image.20min.ch/2026/10/15/1ec59364-594d-48d2-acf8-cc3b8eb31127.jpg?s=cc9c10f41d6b5b64f23df5a15a6cd0c3",
+          "quelle": "20 Minuten",
+          "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
@@ -24,16 +33,7 @@
           "bild": "https://www.srf.ch/static/cms/images//320ws/0d8b678.webp",
           "quelle": "SRF",
           "info": "3 Quellen berichten",
-          "trend": "neu"
-        },
-        {
-          "titel": "So aufwendig ist der Unterhalt im Gotthard-Basistunnel",
-          "untertitel": "Seit zehn Jahren fahren täglich über 150 Züge durch den Gotthard-Basistunnel. Dessen Unterhalt ist aufwendig, zeitintensiv und kostet die SBB jährlich 35 Millionen Franken. Blick …",
-          "link": "https://www.blick.ch/schweiz/tessin/gotthard-basistunnel-sbb-saugen-15-tonnen-dreck-raus/s4krtvf",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/ZjmktkuTURBXy84OTdhMjcyYi02YWE5LTQxMWUtOWI5My00N2VmZTM2OWUyNWEuanBlZ5KTBc0CWM0BO5MJpmQ4MGZkZQY/btsv0j46w7.jpg",
-          "quelle": "Blick",
-          "info": "3 Quellen berichten",
-          "trend": "neu"
+          "trend": "runter"
         }
       ]
     },
@@ -41,17 +41,8 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-03T21:52:19+00:00",
+      "stand": "2026-11-04T01:10:43+00:00",
       "eintraege": [
-        {
-          "titel": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-          "untertitel": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
-          "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a5b/live/6de1e2e0-d7c7-11f1-a719-bf3dc3a3d5b5.jpg",
-          "quelle": "BBC",
-          "info": "3 Quellen berichten",
-          "trend": "neu"
-        },
         {
           "titel": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
           "untertitel": "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.",
@@ -59,7 +50,7 @@
           "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a890/live/d92739f0-d778-11f1-9539-05485195b558.jpg",
           "quelle": "BBC",
           "info": "3 Quellen berichten",
-          "trend": "neu"
+          "trend": "hoch"
         },
         {
           "titel": "Binance says fake job interviews used as part of $6.3bn crypto hack",
@@ -67,6 +58,15 @@
           "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
           "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b517/live/8d68c970-d7a0-11f1-84dd-e55f4bec0ecd.jpg",
           "quelle": "BBC",
+          "info": "2 Quellen berichten",
+          "trend": "hoch"
+        },
+        {
+          "titel": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
+          "untertitel": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment The “unprecedented” …",
+          "link": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
+          "bild": "https://i.guim.co.uk/img/media/4c8a92421c88cf3bb5c2743cd8f6b4900e511a1f/538_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=4eca9873ee9ecb59fb15e289980ef771",
+          "quelle": "The Guardian",
           "info": "2 Quellen berichten",
           "trend": "neu"
         }
@@ -76,32 +76,32 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-03T21:52:19+00:00",
+      "stand": "2026-11-04T01:10:43+00:00",
       "eintraege": [
         {
-          "titel": "nathalia gadelha filgueiras",
-          "untertitel": "NASA Administrator Isaacman defends Learjet copilot after Florida crash",
-          "link": "https://www.floridatoday.com/story/tech/science/space/2026/11/02/nasa-chief-jared-isaacman-defends-learjet-copilot-in-fatal-palm-beach-crash/92570178007/",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLk0tB6W5Mj_DZn7Y_BNMJ_zgvfgM5OEXIF92N21cD1QyhS3FSjgOLFTVkIt0",
-          "quelle": "Google Trends · Florida Today",
-          "info": "100+ Suchanfragen",
-          "trend": "neu"
-        },
-        {
-          "titel": "elections usa mi mandat",
+          "titel": "elections usa",
           "untertitel": "Élections de mi-mandat 2026: les États-Unis aux urnes",
           "link": "https://www.rts.ch/info/monde/2026/minute-par-minute/29402944.html",
           "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTLOKlxjw7dsix-QknR1qLNSCEF-hzCPmWZc74iF_v9gXQ32oExQfKqccs3rC8",
           "quelle": "Google Trends · rts.ch",
-          "info": "100+ Suchanfragen",
+          "info": "200+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "bayern atletico",
-          "untertitel": "Champions League live updates: Roma strike twice past Man United, Barça lead Villa",
-          "link": "https://www.espn.com/soccer/story/_/id/50329034/uefa-champions-league-live-updates-atletico-madrid-bayern-munich-manchester-united-roma-barcelona-aston-villa",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDtm3NnaBJN8YNVFMibLZ7DBNVvMJS7ExVqJEclsH54m2oHoKzQnP63GmP0-g",
-          "quelle": "Google Trends · ESPN",
+          "titel": "fox news",
+          "untertitel": "2026 Midterm Election Results: Latest Updates",
+          "link": "https://www.politico.com/storyline/live/2026/11/03/midterm-election-results",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTb7rTn2KOBaQ67dgPoQta8JMKnHDmU42fZNpxXzXjge8oKGXwGl_RXTsfpYU8",
+          "quelle": "Google Trends · Politico",
+          "info": "200+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "cnn news",
+          "untertitel": "Opinion | Don’t Be a Haley Stevens",
+          "link": "https://www.nytimes.com/2026/11/02/opinion/trump-midterms-history.html",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQs9xFJtuYGvZu9-nZVPMGB-yde0pnnrunLGU_afuc6-hE3yB-wLR8mnmaOwZQ",
+          "quelle": "Google Trends · The New York Times",
           "info": "100+ Suchanfragen",
           "trend": "neu"
         }
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-03T21:52:19+00:00",
+      "stand": "2026-11-04T01:10:43+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-03T21:52:19+00:00",
+      "stand": "2026-11-04T01:10:43+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-03T21:52:19+00:00",
+      "stand": "2026-11-04T01:10:43+00:00",
       "eintraege": [
         {
           "titel": "Bob Dylan im Hallenstadion – Niemand enttäuscht so gut wie Bob Dylan – der Konzertcheck",
@@ -198,28 +198,10 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-03T21:52:19+00:00",
+      "stand": "2026-11-04T01:10:43+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
-          "untertitel": "Bewölkt · 5° bis 9°",
-          "link": "https://www.meteoschweiz.admin.ch/",
-          "bild": "",
-          "quelle": "Open-Meteo",
-          "info": "Regenrisiko 0%",
-          "emoji": "☁️"
-        },
-        {
-          "titel": "Bern",
-          "untertitel": "Nebel · 4° bis 8°",
-          "link": "https://www.meteoschweiz.admin.ch/",
-          "bild": "",
-          "quelle": "Open-Meteo",
-          "info": "Regenrisiko 0%",
-          "emoji": "🌫️"
-        },
-        {
-          "titel": "Basel",
           "untertitel": "Bewölkt · 5° bis 10°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
@@ -228,22 +210,40 @@
           "emoji": "☁️"
         },
         {
-          "titel": "Genf",
-          "untertitel": "Bewölkt · 6° bis 10°",
+          "titel": "Bern",
+          "untertitel": "Nebel · 3° bis 8°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
           "info": "Regenrisiko 0%",
+          "emoji": "🌫️"
+        },
+        {
+          "titel": "Basel",
+          "untertitel": "Nebel · 2° bis 12°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 0%",
+          "emoji": "🌫️"
+        },
+        {
+          "titel": "Genf",
+          "untertitel": "Bewölkt · 6° bis 11°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 22%",
           "emoji": "☁️"
         },
         {
           "titel": "Lugano",
-          "untertitel": "Leichter Regen · 9° bis 12°",
+          "untertitel": "Nebel · 8° bis 14°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 65%",
-          "emoji": "🌦️"
+          "info": "Regenrisiko 20%",
+          "emoji": "🌫️"
         }
       ]
     }
