@@ -1,37 +1,37 @@
 {
-  "aktualisiert": "2026-11-04T15:59:27+00:00",
+  "aktualisiert": "2026-11-04T19:02:59+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-04T15:59:27+00:00",
+      "stand": "2026-11-04T19:02:59+00:00",
       "eintraege": [
         {
-          "titel": "Auto landet nach Crash in Rorschach SG auf Bahngleis",
-          "untertitel": "Unfall am frühen Mittwochabend in Rorschach SG: Zwei Autos kollidierten auf der Hauptstrasse. Eines wurde über Wiesenland und Hecken geschleudert und blieb auf einem Bahngleis …",
-          "link": "https://www.blick.ch/schweiz/ostschweiz/st-gallen/auto-landet-nach-crash-in-rorschach-sg-auf-bahngleis/6h1yt5y",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/KTVktkuTURBXy8yYTA1YjU1NS1jNmY1LTQ5YmQtOWY4My03MTkzNDQyNDRkMzguanBlZ5KTBc0CWM0BO5MJpjY0MjI1NwY/6tm9vpef173.jpg",
-          "quelle": "Blick",
+          "titel": "Übertragung durch Tigermücke – Chikungunya-Virus erreicht die Schweiz: Erste Fälle im Tessin",
+          "untertitel": "Im Tessin wurde das Chikungunya-Virus erstmals übertragen. Was bedeutet das für die Schweiz und wie geht es weiter?",
+          "link": "https://www.srf.ch/news/schweiz/uebertragung-durch-tigermuecke-chikungunya-virus-erreicht-die-schweiz-erste-faelle-im-tessin",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/4cfe31.webp",
+          "quelle": "SRF",
+          "info": "4 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "«Ohne Texas gewinnen die Republikaner keine Präsidentschaftswahl»",
+          "untertitel": "Die Demokraten übernehmen beide Kammern des US-Kongresses. Experte Julien Labarre erklärt, was das für Trump und die Präsidentschaftswahl 2028 bedeutet.",
+          "link": "https://www.20min.ch/story/demokraten-uebernehmen-us-kongress-was-das-fuer-trump-und-2028-bedeutet-103661993",
+          "bild": "https://image.20min.ch/2026/10/26/1821509d-c352-452f-8b63-048c1d230dd9.jpg?s=6480c86344e6efa23042bb4479e82959",
+          "quelle": "20 Minuten",
           "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Kreuzfahrt-Aus in Kambodscha sorgt weltweit für Aufsehen",
-          "untertitel": "Das Kreuzfahrtschiff Odyssey soll in Sihanoukville tanken und anschliessend weiterfahren. Wohin es geht und ob Passagiere an Bord sein werden, bleibt unklar.",
-          "link": "https://www.watson.ch/international/%C3%96l/489018966-sihanoukville-kreuzfahrtschiff-odyssey-soll-schon-bald-weiterfahren",
-          "bild": "",
-          "quelle": "watson",
-          "info": "3 Quellen berichten",
-          "trend": "neu"
-        },
-        {
-          "titel": "Elon Musk will Texas kaufen",
-          "untertitel": "Ein eigener republikanischer Senator ist dem reichsten Mann der Welt rund 200 Millionen Dollar wert.",
-          "link": "https://www.watson.ch/international/analyse/312008068-us-midterms-elon-musk-will-texas-kaufen",
-          "bild": "",
-          "quelle": "watson",
+          "titel": "Alkoholtest war positiv – Marius bleibt in U-Haft",
+          "untertitel": "Nachdem ein Gericht am Montag Marius Borg Høibys Freilassung angeordnet hatte, hat die nächste Instanz den Entscheid nun aufgehoben. Der Sohn der norwegischen Königin Mette-Marit …",
+          "link": "https://www.20min.ch/story/marius-borg-hoiby-bleibt-in-untersuchungshaft-berufungsgericht-kippt-freilassung-103662219",
+          "bild": "https://image.20min.ch/2026/09/10/f90a405c-93bd-4f9f-b7f0-02a3b1ccb328.jpg?s=23d23da95dabf4f129fd2b38b2522c5e",
+          "quelle": "20 Minuten",
           "info": "3 Quellen berichten",
           "trend": "neu"
         }
@@ -41,15 +41,15 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-04T15:59:27+00:00",
+      "stand": "2026-11-04T19:02:59+00:00",
       "eintraege": [
         {
-          "titel": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
-          "untertitel": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
-          "link": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5315/live/41e364b0-d854-11f1-94f3-cf7d1e52bb8c.jpg",
+          "titel": "Iran's chief negotiator says Americans voted 'no to war'",
+          "untertitel": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
+          "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd62/live/d825bb50-d82f-11f1-a701-fddedf244c16.jpg",
           "quelle": "BBC",
-          "info": "2 Quellen berichten",
+          "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
@@ -62,10 +62,10 @@
           "trend": "neu"
         },
         {
-          "titel": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
-          "untertitel": "\"This wasn't just a tsunami, not just a referendum, but this was a bloodbath,\" one expert told the BBC on Democrats' historic wins in Texas.",
-          "link": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73ea/live/1e2e9940-d836-11f1-a701-fddedf244c16.jpg",
+          "titel": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+          "untertitel": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
+          "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0c3/live/16cca880-d85f-11f1-b441-2b33b063138f.jpg",
           "quelle": "BBC",
           "info": "2 Quellen berichten",
           "trend": "neu"
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-04T15:59:27+00:00",
+      "stand": "2026-11-04T19:02:59+00:00",
       "eintraege": [
         {
-          "titel": "novak djokovic",
-          "untertitel": "Djokovic Defeats Swiss Indoors Champion Vacherot",
-          "link": "https://www.bluewin.ch/en/sport/djokovic-defeats-swiss-indoors-champion-vacherot-li.3659780",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx-s1wZaY61xwN0CXXajDjDYfSrrguc0OeD_o_3GUiff9IPiMtVQP68NuEqYY",
-          "quelle": "Google Trends · blue News",
+          "titel": "carlos alcaraz",
+          "untertitel": "Alcaraz - Michelsen en directo | Última hora de Paris Masters 1000 en vivo hoy",
+          "link": "https://www.marca.com/tenis/masters-1000-paris/alex-michelsen-carlos-alcaraz/2026/11/04/04_0413_20261104_48-directo.html",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTETmfbDhmQHZdxo-vKkHvqcZ9DOXiqP_BiOxT1k6XrDNtULvR0g788HP_B778",
+          "quelle": "Google Trends · MARCA",
+          "info": "200+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "stars in town",
+          "untertitel": "Brian Adams und die Ärzte kommen nach Schaffhausen",
+          "link": "https://schaffhausen24.ch/articles/417111-brian-adams-und-die-aerzte-kommen-nach-schaffhausen",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCj4pMOQJYGWsGCIprJLv2Np17N-68QuTVotIYrtztwDpeIWWwUu237ajZwQ4",
+          "quelle": "Google Trends · Bock, Schaffhausen",
+          "info": "200+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "wattwil",
+          "untertitel": "Wattwil SG: Mann und Kleinkind tot aufgefunden",
+          "link": "https://www.blick.ch/schweiz/ostschweiz/st-gallen/wattwil-sg-mann-und-kleinkind-tot-aufgefunden/tdjhszt",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0d4WGlpLvpopOwSKQ_i_5Py2N4HP8xq4EeHZtXhTWQfgkgf2T9hnH6R5zCng",
+          "quelle": "Google Trends · Blick",
           "info": "500+ Suchanfragen",
-          "trend": "neu"
-        },
-        {
-          "titel": "srg ssr",
-          "untertitel": "Claudia Kilchmann aus Obernau LU (Staffel 20, Folge 1)",
-          "link": "https://www.srf.ch/play/tv/srf-bi-de-luet---landfrauenkueche/video/claudia-kilchmann-aus-obernau-lu-staffel-20-folge-1?urn=urn:srf:video:26e776d2-9187-40ca-a1e8-eb5ee43dc7be",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTfaZFLmNqZY-LHEcBQ0nA4H3-g05_u7TRb9E9v4e6-c5xVA_jpbJXVWf8JmtY",
-          "quelle": "Google Trends · SRF",
-          "info": "100+ Suchanfragen",
-          "trend": "neu"
-        },
-        {
-          "titel": "midterms usa wahlen",
-          "untertitel": "Midterms: Warum die «Blaue Welle» der Demokraten historisch ist",
-          "link": "https://www.srf.ch/news/international/usa/midterms-in-den-usa-das-macht-die-blaue-welle-historisch",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQE1PwTwkHg6cysgRYzOUKOqIp7HRspgCJzITa6aAG__aX7hwjwY00wHD1pBgk",
-          "quelle": "Google Trends · SRF",
-          "info": "10000+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-04T15:59:27+00:00",
+      "stand": "2026-11-04T19:02:59+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-04T15:59:27+00:00",
+      "stand": "2026-11-04T19:02:59+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-04T15:59:27+00:00",
+      "stand": "2026-11-04T19:02:59+00:00",
       "eintraege": [
         {
           "titel": "Weihnachtsmarkt am Bellevue: «Man wird auch bar bezahlen können»",
@@ -198,11 +198,11 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-04T15:59:27+00:00",
+      "stand": "2026-11-04T19:02:59+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
-          "untertitel": "Bewölkt · 4° bis 10°",
+          "untertitel": "Bewölkt · 5° bis 10°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -211,12 +211,12 @@
         },
         {
           "titel": "Bern",
-          "untertitel": "Nebel · 4° bis 9°",
+          "untertitel": "Bewölkt · 4° bis 9°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
           "info": "Regenrisiko 0%",
-          "emoji": "🌫️"
+          "emoji": "☁️"
         },
         {
           "titel": "Basel",
@@ -229,20 +229,20 @@
         },
         {
           "titel": "Genf",
-          "untertitel": "Bewölkt · 6° bis 11°",
+          "untertitel": "Leichter Regen · 7° bis 12°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 30%",
-          "emoji": "☁️"
+          "info": "Regenrisiko 45%",
+          "emoji": "🌦️"
         },
         {
           "titel": "Lugano",
-          "untertitel": "Bewölkt · 8° bis 14°",
+          "untertitel": "Bewölkt · 9° bis 13°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 20%",
+          "info": "Regenrisiko 8%",
           "emoji": "☁️"
         }
       ]
