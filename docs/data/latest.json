@@ -1,18 +1,18 @@
 {
-  "aktualisiert": "2026-11-05T13:18:02+00:00",
+  "aktualisiert": "2026-11-05T16:08:06+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-05T13:18:02+00:00",
+      "stand": "2026-11-05T16:08:06+00:00",
       "eintraege": [
         {
           "titel": "Berner Metzg-Kette gehackt – Filiale muss über 2 Wochen schliessen",
           "untertitel": "Hacker legen die Filiale von Lüthi's Fleischwaren in Köniz-Liebefeld BE lahm! Unbekannte haben die Kühl- und Tiefkühlanlagen manipuliert. Das hat bittere Folgen: Der Betrieb muss …",
           "link": "https://www.blick.ch/schweiz/bern/berner-metzg-kette-gehackt-filiale-muss-schliessen/5jr7lhy",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/-1aktktTURBXy9hY2JlOGIzOC0xNDVjLTQ0MDQtYWNmZS1jNDVjMDQ3YzQ3OTgucG5nkpMFzQJYzQE7kwmmZTgzMjE5Bg/1aa6v3luyhr.jpg",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/kd-ktktTURBXy9hY2JlOGIzOC0xNDVjLTQ0MDQtYWNmZS1jNDVjMDQ3YzQ3OTgucG5nkpMFzQJYzQE7kwmmYTI4Y2FiBg/jl6iicijsuk.jpg",
           "quelle": "Blick",
           "info": "4 Quellen berichten",
           "trend": "neu"
@@ -41,7 +41,7 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-05T13:18:02+00:00",
+      "stand": "2026-11-05T16:08:06+00:00",
       "eintraege": [
         {
           "titel": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
@@ -76,32 +76,32 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-05T13:18:02+00:00",
+      "stand": "2026-11-05T16:08:06+00:00",
       "eintraege": [
         {
-          "titel": "nesslau",
-          "untertitel": "Nesslau: Körperverletzung und Raubversuch – Zwei Festnahmen",
-          "link": "https://www.sg.ch/news/sgch_kantonspolizei/2026/11/nesslau--koerperverletzung-und-raubversuch---zwei-festnahmen.html",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS1NKg72irZemuURKopjNHkCH-DOrQ_87OfjdAL_pcyi2ICNB_bAg0EeewgnyQ",
-          "quelle": "Google Trends · Kanton St. Gallen",
+          "titel": "buchs",
+          "untertitel": "A13-Anschluss Buchs wird vorübergehend gesperrt",
+          "link": "https://www.vaterland.li/liechtenstein/gesellschaft/a13-anschluss-buchs-wird-voruebergehend-gesperrt-art-772148",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSfWKK4CvjRCdM4iIsZ4RSqBtU4K2Sm4GSliNB0sf5Q_At-0Ir_NYzY-Ifymhw",
+          "quelle": "Google Trends · Vaterland online",
           "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "friltschen",
-          "untertitel": "Mofafahrer (60) in Friltschen TG von Auto erfasst und gestorben – Polizei sucht Zeugen",
-          "link": "https://www.20min.ch/story/friltschen-tg-mofafahrer-60-von-auto-erfasst-tot-103662737",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuJw9chDiibcGz7rjIrgEpotLUygxtvHRdn7Fx6oaZdkENif_9cm4k6pKAmyQ",
-          "quelle": "Google Trends · 20 Minuten",
+          "titel": "nasdaq 100",
+          "untertitel": "US job openings jump in September; layoffs lowest in 1-1/2 years",
+          "link": "https://www.reuters.com/business/us-job-openings-increase-sharply-september-2026-11-03/",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQndBTAaYeDOR5-sGz-UIBrzdPi64AAzSnKJ3wrutxObGrC3YfuhGxnc9r9xUY",
+          "quelle": "Google Trends · Reuters",
           "info": "200+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "bombendrohung",
-          "untertitel": "Europaweite Auswirkungen - Bombendrohung gegen mehrere Flüge: Notlandungen und Umleitungen",
-          "link": "https://www.srf.ch/news/international/europaweite-auswirkungen-bombendrohung-gegen-mehrere-fluege-notlandungen-und-umleitungen",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-1ttF81kRYV8iCI7KudRdUvjMYmobV2LBDmaCF8fRxc8FRunyIGOtTGIpm3U",
-          "quelle": "Google Trends · SRF",
+          "titel": "nasdaq",
+          "untertitel": "Daily: Tech sell-off highlights rising scrutiny of AI spending",
+          "link": "https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/house-view/daily/2026/latest-02112026.html",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYD1h1DXs7Qr8k8gHvg8GSc7AsnplvvfYvJvlh56F_g2Yb5aYl87-bA8S3X94",
+          "quelle": "Google Trends · UBS",
           "info": "200+ Suchanfragen",
           "trend": "neu"
         }
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-05T13:18:02+00:00",
+      "stand": "2026-11-05T16:08:06+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-05T13:18:02+00:00",
+      "stand": "2026-11-05T16:08:06+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-05T13:18:02+00:00",
+      "stand": "2026-11-05T16:08:06+00:00",
       "eintraege": [
         {
           "titel": "Weihnachtsmarkt am Bellevue: «Man wird auch bar bezahlen können»",
@@ -198,11 +198,11 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-05T13:18:02+00:00",
+      "stand": "2026-11-05T16:08:06+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
-          "untertitel": "Leichter Regen · 5° bis 9°",
+          "untertitel": "Leichter Regen · 5° bis 8°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -211,7 +211,7 @@
         },
         {
           "titel": "Bern",
-          "untertitel": "Regenschauer · 5° bis 9°",
+          "untertitel": "Regenschauer · 5° bis 8°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -220,7 +220,7 @@
         },
         {
           "titel": "Basel",
-          "untertitel": "Leichter Regen · 6° bis 10°",
+          "untertitel": "Leichter Regen · 6° bis 9°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -229,7 +229,7 @@
         },
         {
           "titel": "Genf",
-          "untertitel": "Regenschauer · 6° bis 10°",
+          "untertitel": "Regenschauer · 7° bis 9°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -238,7 +238,7 @@
         },
         {
           "titel": "Lugano",
-          "untertitel": "Leichter Regen · 8° bis 12°",
+          "untertitel": "Leichter Regen · 7° bis 12°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
