@@ -1,0 +1,260 @@
+{
+  "aktualisiert": "2026-11-05T21:53:33+00:00",
+  "land": "ch",
+  "kategorien": [
+    {
+      "id": "news_ch",
+      "name": "News Schweiz",
+      "symbol": "🇨🇭",
+      "stand": "2026-11-05T21:53:33+00:00",
+      "eintraege": [
+        {
+          "titel": "1260 Menschen sind im Sommer wegen Hitze gestorben",
+          "untertitel": "Das Bundesamt für Gesundheit veröffentlicht die erste Schätzung zu Hitzetoten im Sommer 2026. Es sind deutlich mehr als in den letzten Jahren.",
+          "link": "https://www.20min.ch/story/in-der-schweiz-1260-menschen-sind-im-sommer-wegen-hitze-gestorben-103662927",
+          "bild": "https://image.20min.ch/2026/11/05/d69be783-a6ca-45af-949e-9cf897e593b6.jpg?s=1489c86ec5d6643ae37774f7a1ca3801",
+          "quelle": "20 Minuten",
+          "info": "4 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Winterthur ZH verliert weiteres Kult-Sportlädeli",
+          "untertitel": "Nach sieben Jahrzehnten Betrieb gehen die Türen bei Intersport Egli in der Winterthurer Altstadt für immer zu. Ende März schliesst Inhaberin Iren Rauber-Egli ihr Geschäft. Zurück …",
+          "link": "https://www.blick.ch/schweiz/zuerich/nach-70-jahren-winterthurer-altstadt-verliert-letzten-sportladen/wqseg0l",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/9PVktkuTURBXy9mYjBhYzQ0Zi1kZDUxLTRkZWMtOWE5Ny0xMjc0YWMyYzRiNjEuanBlZ5KTBc0CWM0BO5MJpjQ4ZDM5MgY/9f2zjqh1zi.jpg",
+          "quelle": "Blick",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Hier wird das Auto aus der Unterführung geborgen",
+          "untertitel": "Am Bahnhof Interlaken hat sich ein Auto am Donnerstagabend in eine Fussgängerunterführung verirrt. Es ist nicht der erste Unfall an dieser Stelle.",
+          "link": "https://www.blick.ch/schweiz/bern/autofahrer-bleibt-auf-treppe-in-interlaken-be-stecken/zbbdtsv",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/8iPktkuTURBXy83YmJiZDZkZC0xNTU5LTQxYTYtODNkYS04ODJiYWRiNWY0MTEuanBlZ5KTBc0CWM0BO5MJpjhiNGJlNAY/fle7r2degud.jpg",
+          "quelle": "Blick",
+          "info": "2 Quellen berichten",
+          "trend": "neu"
+        }
+      ]
+    },
+    {
+      "id": "news_welt",
+      "name": "News Welt",
+      "symbol": "🌍",
+      "stand": "2026-11-05T21:53:33+00:00",
+      "eintraege": [
+        {
+          "titel": "Paraguay President Santiago Peña resigns after bank collapse",
+          "untertitel": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
+          "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12e6/live/3ccd15c0-d93a-11f1-95ea-8df9a040b6bf.jpg",
+          "quelle": "BBC",
+          "info": "2 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Russell Brand is being investigated over two new rape complaints, police say",
+          "untertitel": "Det Supt Andy Furphy said he hoped other potential victims would gain \"courage\" and \"confidence\" from the guilty verdicts.",
+          "link": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecb3/live/33e07d40-d92a-11f1-af74-e735e628ea98.jpg",
+          "quelle": "BBC",
+          "info": "2 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Hoax bomb threats target European airlines and airports for second time in a week",
+          "untertitel": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\".",
+          "link": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7423/live/1976bf00-d911-11f1-94c6-3f8050561bf5.jpg",
+          "quelle": "BBC",
+          "info": "Neu",
+          "trend": "neu"
+        }
+      ]
+    },
+    {
+      "id": "suche",
+      "name": "Gesucht in der Schweiz",
+      "symbol": "🔎",
+      "stand": "2026-11-05T21:53:33+00:00",
+      "eintraege": [
+        {
+          "titel": "benfica – lech posen",
+          "untertitel": "Benfica vs Lech Poznań: UEFA Europa League stats & head-to-head",
+          "link": "https://www.bbc.com/sport/football/live/cx4g1y2mlgvdt",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw",
+          "quelle": "Google Trends · BBC",
+          "info": "100+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "die bergretter",
+          "untertitel": "\"Die Bergretter\": Steht Markus der schwerste Verlust bevor?",
+          "link": "https://www.gmx.ch/magazine/unterhaltung/filme-serien-kino/bergretter-markus-schwerste-verlust-42915176",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKtiYyQszptwA64TgkAJ58Xfp1U9ZNlfCkpMcDtMbPX8HOLViw8NBxCo0R_mg",
+          "quelle": "Google Trends · GMX",
+          "info": "100+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "fc lugano",
+          "untertitel": "Lugano vs Kauno Žalgiris: UEFA Conference League stats & head-to-head",
+          "link": "https://www.bbc.co.uk/sport/football/live/c574pyzklg2zt",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
+          "quelle": "Google Trends · BBC",
+          "info": "200+ Suchanfragen",
+          "trend": "neu"
+        }
+      ]
+    },
+    {
+      "id": "musik",
+      "name": "Musik",
+      "symbol": "🎵",
+      "stand": "2026-11-05T21:53:33+00:00",
+      "eintraege": [
+        {
+          "titel": "Housewife",
+          "untertitel": "Tate McRae",
+          "link": "https://music.apple.com/ch/album/housewife/6822497770?i=6822497774",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/300x300bb.jpg",
+          "quelle": "Apple Music Charts CH",
+          "info": "Pop",
+          "trend": "gleich"
+        },
+        {
+          "titel": "BbY WOW",
+          "untertitel": "KAROL G, Judeline & rusowsky",
+          "link": "https://music.apple.com/ch/album/bby-wow/6796864741?i=6796864754",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/300x300bb.jpg",
+          "quelle": "Apple Music Charts CH",
+          "info": "Latin",
+          "trend": "gleich"
+        },
+        {
+          "titel": "Movin' To The Sun",
+          "untertitel": "HUGEL, Imael Angel & Ultra Naté",
+          "link": "https://music.apple.com/ch/album/movin-to-the-sun/6769069923?i=6769070199",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/300x300bb.jpg",
+          "quelle": "Apple Music Charts CH",
+          "info": "Electronic, Dance",
+          "trend": "gleich"
+        }
+      ]
+    },
+    {
+      "id": "podcasts",
+      "name": "Podcasts",
+      "symbol": "🎙️",
+      "stand": "2026-11-05T21:53:33+00:00",
+      "eintraege": [
+        {
+          "titel": "Echo der Zeit",
+          "untertitel": "Schweizer Radio und Fernsehen (SRF)",
+          "link": "https://podcasts.apple.com/ch/podcast/echo-der-zeit/id81345425",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/91/51/f5/9151f5c8-97b2-43c1-d728-1850b4311aaf/mza_10466666821884933927.jpg/300x300bb.png",
+          "quelle": "Apple Podcasts Charts CH",
+          "info": "Nachrichten",
+          "trend": "gleich"
+        },
+        {
+          "titel": "RONZHEIMER.",
+          "untertitel": "Paul Ronzheimer",
+          "link": "https://podcasts.apple.com/ch/podcast/ronzheimer/id1700432142",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/16/ab/81/16ab81cb-e31f-5ea0-81a7-902a96dfd750/mza_17924075471806194431.jpg/300x300bb.png",
+          "quelle": "Apple Podcasts Charts CH",
+          "info": "Nachrichten",
+          "trend": "gleich"
+        },
+        {
+          "titel": "Apropos – der tägliche Podcast",
+          "untertitel": "Tamedia",
+          "link": "https://podcasts.apple.com/ch/podcast/apropos-der-t%C3%A4gliche-podcast/id1560227032",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0f/5e/78/0f5e7883-5041-1eaa-a3d4-18e897ef1903/mza_13262262235983204825.jpg/300x300bb.png",
+          "quelle": "Apple Podcasts Charts CH",
+          "info": "Nachrichten",
+          "trend": "neu"
+        }
+      ]
+    },
+    {
+      "id": "events",
+      "name": "Events in den News",
+      "symbol": "🎟️",
+      "stand": "2026-11-05T21:53:33+00:00",
+      "eintraege": [
+        {
+          "titel": "Weihnachtsmarkt am Bellevue: «Man wird auch bar bezahlen können»",
+          "untertitel": "Dieses Jahr wird der Weihnachtsmarkt vor dem Zürcher Opernhaus von neuen Veranstaltern errichtet. Der begehbare Adventskranz aus Holz ist bereits im Bau. Am 19. November geht es …",
+          "link": "https://www.20min.ch/story/weihnachtsmarkt-bellevue-bei-bellevue-noel-kann-man-auch-bar-bezahlen-103662132",
+          "bild": "https://image.20min.ch/2026/11/04/bc35278e-f8d4-4d54-9f31-2afcd1616e1c.jpg?s=b0a0642d0eb47848393bb358470d6147",
+          "quelle": "20 Minuten",
+          "info": "",
+          "trend": "gleich"
+        },
+        {
+          "titel": "Hier entsteht der Riesen-Adventskranz für Zürcher Weihnachtsmarkt",
+          "untertitel": "Auf dem Sechseläutenplatz steht bald ein begehbarer 40-Meter-Adventskranz aus Schweizer Holz. 20 Minuten hat beim Bau in Wil SG mitangepackt – zusammen mit Zimmermann Remo (22).",
+          "link": "https://www.20min.ch/story/20-minuten-packt-mit-an-neues-wahrzeichen-hier-entsteht-zuerichs-groesster-adventskranz-103662744",
+          "bild": "https://image.20min.ch/2026/11/05/94dfd8e2-1dc9-4811-9c2b-ce39ef8dddca.jpg?s=debf8ffad3c090c9b5535c68852078ec",
+          "quelle": "20 Minuten",
+          "info": "",
+          "trend": "neu"
+        }
+      ]
+    },
+    {
+      "id": "wetter",
+      "name": "Wetter morgen",
+      "symbol": "🌤️",
+      "stand": "2026-11-05T21:53:33+00:00",
+      "eintraege": [
+        {
+          "titel": "Zürich",
+          "untertitel": "Leichter Regen · 5° bis 8°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 73%",
+          "emoji": "🌦️"
+        },
+        {
+          "titel": "Bern",
+          "untertitel": "Leichter Regen · 4° bis 8°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 85%",
+          "emoji": "🌦️"
+        },
+        {
+          "titel": "Basel",
+          "untertitel": "Leichter Regen · 6° bis 8°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 85%",
+          "emoji": "🌦️"
+        },
+        {
+          "titel": "Genf",
+          "untertitel": "Regenschauer · 6° bis 9°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 60%",
+          "emoji": "🌦️"
+        },
+        {
+          "titel": "Lugano",
+          "untertitel": "Leichter Regen · 8° bis 12°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 73%",
+          "emoji": "🌦️"
+        }
+      ]
+    }
+  ]
+}

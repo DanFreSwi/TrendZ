@@ -1,12 +1,12 @@
 {
-  "aktualisiert": "2026-11-05T19:00:59+00:00",
+  "aktualisiert": "2026-11-05T21:53:33+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-05T19:00:59+00:00",
+      "stand": "2026-11-05T21:53:33+00:00",
       "eintraege": [
         {
           "titel": "1260 Menschen sind im Sommer wegen Hitze gestorben",
@@ -18,21 +18,21 @@
           "trend": "neu"
         },
         {
-          "titel": "Töffli-Fahrer (†60) verstirbt noch auf Unfallstelle",
-          "untertitel": "In der Nacht auf Donnerstag kam es in Friltschen im Kanton Thurgau zu einem schweren Unfall. Ein 60-Jähriger erlag seinen schweren Verletzungen.",
-          "link": "https://www.blick.ch/schweiz/ostschweiz/thurgau/unfall-in-friltschen-tg-mofafahrer-stirbt-nach-kollision/wyzlzxf",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/HCbktkuTURBXy8wY2ZmMjdlZS1iOTM5LTQ5N2EtYTk5My00MjNhZDMzMWEzMmMuanBlZ5KTBc0CWM0BO5MJpjRhYTgzYwY/cyk9bv4ssv5.jpg",
+          "titel": "Winterthur ZH verliert weiteres Kult-Sportlädeli",
+          "untertitel": "Nach sieben Jahrzehnten Betrieb gehen die Türen bei Intersport Egli in der Winterthurer Altstadt für immer zu. Ende März schliesst Inhaberin Iren Rauber-Egli ihr Geschäft. Zurück …",
+          "link": "https://www.blick.ch/schweiz/zuerich/nach-70-jahren-winterthurer-altstadt-verliert-letzten-sportladen/wqseg0l",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/9PVktkuTURBXy9mYjBhYzQ0Zi1kZDUxLTRkZWMtOWE5Ny0xMjc0YWMyYzRiNjEuanBlZ5KTBc0CWM0BO5MJpjQ4ZDM5MgY/9f2zjqh1zi.jpg",
           "quelle": "Blick",
-          "info": "4 Quellen berichten",
+          "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Eben erst neue Filiale eröffnet: Tortellini-Kette ist pleite",
-          "untertitel": "Mitte Oktober eröffnete Foldini in St. Gallen einen Tortellini-Laden. Knapp zwei Wochen später versiegelte das Konkursamt das Lokal. Auch andere Standorte sind betroffen.",
-          "link": "https://www.20min.ch/story/laeden-versiegelt-eben-erst-neue-filiale-eroeffnet-tortellini-kette-ist-pleite-103662556",
-          "bild": "https://image.20min.ch/2026/11/05/093895b9-2197-4a92-ba88-055d1fe5ae64.jpg?s=1735c3447304b66a3a576f1c42ab8978",
-          "quelle": "20 Minuten",
-          "info": "3 Quellen berichten",
+          "titel": "Hier wird das Auto aus der Unterführung geborgen",
+          "untertitel": "Am Bahnhof Interlaken hat sich ein Auto am Donnerstagabend in eine Fussgängerunterführung verirrt. Es ist nicht der erste Unfall an dieser Stelle.",
+          "link": "https://www.blick.ch/schweiz/bern/autofahrer-bleibt-auf-treppe-in-interlaken-be-stecken/zbbdtsv",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/8iPktkuTURBXy83YmJiZDZkZC0xNTU5LTQxYTYtODNkYS04ODJiYWRiNWY0MTEuanBlZ5KTBc0CWM0BO5MJpjhiNGJlNAY/fle7r2degud.jpg",
+          "quelle": "Blick",
+          "info": "2 Quellen berichten",
           "trend": "neu"
         }
       ]
@@ -41,7 +41,7 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-05T19:00:59+00:00",
+      "stand": "2026-11-05T21:53:33+00:00",
       "eintraege": [
         {
           "titel": "Paraguay President Santiago Peña resigns after bank collapse",
@@ -62,12 +62,12 @@
           "trend": "neu"
         },
         {
-          "titel": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
-          "untertitel": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
-          "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff8f/live/68eb4bf0-d8e4-11f1-a701-fddedf244c16.jpg",
+          "titel": "Hoax bomb threats target European airlines and airports for second time in a week",
+          "untertitel": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\".",
+          "link": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7423/live/1976bf00-d911-11f1-94c6-3f8050561bf5.jpg",
           "quelle": "BBC",
-          "info": "2 Quellen berichten",
+          "info": "Neu",
           "trend": "neu"
         }
       ]
@@ -76,32 +76,32 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-05T19:00:59+00:00",
+      "stand": "2026-11-05T21:53:33+00:00",
       "eintraege": [
         {
-          "titel": "atalanta - kairat",
-          "untertitel": "Preview: Atalanta BC vs. Kairat - prediction, team news, lineups",
-          "link": "https://www.sportsmole.co.uk/football/atalanta-bc/europa-conference-league/preview/atalanta-vs-kairat-prediction-team-news-lineups_608346.html",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHn7_qlJ010FxKiqSLtqMhJlBivcK2nJHXHCjJISHPLOr4rlB1Zkq5okih1UU",
-          "quelle": "Google Trends · Sports Mole",
+          "titel": "benfica – lech posen",
+          "untertitel": "Benfica vs Lech Poznań: UEFA Europa League stats & head-to-head",
+          "link": "https://www.bbc.com/sport/football/live/cx4g1y2mlgvdt",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw",
+          "quelle": "Google Trends · BBC",
           "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "fc thun",
-          "untertitel": "Königin Camilla blamiert King Charles III. vor aller Welt",
-          "link": "https://www.blick.ch/people-tv/royals/koenigin-camilla-blamiert-king-charles-iii-vor-aller-welt/8lxvw9w",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREb1Py3WcTBBcrD2d9LlETXQDmbnOaDFIyprGU9diY7fQunTzjYG1drnnTBYc",
-          "quelle": "Google Trends · Blick",
-          "info": "200+ Suchanfragen",
+          "titel": "die bergretter",
+          "untertitel": "\"Die Bergretter\": Steht Markus der schwerste Verlust bevor?",
+          "link": "https://www.gmx.ch/magazine/unterhaltung/filme-serien-kino/bergretter-markus-schwerste-verlust-42915176",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKtiYyQszptwA64TgkAJ58Xfp1U9ZNlfCkpMcDtMbPX8HOLViw8NBxCo0R_mg",
+          "quelle": "Google Trends · GMX",
+          "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "feuerwehr kriens",
-          "untertitel": "Kriens: Chemieunfall führt zu Feuerwehreinsatz",
-          "link": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/kriens-chemieunfall-fuehrt-zu-feuerwehreinsatz-ld.4262173",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQ-LWkb5DEBYUKT12TI27j1xiR-HR2RM2mUPOgnNru9hSFZ2TFV7ypBl_czec",
-          "quelle": "Google Trends · Luzerner Zeitung",
+          "titel": "fc lugano",
+          "untertitel": "Lugano vs Kauno Žalgiris: UEFA Conference League stats & head-to-head",
+          "link": "https://www.bbc.co.uk/sport/football/live/c574pyzklg2zt",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
+          "quelle": "Google Trends · BBC",
           "info": "200+ Suchanfragen",
           "trend": "neu"
         }
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-05T19:00:59+00:00",
+      "stand": "2026-11-05T21:53:33+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-05T19:00:59+00:00",
+      "stand": "2026-11-05T21:53:33+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -167,13 +167,13 @@
           "trend": "gleich"
         },
         {
-          "titel": "Podcast am Pistenrand",
-          "untertitel": "Tina Weirather, Marc Berthod und Michael Schweizer",
-          "link": "https://podcasts.apple.com/ch/podcast/podcast-am-pistenrand/id1649823890",
-          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/b5/33/1b/b5331b80-51d6-a9b5-0202-26549181440f/mza_6739746491336226460.jpeg/300x300bb.png",
+          "titel": "Apropos – der tägliche Podcast",
+          "untertitel": "Tamedia",
+          "link": "https://podcasts.apple.com/ch/podcast/apropos-der-t%C3%A4gliche-podcast/id1560227032",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0f/5e/78/0f5e7883-5041-1eaa-a3d4-18e897ef1903/mza_13262262235983204825.jpg/300x300bb.png",
           "quelle": "Apple Podcasts Charts CH",
-          "info": "Sport, Comedy",
-          "trend": "gleich"
+          "info": "Nachrichten",
+          "trend": "neu"
         }
       ]
     },
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-05T19:00:59+00:00",
+      "stand": "2026-11-05T21:53:33+00:00",
       "eintraege": [
         {
           "titel": "Weihnachtsmarkt am Bellevue: «Man wird auch bar bezahlen können»",
@@ -207,7 +207,7 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-05T19:00:59+00:00",
+      "stand": "2026-11-05T21:53:33+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
@@ -215,7 +215,7 @@
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 55%",
+          "info": "Regenrisiko 73%",
           "emoji": "🌦️"
         },
         {
@@ -233,12 +233,12 @@
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 65%",
+          "info": "Regenrisiko 85%",
           "emoji": "🌦️"
         },
         {
           "titel": "Genf",
-          "untertitel": "Leichter Regen · 7° bis 9°",
+          "untertitel": "Regenschauer · 6° bis 9°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -251,7 +251,7 @@
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 68%",
+          "info": "Regenrisiko 73%",
           "emoji": "🌦️"
         }
       ]
