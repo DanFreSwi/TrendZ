@@ -1,12 +1,12 @@
 {
-  "aktualisiert": "2026-11-05T03:59:58+00:00",
+  "aktualisiert": "2026-11-05T07:26:07+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-05T03:59:58+00:00",
+      "stand": "2026-11-05T07:26:07+00:00",
       "eintraege": [
         {
           "titel": "In diesem ehemaligen Hotel wurden die Toten aufgefunden",
@@ -18,22 +18,22 @@
           "trend": "gleich"
         },
         {
-          "titel": "Von einer Alkoholikerin zur Gouverneurin: Das ist Deb Haaland",
-          "untertitel": "Deb Haaland ist die erste indigene Frau, die zur Gouverneurin eines US-Staates gewählt wurde. Sie hat ein turbulentes Leben hinter sich. Hat aber auch so einige wichtige …",
-          "link": "https://www.20min.ch/story/erste-indigene-im-amt-von-einer-alkoholikerin-zur-gouverneurin-das-ist-deb-haaland-103662318",
-          "bild": "https://image.20min.ch/2026/11/04/40ab6232-56fd-4435-b535-f356f795b9ff.jpg?s=53df74b2f252b05de82fc50cbcac1641",
-          "quelle": "20 Minuten",
+          "titel": "Was ist mit Theo W. (†63) passiert?",
+          "untertitel": "Hatte Theo W. (†63) einen schrecklichen Unfall oder wurde er gar getötet? Sicher ist: Er war im Zürcher Langstrassenquartier unterwegs – und lag am nächsten Morgen tot in seinem …",
+          "link": "https://www.blick.ch/schweiz/zuerich/tot-in-stallikon-zh-was-ist-mit-theo-w-63-passiert/lvlr8he",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/21cktkuTURBXy80ZmE0NzQxNS03ZTQwLTQ3MjItYTgzNC0xN2FkZWNkZDQxNDEuanBlZ5KTBc0CWM0BO5MJpmViMDNhYQY/sar7b6i19mj.jpg",
+          "quelle": "Blick",
           "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Auto landet nach Crash in Rorschach SG auf Bahngleis",
-          "untertitel": "Unfall am frühen Mittwochabend in Rorschach SG: Zwei Autos kollidierten auf der Hauptstrasse. Eines wurde über Wiesenland und Hecken geschleudert und blieb auf einem Bahngleis …",
-          "link": "https://www.blick.ch/schweiz/ostschweiz/st-gallen/auto-landet-nach-crash-in-rorschach-sg-auf-bahngleis/6h1yt5y",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/KTVktkuTURBXy8yYTA1YjU1NS1jNmY1LTQ5YmQtOWY4My03MTkzNDQyNDRkMzguanBlZ5KTBc0CWM0BO5MJpjY0MjI1NwY/6tm9vpef173.jpg",
-          "quelle": "Blick",
-          "info": "3 Quellen berichten",
-          "trend": "runter"
+          "titel": "Wie viele haben am gleichen Tag wie du Geburi? Mach den Check!",
+          "untertitel": "An manchen Tagen kommen in der Schweiz deutlich mehr Menschen zur Welt als an anderen. Finde heraus, wer bei dir im Freundeskreis das seltenere Datum hat!",
+          "link": "https://www.20min.ch/story/haeufigster-geburtstag-der-schweiz-dann-kommen-die-meisten-babys-zur-welt-103662077",
+          "bild": "https://image.20min.ch/2026/11/04/01a6f198-76b7-49be-a4ac-4ad5424156f4.png?s=dbe2b17649caf6203a0db056c849a909",
+          "quelle": "20 Minuten",
+          "info": "2 Quellen berichten",
+          "trend": "neu"
         }
       ]
     },
@@ -41,34 +41,34 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-05T03:59:58+00:00",
+      "stand": "2026-11-05T07:26:07+00:00",
       "eintraege": [
         {
-          "titel": "Liveblog zu den Midterms: ++ Trump verteidigt Iran-Krieg ++",
-          "untertitel": "US-Präsident Trump hat trotz des Wahldebakels betont, am Kurs im Iran-Krieg festhalten zu wollen. Außenminister Wadephul erwartet weiterhin eine konstruktive Zusammenarbeit mit …",
-          "link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
-          "bild": "",
-          "quelle": "tagesschau",
+          "titel": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+          "untertitel": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+          "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c74/live/1d4cf850-d8e5-11f1-a701-fddedf244c16.jpg",
+          "quelle": "BBC",
           "info": "3 Quellen berichten",
-          "trend": "gleich"
+          "trend": "neu"
         },
         {
-          "titel": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
-          "untertitel": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
-          "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0c3/live/16cca880-d85f-11f1-b441-2b33b063138f.jpg",
+          "titel": "What Democrats can and can't do with their new power after taking Congress",
+          "untertitel": "Democrats can vote legislation through. But Trump still has veto power.",
+          "link": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f863/live/48cc8c40-d889-11f1-8203-5d774478c31c.jpg",
           "quelle": "BBC",
           "info": "2 Quellen berichten",
-          "trend": "gleich"
+          "trend": "neu"
         },
         {
-          "titel": "ANC faces anger over poor services as South Africans vote in local elections",
-          "untertitel": "Party expected to get less than a third of the vote amid frustration over water outages and power cuts The African National Congress is on course for a bruising result in South …",
-          "link": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
-          "bild": "https://i.guim.co.uk/img/media/e9b250d3d92ad0c01aabfd863c7f2487bcf38208/405_0_4412_3530/master/4412.jpg?width=140&quality=85&auto=format&fit=max&s=7bceed75caf55f60ac90f3af40571ef2",
-          "quelle": "The Guardian",
+          "titel": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+          "untertitel": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
+          "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff8f/live/68eb4bf0-d8e4-11f1-a701-fddedf244c16.jpg",
+          "quelle": "BBC",
           "info": "2 Quellen berichten",
-          "trend": "gleich"
+          "trend": "neu"
         }
       ]
     },
@@ -76,32 +76,32 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-05T03:59:58+00:00",
+      "stand": "2026-11-05T07:26:07+00:00",
       "eintraege": [
         {
-          "titel": "eishockey-weltmeisterschaft",
-          "untertitel": "Nach TAS-Urteil zu Russland - Widerstand gegen WM 2027 wächst – auch Carney äussert sich",
-          "link": "https://www.srf.ch/sport/eishockey/wm/nach-tas-urteil-zu-russland-widerstand-gegen-wm-2027-waechst-auch-carney-aeussert-sich",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRC9-gC9mfcAttAykWHxoSNG7djGUwhE5AJyTDjSuToB-JkoQm8e92MjJnPadA",
-          "quelle": "Google Trends · SRF",
-          "info": "1000+ Suchanfragen",
+          "titel": "pferde",
+          "untertitel": "13 Pferde tot, 23 auf der Intensivstation: Giftiger Bergahorn trifft Weide in Cortébert BE",
+          "link": "https://www.20min.ch/story/bergahorn-vergiftet-pferde-in-cortebert-be-13-tiere-sind-gestorben-103661153",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7khcbY0Igkl2ftC--hr2puOORM4aL7ReXDoAb6gKAKg8R2or3Bw3S3xk98q4",
+          "quelle": "Google Trends · 20 Minuten",
+          "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "ski alpin",
-          "untertitel": "",
-          "link": "https://www.google.ch/search?q=ski+alpin",
-          "bild": "",
-          "quelle": "Google Trends",
+          "titel": "spende",
+          "untertitel": "Freunde spenden 13. AHV-Rente",
+          "link": "https://www.blick.ch/politik/rentner-spenden-13-ahv/1fthsr7",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQH4eyLa3NQCl1ksmSHbwt3sZVDRDpCGNF6dU1BFp6mk7GfQiwur0b1fbo8NF8",
+          "quelle": "Google Trends · Blick",
           "info": "500+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "twitch",
-          "untertitel": "Lex Veldhuis Becomes the Newest GGPoker Ambassador",
-          "link": "https://www.pokernews.com/news/2026/11/lex-veldhuis-joins-ggpoker-52729.htm",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ7G2nfESP3TFBTuxFtCXxVh7YpwRLD5qMkf1eML7WlUdEmqEUpogyF0HngDCU",
-          "quelle": "Google Trends · PokerNews",
+          "titel": "invalidenversicherung",
+          "untertitel": "So will der Bundesrat die Invalidenversicherung sanieren",
+          "link": "https://www.srf.ch/news/schweiz/finanzielle-massnahmen-so-will-der-bundesrat-die-invalidenversicherung-sanieren",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhWQf7ruYsP9m84EvfRMgITjj7o05h1iHP2W0DIJsfDJ9my-7jkOHbYThkv9o",
+          "quelle": "Google Trends · SRF",
           "info": "200+ Suchanfragen",
           "trend": "neu"
         }
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-05T03:59:58+00:00",
+      "stand": "2026-11-05T07:26:07+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-05T01:12:05+00:00",
+      "stand": "2026-11-05T07:26:07+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-05T03:59:58+00:00",
+      "stand": "2026-11-05T07:26:07+00:00",
       "eintraege": [
         {
           "titel": "Weihnachtsmarkt am Bellevue: «Man wird auch bar bezahlen können»",
@@ -198,16 +198,16 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-05T03:59:58+00:00",
+      "stand": "2026-11-05T07:26:07+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
-          "untertitel": "Bewölkt · 5° bis 10°",
+          "untertitel": "Leichter Regen · 4° bis 9°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
           "info": "Regenrisiko 45%",
-          "emoji": "☁️"
+          "emoji": "🌦️"
         },
         {
           "titel": "Bern",
@@ -215,12 +215,12 @@
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 63%",
+          "info": "Regenrisiko 73%",
           "emoji": "🌦️"
         },
         {
           "titel": "Basel",
-          "untertitel": "Regenschauer · 5° bis 10°",
+          "untertitel": "Leichter Regen · 5° bis 9°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -229,21 +229,21 @@
         },
         {
           "titel": "Genf",
-          "untertitel": "Regenschauer · 9° bis 10°",
+          "untertitel": "Leichter Regen · 8° bis 10°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 73%",
+          "info": "Regenrisiko 80%",
           "emoji": "🌦️"
         },
         {
           "titel": "Lugano",
-          "untertitel": "Leichter Regen · 8° bis 12°",
+          "untertitel": "Regen · 8° bis 11°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 68%",
-          "emoji": "🌦️"
+          "info": "Regenrisiko 75%",
+          "emoji": "🌧️"
         }
       ]
     }
