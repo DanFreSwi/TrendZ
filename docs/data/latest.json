@@ -1,38 +1,38 @@
 {
-  "aktualisiert": "2026-11-05T07:26:07+00:00",
+  "aktualisiert": "2026-11-05T10:11:36+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-05T07:26:07+00:00",
+      "stand": "2026-11-05T10:11:36+00:00",
       "eintraege": [
         {
-          "titel": "In diesem ehemaligen Hotel wurden die Toten aufgefunden",
-          "untertitel": "Am Dienstagabend hat die Kantonspolizei St. Gallen in einer Liegenschaft in Wattwil einen Mann und ein Kleinkind tot aufgefunden. Die Polizei geht von einer Gewalttat aus.",
-          "link": "https://www.blick.ch/schweiz/ostschweiz/st-gallen/in-diesem-ehemaligen-hotel-wurden-die-toten-aufgefunden/f0thm1r",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/r-WktkuTURBXy84YWRiN2ZjZS1jNmRiLTQxYTktYjUxOS1lZjA4YWFmYmU2OTAuanBlZ5KTBc0CWM0BO5MJpjhlM2E5OQY/arxqwngzswh.jpg",
-          "quelle": "Blick",
-          "info": "4 Quellen berichten",
-          "trend": "gleich"
-        },
-        {
-          "titel": "Was ist mit Theo W. (†63) passiert?",
-          "untertitel": "Hatte Theo W. (†63) einen schrecklichen Unfall oder wurde er gar getötet? Sicher ist: Er war im Zürcher Langstrassenquartier unterwegs – und lag am nächsten Morgen tot in seinem …",
-          "link": "https://www.blick.ch/schweiz/zuerich/tot-in-stallikon-zh-was-ist-mit-theo-w-63-passiert/lvlr8he",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/21cktkuTURBXy80ZmE0NzQxNS03ZTQwLTQ3MjItYTgzNC0xN2FkZWNkZDQxNDEuanBlZ5KTBc0CWM0BO5MJpmViMDNhYQY/sar7b6i19mj.jpg",
+          "titel": "Töffli-Fahrer (†60) verstirbt noch auf Unfallstelle",
+          "untertitel": "In der Nacht auf Donnerstag kam es in Friltschen im Kanton Thurgau zu einem schweren Unfall. Ein 60-Jähriger erlag seinen schweren Verletzungen.",
+          "link": "https://www.blick.ch/schweiz/ostschweiz/thurgau/unfall-in-friltschen-tg-mofafahrer-stirbt-nach-kollision/wyzlzxf",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/HCbktkuTURBXy8wY2ZmMjdlZS1iOTM5LTQ5N2EtYTk5My00MjNhZDMzMWEzMmMuanBlZ5KTBc0CWM0BO5MJpjRhYTgzYwY/cyk9bv4ssv5.jpg",
           "quelle": "Blick",
           "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Wie viele haben am gleichen Tag wie du Geburi? Mach den Check!",
-          "untertitel": "An manchen Tagen kommen in der Schweiz deutlich mehr Menschen zur Welt als an anderen. Finde heraus, wer bei dir im Freundeskreis das seltenere Datum hat!",
-          "link": "https://www.20min.ch/story/haeufigster-geburtstag-der-schweiz-dann-kommen-die-meisten-babys-zur-welt-103662077",
-          "bild": "https://image.20min.ch/2026/11/04/01a6f198-76b7-49be-a4ac-4ad5424156f4.png?s=dbe2b17649caf6203a0db056c849a909",
+          "titel": "«Die USA sind jetzt am Ende»",
+          "untertitel": "Die Demokraten feiern, die Republikaner trinken aus Frust: Nach der blauen Welle in Texas liegen Jubel und Wut nah beieinander. Doch nicht alle, die diesmal demokratisch gewählt …",
+          "link": "https://www.20min.ch/story/texas-nach-den-midterms-zwischen-jubel-und-schock-am-tag-nach-der-blauen-welle-103662457",
+          "bild": "https://image.20min.ch/2026/11/05/86df3639-e3e2-4f47-859d-1f547192a594.jpg?s=89755dc6cbd5c4058e1933be7901c607",
           "quelle": "20 Minuten",
-          "info": "2 Quellen berichten",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Massenschlägerei in U20-Liga – 51 rote Karten: Brasilianisches Fussballspiel mit Weltrekord",
+          "untertitel": "Im Spiel zwischen Uberlandia und Mamore in der zweiten brasilianischen U20-Liga kommt es zu 51 Platzverweisen.",
+          "link": "https://www.srf.ch/sport/fussball/internationale-ligen/massenschlaegerei-in-u20-liga-51-rote-karten-brasilianisches-fussballspiel-mit-weltrekord",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/4acbaf.webp",
+          "quelle": "SRF",
+          "info": "3 Quellen berichten",
           "trend": "neu"
         }
       ]
@@ -41,7 +41,7 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-05T07:26:07+00:00",
+      "stand": "2026-11-05T10:11:36+00:00",
       "eintraege": [
         {
           "titel": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-05T07:26:07+00:00",
+      "stand": "2026-11-05T10:11:36+00:00",
       "eintraege": [
         {
-          "titel": "pferde",
-          "untertitel": "13 Pferde tot, 23 auf der Intensivstation: Giftiger Bergahorn trifft Weide in Cortébert BE",
-          "link": "https://www.20min.ch/story/bergahorn-vergiftet-pferde-in-cortebert-be-13-tiere-sind-gestorben-103661153",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7khcbY0Igkl2ftC--hr2puOORM4aL7ReXDoAb6gKAKg8R2or3Bw3S3xk98q4",
-          "quelle": "Google Trends · 20 Minuten",
-          "info": "100+ Suchanfragen",
-          "trend": "neu"
-        },
-        {
-          "titel": "spende",
-          "untertitel": "Freunde spenden 13. AHV-Rente",
-          "link": "https://www.blick.ch/politik/rentner-spenden-13-ahv/1fthsr7",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQH4eyLa3NQCl1ksmSHbwt3sZVDRDpCGNF6dU1BFp6mk7GfQiwur0b1fbo8NF8",
-          "quelle": "Google Trends · Blick",
-          "info": "500+ Suchanfragen",
-          "trend": "neu"
-        },
-        {
-          "titel": "invalidenversicherung",
-          "untertitel": "So will der Bundesrat die Invalidenversicherung sanieren",
-          "link": "https://www.srf.ch/news/schweiz/finanzielle-massnahmen-so-will-der-bundesrat-die-invalidenversicherung-sanieren",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhWQf7ruYsP9m84EvfRMgITjj7o05h1iHP2W0DIJsfDJ9my-7jkOHbYThkv9o",
-          "quelle": "Google Trends · SRF",
+          "titel": "alan jones",
+          "untertitel": "Alan Jones dies aged 80: Ex-F1 champion 'dedicated his life to motorsport'",
+          "link": "https://www.bbc.com/sport/formula1/articles/cmd9345vdy8do",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRt0i4CuPxhXyjRXW5UOuXAz7XH4-o7OChtvqdwXgTYjriTqdJZ44NZMO6uXsk",
+          "quelle": "Google Trends · BBC",
           "info": "200+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "united states immigration and customs enforcement",
+          "untertitel": "USCIS Reports 2.2 Million Immigration Enforcement Actions Since January 2025",
+          "link": "https://www.hstoday.us/subject-matter-areas/customs-immigration/uscis-reports-2-2-million-immigration-enforcement-actions-since-january-2025/",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkIjM2nHLGvTSkRCEXGiRkHNmrFn1ryXmKZuwtkGbwXX37JPtgiO-nyRCos5w",
+          "quelle": "Google Trends · Homeland Security Today",
+          "info": "200+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "morgan stanley",
+          "untertitel": "Morgan Stanley Offers $2.3 Billion Debt for Dell Family Deal",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-03/morgan-stanley-offers-2-3-billion-debt-for-dell-family-deal",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSdr02-FsdrfBLScZIgOdlNtE8ELg-xMDW7XhlovU0tMPB5Apwv-G0KSwTs-vE",
+          "quelle": "Google Trends · Bloomberg.com",
+          "info": "500+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-05T07:26:07+00:00",
+      "stand": "2026-11-05T10:11:36+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-05T07:26:07+00:00",
+      "stand": "2026-11-05T10:11:36+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-05T07:26:07+00:00",
+      "stand": "2026-11-05T10:11:36+00:00",
       "eintraege": [
         {
           "titel": "Weihnachtsmarkt am Bellevue: «Man wird auch bar bezahlen können»",
@@ -198,7 +198,7 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-05T07:26:07+00:00",
+      "stand": "2026-11-05T10:11:36+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
@@ -206,7 +206,7 @@
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 45%",
+          "info": "Regenrisiko 43%",
           "emoji": "🌦️"
         },
         {
@@ -215,7 +215,7 @@
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 73%",
+          "info": "Regenrisiko 75%",
           "emoji": "🌦️"
         },
         {
@@ -224,7 +224,7 @@
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 45%",
+          "info": "Regenrisiko 63%",
           "emoji": "🌦️"
         },
         {
@@ -233,16 +233,16 @@
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 80%",
+          "info": "Regenrisiko 83%",
           "emoji": "🌦️"
         },
         {
           "titel": "Lugano",
-          "untertitel": "Regen · 8° bis 11°",
+          "untertitel": "Regen · 9° bis 11°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 75%",
+          "info": "Regenrisiko 78%",
           "emoji": "🌧️"
         }
       ]
