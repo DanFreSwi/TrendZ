@@ -1,19 +1,19 @@
 {
-  "aktualisiert": "2026-11-05T16:08:06+00:00",
+  "aktualisiert": "2026-11-05T19:00:59+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-05T16:08:06+00:00",
+      "stand": "2026-11-05T19:00:59+00:00",
       "eintraege": [
         {
-          "titel": "Berner Metzg-Kette gehackt – Filiale muss über 2 Wochen schliessen",
-          "untertitel": "Hacker legen die Filiale von Lüthi's Fleischwaren in Köniz-Liebefeld BE lahm! Unbekannte haben die Kühl- und Tiefkühlanlagen manipuliert. Das hat bittere Folgen: Der Betrieb muss …",
-          "link": "https://www.blick.ch/schweiz/bern/berner-metzg-kette-gehackt-filiale-muss-schliessen/5jr7lhy",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/kd-ktktTURBXy9hY2JlOGIzOC0xNDVjLTQ0MDQtYWNmZS1jNDVjMDQ3YzQ3OTgucG5nkpMFzQJYzQE7kwmmYTI4Y2FiBg/jl6iicijsuk.jpg",
-          "quelle": "Blick",
+          "titel": "1260 Menschen sind im Sommer wegen Hitze gestorben",
+          "untertitel": "Das Bundesamt für Gesundheit veröffentlicht die erste Schätzung zu Hitzetoten im Sommer 2026. Es sind deutlich mehr als in den letzten Jahren.",
+          "link": "https://www.20min.ch/story/in-der-schweiz-1260-menschen-sind-im-sommer-wegen-hitze-gestorben-103662927",
+          "bild": "https://image.20min.ch/2026/11/05/d69be783-a6ca-45af-949e-9cf897e593b6.jpg?s=1489c86ec5d6643ae37774f7a1ca3801",
+          "quelle": "20 Minuten",
           "info": "4 Quellen berichten",
           "trend": "neu"
         },
@@ -27,12 +27,12 @@
           "trend": "neu"
         },
         {
-          "titel": "In Basel verkaufter Thunfisch sieht teils frischer aus, als er ist",
-          "untertitel": "Das Kantonslabor Basel-Stadt hat 4 von 16 Proben von frischem Thunfisch beanstandet. Sie wurden umgerötet, um frischer auszusehen – dies sei Lebensmittelbetrug.",
-          "link": "https://www.watson.ch/schweiz/food/627333614-basel-kantonslabor-bs-meldet-lebensmittelbetrug-bei-frischem-thunfisch",
-          "bild": "",
-          "quelle": "watson",
-          "info": "4 Quellen berichten",
+          "titel": "Eben erst neue Filiale eröffnet: Tortellini-Kette ist pleite",
+          "untertitel": "Mitte Oktober eröffnete Foldini in St. Gallen einen Tortellini-Laden. Knapp zwei Wochen später versiegelte das Konkursamt das Lokal. Auch andere Standorte sind betroffen.",
+          "link": "https://www.20min.ch/story/laeden-versiegelt-eben-erst-neue-filiale-eroeffnet-tortellini-kette-ist-pleite-103662556",
+          "bild": "https://image.20min.ch/2026/11/05/093895b9-2197-4a92-ba88-055d1fe5ae64.jpg?s=1735c3447304b66a3a576f1c42ab8978",
+          "quelle": "20 Minuten",
+          "info": "3 Quellen berichten",
           "trend": "neu"
         }
       ]
@@ -41,31 +41,31 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-05T16:08:06+00:00",
+      "stand": "2026-11-05T19:00:59+00:00",
       "eintraege": [
         {
-          "titel": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
-          "untertitel": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
-          "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff8f/live/68eb4bf0-d8e4-11f1-a701-fddedf244c16.jpg",
-          "quelle": "BBC",
-          "info": "3 Quellen berichten",
-          "trend": "neu"
-        },
-        {
-          "titel": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
-          "untertitel": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
-          "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c74/live/1d4cf850-d8e5-11f1-a701-fddedf244c16.jpg",
+          "titel": "Paraguay President Santiago Peña resigns after bank collapse",
+          "untertitel": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
+          "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12e6/live/3ccd15c0-d93a-11f1-95ea-8df9a040b6bf.jpg",
           "quelle": "BBC",
           "info": "2 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "What Democrats can and can't do with their new power after taking Congress",
-          "untertitel": "Democrats can vote legislation through. But Trump still has veto power.",
-          "link": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f863/live/48cc8c40-d889-11f1-8203-5d774478c31c.jpg",
+          "titel": "Russell Brand is being investigated over two new rape complaints, police say",
+          "untertitel": "Det Supt Andy Furphy said he hoped other potential victims would gain \"courage\" and \"confidence\" from the guilty verdicts.",
+          "link": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecb3/live/33e07d40-d92a-11f1-af74-e735e628ea98.jpg",
+          "quelle": "BBC",
+          "info": "2 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+          "untertitel": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
+          "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff8f/live/68eb4bf0-d8e4-11f1-a701-fddedf244c16.jpg",
           "quelle": "BBC",
           "info": "2 Quellen berichten",
           "trend": "neu"
@@ -76,32 +76,32 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-05T16:08:06+00:00",
+      "stand": "2026-11-05T19:00:59+00:00",
       "eintraege": [
         {
-          "titel": "buchs",
-          "untertitel": "A13-Anschluss Buchs wird vorübergehend gesperrt",
-          "link": "https://www.vaterland.li/liechtenstein/gesellschaft/a13-anschluss-buchs-wird-voruebergehend-gesperrt-art-772148",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSfWKK4CvjRCdM4iIsZ4RSqBtU4K2Sm4GSliNB0sf5Q_At-0Ir_NYzY-Ifymhw",
-          "quelle": "Google Trends · Vaterland online",
+          "titel": "atalanta - kairat",
+          "untertitel": "Preview: Atalanta BC vs. Kairat - prediction, team news, lineups",
+          "link": "https://www.sportsmole.co.uk/football/atalanta-bc/europa-conference-league/preview/atalanta-vs-kairat-prediction-team-news-lineups_608346.html",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHn7_qlJ010FxKiqSLtqMhJlBivcK2nJHXHCjJISHPLOr4rlB1Zkq5okih1UU",
+          "quelle": "Google Trends · Sports Mole",
           "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "nasdaq 100",
-          "untertitel": "US job openings jump in September; layoffs lowest in 1-1/2 years",
-          "link": "https://www.reuters.com/business/us-job-openings-increase-sharply-september-2026-11-03/",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQndBTAaYeDOR5-sGz-UIBrzdPi64AAzSnKJ3wrutxObGrC3YfuhGxnc9r9xUY",
-          "quelle": "Google Trends · Reuters",
+          "titel": "fc thun",
+          "untertitel": "Königin Camilla blamiert King Charles III. vor aller Welt",
+          "link": "https://www.blick.ch/people-tv/royals/koenigin-camilla-blamiert-king-charles-iii-vor-aller-welt/8lxvw9w",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREb1Py3WcTBBcrD2d9LlETXQDmbnOaDFIyprGU9diY7fQunTzjYG1drnnTBYc",
+          "quelle": "Google Trends · Blick",
           "info": "200+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "nasdaq",
-          "untertitel": "Daily: Tech sell-off highlights rising scrutiny of AI spending",
-          "link": "https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/house-view/daily/2026/latest-02112026.html",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYD1h1DXs7Qr8k8gHvg8GSc7AsnplvvfYvJvlh56F_g2Yb5aYl87-bA8S3X94",
-          "quelle": "Google Trends · UBS",
+          "titel": "feuerwehr kriens",
+          "untertitel": "Kriens: Chemieunfall führt zu Feuerwehreinsatz",
+          "link": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/kriens-chemieunfall-fuehrt-zu-feuerwehreinsatz-ld.4262173",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQ-LWkb5DEBYUKT12TI27j1xiR-HR2RM2mUPOgnNru9hSFZ2TFV7ypBl_czec",
+          "quelle": "Google Trends · Luzerner Zeitung",
           "info": "200+ Suchanfragen",
           "trend": "neu"
         }
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-05T16:08:06+00:00",
+      "stand": "2026-11-05T19:00:59+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-05T16:08:06+00:00",
+      "stand": "2026-11-05T19:00:59+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-05T16:08:06+00:00",
+      "stand": "2026-11-05T19:00:59+00:00",
       "eintraege": [
         {
           "titel": "Weihnachtsmarkt am Bellevue: «Man wird auch bar bezahlen können»",
@@ -191,6 +191,15 @@
           "quelle": "20 Minuten",
           "info": "",
           "trend": "gleich"
+        },
+        {
+          "titel": "Hier entsteht der Riesen-Adventskranz für Zürcher Weihnachtsmarkt",
+          "untertitel": "Auf dem Sechseläutenplatz steht bald ein begehbarer 40-Meter-Adventskranz aus Schweizer Holz. 20 Minuten hat beim Bau in Wil SG mitangepackt – zusammen mit Zimmermann Remo (22).",
+          "link": "https://www.20min.ch/story/20-minuten-packt-mit-an-neues-wahrzeichen-hier-entsteht-zuerichs-groesster-adventskranz-103662744",
+          "bild": "https://image.20min.ch/2026/11/05/94dfd8e2-1dc9-4811-9c2b-ce39ef8dddca.jpg?s=debf8ffad3c090c9b5535c68852078ec",
+          "quelle": "20 Minuten",
+          "info": "",
+          "trend": "neu"
         }
       ]
     },
@@ -198,7 +207,7 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-05T16:08:06+00:00",
+      "stand": "2026-11-05T19:00:59+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
@@ -206,43 +215,43 @@
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 43%",
+          "info": "Regenrisiko 55%",
           "emoji": "🌦️"
         },
         {
           "titel": "Bern",
-          "untertitel": "Regenschauer · 5° bis 8°",
+          "untertitel": "Leichter Regen · 4° bis 8°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 75%",
+          "info": "Regenrisiko 85%",
           "emoji": "🌦️"
         },
         {
           "titel": "Basel",
-          "untertitel": "Leichter Regen · 6° bis 9°",
+          "untertitel": "Leichter Regen · 6° bis 8°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 63%",
+          "info": "Regenrisiko 65%",
           "emoji": "🌦️"
         },
         {
           "titel": "Genf",
-          "untertitel": "Regenschauer · 7° bis 9°",
+          "untertitel": "Leichter Regen · 7° bis 9°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 83%",
+          "info": "Regenrisiko 60%",
           "emoji": "🌦️"
         },
         {
           "titel": "Lugano",
-          "untertitel": "Leichter Regen · 7° bis 12°",
+          "untertitel": "Leichter Regen · 8° bis 12°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 78%",
+          "info": "Regenrisiko 68%",
           "emoji": "🌦️"
         }
       ]
