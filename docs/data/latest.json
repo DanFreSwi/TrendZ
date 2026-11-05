@@ -1,12 +1,12 @@
 {
-  "aktualisiert": "2026-11-04T21:55:03+00:00",
+  "aktualisiert": "2026-11-05T01:12:05+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-04T21:55:03+00:00",
+      "stand": "2026-11-05T01:12:05+00:00",
       "eintraege": [
         {
           "titel": "In diesem ehemaligen Hotel wurden die Toten aufgefunden",
@@ -15,6 +15,15 @@
           "bild": "https://ocdn.eu/pulscms-transforms/1/r-WktkuTURBXy84YWRiN2ZjZS1jNmRiLTQxYTktYjUxOS1lZjA4YWFmYmU2OTAuanBlZ5KTBc0CWM0BO5MJpjhlM2E5OQY/arxqwngzswh.jpg",
           "quelle": "Blick",
           "info": "4 Quellen berichten",
+          "trend": "gleich"
+        },
+        {
+          "titel": "Nächster Preisschub droht: Autoprämien könnten erneut steigen",
+          "untertitel": "Seit 2021 sind die Autoversicherungsprämien laut Comparis um rund 19 Prozent gestiegen. Auch 2027 könnten weitere Aufschläge auf Autofahrende zukommen.",
+          "link": "https://www.20min.ch/story/autoversicherung-2027-praemien-koennten-laut-comparis-erneut-steigen-103662050",
+          "bild": "https://media.20min.ch/6/image/2026/06/18/9c719902-cf9e-4be6-b9e0-c5f38b9b04ce.jpg?s=4f8776318f298b82245d99adde501921",
+          "quelle": "20 Minuten",
+          "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
@@ -24,16 +33,7 @@
           "bild": "https://ocdn.eu/pulscms-transforms/1/KTVktkuTURBXy8yYTA1YjU1NS1jNmY1LTQ5YmQtOWY4My03MTkzNDQyNDRkMzguanBlZ5KTBc0CWM0BO5MJpjY0MjI1NwY/6tm9vpef173.jpg",
           "quelle": "Blick",
           "info": "3 Quellen berichten",
-          "trend": "neu"
-        },
-        {
-          "titel": "Alkoholtest war positiv – Marius bleibt in U-Haft",
-          "untertitel": "Nachdem ein Gericht am Montag Marius Borg Høibys Freilassung angeordnet hatte, hat die nächste Instanz den Entscheid nun aufgehoben. Der Sohn der norwegischen Königin Mette-Marit …",
-          "link": "https://www.20min.ch/story/marius-borg-hoiby-bleibt-in-untersuchungshaft-berufungsgericht-kippt-freilassung-103662219",
-          "bild": "https://image.20min.ch/2026/09/10/f90a405c-93bd-4f9f-b7f0-02a3b1ccb328.jpg?s=23d23da95dabf4f129fd2b38b2522c5e",
-          "quelle": "20 Minuten",
-          "info": "3 Quellen berichten",
-          "trend": "neu"
+          "trend": "runter"
         }
       ]
     },
@@ -41,7 +41,7 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-04T21:55:03+00:00",
+      "stand": "2026-11-05T01:12:05+00:00",
       "eintraege": [
         {
           "titel": "Liveblog zu den Midterms: ++ Trump verteidigt Iran-Krieg ++",
@@ -50,7 +50,7 @@
           "bild": "",
           "quelle": "tagesschau",
           "info": "3 Quellen berichten",
-          "trend": "neu"
+          "trend": "gleich"
         },
         {
           "titel": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
@@ -59,7 +59,7 @@
           "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0c3/live/16cca880-d85f-11f1-b441-2b33b063138f.jpg",
           "quelle": "BBC",
           "info": "2 Quellen berichten",
-          "trend": "neu"
+          "trend": "gleich"
         },
         {
           "titel": "ANC faces anger over poor services as South Africans vote in local elections",
@@ -68,7 +68,7 @@
           "bild": "https://i.guim.co.uk/img/media/e9b250d3d92ad0c01aabfd863c7f2487bcf38208/405_0_4412_3530/master/4412.jpg?width=140&quality=85&auto=format&fit=max&s=7bceed75caf55f60ac90f3af40571ef2",
           "quelle": "The Guardian",
           "info": "2 Quellen berichten",
-          "trend": "neu"
+          "trend": "gleich"
         }
       ]
     },
@@ -76,32 +76,32 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-04T21:55:03+00:00",
+      "stand": "2026-11-05T01:12:05+00:00",
       "eintraege": [
         {
-          "titel": "hélène darroze",
-          "untertitel": "\"Le monde de la Gastronomie vient de perdre l’une des plus grandes cuisinières au monde\" : Hélène Darroze, Alain Ducasse, Jean-François Piège... ils ont tous des mots honorables …",
-          "link": "https://www.purepeople.com/article/le-monde-de-la-gastronomie-vient-de-perdre-lune-des-plus-grandes-cuisinieres-au-monde-helene-darroze-alain-ducasse-jean-francois-piege-ils-ont-tous-des-mots-honorables-pour-ce-grand-nom_a555806/1",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_u77K571MsSXZi01lzwWvS3uGEBzWFqkRhhgys_8xbl0wg3Foaum3BclbW2A",
-          "quelle": "Google Trends · Ode (Purepeople)",
+          "titel": "twitch",
+          "untertitel": "Lex Veldhuis Becomes the Newest GGPoker Ambassador",
+          "link": "https://www.pokernews.com/news/2026/11/lex-veldhuis-joins-ggpoker-52729.htm",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ7G2nfESP3TFBTuxFtCXxVh7YpwRLD5qMkf1eML7WlUdEmqEUpogyF0HngDCU",
+          "quelle": "Google Trends · PokerNews",
           "info": "200+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "hausi leutenegger",
-          "untertitel": "Diagnose beim Olympiasieger: Hausi Leutenegger ist unheilbar krank",
-          "link": "https://www.tagesanzeiger.ch/hausi-leutenegger-er-ist-unheilbar-krank-383978860745",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRR7nRaAfElkJTJlPzlkED7r4fL_Iu8nmI24G_E-rVIzYrXSz5wCp4vZTRSj7c",
-          "quelle": "Google Trends · Tages-Anzeiger",
-          "info": "200+ Suchanfragen",
+          "titel": "manchester city",
+          "untertitel": "",
+          "link": "https://www.google.ch/search?q=manchester+city",
+          "bild": "",
+          "quelle": "Google Trends",
+          "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "como",
-          "untertitel": "La FIFA vuelve a visitar el estadio de Anoeta para evaluarlo como posible sede del Mundial",
-          "link": "https://as.com/futbol/la-fifa-vuelve-a-visitar-el-estadio-de-anoeta-para-evaluarlo-como-posible-sede-del-mundial-f202611-n/",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX4ZzdOIvBhVNaeqzKZzMBbqvuITKniZ9ITR4XDEruTP750DEfl80D5FdzMNQ",
-          "quelle": "Google Trends · Diario AS",
+          "titel": "wow forever",
+          "untertitel": "Begin Again in Azeroth: World of Warcraft: Forever Is Here",
+          "link": "https://blog.twitch.tv/en/2026/11/04/world-of-warcraft-forever-is-here/",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3YGvvEoJJjNzp3PtFe9MElXz12R-B5EXLkXjKXCuiR4Vgp0pJdSk7etEs5K8",
+          "quelle": "Google Trends · Twitch Blog",
           "info": "200+ Suchanfragen",
           "trend": "neu"
         }
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-04T21:55:03+00:00",
+      "stand": "2026-11-05T01:12:05+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-04T21:55:03+00:00",
+      "stand": "2026-11-05T01:12:05+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -173,7 +173,7 @@
           "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/b5/33/1b/b5331b80-51d6-a9b5-0202-26549181440f/mza_6739746491336226460.jpeg/300x300bb.png",
           "quelle": "Apple Podcasts Charts CH",
           "info": "Sport, Comedy",
-          "trend": "neu"
+          "trend": "gleich"
         }
       ]
     },
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-04T21:55:03+00:00",
+      "stand": "2026-11-05T01:12:05+00:00",
       "eintraege": [
         {
           "titel": "Weihnachtsmarkt am Bellevue: «Man wird auch bar bezahlen können»",
@@ -190,7 +190,7 @@
           "bild": "https://image.20min.ch/2026/11/04/bc35278e-f8d4-4d54-9f31-2afcd1616e1c.jpg?s=b0a0642d0eb47848393bb358470d6147",
           "quelle": "20 Minuten",
           "info": "",
-          "trend": "neu"
+          "trend": "gleich"
         }
       ]
     },
@@ -198,52 +198,52 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-04T21:55:03+00:00",
+      "stand": "2026-11-05T01:12:05+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
-          "untertitel": "Bewölkt · 5° bis 10°",
+          "untertitel": "Leichter Regen · 5° bis 9°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 0%",
-          "emoji": "☁️"
+          "info": "Regenrisiko 45%",
+          "emoji": "🌦️"
         },
         {
           "titel": "Bern",
-          "untertitel": "Bewölkt · 4° bis 9°",
+          "untertitel": "Regenschauer · 6° bis 10°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 0%",
-          "emoji": "☁️"
+          "info": "Regenrisiko 63%",
+          "emoji": "🌦️"
         },
         {
           "titel": "Basel",
-          "untertitel": "Bewölkt · 4° bis 13°",
+          "untertitel": "Leichter Regen · 6° bis 9°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 0%",
-          "emoji": "☁️"
+          "info": "Regenrisiko 45%",
+          "emoji": "🌦️"
         },
         {
           "titel": "Genf",
-          "untertitel": "Leichter Regen · 6° bis 11°",
+          "untertitel": "Leichter Regen · 8° bis 11°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 40%",
+          "info": "Regenrisiko 73%",
           "emoji": "🌦️"
         },
         {
           "titel": "Lugano",
-          "untertitel": "Bewölkt · 8° bis 14°",
+          "untertitel": "Leichter Regen · 9° bis 11°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 13%",
-          "emoji": "☁️"
+          "info": "Regenrisiko 68%",
+          "emoji": "🌦️"
         }
       ]
     }
