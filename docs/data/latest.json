@@ -1,12 +1,12 @@
 {
-  "aktualisiert": "2026-11-05T01:12:05+00:00",
+  "aktualisiert": "2026-11-05T03:59:58+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-05T01:12:05+00:00",
+      "stand": "2026-11-05T03:59:58+00:00",
       "eintraege": [
         {
           "titel": "In diesem ehemaligen Hotel wurden die Toten aufgefunden",
@@ -18,10 +18,10 @@
           "trend": "gleich"
         },
         {
-          "titel": "Nächster Preisschub droht: Autoprämien könnten erneut steigen",
-          "untertitel": "Seit 2021 sind die Autoversicherungsprämien laut Comparis um rund 19 Prozent gestiegen. Auch 2027 könnten weitere Aufschläge auf Autofahrende zukommen.",
-          "link": "https://www.20min.ch/story/autoversicherung-2027-praemien-koennten-laut-comparis-erneut-steigen-103662050",
-          "bild": "https://media.20min.ch/6/image/2026/06/18/9c719902-cf9e-4be6-b9e0-c5f38b9b04ce.jpg?s=4f8776318f298b82245d99adde501921",
+          "titel": "Von einer Alkoholikerin zur Gouverneurin: Das ist Deb Haaland",
+          "untertitel": "Deb Haaland ist die erste indigene Frau, die zur Gouverneurin eines US-Staates gewählt wurde. Sie hat ein turbulentes Leben hinter sich. Hat aber auch so einige wichtige …",
+          "link": "https://www.20min.ch/story/erste-indigene-im-amt-von-einer-alkoholikerin-zur-gouverneurin-das-ist-deb-haaland-103662318",
+          "bild": "https://image.20min.ch/2026/11/04/40ab6232-56fd-4435-b535-f356f795b9ff.jpg?s=53df74b2f252b05de82fc50cbcac1641",
           "quelle": "20 Minuten",
           "info": "3 Quellen berichten",
           "trend": "neu"
@@ -41,7 +41,7 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-05T01:12:05+00:00",
+      "stand": "2026-11-05T03:59:58+00:00",
       "eintraege": [
         {
           "titel": "Liveblog zu den Midterms: ++ Trump verteidigt Iran-Krieg ++",
@@ -76,32 +76,32 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-05T01:12:05+00:00",
+      "stand": "2026-11-05T03:59:58+00:00",
       "eintraege": [
+        {
+          "titel": "eishockey-weltmeisterschaft",
+          "untertitel": "Nach TAS-Urteil zu Russland - Widerstand gegen WM 2027 wächst – auch Carney äussert sich",
+          "link": "https://www.srf.ch/sport/eishockey/wm/nach-tas-urteil-zu-russland-widerstand-gegen-wm-2027-waechst-auch-carney-aeussert-sich",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRC9-gC9mfcAttAykWHxoSNG7djGUwhE5AJyTDjSuToB-JkoQm8e92MjJnPadA",
+          "quelle": "Google Trends · SRF",
+          "info": "1000+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "ski alpin",
+          "untertitel": "",
+          "link": "https://www.google.ch/search?q=ski+alpin",
+          "bild": "",
+          "quelle": "Google Trends",
+          "info": "500+ Suchanfragen",
+          "trend": "neu"
+        },
         {
           "titel": "twitch",
           "untertitel": "Lex Veldhuis Becomes the Newest GGPoker Ambassador",
           "link": "https://www.pokernews.com/news/2026/11/lex-veldhuis-joins-ggpoker-52729.htm",
           "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ7G2nfESP3TFBTuxFtCXxVh7YpwRLD5qMkf1eML7WlUdEmqEUpogyF0HngDCU",
           "quelle": "Google Trends · PokerNews",
-          "info": "200+ Suchanfragen",
-          "trend": "neu"
-        },
-        {
-          "titel": "manchester city",
-          "untertitel": "",
-          "link": "https://www.google.ch/search?q=manchester+city",
-          "bild": "",
-          "quelle": "Google Trends",
-          "info": "100+ Suchanfragen",
-          "trend": "neu"
-        },
-        {
-          "titel": "wow forever",
-          "untertitel": "Begin Again in Azeroth: World of Warcraft: Forever Is Here",
-          "link": "https://blog.twitch.tv/en/2026/11/04/world-of-warcraft-forever-is-here/",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3YGvvEoJJjNzp3PtFe9MElXz12R-B5EXLkXjKXCuiR4Vgp0pJdSk7etEs5K8",
-          "quelle": "Google Trends · Twitch Blog",
           "info": "200+ Suchanfragen",
           "trend": "neu"
         }
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-05T01:12:05+00:00",
+      "stand": "2026-11-05T03:59:58+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-05T01:12:05+00:00",
+      "stand": "2026-11-05T03:59:58+00:00",
       "eintraege": [
         {
           "titel": "Weihnachtsmarkt am Bellevue: «Man wird auch bar bezahlen können»",
@@ -198,20 +198,20 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-05T01:12:05+00:00",
+      "stand": "2026-11-05T03:59:58+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
-          "untertitel": "Leichter Regen · 5° bis 9°",
+          "untertitel": "Bewölkt · 5° bis 10°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
           "info": "Regenrisiko 45%",
-          "emoji": "🌦️"
+          "emoji": "☁️"
         },
         {
           "titel": "Bern",
-          "untertitel": "Regenschauer · 6° bis 10°",
+          "untertitel": "Regenschauer · 6° bis 9°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -220,7 +220,7 @@
         },
         {
           "titel": "Basel",
-          "untertitel": "Leichter Regen · 6° bis 9°",
+          "untertitel": "Regenschauer · 5° bis 10°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -229,7 +229,7 @@
         },
         {
           "titel": "Genf",
-          "untertitel": "Leichter Regen · 8° bis 11°",
+          "untertitel": "Regenschauer · 9° bis 10°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -238,7 +238,7 @@
         },
         {
           "titel": "Lugano",
-          "untertitel": "Leichter Regen · 9° bis 11°",
+          "untertitel": "Leichter Regen · 8° bis 12°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
