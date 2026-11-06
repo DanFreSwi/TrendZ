@@ -1,38 +1,38 @@
 {
-  "aktualisiert": "2026-11-06T13:12:20+00:00",
+  "aktualisiert": "2026-11-06T15:55:45+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-06T13:12:20+00:00",
+      "stand": "2026-11-06T15:55:45+00:00",
       "eintraege": [
         {
-          "titel": "Schüler betroffen – Zwei Tote bei Busunglück in Frankreich",
-          "untertitel": "Zwei Menschen sind bei einem Unfall in Ostfrankreich gestorben. 16 weitere Passagiere wurden laut Polizei verletzt.",
-          "link": "https://www.srf.ch/news/international/schueler-betroffen-zwei-tote-bei-busunglueck-in-frankreich",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/765a595.webp",
-          "quelle": "SRF",
-          "info": "4 Quellen berichten",
-          "trend": "neu"
-        },
-        {
-          "titel": "Prorussische Antifeministen bekennen sich zu zwei Bombendrohungen",
-          "untertitel": "Seit Tagen kommt es in Europa zu Drohungen gegen diverse Airlines und Medienhäuser. Wer hinter den Vorfällen steckt, ist unklar. Alles Laufende im Ticker.",
-          "link": "https://www.20min.ch/story/europa-erneute-bombendrohungen-gegen-mehrere-fluege-103663215",
-          "bild": "https://image.20min.ch/2026/11/06/fe0e2b81-9fee-41d5-8f53-f731225316f9.jpg?s=2cbaa69e1dddbcca42fd6142287b0821",
+          "titel": "456 Milliarden Dollar weg: Wie sich Elon Musk verzockt hat",
+          "untertitel": "In zwei Tagen nach den US-Midterms verschwinden 456 Milliarden Börsenwert. Musk investierte zuvor Hunderte Millionen in den Wahlkampf der Republikaner.",
+          "link": "https://www.20min.ch/story/tesla-und-spacex-456-milliarden-dollar-weg-wie-sich-elon-musk-verzockt-hat-103663317",
+          "bild": "https://image.20min.ch/2026/11/06/aab192fb-45b0-4e07-a7a8-e417ac61c595.jpg?s=f867688cc2f3959c781159e087e60060",
           "quelle": "20 Minuten",
           "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Unteroffizier fährt betrunken Auto und wird entlassen",
-          "untertitel": "Ein Armee-Angestellter ist entlassen worden, nachdem er unter Alkoholeinfluss am Steuer eines Zivilfahrzeugs angehalten wurde.",
-          "link": "https://www.watson.ch/schweiz/armee/365439363-unteroffizier-der-armee-faehrt-mit-1-7-promille-auto-und-wird-entlassen",
-          "bild": "",
-          "quelle": "watson",
+          "titel": "Fasten bis zum Tod – Sektenführer in Kenia wegen Mordes an 190 Kindern verurteilt",
+          "untertitel": "Ein Gericht hat den Sektenführer zu 200 Jahren Haft verurteilt. 190 Kinder sollen auf seinen Befehl hin verhungert sein.",
+          "link": "https://www.srf.ch/news/international/fasten-bis-zum-tod-sektenfuehrer-in-kenia-wegen-mordes-an-190-kindern-verurteilt",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/7df423.webp",
+          "quelle": "SRF",
           "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Auto kommt von Strasse ab und stürzt 90 Meter in die Tiefe",
+          "untertitel": "Es ist ein Unfall, der auch ganz anders hätte enden können. Am Dienstag kam ein Auto am Flüelapass von der Strasse ab und stürzte rund 90 Meter in die Tiefe. Vom Fahrzeug blieb …",
+          "link": "https://www.blick.ch/schweiz/graubuenden/flueelapass-autofahrer-ueberlebt-wie-durch-ein-wunder/de25qyq",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/WVwktktTURBXy8zNzg5NDlmMy1lNTY0LTRlZWYtODdiYy1kYTM5YTVhYmZlNjgucG5nkpMFzQJYzQE7kwmmYTdkMzlmBg/scwizc6jrts.jpg",
+          "quelle": "Blick",
+          "info": "2 Quellen berichten",
           "trend": "neu"
         }
       ]
@@ -41,14 +41,14 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-06T13:12:20+00:00",
+      "stand": "2026-11-06T15:55:45+00:00",
       "eintraege": [
         {
-          "titel": "Low pressure in US midwest brings unseasonable heat to New York and Boston",
-          "untertitel": "Further south this week, severe thunderstorms affected midterms voting in Florida, Oklahoma and Colorado Despite the rapid descent into autumn in the northern hemisphere, parts …",
-          "link": "https://www.theguardian.com/environment/2026/nov/06/new-york-boston-us-weather-tracker",
-          "bild": "https://i.guim.co.uk/img/media/a7dcae1881b9409544c10f165f1a48f73083ff87/0_0_3563_2850/master/3563.jpg?width=140&quality=85&auto=format&fit=max&s=431971dd5b5626d882054c175b9843a5",
-          "quelle": "The Guardian",
+          "titel": "AI stocks climb after trillions wiped from market values",
+          "untertitel": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+          "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a55a/live/c7545ca0-d9ec-11f1-bbe5-797ee05bee69.jpg",
+          "quelle": "BBC",
           "info": "3 Quellen berichten",
           "trend": "neu"
         },
@@ -65,7 +65,7 @@
           "titel": "Elon Musk appears to signal the end of the road for Cybertruck",
           "untertitel": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
           "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1994/live/ff7af2d0-d9bd-11f1-a00c-673f8daaffd9.jpg",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7ce/live/3fc37350-d9f3-11f1-a701-fddedf244c16.jpg",
           "quelle": "BBC",
           "info": "3 Quellen berichten",
           "trend": "neu"
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-06T13:12:20+00:00",
+      "stand": "2026-11-06T15:55:45+00:00",
       "eintraege": [
         {
-          "titel": "tiertransporter",
-          "untertitel": "Chauffeur bedrängt Tierschützer vor Bell-Schlachthof",
-          "link": "https://www.blick.ch/schweiz/basel/basel-tiertransporter-faehrt-auf-aktivisten-zu/gx9fzvr",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3RnJhdEbGv73MeGtUzZYXIsESAEYrEmoQVOZ6wzBwxNbDCOe-uVfwb8Bel0w",
+          "titel": "tesla aktie",
+          "untertitel": "Tesla: Elon Musk stellt Produktion des Cybertrucks in Texas ein",
+          "link": "https://www.spiegel.de/mobilitaet/tesla-elon-musk-stellt-produktion-des-cybertrucks-in-texas-ein-a-f899ebbd-6188-4f98-b4ff-b2cbede7e2e8",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqBTtLC1jzgkZh8M63GOQLbkxLYbIugSYBSqQbIHYKlM8gK5oxLpSff6RmYEU",
+          "quelle": "Google Trends · Spiegel",
+          "info": "200+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "policier",
+          "untertitel": "Vaud: des faux policiers arrêtés en flagrant délit, condamnés à la prison",
+          "link": "https://www.lematin.ch/story/vaud-pris-en-flagrant-delit-deux-faux-policiers-finissent-en-prison-103663379",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjhdwSjVwIbO8K5AshH0ydslto0gvcHiDjM2BiXNFksE3myejTdQPAwQWTmUY",
+          "quelle": "Google Trends · Le Matin",
+          "info": "200+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "bryan adams schaffhausen",
+          "untertitel": "«Stars in Town»: Diese Acts kommen nach Schaffhausen",
+          "link": "https://www.blick.ch/people-tv/schweiz/stars-in-town-bryan-adams-und-roxette-kommen-nach-schaffhausen/0hftd3d",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwlM9hxBZW2rYkQc08CXSUi1XOYoKXMTK9nJI3AV7khncf5d_PrldCOWG-dds",
           "quelle": "Google Trends · Blick",
-          "info": "200+ Suchanfragen",
-          "trend": "neu"
-        },
-        {
-          "titel": "alnatura",
-          "untertitel": "Rückruf bei Migros: Alnatura «Salatkerne Mix» betroffen",
-          "link": "https://www.srf.ch/news/schweiz/verdacht-auf-salmonellen-rueckruf-bei-migros-alnatura-salatkerne-mix-betroffen",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCcWMrb_WayYIz1YfDphT5e2V8CN-TnEOd7vl0N8ogqAlwYGHTPmatMzic0-4",
-          "quelle": "Google Trends · SRF",
-          "info": "100+ Suchanfragen",
-          "trend": "neu"
-        },
-        {
-          "titel": "airbus a350",
-          "untertitel": "Philippine Airlines Doubles Airbus A350-1000 Long-Haul Jets Firm Orders Amid North America Push",
-          "link": "https://www.forbes.com/sites/iansayson/2026/11/05/philippine-airlines-doubles-airbus-a350-1000-long-haul-jets-firm-orders-amid-north-america-push/",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsCVVc-D9wbeEQOd4ikygfKyl1b6KrwJxaPAWL2Fx4280DXvDuYXqg-DR2mts",
-          "quelle": "Google Trends · Forbes",
-          "info": "200+ Suchanfragen",
+          "info": "500+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-06T13:12:20+00:00",
+      "stand": "2026-11-06T15:55:45+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,22 +146,13 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-06T13:12:20+00:00",
+      "stand": "2026-11-06T15:55:45+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
           "untertitel": "Schweizer Radio und Fernsehen (SRF)",
           "link": "https://podcasts.apple.com/ch/podcast/echo-der-zeit/id81345425",
           "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/91/51/f5/9151f5c8-97b2-43c1-d728-1850b4311aaf/mza_10466666821884933927.jpg/300x300bb.png",
-          "quelle": "Apple Podcasts Charts CH",
-          "info": "Nachrichten",
-          "trend": "gleich"
-        },
-        {
-          "titel": "RONZHEIMER.",
-          "untertitel": "Paul Ronzheimer",
-          "link": "https://podcasts.apple.com/ch/podcast/ronzheimer/id1700432142",
-          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/16/ab/81/16ab81cb-e31f-5ea0-81a7-902a96dfd750/mza_17924075471806194431.jpg/300x300bb.png",
           "quelle": "Apple Podcasts Charts CH",
           "info": "Nachrichten",
           "trend": "gleich"
@@ -174,6 +165,15 @@
           "quelle": "Apple Podcasts Charts CH",
           "info": "Nachrichten, Gesellschaft und Kultur",
           "trend": "neu"
+        },
+        {
+          "titel": "RONZHEIMER.",
+          "untertitel": "Paul Ronzheimer",
+          "link": "https://podcasts.apple.com/ch/podcast/ronzheimer/id1700432142",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/16/ab/81/16ab81cb-e31f-5ea0-81a7-902a96dfd750/mza_17924075471806194431.jpg/300x300bb.png",
+          "quelle": "Apple Podcasts Charts CH",
+          "info": "Nachrichten",
+          "trend": "runter"
         }
       ]
     },
@@ -198,7 +198,7 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-06T13:12:20+00:00",
+      "stand": "2026-11-06T15:55:45+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
@@ -211,12 +211,12 @@
         },
         {
           "titel": "Bern",
-          "untertitel": "Nebel · 5° bis 11°",
+          "untertitel": "Regenschauer · 5° bis 11°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
           "info": "Regenrisiko 63%",
-          "emoji": "🌫️"
+          "emoji": "🌦️"
         },
         {
           "titel": "Basel",
