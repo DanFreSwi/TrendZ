@@ -1,13 +1,31 @@
 {
-  "aktualisiert": "2026-11-06T18:58:37+00:00",
+  "aktualisiert": "2026-11-06T21:47:04+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-06T18:58:37+00:00",
+      "stand": "2026-11-06T21:47:04+00:00",
       "eintraege": [
+        {
+          "titel": "Video zeigt Polizeieinsatz in Schaffhausen",
+          "untertitel": "verdächtigen Gegenstandes gesperrt. Auf Alert Swiss wird empfohlen, das Bahnhofsgelände sowie die Bahnhofsstrasse zu meiden.",
+          "link": "https://www.blick.ch/schweiz/polizeieinsatz-am-bahnhof-schaffhausen/r4yy85k",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/R_AktkuTURBXy84OWM5Y2RiZS0xNmY2LTQ1MDQtYTUyZS03YzM4NzZjZjZlZmQuanBlZ5KTBc0CWM0BO5MJpjg5Yzg5NgY/5i0aw7b07la.jpg",
+          "quelle": "Blick",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Autor wegen KI von Preis ausgegrenzt – Gewinner gibt Nutzung zu",
+          "untertitel": "Thélyson Orélien hatte gute Aussichten auf den Literaturpreis Prix Goncourt. Dann wurde ihm vorgeworfen, KI benutzt zu haben. Nun gewann Philippe Jaenada und gab zu, KI benutzt …",
+          "link": "https://www.20min.ch/story/frankreich-autor-wegen-ki-von-preis-ausgegrenzt-gewinner-gibt-nutzung-zu-103663345",
+          "bild": "https://image.20min.ch/2026/11/06/6cb62a4d-76f2-4185-ba4e-ee3383b8a4fc.jpg?s=537413def9a3e4d66d752ae04aa40da7",
+          "quelle": "20 Minuten",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
         {
           "titel": "456 Milliarden Dollar weg: Wie sich Elon Musk verzockt hat",
           "untertitel": "In zwei Tagen nach den US-Midterms verschwinden 456 Milliarden Börsenwert. Musk investierte zuvor Hunderte Millionen in den Wahlkampf der Republikaner.",
@@ -16,24 +34,6 @@
           "quelle": "20 Minuten",
           "info": "3 Quellen berichten",
           "trend": "neu"
-        },
-        {
-          "titel": "Ex-OK-Boss der Ski-WM zu bedingter Freiheitsstrafe verurteilt",
-          "untertitel": "Claude-Alain Schmidhalter ist wegen ungetreuer Geschäftsbesorgung verurteilt worden: 12 Monate bedingt für den früheren OK-Präsidenten der Ski-WM in Crans-Montana. Den …",
-          "link": "https://www.blick.ch/schweiz/westschweiz/wallis/ski-wm-crans-montana-ex-ok-chef-verurteilt/se3y2b0",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/JoMktkuTURBXy81YzIyZjE5ZS0yNTBhLTRlOWItYjg1MS1lNGU3NzVhNzcxYjguanBlZ5KTBc0CWM0BO5MJpjI4MTQwYwY/8rz6irv789q.jpg",
-          "quelle": "Blick",
-          "info": "2 Quellen berichten",
-          "trend": "neu"
-        },
-        {
-          "titel": "Novartis meldet Tumorfälle bei Kindern nach Zolgensma-Behandlung",
-          "untertitel": "Die Gentherapie Zolgensma wurde als teuerstes Medikament der Welt bekannt. Es wurde gegen eine seltene erbliche Muskelerkrankung eingesetzt. Nun werden mögliche …",
-          "link": "https://www.20min.ch/story/teuerstes-medikament-novartis-meldet-tumorfaelle-bei-kindern-nach-zolgensma-behandlung-103663393",
-          "bild": "https://image.20min.ch/2026/11/06/c5ff0cca-c317-4d1b-9aa1-2e8160b9d7c0.jpg?s=2b160e4ba2d92ad221bce1105f64e437",
-          "quelle": "20 Minuten",
-          "info": "2 Quellen berichten",
-          "trend": "neu"
         }
       ]
     },
@@ -41,7 +41,7 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-06T18:58:37+00:00",
+      "stand": "2026-11-06T21:47:04+00:00",
       "eintraege": [
         {
           "titel": "AI stocks climb after trillions wiped from market values",
@@ -49,16 +49,7 @@
           "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
           "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg",
           "quelle": "BBC",
-          "info": "3 Quellen berichten",
-          "trend": "neu"
-        },
-        {
-          "titel": "Elon Musk appears to signal the end of the road for Cybertruck",
-          "untertitel": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-          "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7ce/live/3fc37350-d9f3-11f1-a701-fddedf244c16.jpg",
-          "quelle": "BBC",
-          "info": "3 Quellen berichten",
+          "info": "2 Quellen berichten",
           "trend": "neu"
         },
         {
@@ -69,6 +60,15 @@
           "quelle": "The Guardian",
           "info": "2 Quellen berichten",
           "trend": "neu"
+        },
+        {
+          "titel": "Four midterms takeaways for 2028 White House race",
+          "untertitel": "The buzz about the presidential election is already under way - here's what we learned this week.",
+          "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/613a/live/900577b0-d9ed-11f1-b441-2b33b063138f.png",
+          "quelle": "BBC",
+          "info": "2 Quellen berichten",
+          "trend": "neu"
         }
       ]
     },
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-06T18:58:37+00:00",
+      "stand": "2026-11-06T21:47:04+00:00",
       "eintraege": [
         {
-          "titel": "cholesterin",
-          "untertitel": "Cholesterin: Warum Ärzte heute früher Medikamente verschreiben",
-          "link": "https://www.br.de/nachrichten/wissen/cholesterin-warum-aerzte-heute-frueher-medikamente-verschreiben-ein-faktenfuchs,Va5a7lP",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSCttITR0uNYdTOi3xli5JJk4cr3umMx4T3udt-i2tLRVRtJ9a4Re1Gm-8Y-_g",
-          "quelle": "Google Trends · BR",
+          "titel": "euromillions",
+          "untertitel": "Winner of £1m lottery jackpot finally claims prize",
+          "link": "https://www.bbc.com/news/articles/c9gkv5knv52xo",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZZYRcDxlPJP7L9zFPg-KAF1PmYvslO8rHtRg3gkC4rzBpllqxhBS6o66IqBE",
+          "quelle": "Google Trends · BBC",
+          "info": "1000+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "atp paris",
+          "untertitel": "DIRECT. Fritz - Alcaraz, ATP 1000, Rolex Paris Masters, Quarts de finale : 2-5 Jeu Alcaraz",
+          "link": "https://www.lequipe.fr/Tennis/rolex-paris-masters/epreuve-simple-messieurs/annee-2026/match-direct/taylor-fritz-carlos-alcaraz-live/716510",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTr6jq8gEz9PgXNfgWLDiL_LsVgoYR6eNbbWy5X8SdFzidrg_f1gosyduhMwxE",
+          "quelle": "Google Trends · L'Équipe",
           "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "fc aarau – fc wil",
-          "untertitel": "",
-          "link": "https://www.google.ch/search?q=fc+aarau+%E2%80%93+fc+wil",
-          "bild": "",
-          "quelle": "Google Trends",
+          "titel": "adriana karembeu",
+          "untertitel": "Marc Lavoine : « Rêver plus loin, c’est vivre encore »",
+          "link": "https://soirmag.lesoir.be/781268/article/2026-11-06/marc-lavoine-rever-plus-loin-cest-vivre-encore",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLUTqt9oAd11PPaodapdVPT5duPd9rTG6fvMr2PdWBQAbLYWmXkWDq6g8uzAY",
+          "quelle": "Google Trends · Soirmag",
           "info": "200+ Suchanfragen",
-          "trend": "neu"
-        },
-        {
-          "titel": "pablo pagis",
-          "untertitel": "Zidane anuncia la lista de Francia para el próximo… | Yalla Shoot",
-          "link": "https://www.ysscores.com/es/news/14089369/zidane-anuncia-la-lista-de-francia-para-el-pr%C3%B3ximo-par%C3%B3n-internacional",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDFpFicaxhlkh13vzhB0N5jHEeh8OBOl0phTWOhKWK6cXw54JcPtNAzmzPtac",
-          "quelle": "Google Trends · YSscores",
-          "info": "100+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-06T18:58:37+00:00",
+      "stand": "2026-11-06T21:47:04+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-06T18:58:37+00:00",
+      "stand": "2026-11-06T21:47:04+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-06T18:58:37+00:00",
+      "stand": "2026-11-06T21:47:04+00:00",
       "eintraege": [
         {
           "titel": "«Traurig»: Zürcher Tirggel-Stand fliegt aus HB-Weihnachtsmarkt",
@@ -198,24 +198,24 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-06T18:58:37+00:00",
+      "stand": "2026-11-06T21:47:04+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
-          "untertitel": "Regenschauer · 6° bis 11°",
+          "untertitel": "Leichter Regen · 7° bis 11°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 68%",
+          "info": "Regenrisiko 58%",
           "emoji": "🌦️"
         },
         {
           "titel": "Bern",
-          "untertitel": "Regenschauer · 5° bis 10°",
+          "untertitel": "Regenschauer · 6° bis 11°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 83%",
+          "info": "Regenrisiko 80%",
           "emoji": "🌦️"
         },
         {
@@ -224,7 +224,7 @@
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 53%",
+          "info": "Regenrisiko 63%",
           "emoji": "🌦️"
         },
         {
@@ -233,7 +233,7 @@
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 3%",
+          "info": "Regenrisiko 28%",
           "emoji": "🌫️"
         },
         {
@@ -242,7 +242,7 @@
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 75%",
+          "info": "Regenrisiko 85%",
           "emoji": "🌦️"
         }
       ]
