@@ -1,29 +1,29 @@
 {
-  "aktualisiert": "2026-11-06T01:16:58+00:00",
+  "aktualisiert": "2026-11-06T03:58:18+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-06T01:16:58+00:00",
+      "stand": "2026-11-06T03:58:18+00:00",
       "eintraege": [
         {
-          "titel": "Winterthur ZH verliert weiteres Kult-Sportlädeli",
-          "untertitel": "Nach sieben Jahrzehnten Betrieb gehen die Türen bei Intersport Egli in der Winterthurer Altstadt für immer zu. Ende März schliesst Inhaberin Iren Rauber-Egli ihr Geschäft. Zurück …",
-          "link": "https://www.blick.ch/schweiz/zuerich/nach-70-jahren-winterthurer-altstadt-verliert-letzten-sportladen/wqseg0l",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/9PVktkuTURBXy9mYjBhYzQ0Zi1kZDUxLTRkZWMtOWE5Ny0xMjc0YWMyYzRiNjEuanBlZ5KTBc0CWM0BO5MJpjQ4ZDM5MgY/9f2zjqh1zi.jpg",
-          "quelle": "Blick",
+          "titel": "Elon Musk will Texas kaufen",
+          "untertitel": "Ein eigener republikanischer Senator ist dem reichsten Mann der Welt rund 200 Millionen Dollar wert.",
+          "link": "https://www.watson.ch/international/analyse/312008068-us-midterms-elon-musk-will-texas-kaufen",
+          "bild": "",
+          "quelle": "watson",
           "info": "3 Quellen berichten",
-          "trend": "hoch"
+          "trend": "neu"
         },
         {
-          "titel": "Liebesaffäre am Bundesgericht – Urteil gefällt: Beziehung von Bundesrichtern war unzulässig",
-          "untertitel": "Das Bundesgericht hat ein Revisionsgesuch wegen der Beziehung zweier Bundesrichter einstimmig gutgeheissen.",
-          "link": "https://www.srf.ch/news/schweiz/liebesaffaere-am-bundesgericht-urteil-gefaellt-beziehung-von-bundesrichtern-war-unzulaessig",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/cee104.webp",
-          "quelle": "SRF",
-          "info": "2 Quellen berichten",
+          "titel": "«Könnte sogar ganz Europa umfassen»: Trump sieht Deal mit Putin",
+          "untertitel": "Seit dem 24. Februar 2022 herrscht Krieg in der Ukraine. Alle Entwicklungen im Land und in der europäischen Sicherheitslage findest du hier im Ticker.",
+          "link": "https://www.20min.ch/story/ukraine-krieg-angriffe-kiew-wolodimir-selenksi-medizinische-einrichtungen-getroffen-453678534597",
+          "bild": "https://image.20min.ch/2026/11/05/1ac7f1d6-63c5-4875-b0db-a3047fe049b4.avif?s=804e3ed986c28b6ca8fb61f81c0fdcd0",
+          "quelle": "20 Minuten",
+          "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
@@ -41,8 +41,26 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-06T01:16:58+00:00",
+      "stand": "2026-11-06T03:58:18+00:00",
       "eintraege": [
+        {
+          "titel": "Trump signs order preventing future presidents from changing Oval Office",
+          "untertitel": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
+          "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6593/live/d5c2e140-d991-11f1-9ebf-51ca702e24e1.jpg",
+          "quelle": "BBC",
+          "info": "2 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "ANC faces anger over poor services as South Africans vote in local elections",
+          "untertitel": "Party expected to get less than a third of the vote amid frustration over water outages and power cuts The African National Congress is on course for a bruising result in South …",
+          "link": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
+          "bild": "https://i.guim.co.uk/img/media/e9b250d3d92ad0c01aabfd863c7f2487bcf38208/405_0_4412_3530/master/4412.jpg?width=140&quality=85&auto=format&fit=max&s=7bceed75caf55f60ac90f3af40571ef2",
+          "quelle": "The Guardian",
+          "info": "2 Quellen berichten",
+          "trend": "neu"
+        },
         {
           "titel": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
           "untertitel": "Santiago Peña’s rightwing administration had authorised Ueno Bank to drastically expand operations before collapse Paraguay’s rightwing president, Santiago Peña, resigned on …",
@@ -51,24 +69,6 @@
           "quelle": "The Guardian",
           "info": "2 Quellen berichten",
           "trend": "neu"
-        },
-        {
-          "titel": "K-pop group NewJeans’s contract omitted rights to ‘sleep and free choice’ – report",
-          "untertitel": "New report finds that record label Ador stripped child protections from group’s contracts when they were minors The superstar K-pop group NewJeans signed restrictive record label …",
-          "link": "https://www.theguardian.com/music/2026/nov/05/k-pop-group-newjeans-contract",
-          "bild": "https://i.guim.co.uk/img/media/e19e5c2659dc5b85cbc7515c4bde9d66462e8fb8/94_0_2812_2250/master/2812.jpg?width=140&quality=85&auto=format&fit=max&s=6e31142ff89536d0f2a0a8053cd27028",
-          "quelle": "The Guardian",
-          "info": "2 Quellen berichten",
-          "trend": "neu"
-        },
-        {
-          "titel": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-          "untertitel": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms.",
-          "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e01/live/e1c54f70-d958-11f1-a800-d9dce9e5aa21.jpg",
-          "quelle": "BBC",
-          "info": "Neu",
-          "trend": "neu"
         }
       ]
     },
@@ -76,32 +76,32 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-06T01:16:58+00:00",
+      "stand": "2026-11-06T03:58:18+00:00",
       "eintraege": [
         {
           "titel": "ballon d’or",
-          "untertitel": "Does Kane deal end Premier League career but offer England hope?",
-          "link": "https://www.bbc.com/sport/football/articles/cm93zvzzl33zo",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCu6YkzE4HVVuMHl-7z5YbnnjCX1Qz-IOedvzc3dJQBLHaRRfaZr-d64giBEk",
-          "quelle": "Google Trends · BBC",
+          "untertitel": "Harry Kane Extends His Contract with Bayern Through 2029",
+          "link": "https://www.bluewin.ch/en/sport/football/harry-kane-extends-his-contract-with-bayern-through-2029-li.3662482",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQNoCF4ohWeaH3y9oai_thuA5N3PMvbMuzY6czNCdxAuj_th4UAoQbPg28ink",
+          "quelle": "Google Trends · blue News",
           "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
           "titel": "gta 6",
-          "untertitel": "Insane number of Americans would sacrifice sex — and their pets — to play ‘GTA VI’ early",
-          "link": "https://nypost.com/2026/11/02/entertainment/insane-number-of-americans-would-sacrifice-sex-and-their-pets-to-play-gta-vi-early/",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLnmP_WQcDUHwDoTIviyaUPSk1mY9UhFxRtQHdE5tvM309ZE3asI_qaV_VlNI",
-          "quelle": "Google Trends · New York Post",
+          "untertitel": "5 things I'm doing now to get ready for GTA VI",
+          "link": "https://www.howtogeek.com/5-things-im-doing-now-to-get-ready-for-gta-vi/",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwpAFO9ffhnhMw6EeKp704lUw6j9XTVXP0hDHkqgXCD4iunbbD0eSyn3cjmZU",
+          "quelle": "Google Trends · How-To Geek",
           "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
           "titel": "börse",
-          "untertitel": "Midterms 2026 - Vance: Irankrieg ist schuld +++ Warten auf Alaska und Mississippi",
-          "link": "https://www.srf.ch/news/international/midterms-2026-demokraten-jubeln-warten-auf-alaska-und-mississippi",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRaTZz_wH4wZmW2VmdIVF8pD4VWx-3W6NT3VBr33ZJC-EOYm_hP6-Kd1NQKUvg",
-          "quelle": "Google Trends · SRF",
+          "untertitel": "Südkoreas Börse bricht wegen Sorgen um KI und Ölpreise ein",
+          "link": "https://www.swissinfo.ch/ger/s%C3%BCdkoreas-b%C3%B6rse-bricht-wegen-sorgen-um-ki-und-%C3%96lpreise-ein/92336720",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSIqs-jbBKgyVw_z1G9isdaEADGf-BdiTYRN8HMBepN-_qFAaHYBfFx7l6ZAmU",
+          "quelle": "Google Trends · SWI swissinfo.ch",
           "info": "200+ Suchanfragen",
           "trend": "neu"
         }
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-06T01:16:58+00:00",
+      "stand": "2026-11-06T03:58:18+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-06T01:16:58+00:00",
+      "stand": "2026-11-06T03:58:18+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-06T01:16:58+00:00",
+      "stand": "2026-11-06T03:58:18+00:00",
       "eintraege": [
         {
           "titel": "Hier entsteht der Riesen-Adventskranz für Zürcher Weihnachtsmarkt",
@@ -198,7 +198,7 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-06T01:16:58+00:00",
+      "stand": "2026-11-06T03:58:18+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
@@ -211,7 +211,7 @@
         },
         {
           "titel": "Bern",
-          "untertitel": "Regenschauer · 5° bis 11°",
+          "untertitel": "Leichter Regen · 5° bis 11°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -229,16 +229,16 @@
         },
         {
           "titel": "Genf",
-          "untertitel": "Regenschauer · 6° bis 13°",
+          "untertitel": "Nebel · 6° bis 13°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
           "info": "Regenrisiko 13%",
-          "emoji": "🌦️"
+          "emoji": "🌫️"
         },
         {
           "titel": "Lugano",
-          "untertitel": "Regenschauer · 10° bis 11°",
+          "untertitel": "Regenschauer · 10° bis 10°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
