@@ -1,29 +1,29 @@
 {
-  "aktualisiert": "2026-11-06T07:23:02+00:00",
+  "aktualisiert": "2026-11-06T10:09:29+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-06T07:23:02+00:00",
+      "stand": "2026-11-06T10:09:29+00:00",
       "eintraege": [
         {
-          "titel": "Blaue Welle nach Midterms – Texas wird zum strategischen Problem für die Republikaner",
-          "untertitel": "«The Lone Star State» könnte vom republikanischen Bollwerk zum entscheidenden Swing State werden.",
-          "link": "https://www.srf.ch/news/international/blaue-welle-nach-midterms-texas-wird-zum-strategischen-problem-fuer-die-republikaner",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/58717ff.webp",
-          "quelle": "SRF",
+          "titel": "Märkte im Sinkflug – Schweizer Börse kommt mit blauem Auge davon",
+          "untertitel": "Der Ausverkauf von Tech-Aktien in den USA belastet auch die Börsen in Asien. Besonders betroffen ist der südkoreanische Aktienmarkt. Auch die US-Börsen machten am Donnerstagabend …",
+          "link": "https://www.20min.ch/story/asiatische-maerkte-handel-in-suedkorea-kurz-ausgesetzt-aktienmaerkte-im-sinkflug-103663113",
+          "bild": "https://image.20min.ch/2026/11/06/78c06766-34c0-4b19-bbb9-ccdc849d032f.png?s=063a47b1c11cde6805a402dd732c3147",
+          "quelle": "20 Minuten",
           "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "«Wir wollen nicht mit erhobenem Zeigefinger belehren»",
-          "untertitel": "Marco Lupi ist als Digital Ranger online unterwegs und schützt dort die Naturschutzgebiete. Auf Social Media kontrolliert er Wanderwege, ob diese durch Sperrzonen führen, und …",
-          "link": "https://www.blick.ch/schweiz/zuerich/digital-ranger-marco-lupi-im-interview/cd3zznt",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/OX5ktktTURBXy84Y2E1MDY1OS0zZDc3LTQ1MzAtYjI2Yy00Zjk2ZjY0N2FhOTcucG5nkpMFzQJYzQE7kwmmYjA0NmZlBg/fnsmzdqkiyw.jpg",
-          "quelle": "Blick",
-          "info": "2 Quellen berichten",
+          "titel": "Digitaler Lastwagen – Wie Forschende gegen faule Orangen im Supermarkt vorgehen",
+          "untertitel": "Beim Transport im Kühllaster wird es oft zu warm. Forschende der Empa wollen diese Quelle von Foodwaste verringern.",
+          "link": "https://www.srf.ch/wissen/gesundheit/digitaler-lastwagen-wie-forschende-gegen-faule-orangen-im-supermarkt-vorgehen",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/bca29dd.webp",
+          "quelle": "SRF",
+          "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
@@ -32,7 +32,7 @@
           "link": "https://www.20min.ch/story/ukraine-krieg-angriffe-kiew-wolodimir-selenksi-medizinische-einrichtungen-getroffen-453678534597",
           "bild": "https://image.20min.ch/2026/11/05/1ac7f1d6-63c5-4875-b0db-a3047fe049b4.avif?s=804e3ed986c28b6ca8fb61f81c0fdcd0",
           "quelle": "20 Minuten",
-          "info": "2 Quellen berichten",
+          "info": "3 Quellen berichten",
           "trend": "neu"
         }
       ]
@@ -41,11 +41,20 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-06T07:23:02+00:00",
+      "stand": "2026-11-06T10:09:29+00:00",
       "eintraege": [
         {
+          "titel": "Paraguay: Die Bankenkrise wird zur Staatskrise",
+          "untertitel": "In Paraguay zieht die Krise um die Ueno Bank immer weitere Kreise: Weil Präsident Peña die Risiken zu lange ignorierte, leitete das Parlament ein Amtsenthebungsverfahren ein. …",
+          "link": "https://www.tagesschau.de/ausland/amerika/paraguay-pena-ruecktritt-ueno-bank-100.html",
+          "bild": "",
+          "quelle": "tagesschau",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
+        {
           "titel": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
-          "untertitel": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Mark Rubio is rumoured to be eyeing a presidential run.",
+          "untertitel": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Marco Rubio is rumoured to be eyeing a presidential run.",
           "link": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
           "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ee7/live/6a397360-d97f-11f1-9ef8-af6a44fd33d8.jpg",
           "quelle": "BBC",
@@ -53,19 +62,10 @@
           "trend": "neu"
         },
         {
-          "titel": "Trump trifft Kreml-Vertreter und stellt Abkommen in Aussicht",
-          "untertitel": "Sowohl Vertreter Russlands als auch der Ukraine waren jetzt zu Gast im Weißen Haus. Doch den US-Präsidenten persönlich durfte nur der Kreml-Gesandte treffen. Anschließend …",
-          "link": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-russland-108.html",
-          "bild": "",
-          "quelle": "tagesschau",
-          "info": "2 Quellen berichten",
-          "trend": "neu"
-        },
-        {
-          "titel": "Macau jails pro-democracy campaigner in city's first national security case",
-          "untertitel": "Au Kam San was sentenced to 12 years and six months' jail for \"subversion against the political power of the state\".",
-          "link": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ae0/live/23a8aa80-d9aa-11f1-88e6-7913ca4cf3b6.jpg",
+          "titel": "'Several victims' after bus crashes in France, officials say",
+          "untertitel": "The local mayor says the bus \"left the road and hit a tree in the ditch\", with the education minister saying students are involved.",
+          "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
           "quelle": "BBC",
           "info": "2 Quellen berichten",
           "trend": "neu"
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-06T07:23:02+00:00",
+      "stand": "2026-11-06T10:09:29+00:00",
       "eintraege": [
         {
-          "titel": "geld",
-          "untertitel": "Vom Tauschgut zum digitalen Zahlungsmittel: Warum Geld so mächtig ist",
-          "link": "https://www.tagesanzeiger.ch/vom-tauschgut-zum-digitalen-zahlungsmittel-warum-geld-so-maechtig-ist-851416973414",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_wesin7V_ZKATPs7S7uRBw0L0HTuIrKGtw0N7QGeJl15YtIUdVbLqSruJwl8",
-          "quelle": "Google Trends · Tages-Anzeiger",
+          "titel": "wendy holdener",
+          "untertitel": "Mode Bayard: Wendy Holdener wird Werbegesicht",
+          "link": "https://www.persoenlich.com/marketing/wendy-holdener-wird-werbegesicht",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVFRao-_oVGGGiQBRv2x_5jiOy8zi7fgVS3a5CPmFEFgE9_gL1Ce31kfTkaW0",
+          "quelle": "Google Trends · persoenlich.com",
+          "info": "100+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "paquebot",
+          "untertitel": "Paquebot suisse intercepté par les Etats-Unis : 2 000 passagers font la moue",
+          "link": "https://www.bluewin.ch/fr/infos/monde/paquebot-suisse-intercepte-par-les-etats-unis-2-000-passagers-font-la-moue-li.3663778",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9rfkosSYxZ-l1n6f-IpclhSYAid8Jq3IQ44qDNhvp1wuAb5zIs9wmJ1fJ0PA",
+          "quelle": "Google Trends · blue News",
           "info": "200+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "christian wolf",
-          "untertitel": "Konsumentenschutz nimmt Christian Wolfs Marke ins Visier (B+)",
-          "link": "https://www.blick.ch/politik/more-nutrition-konsumentenschutz-kritisiert-christian-wolf-marke/z5z47tw",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxC9-vC2rGJFvC6JF9_GaIcvh__vf1PcOhcGkMlq4nvi13M3vFjjfMNf90Hms",
-          "quelle": "Google Trends · Blick",
-          "info": "100+ Suchanfragen",
-          "trend": "neu"
-        },
-        {
-          "titel": "hava durumu",
-          "untertitel": "Elazığ hava durumu 6 Kasım 2026: Kuvvetli yağmur tahmini",
-          "link": "https://www.habercitv.com.tr/elazig-hava-durumu-6-kasim-icin-kuvvetli-yagmur-tahmini",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_2cd82o8Utih4UO36zNG2sgj72mSp0stbgyM6m2wsbIfi9jbNAwU1ZBELNfw",
-          "quelle": "Google Trends · Haberci TV",
-          "info": "100+ Suchanfragen",
+          "titel": "smi index",
+          "untertitel": "Midterms: Ted Cruz bangt um seine Zukunft",
+          "link": "https://www.tagesanzeiger.ch/midterms-usa-trump-auf-dem-pruefstand-alle-resultate-live-638439509339",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpJ7f8p8u25cXb4LhMR3FRBWNlC7NPYz0dC8QgjbtqkesYMiyuE_iv3-Tb994",
+          "quelle": "Google Trends · Tages-Anzeiger",
+          "info": "200+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-06T07:23:02+00:00",
+      "stand": "2026-11-06T10:09:29+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-06T07:23:02+00:00",
+      "stand": "2026-11-06T10:09:29+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -167,13 +167,13 @@
           "trend": "gleich"
         },
         {
-          "titel": "Apropos – der tägliche Podcast",
-          "untertitel": "Tamedia",
-          "link": "https://podcasts.apple.com/ch/podcast/apropos-der-t%C3%A4gliche-podcast/id1560227032",
-          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0f/5e/78/0f5e7883-5041-1eaa-a3d4-18e897ef1903/mza_13262262235983204825.jpg/300x300bb.png",
+          "titel": "Les Grosses Têtes",
+          "untertitel": "RTL",
+          "link": "https://podcasts.apple.com/ch/podcast/les-grosses-t%C3%AAtes/id369369012",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fe/04/9f/fe049f64-d03c-3995-f7ed-ecd5c7bfa3fb/mza_10862868553998545135.jpg/300x300bb.png",
           "quelle": "Apple Podcasts Charts CH",
-          "info": "Nachrichten",
-          "trend": "gleich"
+          "info": "Nachrichten, Comedy",
+          "trend": "neu"
         }
       ]
     },
@@ -198,7 +198,7 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-06T07:23:02+00:00",
+      "stand": "2026-11-06T10:09:29+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
@@ -206,16 +206,16 @@
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 58%",
+          "info": "Regenrisiko 45%",
           "emoji": "🌦️"
         },
         {
           "titel": "Bern",
-          "untertitel": "Leichter Regen · 6° bis 10°",
+          "untertitel": "Regenschauer · 6° bis 10°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 70%",
+          "info": "Regenrisiko 63%",
           "emoji": "🌦️"
         },
         {
@@ -224,25 +224,25 @@
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 43%",
+          "info": "Regenrisiko 25%",
           "emoji": "🌦️"
         },
         {
           "titel": "Genf",
-          "untertitel": "Nebel · 6° bis 12°",
+          "untertitel": "Nebel · 5° bis 12°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 10%",
+          "info": "Regenrisiko 13%",
           "emoji": "🌫️"
         },
         {
           "titel": "Lugano",
-          "untertitel": "Regenschauer · 9° bis 11°",
+          "untertitel": "Regenschauer · 10° bis 11°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 75%",
+          "info": "Regenrisiko 63%",
           "emoji": "🌦️"
         }
       ]
