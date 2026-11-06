@@ -1,22 +1,13 @@
 {
-  "aktualisiert": "2026-11-05T21:53:33+00:00",
+  "aktualisiert": "2026-11-06T01:16:58+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-05T21:53:33+00:00",
+      "stand": "2026-11-06T01:16:58+00:00",
       "eintraege": [
-        {
-          "titel": "1260 Menschen sind im Sommer wegen Hitze gestorben",
-          "untertitel": "Das Bundesamt für Gesundheit veröffentlicht die erste Schätzung zu Hitzetoten im Sommer 2026. Es sind deutlich mehr als in den letzten Jahren.",
-          "link": "https://www.20min.ch/story/in-der-schweiz-1260-menschen-sind-im-sommer-wegen-hitze-gestorben-103662927",
-          "bild": "https://image.20min.ch/2026/11/05/d69be783-a6ca-45af-949e-9cf897e593b6.jpg?s=1489c86ec5d6643ae37774f7a1ca3801",
-          "quelle": "20 Minuten",
-          "info": "4 Quellen berichten",
-          "trend": "neu"
-        },
         {
           "titel": "Winterthur ZH verliert weiteres Kult-Sportlädeli",
           "untertitel": "Nach sieben Jahrzehnten Betrieb gehen die Türen bei Intersport Egli in der Winterthurer Altstadt für immer zu. Ende März schliesst Inhaberin Iren Rauber-Egli ihr Geschäft. Zurück …",
@@ -24,6 +15,15 @@
           "bild": "https://ocdn.eu/pulscms-transforms/1/9PVktkuTURBXy9mYjBhYzQ0Zi1kZDUxLTRkZWMtOWE5Ny0xMjc0YWMyYzRiNjEuanBlZ5KTBc0CWM0BO5MJpjQ4ZDM5MgY/9f2zjqh1zi.jpg",
           "quelle": "Blick",
           "info": "3 Quellen berichten",
+          "trend": "hoch"
+        },
+        {
+          "titel": "Liebesaffäre am Bundesgericht – Urteil gefällt: Beziehung von Bundesrichtern war unzulässig",
+          "untertitel": "Das Bundesgericht hat ein Revisionsgesuch wegen der Beziehung zweier Bundesrichter einstimmig gutgeheissen.",
+          "link": "https://www.srf.ch/news/schweiz/liebesaffaere-am-bundesgericht-urteil-gefaellt-beziehung-von-bundesrichtern-war-unzulaessig",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/cee104.webp",
+          "quelle": "SRF",
+          "info": "2 Quellen berichten",
           "trend": "neu"
         },
         {
@@ -33,7 +33,7 @@
           "bild": "https://ocdn.eu/pulscms-transforms/1/8iPktkuTURBXy83YmJiZDZkZC0xNTU5LTQxYTYtODNkYS04ODJiYWRiNWY0MTEuanBlZ5KTBc0CWM0BO5MJpjhiNGJlNAY/fle7r2degud.jpg",
           "quelle": "Blick",
           "info": "2 Quellen berichten",
-          "trend": "neu"
+          "trend": "gleich"
         }
       ]
     },
@@ -41,31 +41,31 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-05T21:53:33+00:00",
+      "stand": "2026-11-06T01:16:58+00:00",
       "eintraege": [
         {
-          "titel": "Paraguay President Santiago Peña resigns after bank collapse",
-          "untertitel": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
-          "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12e6/live/3ccd15c0-d93a-11f1-95ea-8df9a040b6bf.jpg",
-          "quelle": "BBC",
+          "titel": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
+          "untertitel": "Santiago Peña’s rightwing administration had authorised Ueno Bank to drastically expand operations before collapse Paraguay’s rightwing president, Santiago Peña, resigned on …",
+          "link": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
+          "bild": "https://i.guim.co.uk/img/media/a77eebbaa9a34c6ba08a7521d0b9d7e55650da11/1666_5_3949_3159/master/3949.jpg?width=140&quality=85&auto=format&fit=max&s=e82620f109a326e6d5b5cff3740166e3",
+          "quelle": "The Guardian",
           "info": "2 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Russell Brand is being investigated over two new rape complaints, police say",
-          "untertitel": "Det Supt Andy Furphy said he hoped other potential victims would gain \"courage\" and \"confidence\" from the guilty verdicts.",
-          "link": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecb3/live/33e07d40-d92a-11f1-af74-e735e628ea98.jpg",
-          "quelle": "BBC",
+          "titel": "K-pop group NewJeans’s contract omitted rights to ‘sleep and free choice’ – report",
+          "untertitel": "New report finds that record label Ador stripped child protections from group’s contracts when they were minors The superstar K-pop group NewJeans signed restrictive record label …",
+          "link": "https://www.theguardian.com/music/2026/nov/05/k-pop-group-newjeans-contract",
+          "bild": "https://i.guim.co.uk/img/media/e19e5c2659dc5b85cbc7515c4bde9d66462e8fb8/94_0_2812_2250/master/2812.jpg?width=140&quality=85&auto=format&fit=max&s=6e31142ff89536d0f2a0a8053cd27028",
+          "quelle": "The Guardian",
           "info": "2 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Hoax bomb threats target European airlines and airports for second time in a week",
-          "untertitel": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\".",
-          "link": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7423/live/1976bf00-d911-11f1-94c6-3f8050561bf5.jpg",
+          "titel": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+          "untertitel": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms.",
+          "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e01/live/e1c54f70-d958-11f1-a800-d9dce9e5aa21.jpg",
           "quelle": "BBC",
           "info": "Neu",
           "trend": "neu"
@@ -76,32 +76,32 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-05T21:53:33+00:00",
+      "stand": "2026-11-06T01:16:58+00:00",
       "eintraege": [
         {
-          "titel": "benfica – lech posen",
-          "untertitel": "Benfica vs Lech Poznań: UEFA Europa League stats & head-to-head",
-          "link": "https://www.bbc.com/sport/football/live/cx4g1y2mlgvdt",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw",
+          "titel": "ballon d’or",
+          "untertitel": "Does Kane deal end Premier League career but offer England hope?",
+          "link": "https://www.bbc.com/sport/football/articles/cm93zvzzl33zo",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCu6YkzE4HVVuMHl-7z5YbnnjCX1Qz-IOedvzc3dJQBLHaRRfaZr-d64giBEk",
           "quelle": "Google Trends · BBC",
           "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "die bergretter",
-          "untertitel": "\"Die Bergretter\": Steht Markus der schwerste Verlust bevor?",
-          "link": "https://www.gmx.ch/magazine/unterhaltung/filme-serien-kino/bergretter-markus-schwerste-verlust-42915176",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKtiYyQszptwA64TgkAJ58Xfp1U9ZNlfCkpMcDtMbPX8HOLViw8NBxCo0R_mg",
-          "quelle": "Google Trends · GMX",
+          "titel": "gta 6",
+          "untertitel": "Insane number of Americans would sacrifice sex — and their pets — to play ‘GTA VI’ early",
+          "link": "https://nypost.com/2026/11/02/entertainment/insane-number-of-americans-would-sacrifice-sex-and-their-pets-to-play-gta-vi-early/",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLnmP_WQcDUHwDoTIviyaUPSk1mY9UhFxRtQHdE5tvM309ZE3asI_qaV_VlNI",
+          "quelle": "Google Trends · New York Post",
           "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "fc lugano",
-          "untertitel": "Lugano vs Kauno Žalgiris: UEFA Conference League stats & head-to-head",
-          "link": "https://www.bbc.co.uk/sport/football/live/c574pyzklg2zt",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
-          "quelle": "Google Trends · BBC",
+          "titel": "börse",
+          "untertitel": "Midterms 2026 - Vance: Irankrieg ist schuld +++ Warten auf Alaska und Mississippi",
+          "link": "https://www.srf.ch/news/international/midterms-2026-demokraten-jubeln-warten-auf-alaska-und-mississippi",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRaTZz_wH4wZmW2VmdIVF8pD4VWx-3W6NT3VBr33ZJC-EOYm_hP6-Kd1NQKUvg",
+          "quelle": "Google Trends · SRF",
           "info": "200+ Suchanfragen",
           "trend": "neu"
         }
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-05T21:53:33+00:00",
+      "stand": "2026-11-06T01:16:58+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-05T21:53:33+00:00",
+      "stand": "2026-11-06T01:16:58+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -173,7 +173,7 @@
           "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0f/5e/78/0f5e7883-5041-1eaa-a3d4-18e897ef1903/mza_13262262235983204825.jpg/300x300bb.png",
           "quelle": "Apple Podcasts Charts CH",
           "info": "Nachrichten",
-          "trend": "neu"
+          "trend": "gleich"
         }
       ]
     },
@@ -181,17 +181,8 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-05T21:53:33+00:00",
+      "stand": "2026-11-06T01:16:58+00:00",
       "eintraege": [
-        {
-          "titel": "Weihnachtsmarkt am Bellevue: «Man wird auch bar bezahlen können»",
-          "untertitel": "Dieses Jahr wird der Weihnachtsmarkt vor dem Zürcher Opernhaus von neuen Veranstaltern errichtet. Der begehbare Adventskranz aus Holz ist bereits im Bau. Am 19. November geht es …",
-          "link": "https://www.20min.ch/story/weihnachtsmarkt-bellevue-bei-bellevue-noel-kann-man-auch-bar-bezahlen-103662132",
-          "bild": "https://image.20min.ch/2026/11/04/bc35278e-f8d4-4d54-9f31-2afcd1616e1c.jpg?s=b0a0642d0eb47848393bb358470d6147",
-          "quelle": "20 Minuten",
-          "info": "",
-          "trend": "gleich"
-        },
         {
           "titel": "Hier entsteht der Riesen-Adventskranz für Zürcher Weihnachtsmarkt",
           "untertitel": "Auf dem Sechseläutenplatz steht bald ein begehbarer 40-Meter-Adventskranz aus Schweizer Holz. 20 Minuten hat beim Bau in Wil SG mitangepackt – zusammen mit Zimmermann Remo (22).",
@@ -199,7 +190,7 @@
           "bild": "https://image.20min.ch/2026/11/05/94dfd8e2-1dc9-4811-9c2b-ce39ef8dddca.jpg?s=debf8ffad3c090c9b5535c68852078ec",
           "quelle": "20 Minuten",
           "info": "",
-          "trend": "neu"
+          "trend": "hoch"
         }
       ]
     },
@@ -207,51 +198,51 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-05T21:53:33+00:00",
+      "stand": "2026-11-06T01:16:58+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
-          "untertitel": "Leichter Regen · 5° bis 8°",
+          "untertitel": "Regenschauer · 6° bis 10°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 73%",
+          "info": "Regenrisiko 45%",
           "emoji": "🌦️"
         },
         {
           "titel": "Bern",
-          "untertitel": "Leichter Regen · 4° bis 8°",
+          "untertitel": "Regenschauer · 5° bis 11°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 85%",
+          "info": "Regenrisiko 68%",
           "emoji": "🌦️"
         },
         {
           "titel": "Basel",
-          "untertitel": "Leichter Regen · 6° bis 8°",
+          "untertitel": "Regenschauer · 6° bis 11°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 85%",
+          "info": "Regenrisiko 35%",
           "emoji": "🌦️"
         },
         {
           "titel": "Genf",
-          "untertitel": "Regenschauer · 6° bis 9°",
+          "untertitel": "Regenschauer · 6° bis 13°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 60%",
+          "info": "Regenrisiko 13%",
           "emoji": "🌦️"
         },
         {
           "titel": "Lugano",
-          "untertitel": "Leichter Regen · 8° bis 12°",
+          "untertitel": "Regenschauer · 10° bis 11°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 73%",
+          "info": "Regenrisiko 68%",
           "emoji": "🌦️"
         }
       ]
