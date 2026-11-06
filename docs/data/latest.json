@@ -1,37 +1,37 @@
 {
-  "aktualisiert": "2026-11-06T10:09:29+00:00",
+  "aktualisiert": "2026-11-06T13:12:20+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-06T10:09:29+00:00",
+      "stand": "2026-11-06T13:12:20+00:00",
       "eintraege": [
         {
-          "titel": "Märkte im Sinkflug – Schweizer Börse kommt mit blauem Auge davon",
-          "untertitel": "Der Ausverkauf von Tech-Aktien in den USA belastet auch die Börsen in Asien. Besonders betroffen ist der südkoreanische Aktienmarkt. Auch die US-Börsen machten am Donnerstagabend …",
-          "link": "https://www.20min.ch/story/asiatische-maerkte-handel-in-suedkorea-kurz-ausgesetzt-aktienmaerkte-im-sinkflug-103663113",
-          "bild": "https://image.20min.ch/2026/11/06/78c06766-34c0-4b19-bbb9-ccdc849d032f.png?s=063a47b1c11cde6805a402dd732c3147",
-          "quelle": "20 Minuten",
-          "info": "3 Quellen berichten",
-          "trend": "neu"
-        },
-        {
-          "titel": "Digitaler Lastwagen – Wie Forschende gegen faule Orangen im Supermarkt vorgehen",
-          "untertitel": "Beim Transport im Kühllaster wird es oft zu warm. Forschende der Empa wollen diese Quelle von Foodwaste verringern.",
-          "link": "https://www.srf.ch/wissen/gesundheit/digitaler-lastwagen-wie-forschende-gegen-faule-orangen-im-supermarkt-vorgehen",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/bca29dd.webp",
+          "titel": "Schüler betroffen – Zwei Tote bei Busunglück in Frankreich",
+          "untertitel": "Zwei Menschen sind bei einem Unfall in Ostfrankreich gestorben. 16 weitere Passagiere wurden laut Polizei verletzt.",
+          "link": "https://www.srf.ch/news/international/schueler-betroffen-zwei-tote-bei-busunglueck-in-frankreich",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/765a595.webp",
           "quelle": "SRF",
+          "info": "4 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Prorussische Antifeministen bekennen sich zu zwei Bombendrohungen",
+          "untertitel": "Seit Tagen kommt es in Europa zu Drohungen gegen diverse Airlines und Medienhäuser. Wer hinter den Vorfällen steckt, ist unklar. Alles Laufende im Ticker.",
+          "link": "https://www.20min.ch/story/europa-erneute-bombendrohungen-gegen-mehrere-fluege-103663215",
+          "bild": "https://image.20min.ch/2026/11/06/fe0e2b81-9fee-41d5-8f53-f731225316f9.jpg?s=2cbaa69e1dddbcca42fd6142287b0821",
+          "quelle": "20 Minuten",
           "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "«Könnte sogar ganz Europa umfassen»: Trump sieht Deal mit Putin",
-          "untertitel": "Seit dem 24. Februar 2022 herrscht Krieg in der Ukraine. Alle Entwicklungen im Land und in der europäischen Sicherheitslage findest du hier im Ticker.",
-          "link": "https://www.20min.ch/story/ukraine-krieg-angriffe-kiew-wolodimir-selenksi-medizinische-einrichtungen-getroffen-453678534597",
-          "bild": "https://image.20min.ch/2026/11/05/1ac7f1d6-63c5-4875-b0db-a3047fe049b4.avif?s=804e3ed986c28b6ca8fb61f81c0fdcd0",
-          "quelle": "20 Minuten",
+          "titel": "Unteroffizier fährt betrunken Auto und wird entlassen",
+          "untertitel": "Ein Armee-Angestellter ist entlassen worden, nachdem er unter Alkoholeinfluss am Steuer eines Zivilfahrzeugs angehalten wurde.",
+          "link": "https://www.watson.ch/schweiz/armee/365439363-unteroffizier-der-armee-faehrt-mit-1-7-promille-auto-und-wird-entlassen",
+          "bild": "",
+          "quelle": "watson",
           "info": "3 Quellen berichten",
           "trend": "neu"
         }
@@ -41,33 +41,33 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-06T10:09:29+00:00",
+      "stand": "2026-11-06T13:12:20+00:00",
       "eintraege": [
         {
-          "titel": "Paraguay: Die Bankenkrise wird zur Staatskrise",
-          "untertitel": "In Paraguay zieht die Krise um die Ueno Bank immer weitere Kreise: Weil Präsident Peña die Risiken zu lange ignorierte, leitete das Parlament ein Amtsenthebungsverfahren ein. …",
-          "link": "https://www.tagesschau.de/ausland/amerika/paraguay-pena-ruecktritt-ueno-bank-100.html",
-          "bild": "",
-          "quelle": "tagesschau",
+          "titel": "Low pressure in US midwest brings unseasonable heat to New York and Boston",
+          "untertitel": "Further south this week, severe thunderstorms affected midterms voting in Florida, Oklahoma and Colorado Despite the rapid descent into autumn in the northern hemisphere, parts …",
+          "link": "https://www.theguardian.com/environment/2026/nov/06/new-york-boston-us-weather-tracker",
+          "bild": "https://i.guim.co.uk/img/media/a7dcae1881b9409544c10f165f1a48f73083ff87/0_0_3563_2850/master/3563.jpg?width=140&quality=85&auto=format&fit=max&s=431971dd5b5626d882054c175b9843a5",
+          "quelle": "The Guardian",
           "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
-          "untertitel": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Marco Rubio is rumoured to be eyeing a presidential run.",
-          "link": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ee7/live/6a397360-d97f-11f1-9ef8-af6a44fd33d8.jpg",
-          "quelle": "BBC",
-          "info": "2 Quellen berichten",
+          "titel": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
+          "untertitel": "Santiago Peña’s rightwing administration had authorised Ueno Bank to drastically expand operations before collapse Paraguay’s rightwing president, Santiago Peña, resigned on …",
+          "link": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
+          "bild": "https://i.guim.co.uk/img/media/a77eebbaa9a34c6ba08a7521d0b9d7e55650da11/1666_5_3949_3159/master/3949.jpg?width=140&quality=85&auto=format&fit=max&s=e82620f109a326e6d5b5cff3740166e3",
+          "quelle": "The Guardian",
+          "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "'Several victims' after bus crashes in France, officials say",
-          "untertitel": "The local mayor says the bus \"left the road and hit a tree in the ditch\", with the education minister saying students are involved.",
-          "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+          "titel": "Elon Musk appears to signal the end of the road for Cybertruck",
+          "untertitel": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
+          "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1994/live/ff7af2d0-d9bd-11f1-a00c-673f8daaffd9.jpg",
           "quelle": "BBC",
-          "info": "2 Quellen berichten",
+          "info": "3 Quellen berichten",
           "trend": "neu"
         }
       ]
@@ -76,32 +76,32 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-06T10:09:29+00:00",
+      "stand": "2026-11-06T13:12:20+00:00",
       "eintraege": [
         {
-          "titel": "wendy holdener",
-          "untertitel": "Mode Bayard: Wendy Holdener wird Werbegesicht",
-          "link": "https://www.persoenlich.com/marketing/wendy-holdener-wird-werbegesicht",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVFRao-_oVGGGiQBRv2x_5jiOy8zi7fgVS3a5CPmFEFgE9_gL1Ce31kfTkaW0",
-          "quelle": "Google Trends · persoenlich.com",
-          "info": "100+ Suchanfragen",
-          "trend": "neu"
-        },
-        {
-          "titel": "paquebot",
-          "untertitel": "Paquebot suisse intercepté par les Etats-Unis : 2 000 passagers font la moue",
-          "link": "https://www.bluewin.ch/fr/infos/monde/paquebot-suisse-intercepte-par-les-etats-unis-2-000-passagers-font-la-moue-li.3663778",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9rfkosSYxZ-l1n6f-IpclhSYAid8Jq3IQ44qDNhvp1wuAb5zIs9wmJ1fJ0PA",
-          "quelle": "Google Trends · blue News",
+          "titel": "tiertransporter",
+          "untertitel": "Chauffeur bedrängt Tierschützer vor Bell-Schlachthof",
+          "link": "https://www.blick.ch/schweiz/basel/basel-tiertransporter-faehrt-auf-aktivisten-zu/gx9fzvr",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3RnJhdEbGv73MeGtUzZYXIsESAEYrEmoQVOZ6wzBwxNbDCOe-uVfwb8Bel0w",
+          "quelle": "Google Trends · Blick",
           "info": "200+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "smi index",
-          "untertitel": "Midterms: Ted Cruz bangt um seine Zukunft",
-          "link": "https://www.tagesanzeiger.ch/midterms-usa-trump-auf-dem-pruefstand-alle-resultate-live-638439509339",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpJ7f8p8u25cXb4LhMR3FRBWNlC7NPYz0dC8QgjbtqkesYMiyuE_iv3-Tb994",
-          "quelle": "Google Trends · Tages-Anzeiger",
+          "titel": "alnatura",
+          "untertitel": "Rückruf bei Migros: Alnatura «Salatkerne Mix» betroffen",
+          "link": "https://www.srf.ch/news/schweiz/verdacht-auf-salmonellen-rueckruf-bei-migros-alnatura-salatkerne-mix-betroffen",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCcWMrb_WayYIz1YfDphT5e2V8CN-TnEOd7vl0N8ogqAlwYGHTPmatMzic0-4",
+          "quelle": "Google Trends · SRF",
+          "info": "100+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "airbus a350",
+          "untertitel": "Philippine Airlines Doubles Airbus A350-1000 Long-Haul Jets Firm Orders Amid North America Push",
+          "link": "https://www.forbes.com/sites/iansayson/2026/11/05/philippine-airlines-doubles-airbus-a350-1000-long-haul-jets-firm-orders-amid-north-america-push/",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsCVVc-D9wbeEQOd4ikygfKyl1b6KrwJxaPAWL2Fx4280DXvDuYXqg-DR2mts",
+          "quelle": "Google Trends · Forbes",
           "info": "200+ Suchanfragen",
           "trend": "neu"
         }
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-06T10:09:29+00:00",
+      "stand": "2026-11-06T13:12:20+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-06T10:09:29+00:00",
+      "stand": "2026-11-06T13:12:20+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -167,12 +167,12 @@
           "trend": "gleich"
         },
         {
-          "titel": "Les Grosses Têtes",
-          "untertitel": "RTL",
-          "link": "https://podcasts.apple.com/ch/podcast/les-grosses-t%C3%AAtes/id369369012",
-          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fe/04/9f/fe049f64-d03c-3995-f7ed-ecd5c7bfa3fb/mza_10862868553998545135.jpg/300x300bb.png",
+          "titel": "Lanz + Precht",
+          "untertitel": "ZDF, Markus Lanz & Richard David Precht",
+          "link": "https://podcasts.apple.com/ch/podcast/lanz-precht/id1582828457",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/77/6b/e0/776be00d-6661-737d-a7dd-f5662c5fa110/mza_18360247097984895676.jpg/300x300bb.png",
           "quelle": "Apple Podcasts Charts CH",
-          "info": "Nachrichten, Comedy",
+          "info": "Nachrichten, Gesellschaft und Kultur",
           "trend": "neu"
         }
       ]
@@ -198,11 +198,11 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-06T10:09:29+00:00",
+      "stand": "2026-11-06T13:12:20+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
-          "untertitel": "Leichter Regen · 7° bis 11°",
+          "untertitel": "Leichter Regen · 8° bis 11°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -211,16 +211,16 @@
         },
         {
           "titel": "Bern",
-          "untertitel": "Regenschauer · 6° bis 10°",
+          "untertitel": "Nebel · 5° bis 11°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
           "info": "Regenrisiko 63%",
-          "emoji": "🌦️"
+          "emoji": "🌫️"
         },
         {
           "titel": "Basel",
-          "untertitel": "Regenschauer · 7° bis 11°",
+          "untertitel": "Leichter Regen · 6° bis 12°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -238,7 +238,7 @@
         },
         {
           "titel": "Lugano",
-          "untertitel": "Regenschauer · 10° bis 11°",
+          "untertitel": "Regenschauer · 9° bis 11°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
