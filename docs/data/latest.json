@@ -1,12 +1,12 @@
 {
-  "aktualisiert": "2026-11-06T15:55:45+00:00",
+  "aktualisiert": "2026-11-06T18:58:37+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-06T15:55:45+00:00",
+      "stand": "2026-11-06T18:58:37+00:00",
       "eintraege": [
         {
           "titel": "456 Milliarden Dollar weg: Wie sich Elon Musk verzockt hat",
@@ -18,20 +18,20 @@
           "trend": "neu"
         },
         {
-          "titel": "Fasten bis zum Tod – Sektenführer in Kenia wegen Mordes an 190 Kindern verurteilt",
-          "untertitel": "Ein Gericht hat den Sektenführer zu 200 Jahren Haft verurteilt. 190 Kinder sollen auf seinen Befehl hin verhungert sein.",
-          "link": "https://www.srf.ch/news/international/fasten-bis-zum-tod-sektenfuehrer-in-kenia-wegen-mordes-an-190-kindern-verurteilt",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/7df423.webp",
-          "quelle": "SRF",
-          "info": "3 Quellen berichten",
+          "titel": "Ex-OK-Boss der Ski-WM zu bedingter Freiheitsstrafe verurteilt",
+          "untertitel": "Claude-Alain Schmidhalter ist wegen ungetreuer Geschäftsbesorgung verurteilt worden: 12 Monate bedingt für den früheren OK-Präsidenten der Ski-WM in Crans-Montana. Den …",
+          "link": "https://www.blick.ch/schweiz/westschweiz/wallis/ski-wm-crans-montana-ex-ok-chef-verurteilt/se3y2b0",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/JoMktkuTURBXy81YzIyZjE5ZS0yNTBhLTRlOWItYjg1MS1lNGU3NzVhNzcxYjguanBlZ5KTBc0CWM0BO5MJpjI4MTQwYwY/8rz6irv789q.jpg",
+          "quelle": "Blick",
+          "info": "2 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Auto kommt von Strasse ab und stürzt 90 Meter in die Tiefe",
-          "untertitel": "Es ist ein Unfall, der auch ganz anders hätte enden können. Am Dienstag kam ein Auto am Flüelapass von der Strasse ab und stürzte rund 90 Meter in die Tiefe. Vom Fahrzeug blieb …",
-          "link": "https://www.blick.ch/schweiz/graubuenden/flueelapass-autofahrer-ueberlebt-wie-durch-ein-wunder/de25qyq",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/WVwktktTURBXy8zNzg5NDlmMy1lNTY0LTRlZWYtODdiYy1kYTM5YTVhYmZlNjgucG5nkpMFzQJYzQE7kwmmYTdkMzlmBg/scwizc6jrts.jpg",
-          "quelle": "Blick",
+          "titel": "Novartis meldet Tumorfälle bei Kindern nach Zolgensma-Behandlung",
+          "untertitel": "Die Gentherapie Zolgensma wurde als teuerstes Medikament der Welt bekannt. Es wurde gegen eine seltene erbliche Muskelerkrankung eingesetzt. Nun werden mögliche …",
+          "link": "https://www.20min.ch/story/teuerstes-medikament-novartis-meldet-tumorfaelle-bei-kindern-nach-zolgensma-behandlung-103663393",
+          "bild": "https://image.20min.ch/2026/11/06/c5ff0cca-c317-4d1b-9aa1-2e8160b9d7c0.jpg?s=2b160e4ba2d92ad221bce1105f64e437",
+          "quelle": "20 Minuten",
           "info": "2 Quellen berichten",
           "trend": "neu"
         }
@@ -41,23 +41,14 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-06T15:55:45+00:00",
+      "stand": "2026-11-06T18:58:37+00:00",
       "eintraege": [
         {
           "titel": "AI stocks climb after trillions wiped from market values",
           "untertitel": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
           "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a55a/live/c7545ca0-d9ec-11f1-bbe5-797ee05bee69.jpg",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg",
           "quelle": "BBC",
-          "info": "3 Quellen berichten",
-          "trend": "neu"
-        },
-        {
-          "titel": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
-          "untertitel": "Santiago Peña’s rightwing administration had authorised Ueno Bank to drastically expand operations before collapse Paraguay’s rightwing president, Santiago Peña, resigned on …",
-          "link": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
-          "bild": "https://i.guim.co.uk/img/media/a77eebbaa9a34c6ba08a7521d0b9d7e55650da11/1666_5_3949_3159/master/3949.jpg?width=140&quality=85&auto=format&fit=max&s=e82620f109a326e6d5b5cff3740166e3",
-          "quelle": "The Guardian",
           "info": "3 Quellen berichten",
           "trend": "neu"
         },
@@ -69,6 +60,15 @@
           "quelle": "BBC",
           "info": "3 Quellen berichten",
           "trend": "neu"
+        },
+        {
+          "titel": "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children",
+          "untertitel": "Paul Mackenzie convicted over deaths of children and one adult after followers were ordered to starve themselves and their families The leader of a Kenyan doomsday sect has been …",
+          "link": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie",
+          "bild": "https://i.guim.co.uk/img/media/017bd9f3ebe11c01312f4eefff5b6fce391376f3/332_0_3320_2656/master/3320.jpg?width=140&quality=85&auto=format&fit=max&s=de3f13d6c01242a2b2e958fbe65a4439",
+          "quelle": "The Guardian",
+          "info": "2 Quellen berichten",
+          "trend": "neu"
         }
       ]
     },
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-06T15:55:45+00:00",
+      "stand": "2026-11-06T18:58:37+00:00",
       "eintraege": [
         {
-          "titel": "tesla aktie",
-          "untertitel": "Tesla: Elon Musk stellt Produktion des Cybertrucks in Texas ein",
-          "link": "https://www.spiegel.de/mobilitaet/tesla-elon-musk-stellt-produktion-des-cybertrucks-in-texas-ein-a-f899ebbd-6188-4f98-b4ff-b2cbede7e2e8",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqBTtLC1jzgkZh8M63GOQLbkxLYbIugSYBSqQbIHYKlM8gK5oxLpSff6RmYEU",
-          "quelle": "Google Trends · Spiegel",
+          "titel": "cholesterin",
+          "untertitel": "Cholesterin: Warum Ärzte heute früher Medikamente verschreiben",
+          "link": "https://www.br.de/nachrichten/wissen/cholesterin-warum-aerzte-heute-frueher-medikamente-verschreiben-ein-faktenfuchs,Va5a7lP",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSCttITR0uNYdTOi3xli5JJk4cr3umMx4T3udt-i2tLRVRtJ9a4Re1Gm-8Y-_g",
+          "quelle": "Google Trends · BR",
+          "info": "100+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "fc aarau – fc wil",
+          "untertitel": "",
+          "link": "https://www.google.ch/search?q=fc+aarau+%E2%80%93+fc+wil",
+          "bild": "",
+          "quelle": "Google Trends",
           "info": "200+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "policier",
-          "untertitel": "Vaud: des faux policiers arrêtés en flagrant délit, condamnés à la prison",
-          "link": "https://www.lematin.ch/story/vaud-pris-en-flagrant-delit-deux-faux-policiers-finissent-en-prison-103663379",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjhdwSjVwIbO8K5AshH0ydslto0gvcHiDjM2BiXNFksE3myejTdQPAwQWTmUY",
-          "quelle": "Google Trends · Le Matin",
-          "info": "200+ Suchanfragen",
-          "trend": "neu"
-        },
-        {
-          "titel": "bryan adams schaffhausen",
-          "untertitel": "«Stars in Town»: Diese Acts kommen nach Schaffhausen",
-          "link": "https://www.blick.ch/people-tv/schweiz/stars-in-town-bryan-adams-und-roxette-kommen-nach-schaffhausen/0hftd3d",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwlM9hxBZW2rYkQc08CXSUi1XOYoKXMTK9nJI3AV7khncf5d_PrldCOWG-dds",
-          "quelle": "Google Trends · Blick",
-          "info": "500+ Suchanfragen",
+          "titel": "pablo pagis",
+          "untertitel": "Zidane anuncia la lista de Francia para el próximo… | Yalla Shoot",
+          "link": "https://www.ysscores.com/es/news/14089369/zidane-anuncia-la-lista-de-francia-para-el-pr%C3%B3ximo-par%C3%B3n-internacional",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDFpFicaxhlkh13vzhB0N5jHEeh8OBOl0phTWOhKWK6cXw54JcPtNAzmzPtac",
+          "quelle": "Google Trends · YSscores",
+          "info": "100+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-06T15:55:45+00:00",
+      "stand": "2026-11-06T18:58:37+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-06T15:55:45+00:00",
+      "stand": "2026-11-06T18:58:37+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,16 +181,16 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-06T07:23:02+00:00",
+      "stand": "2026-11-06T18:58:37+00:00",
       "eintraege": [
         {
-          "titel": "Hier entsteht der Riesen-Adventskranz für Zürcher Weihnachtsmarkt",
-          "untertitel": "Auf dem Sechseläutenplatz steht bald ein begehbarer 40-Meter-Adventskranz aus Schweizer Holz. 20 Minuten hat beim Bau in Wil SG mitangepackt – zusammen mit Zimmermann Remo (22).",
-          "link": "https://www.20min.ch/story/20-minuten-packt-mit-an-neues-wahrzeichen-hier-entsteht-zuerichs-groesster-adventskranz-103662744",
-          "bild": "https://image.20min.ch/2026/11/05/94dfd8e2-1dc9-4811-9c2b-ce39ef8dddca.jpg?s=debf8ffad3c090c9b5535c68852078ec",
+          "titel": "«Traurig»: Zürcher Tirggel-Stand fliegt aus HB-Weihnachtsmarkt",
+          "untertitel": "Jahrzehntelang verkaufte Suter Tirggel am Weihnachtsmarkt im Zürcher Hauptbahnhof. Nun ist Schluss – zumindest vorerst. Beim Betreiber ist die Enttäuschung riesig.",
+          "link": "https://www.20min.ch/story/zuerich-hb-weihnachtsmarkt-suter-tirggel-rauswurf-traditionsstand-103662811",
+          "bild": "https://image.20min.ch/2026/11/05/68dc8ba7-3a65-46b3-ae0e-c5180a07e200.jpg?s=cf818d8c4122001825b3cadbb96c35e4",
           "quelle": "20 Minuten",
           "info": "",
-          "trend": "hoch"
+          "trend": "neu"
         }
       ]
     },
@@ -198,24 +198,24 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-06T15:55:45+00:00",
+      "stand": "2026-11-06T18:58:37+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
-          "untertitel": "Leichter Regen · 8° bis 11°",
+          "untertitel": "Regenschauer · 6° bis 11°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 45%",
+          "info": "Regenrisiko 68%",
           "emoji": "🌦️"
         },
         {
           "titel": "Bern",
-          "untertitel": "Regenschauer · 5° bis 11°",
+          "untertitel": "Regenschauer · 5° bis 10°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 63%",
+          "info": "Regenrisiko 83%",
           "emoji": "🌦️"
         },
         {
@@ -224,25 +224,25 @@
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 25%",
+          "info": "Regenrisiko 53%",
           "emoji": "🌦️"
         },
         {
           "titel": "Genf",
-          "untertitel": "Nebel · 5° bis 12°",
+          "untertitel": "Nebel · 5° bis 13°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 13%",
+          "info": "Regenrisiko 3%",
           "emoji": "🌫️"
         },
         {
           "titel": "Lugano",
-          "untertitel": "Regenschauer · 9° bis 11°",
+          "untertitel": "Regenschauer · 10° bis 11°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 63%",
+          "info": "Regenrisiko 75%",
           "emoji": "🌦️"
         }
       ]
