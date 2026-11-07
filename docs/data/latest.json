@@ -1,36 +1,36 @@
 {
-  "aktualisiert": "2026-11-07T09:52:50+00:00",
+  "aktualisiert": "2026-11-07T12:56:48+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-07T09:52:50+00:00",
+      "stand": "2026-11-07T12:56:48+00:00",
       "eintraege": [
+        {
+          "titel": "65 Prozent verbrannt: «Keiner wusste, ob Pauline überleben würde»",
+          "untertitel": "Die Brandtragödie in Crans-Montana hat auch Manuela Pietri getroffen: Ihre Mitarbeiterin Pauline wurde schwer verletzt, ein weiterer Angestellter war Ersthelfer und ist …",
+          "link": "https://www.20min.ch/story/crans-montana-brand-pauline-schwerverletzt-unternehmerin-existenzkampf-103662019",
+          "bild": "https://image.20min.ch/2026/11/05/ccfb6e1c-cc2d-4ad2-83e6-d3bd62965541.jpg?s=d9f54204c92506b09158a5f7a0c00e4d",
+          "quelle": "20 Minuten",
+          "info": "4 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Gleich knallt der Stürmerin der Ball an den Kopf – und von dort ins Tor",
+          "untertitel": "Was du hier findest? Lauter Dinge, die wir ohne viele Worte in unseren Sport-Chats mit den Kollegen teilen. Und damit auch mit dir. Chat-Futter eben.",
+          "link": "https://www.watson.ch/sport/chat-futter/148875477-chat-futter-stuermerin-knallt-der-ball-an-den-kopf-und-von-dort-ins-tor",
+          "bild": "",
+          "quelle": "watson",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
         {
           "titel": "Auto brennt lichterloh",
           "untertitel": "Nach einem Unfall nahe Härkingen SO stand am Samstagmorgen ein Auto in Flammen. Warum sich der Wagen überschlug, ist noch unklar. Der Lenker wurde nach Polizeiangaben leicht …",
           "link": "https://www.blick.ch/schweiz/haerkingen-so-auto-geht-in-flammen-auf/6t555f1",
           "bild": "https://ocdn.eu/pulscms-transforms/1/TypktkuTURBXy9jNzY0YzY4Ny03ZGEyLTQyMzEtYmFkNy00ZmRlYmYyM2U2MDguanBlZ5KTBc0CWM0BO5MJpmRmZDQxOAY/9g0bcdyk416.jpg",
-          "quelle": "Blick",
-          "info": "3 Quellen berichten",
-          "trend": "neu"
-        },
-        {
-          "titel": "Krieg in der Ukraine – Kiew und Umland wieder Ziel russischer Raketenangriffe",
-          "untertitel": "In der Nacht hat das russische Militär die ukrainische Hauptstadt mit ballistischen Raketen angegriffen.",
-          "link": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-kiew-und-umland-wieder-ziel-russischer-raketenangriffe",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/fb4028.webp",
-          "quelle": "SRF",
-          "info": "3 Quellen berichten",
-          "trend": "neu"
-        },
-        {
-          "titel": "Polizeieinsatz legte Bahnhof Schaffhausen lahm – Polizei «körperlich angegangen»",
-          "untertitel": "Polizeieinsatz am Bahnhof Schaffhausen. Das Gelände wurde wegen eines verdächtigen Gegenstandes gesperrt. Auf Alert Swiss wurde empfohlen, das Bahnhofsgelände sowie die …",
-          "link": "https://www.blick.ch/schweiz/schaffhausen/bahnhof-schaffhausen-wegen-verdaechtigem-gegenstand-gesperrt/n3b8fkm",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/msjktktTURBXy81YTY1MTYxMS1hMDUwLTQwMmQtYjFiZC02OWEzOGI1MDA4YjEucG5nkpMFzQJYzQE7kwmmM2M1ZDFhBg/c2tw2lh5v8.jpg",
           "quelle": "Blick",
           "info": "3 Quellen berichten",
           "trend": "neu"
@@ -41,15 +41,15 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-07T09:52:50+00:00",
+      "stand": "2026-11-07T12:56:48+00:00",
       "eintraege": [
         {
-          "titel": "Paraguay's president impeached and under house arrest after bank collapse",
-          "untertitel": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-          "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a65d/live/3fe15d20-da57-11f1-af22-a97b84c9ca63.jpg",
+          "titel": "With Stephen Miller pick, Trump readies for a battle",
+          "untertitel": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+          "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/492d/live/41326240-da17-11f1-bba7-b50f1faa7672.jpg",
           "quelle": "BBC",
-          "info": "2 Quellen berichten",
+          "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
@@ -62,13 +62,13 @@
           "trend": "gleich"
         },
         {
-          "titel": "AI stocks climb after trillions wiped from market values",
-          "untertitel": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-          "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg",
+          "titel": "Paraguay's president impeached and under house arrest after bank collapse",
+          "untertitel": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+          "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a65d/live/3fe15d20-da57-11f1-af22-a97b84c9ca63.jpg",
           "quelle": "BBC",
           "info": "2 Quellen berichten",
-          "trend": "runter"
+          "trend": "neu"
         }
       ]
     },
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-07T09:52:50+00:00",
+      "stand": "2026-11-07T12:56:48+00:00",
       "eintraege": [
         {
-          "titel": "20 minuten",
-          "untertitel": "Bleifrei 95 kostet erstmals seit August weniger als 2 Franken: Tankstellen senken über Nacht um 12 Rappen",
-          "link": "https://www.20min.ch/story/12-rappen-ueber-nacht-blaue-welle-senkt-benzinpreis-bleifrei-95-sinkt-unter-2-franken-103663223",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNu-pJaXgmyf8ny8zmMy4WFv4ntkGwiZpIdN58r5vjk4q2qekRwR6rroYc25I",
-          "quelle": "Google Trends · 20 Minuten",
-          "info": "1000+ Suchanfragen",
+          "titel": "alnatura bio salatkerne mix",
+          "untertitel": "Rückruf bei Migros: Alnatura «Salatkerne Mix» betroffen",
+          "link": "https://www.srf.ch/news/schweiz/verdacht-auf-salmonellen-rueckruf-bei-migros-alnatura-salatkerne-mix-betroffen",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCcWMrb_WayYIz1YfDphT5e2V8CN-TnEOd7vl0N8ogqAlwYGHTPmatMzic0-4",
+          "quelle": "Google Trends · SRF",
+          "info": "500+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "zolgensma novartis",
-          "untertitel": "Novartis reports cases of tumours in children following treatment with Zolgensma",
-          "link": "https://www.swissinfo.ch/eng/pharma-health/novartis-reports-cases-of-tumours-in-children-following-treatment-with-zolgensma/92340287",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1PpGlpq-Y5imVKI4kh0w9I06nk-vBqlmkSTws6yDTpEhet8fzHHrip1JnvL8",
-          "quelle": "Google Trends · SWI swissinfo.ch",
-          "info": "1000+ Suchanfragen",
+          "titel": "goldau",
+          "untertitel": "Auto verliert Rad – dann kracht es",
+          "link": "https://www.blick.ch/schweiz/zentralschweiz/schwyz/unfall-auf-a4-bei-goldau-autofahrer-leicht-verletzt/pvs43ml",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTcERVCaohtj6G5Wsg28ydQQVFv1JxevRFmQ2xri50CL6fgTPc7Uw-wfTXhqcE",
+          "quelle": "Google Trends · Blick",
+          "info": "200+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "tarantel",
-          "untertitel": "Über 200 Taranteln in Österreich gemeldet – sie suchen jetzt Unterschlupf in Wohnungen und Garagen",
-          "link": "https://www.20min.ch/story/mehr-als-200-meldungen-spinnen-alarm-taranteln-breiten-sich-in-oesterreich-aus-103662692",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDp3e0QDKSZSHcszr0FOmL430VqKUxzoGhD9nR8YD_ufUJQRu4lvpcuhxjo08",
+          "titel": "genève",
+          "untertitel": "Genève domine l'hôtellerie suisse avec un taux d'occupation de 64,3%",
+          "link": "https://www.20min.ch/fr/story/hotellerie-suisse-occupation-des-chambres-d-hotel-geneve-meilleur-eleve-de-suisse-103663557",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRl1pvdtoTFd30fqwqlh8pY_TYMf1_H29RPeLQ3iIxCD_roUu3fSf6v9Yvt1w",
           "quelle": "Google Trends · 20 Minuten",
-          "info": "100+ Suchanfragen",
+          "info": "500+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-07T09:52:50+00:00",
+      "stand": "2026-11-07T12:56:48+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-07T09:52:50+00:00",
+      "stand": "2026-11-07T12:56:48+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -198,7 +198,7 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-07T09:52:50+00:00",
+      "stand": "2026-11-07T12:56:48+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
@@ -220,25 +220,25 @@
         },
         {
           "titel": "Basel",
-          "untertitel": "Nebel · 6° bis 13°",
+          "untertitel": "Regenschauer · 6° bis 13°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
           "info": "Regenrisiko 3%",
-          "emoji": "🌫️"
+          "emoji": "🌦️"
         },
         {
           "titel": "Genf",
-          "untertitel": "Regenschauer · 2° bis 14°",
+          "untertitel": "Nebel · 2° bis 14°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
           "info": "Regenrisiko 8%",
-          "emoji": "🌦️"
+          "emoji": "🌫️"
         },
         {
           "titel": "Lugano",
-          "untertitel": "Bewölkt · 6° bis 13°",
+          "untertitel": "Bewölkt · 6° bis 12°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
