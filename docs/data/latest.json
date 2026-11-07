@@ -1,13 +1,22 @@
 {
-  "aktualisiert": "2026-11-07T03:55:45+00:00",
+  "aktualisiert": "2026-11-07T07:04:15+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-07T03:55:45+00:00",
+      "stand": "2026-11-07T07:04:15+00:00",
       "eintraege": [
+        {
+          "titel": "Krieg in der Ukraine – Kiew und Umland wieder Ziel russischer Raketenangriffe",
+          "untertitel": "In der Nacht hat das russische Militär die ukrainische Hauptstadt mit ballistischen Raketen angegriffen.",
+          "link": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-kiew-und-umland-wieder-ziel-russischer-raketenangriffe",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/fb4028.webp",
+          "quelle": "SRF",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
         {
           "titel": "Video zeigt Polizeieinsatz in Schaffhausen",
           "untertitel": "verdächtigen Gegenstandes gesperrt. Auf Alert Swiss wird empfohlen, das Bahnhofsgelände sowie die Bahnhofsstrasse zu meiden.",
@@ -15,25 +24,16 @@
           "bild": "https://ocdn.eu/pulscms-transforms/1/R_AktkuTURBXy84OWM5Y2RiZS0xNmY2LTQ1MDQtYTUyZS03YzM4NzZjZjZlZmQuanBlZ5KTBc0CWM0BO5MJpjg5Yzg5NgY/5i0aw7b07la.jpg",
           "quelle": "Blick",
           "info": "3 Quellen berichten",
-          "trend": "gleich"
+          "trend": "runter"
         },
         {
-          "titel": "Krise nach Bankenskandal – Nach Amtsenthebung: Paraguays Präsident Peña unter Hausarrest",
-          "untertitel": "Millionen Sparer bangen um ihr Geld, während Paraguay in eine politische Krise rutscht. Der Überblick.",
-          "link": "https://www.srf.ch/news/international/krise-nach-bankenskandal-nach-amtsenthebung-paraguays-praesident-pena-unter-hausarrest",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/0324e4.webp",
+          "titel": "Besitz von Kinderpornografie – Vater von Herzogin Meghan in den USA festgenommen",
+          "untertitel": "Thomas Markle wurde wegen des mutmasslichen Besitzes kinderpornografischen Materials angeklagt.",
+          "link": "https://www.srf.ch/news/international/besitz-von-kinderpornografie-vater-von-herzogin-meghan-in-den-usa-festgenommen",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/37315ff.webp",
           "quelle": "SRF",
           "info": "3 Quellen berichten",
           "trend": "neu"
-        },
-        {
-          "titel": "Autor wegen KI von Preis ausgegrenzt – Gewinner gibt Nutzung zu",
-          "untertitel": "Thélyson Orélien hatte gute Aussichten auf den Literaturpreis Prix Goncourt. Dann wurde ihm vorgeworfen, KI benutzt zu haben. Nun gewann Philippe Jaenada und gab zu, KI benutzt …",
-          "link": "https://www.20min.ch/story/frankreich-autor-wegen-ki-von-preis-ausgegrenzt-gewinner-gibt-nutzung-zu-103663345",
-          "bild": "https://image.20min.ch/2026/11/06/6cb62a4d-76f2-4185-ba4e-ee3383b8a4fc.jpg?s=537413def9a3e4d66d752ae04aa40da7",
-          "quelle": "20 Minuten",
-          "info": "3 Quellen berichten",
-          "trend": "runter"
         }
       ]
     },
@@ -41,7 +41,7 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-07T03:55:45+00:00",
+      "stand": "2026-11-07T07:04:15+00:00",
       "eintraege": [
         {
           "titel": "Spain's rail authorities face European fraud probe after Urda rail disaster",
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-07T03:55:45+00:00",
+      "stand": "2026-11-07T07:04:15+00:00",
       "eintraege": [
         {
-          "titel": "passagier",
-          "untertitel": "Kurz vor dem Start: Renitenter Passagier zwingt Swiss-Flug nach Oslo zur Umkehr",
-          "link": "https://www.tagesanzeiger.ch/swiss-flug-nach-oslo-renitenter-passagier-stoppt-start-in-zuerich-700779989438",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZ5IgRVUe4ofObrITb6Y29mo7WBmtxtPr_odBZ5LJCw0QseFQyyTJxXg-svSg",
-          "quelle": "Google Trends · Tages-Anzeiger",
+          "titel": "prix",
+          "untertitel": "L'espoir d'un retour à la paix fait chuter le prix de l'essence",
+          "link": "https://www.20min.ch/fr/story/en-suisse-l-espoir-d-un-retour-a-la-paix-fait-chuter-le-prix-de-l-essence-103663430",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSZgTGdT1hHZ0Z4iu4jSiDfFmklYk4zSD6qqZLY6Iy-oPTa6_RJXIiapStbxs",
+          "quelle": "Google Trends · 20 Minuten",
           "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "guy roux",
-          "untertitel": "Avec un bijou d'Amine Gouiri, l'OM l'emporte à Leverkusen et se relance en Ligue Europa",
-          "link": "https://www.lequipe.fr/Football/Actualites/Avec-un-bijou-d-amine-gouiri-l-om-l-emporte-a-leverkusen-et-se-relance-en-ligue-europa/1741488",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcROR8qKC6c5-hdySOiEqKWYGGeVt20BXrI0i_vWEq6AVw3bbp_iBblO06z5tgQ",
-          "quelle": "Google Trends · L'Équipe",
+          "titel": "kran",
+          "untertitel": "Gegenverkehr lässt fünfachsigen Autodrehkran von der Straße abkommen - Fahrer verletzt",
+          "link": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/bei-parchim-autodrehkran-kippt-in-strassengaben,mvregioschwerin-6402.html",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkdXpTnGWQ3nqYTRAFSbKP8EZazSE3UoBzwI7ZBLy-R6LBYgyt90ssFvtWtBk",
+          "quelle": "Google Trends · tagesschau.de",
           "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "novartis",
-          "untertitel": "Novartis reports cases of tumours in children following treatment with Zolgensma",
-          "link": "https://www.swissinfo.ch/eng/pharma-health/novartis-reports-cases-of-tumours-in-children-following-treatment-with-zolgensma/92340287",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1PpGlpq-Y5imVKI4kh0w9I06nk-vBqlmkSTws6yDTpEhet8fzHHrip1JnvL8",
-          "quelle": "Google Trends · SWI swissinfo.ch",
-          "info": "200+ Suchanfragen",
+          "titel": "königsjodler klettersteig",
+          "untertitel": "Am Berg zurückgelassen: 17-Jährige harrt nachts an der Zugspitze aus, 20-Jähriger gerät bei Schneefall in Not",
+          "link": "https://www.nzz.ch/sport/alpinismus/zugspitze-und-koenigsjodler-junge-berggaenger-lassen-kameraden-in-not-zurueck-ld.10055185",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQogA6XkL54AoFJpPfUxab9TtbyjCkAbxPYg05JbBXPiJnAt4dqLHQFA4_gwAE",
+          "quelle": "Google Trends · NZZ",
+          "info": "100+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-07T03:55:45+00:00",
+      "stand": "2026-11-07T07:04:15+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -198,7 +198,7 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-07T03:55:45+00:00",
+      "stand": "2026-11-07T07:04:15+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
@@ -211,11 +211,11 @@
         },
         {
           "titel": "Bern",
-          "untertitel": "Nebel · 5° bis 11°",
+          "untertitel": "Nebel · 4° bis 11°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 30%",
+          "info": "Regenrisiko 35%",
           "emoji": "🌫️"
         },
         {
@@ -233,17 +233,17 @@
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 5%",
+          "info": "Regenrisiko 28%",
           "emoji": "🌦️"
         },
         {
           "titel": "Lugano",
-          "untertitel": "Bewölkt · 7° bis 13°",
+          "untertitel": "Nebel · 6° bis 13°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 5%",
-          "emoji": "☁️"
+          "info": "Regenrisiko 3%",
+          "emoji": "🌫️"
         }
       ]
     }
