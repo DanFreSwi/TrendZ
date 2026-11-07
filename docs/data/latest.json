@@ -1,37 +1,37 @@
 {
-  "aktualisiert": "2026-11-07T15:45:12+00:00",
+  "aktualisiert": "2026-11-07T18:51:38+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-07T15:45:12+00:00",
+      "stand": "2026-11-07T18:51:38+00:00",
       "eintraege": [
         {
-          "titel": "Schüsse in Krakau – fünf Tote und Verletzte",
-          "untertitel": "Am Samstag wurden im historischen Zentrum von Krakau aus einem Auto heraus Schüsse abgegeben. Offenbar gibt es mehrere Tote und Verletzte.",
+          "titel": "Schütze trug Militäruniform – 6 Tote, 14 Verletzte",
+          "untertitel": "Am Samstag wurden im historischen Zentrum von Krakau aus einem Auto heraus Schüsse abgegeben. Die Polizei bestätigt fünf Tote und 15 Verletzte.",
           "link": "https://www.20min.ch/story/polen-schuesse-in-krakau-mehrere-tote-und-verletzte-103663649",
-          "bild": "https://image.20min.ch/2026/11/07/6345fcc9-68e0-49dd-935f-9a99919bcf45.png?s=495d8dfc52c249593a28f9c526b8ee72",
+          "bild": "https://image.20min.ch/2026/11/07/75d2c5b9-9401-4ab2-89ea-84c5a96d7575.png?s=ea7590a868f5147d397a7ecd0e7bb276",
           "quelle": "20 Minuten",
           "info": "4 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "In Haus gekracht: Polizei legt Fahrer (21) in Handschellen",
-          "untertitel": "Nachdem ein 21-Jähriger mit seinem Auto die Fassade durchbrochen hat, droht ein Einfamilienhaus einzustürzen. Die Bewohner berichten, wie es beinahe zur Katastrophe gekommen ist.",
-          "link": "https://www.20min.ch/story/andwil-sg-zwei-minuten-spaeter-waere-meine-frau-in-der-kueche-gewesen-103663579",
-          "bild": "https://image.20min.ch/2026/11/07/36e06517-a010-4b38-bd36-c691073a5c3b.jpg?s=531864460befd3f0f60ddb1e0512a896",
-          "quelle": "20 Minuten",
-          "info": "4 Quellen berichten",
-          "trend": "neu"
-        },
-        {
-          "titel": "Kantonspolizei Aargau nimmt an zwei Tagen 14 Personen fest",
-          "untertitel": "Die Polizei im Aargau erhöht den Druck: Bei einer kantonsweiten Aktion wurden 14 Personen vorläufig festgenommen und zahlreiche Brennpunkte kontrolliert.",
-          "link": "https://www.blick.ch/schweiz/mittelland/aargau/fahndungsaktion-im-aargau-kantonspolizei-nimmt-14-personen-fest/2vgmx3r",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/Vu6ktkuTURBXy9jODM4OTgxZS03YTI1LTQxZTQtOGJlZi0zYTBjZjNhYTI4ZWQuanBlZ5KTBc0CWM0BO5MJpjVkZjgzOAY/aov5cl02t0d.jpg",
+          "titel": "«Der Fahrer weiss, was nun auf ihn zukommt»",
+          "untertitel": "In Gossau SG gab ein junger Mann Gas, als ihn die Polizei anhalten wollte. Die Flucht endete in Andwil an einer Hausfassade: Der Mann kam schwer verletzt ins Spital, das Haus ist …",
+          "link": "https://www.blick.ch/schweiz/nachbarin-slanja-gmuender-31-zu-unfall-in-andwil-sg/yrwjwsp",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/y0qktktTURBXy85MWEwNTVlMS0yNDhkLTQ0N2MtYjFlZS03ZTBkZTQxYzFkMjAucG5nkpMFzQJYzQE7kwmmMmMxYjBiBg/x1vhcwb8dg.jpg",
           "quelle": "Blick",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Elon Musk will Texas kaufen",
+          "untertitel": "Ein eigener republikanischer Senator ist dem reichsten Mann der Welt rund 200 Millionen Dollar wert.",
+          "link": "https://www.watson.ch/international/analyse/312008068-us-midterms-elon-musk-will-texas-kaufen",
+          "bild": "",
+          "quelle": "watson",
           "info": "3 Quellen berichten",
           "trend": "neu"
         }
@@ -41,7 +41,7 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-07T15:45:12+00:00",
+      "stand": "2026-11-07T18:51:38+00:00",
       "eintraege": [
         {
           "titel": "With Stephen Miller pick, Trump readies for a battle",
@@ -62,13 +62,13 @@
           "trend": "neu"
         },
         {
-          "titel": "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children",
-          "untertitel": "Paul Mackenzie convicted over deaths of children and one adult after followers were ordered to starve themselves and their families The leader of a Kenyan doomsday sect has been …",
-          "link": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie",
-          "bild": "https://i.guim.co.uk/img/media/017bd9f3ebe11c01312f4eefff5b6fce391376f3/332_0_3320_2656/master/3320.jpg?width=140&quality=85&auto=format&fit=max&s=de3f13d6c01242a2b2e958fbe65a4439",
-          "quelle": "The Guardian",
+          "titel": "US offers $20m reward for information about Iran's nuclear programme",
+          "untertitel": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+          "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b84/live/0f887590-dad0-11f1-93e1-3b657b665bcf.jpg",
+          "quelle": "BBC",
           "info": "2 Quellen berichten",
-          "trend": "runter"
+          "trend": "neu"
         }
       ]
     },
@@ -76,32 +76,32 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-07T15:45:12+00:00",
+      "stand": "2026-11-07T18:51:38+00:00",
       "eintraege": [
         {
-          "titel": "cagliari - frosinone",
-          "untertitel": "LIVE Cagliari-Frosinone 1-0: magia di Adopo, poi Caprile salva tre volte i rossoblù",
-          "link": "https://www.gazzetta.it/Calcio/Serie-A/Cagliari/07-11-2026/cagliari-frosinone-live-risultato-e-gol-in-diretta-serie-a.shtml",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoq0UnufJwFjFaaBzbXfh3-OrPYqIUej11oE61oE9pIBMzB47jiuI9RhtNBg0",
-          "quelle": "Google Trends · La Gazzetta dello Sport",
-          "info": "100+ Suchanfragen",
+          "titel": "yb",
+          "untertitel": "",
+          "link": "https://www.google.ch/search?q=yb",
+          "bild": "",
+          "quelle": "Google Trends",
+          "info": "200+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "galatasaray – amed sk",
-          "untertitel": "Süper Lig'de liderlik maçı! Galatasaray ve Amedspor karşı karşıya: Muhtemel 11'ler",
-          "link": "https://www.sozcu.com.tr/super-ligde-liderlik-maci-galatasaray-ve-amedspor-karsi-karsiya-muhtemel-11ler-p376872",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoDo0LIT9tbaSboBtm5QLLcYrBYiNAqR0ZM-gw1GvnrcyowZqmQinUC2bXV8M",
-          "quelle": "Google Trends · Sözcü Gazetesi",
-          "info": "500+ Suchanfragen",
+          "titel": "srf live",
+          "untertitel": "GC: Mit Klarheit und Kompaktheit gegen die Kompliziertheit",
+          "link": "https://www.srf.ch/sport/fussball/super-league/super-league-live-bei-srf-gc-mit-klarheit-und-kompaktheit-gegen-die-kompliziertheit",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQlVEcj2o_WXtifNqhBPurABFPuLjDYz7qHuj7MksicbbJBIsymoK3h0VvMAjc",
+          "quelle": "Google Trends · SRF",
+          "info": "200+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "rb leipzig – augsburg",
-          "untertitel": "Liveticker | RB Leipzig - FC Augsburg : | 9. Spieltag | Bundesliga 2026/27",
-          "link": "https://www.kicker.ch/leipzig-gegen-augsburg-2026-bundesliga-5226882/ticker",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS7RmtzW7biKTg7uyt89DJMfaDyWUZRIjPqifUAo8pV8gJ3dIeul4qldxCO5Qs",
-          "quelle": "Google Trends · www.kicker.ch",
+          "titel": "fc sion",
+          "untertitel": "Christian Constantin bereut verpasste Verpflichtung von Diego Maradona",
+          "link": "https://www.bluewin.ch/de/sport/fussball/super-league/christian-constantin-bereut-verpasste-verpflichtung-von-diego-maradona-li.3661342",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy85tfICAsYkp73i3MHdz7tTRXCIKAg0rSDR9u8FPbWH8r-s4abVfksel3cz8",
+          "quelle": "Google Trends · blue News",
           "info": "200+ Suchanfragen",
           "trend": "neu"
         }
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-07T15:45:12+00:00",
+      "stand": "2026-11-07T18:51:38+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-07T15:45:12+00:00",
+      "stand": "2026-11-07T18:51:38+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -198,7 +198,7 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-07T15:45:12+00:00",
+      "stand": "2026-11-07T18:51:38+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
@@ -206,7 +206,7 @@
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 25%",
+          "info": "Regenrisiko 10%",
           "emoji": "🌫️"
         },
         {
@@ -215,17 +215,17 @@
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 23%",
+          "info": "Regenrisiko 10%",
           "emoji": "🌫️"
         },
         {
           "titel": "Basel",
-          "untertitel": "Regenschauer · 7° bis 13°",
+          "untertitel": "Nebel · 7° bis 13°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 3%",
-          "emoji": "🌦️"
+          "info": "Regenrisiko 0%",
+          "emoji": "🌫️"
         },
         {
           "titel": "Genf",
@@ -238,12 +238,12 @@
         },
         {
           "titel": "Lugano",
-          "untertitel": "Nebel · 6° bis 12°",
+          "untertitel": "Regenschauer · 5° bis 12°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
           "info": "Regenrisiko 0%",
-          "emoji": "🌫️"
+          "emoji": "🌦️"
         }
       ]
     }
