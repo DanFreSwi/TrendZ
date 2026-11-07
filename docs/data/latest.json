@@ -1,36 +1,36 @@
 {
-  "aktualisiert": "2026-11-07T12:56:48+00:00",
+  "aktualisiert": "2026-11-07T15:45:12+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-07T12:56:48+00:00",
+      "stand": "2026-11-07T15:45:12+00:00",
       "eintraege": [
         {
-          "titel": "65 Prozent verbrannt: «Keiner wusste, ob Pauline überleben würde»",
-          "untertitel": "Die Brandtragödie in Crans-Montana hat auch Manuela Pietri getroffen: Ihre Mitarbeiterin Pauline wurde schwer verletzt, ein weiterer Angestellter war Ersthelfer und ist …",
-          "link": "https://www.20min.ch/story/crans-montana-brand-pauline-schwerverletzt-unternehmerin-existenzkampf-103662019",
-          "bild": "https://image.20min.ch/2026/11/05/ccfb6e1c-cc2d-4ad2-83e6-d3bd62965541.jpg?s=d9f54204c92506b09158a5f7a0c00e4d",
+          "titel": "Schüsse in Krakau – fünf Tote und Verletzte",
+          "untertitel": "Am Samstag wurden im historischen Zentrum von Krakau aus einem Auto heraus Schüsse abgegeben. Offenbar gibt es mehrere Tote und Verletzte.",
+          "link": "https://www.20min.ch/story/polen-schuesse-in-krakau-mehrere-tote-und-verletzte-103663649",
+          "bild": "https://image.20min.ch/2026/11/07/6345fcc9-68e0-49dd-935f-9a99919bcf45.png?s=495d8dfc52c249593a28f9c526b8ee72",
           "quelle": "20 Minuten",
           "info": "4 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Gleich knallt der Stürmerin der Ball an den Kopf – und von dort ins Tor",
-          "untertitel": "Was du hier findest? Lauter Dinge, die wir ohne viele Worte in unseren Sport-Chats mit den Kollegen teilen. Und damit auch mit dir. Chat-Futter eben.",
-          "link": "https://www.watson.ch/sport/chat-futter/148875477-chat-futter-stuermerin-knallt-der-ball-an-den-kopf-und-von-dort-ins-tor",
-          "bild": "",
-          "quelle": "watson",
-          "info": "3 Quellen berichten",
+          "titel": "In Haus gekracht: Polizei legt Fahrer (21) in Handschellen",
+          "untertitel": "Nachdem ein 21-Jähriger mit seinem Auto die Fassade durchbrochen hat, droht ein Einfamilienhaus einzustürzen. Die Bewohner berichten, wie es beinahe zur Katastrophe gekommen ist.",
+          "link": "https://www.20min.ch/story/andwil-sg-zwei-minuten-spaeter-waere-meine-frau-in-der-kueche-gewesen-103663579",
+          "bild": "https://image.20min.ch/2026/11/07/36e06517-a010-4b38-bd36-c691073a5c3b.jpg?s=531864460befd3f0f60ddb1e0512a896",
+          "quelle": "20 Minuten",
+          "info": "4 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Auto brennt lichterloh",
-          "untertitel": "Nach einem Unfall nahe Härkingen SO stand am Samstagmorgen ein Auto in Flammen. Warum sich der Wagen überschlug, ist noch unklar. Der Lenker wurde nach Polizeiangaben leicht …",
-          "link": "https://www.blick.ch/schweiz/haerkingen-so-auto-geht-in-flammen-auf/6t555f1",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/TypktkuTURBXy9jNzY0YzY4Ny03ZGEyLTQyMzEtYmFkNy00ZmRlYmYyM2U2MDguanBlZ5KTBc0CWM0BO5MJpmRmZDQxOAY/9g0bcdyk416.jpg",
+          "titel": "Kantonspolizei Aargau nimmt an zwei Tagen 14 Personen fest",
+          "untertitel": "Die Polizei im Aargau erhöht den Druck: Bei einer kantonsweiten Aktion wurden 14 Personen vorläufig festgenommen und zahlreiche Brennpunkte kontrolliert.",
+          "link": "https://www.blick.ch/schweiz/mittelland/aargau/fahndungsaktion-im-aargau-kantonspolizei-nimmt-14-personen-fest/2vgmx3r",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/Vu6ktkuTURBXy9jODM4OTgxZS03YTI1LTQxZTQtOGJlZi0zYTBjZjNhYTI4ZWQuanBlZ5KTBc0CWM0BO5MJpjVkZjgzOAY/aov5cl02t0d.jpg",
           "quelle": "Blick",
           "info": "3 Quellen berichten",
           "trend": "neu"
@@ -41,7 +41,7 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-07T12:56:48+00:00",
+      "stand": "2026-11-07T15:45:12+00:00",
       "eintraege": [
         {
           "titel": "With Stephen Miller pick, Trump readies for a battle",
@@ -53,22 +53,22 @@
           "trend": "neu"
         },
         {
+          "titel": "No clear winner after tight New Zealand general election",
+          "untertitel": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
+          "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3578/live/a76cb0d0-dab5-11f1-a701-fddedf244c16.jpg",
+          "quelle": "BBC",
+          "info": "2 Quellen berichten",
+          "trend": "neu"
+        },
+        {
           "titel": "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children",
           "untertitel": "Paul Mackenzie convicted over deaths of children and one adult after followers were ordered to starve themselves and their families The leader of a Kenyan doomsday sect has been …",
           "link": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie",
           "bild": "https://i.guim.co.uk/img/media/017bd9f3ebe11c01312f4eefff5b6fce391376f3/332_0_3320_2656/master/3320.jpg?width=140&quality=85&auto=format&fit=max&s=de3f13d6c01242a2b2e958fbe65a4439",
           "quelle": "The Guardian",
           "info": "2 Quellen berichten",
-          "trend": "gleich"
-        },
-        {
-          "titel": "Paraguay's president impeached and under house arrest after bank collapse",
-          "untertitel": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-          "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a65d/live/3fe15d20-da57-11f1-af22-a97b84c9ca63.jpg",
-          "quelle": "BBC",
-          "info": "2 Quellen berichten",
-          "trend": "neu"
+          "trend": "runter"
         }
       ]
     },
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-07T12:56:48+00:00",
+      "stand": "2026-11-07T15:45:12+00:00",
       "eintraege": [
         {
-          "titel": "alnatura bio salatkerne mix",
-          "untertitel": "Rückruf bei Migros: Alnatura «Salatkerne Mix» betroffen",
-          "link": "https://www.srf.ch/news/schweiz/verdacht-auf-salmonellen-rueckruf-bei-migros-alnatura-salatkerne-mix-betroffen",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCcWMrb_WayYIz1YfDphT5e2V8CN-TnEOd7vl0N8ogqAlwYGHTPmatMzic0-4",
-          "quelle": "Google Trends · SRF",
+          "titel": "cagliari - frosinone",
+          "untertitel": "LIVE Cagliari-Frosinone 1-0: magia di Adopo, poi Caprile salva tre volte i rossoblù",
+          "link": "https://www.gazzetta.it/Calcio/Serie-A/Cagliari/07-11-2026/cagliari-frosinone-live-risultato-e-gol-in-diretta-serie-a.shtml",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoq0UnufJwFjFaaBzbXfh3-OrPYqIUej11oE61oE9pIBMzB47jiuI9RhtNBg0",
+          "quelle": "Google Trends · La Gazzetta dello Sport",
+          "info": "100+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "galatasaray – amed sk",
+          "untertitel": "Süper Lig'de liderlik maçı! Galatasaray ve Amedspor karşı karşıya: Muhtemel 11'ler",
+          "link": "https://www.sozcu.com.tr/super-ligde-liderlik-maci-galatasaray-ve-amedspor-karsi-karsiya-muhtemel-11ler-p376872",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoDo0LIT9tbaSboBtm5QLLcYrBYiNAqR0ZM-gw1GvnrcyowZqmQinUC2bXV8M",
+          "quelle": "Google Trends · Sözcü Gazetesi",
           "info": "500+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "goldau",
-          "untertitel": "Auto verliert Rad – dann kracht es",
-          "link": "https://www.blick.ch/schweiz/zentralschweiz/schwyz/unfall-auf-a4-bei-goldau-autofahrer-leicht-verletzt/pvs43ml",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTcERVCaohtj6G5Wsg28ydQQVFv1JxevRFmQ2xri50CL6fgTPc7Uw-wfTXhqcE",
-          "quelle": "Google Trends · Blick",
+          "titel": "rb leipzig – augsburg",
+          "untertitel": "Liveticker | RB Leipzig - FC Augsburg : | 9. Spieltag | Bundesliga 2026/27",
+          "link": "https://www.kicker.ch/leipzig-gegen-augsburg-2026-bundesliga-5226882/ticker",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS7RmtzW7biKTg7uyt89DJMfaDyWUZRIjPqifUAo8pV8gJ3dIeul4qldxCO5Qs",
+          "quelle": "Google Trends · www.kicker.ch",
           "info": "200+ Suchanfragen",
-          "trend": "neu"
-        },
-        {
-          "titel": "genève",
-          "untertitel": "Genève domine l'hôtellerie suisse avec un taux d'occupation de 64,3%",
-          "link": "https://www.20min.ch/fr/story/hotellerie-suisse-occupation-des-chambres-d-hotel-geneve-meilleur-eleve-de-suisse-103663557",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRl1pvdtoTFd30fqwqlh8pY_TYMf1_H29RPeLQ3iIxCD_roUu3fSf6v9Yvt1w",
-          "quelle": "Google Trends · 20 Minuten",
-          "info": "500+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-07T12:56:48+00:00",
+      "stand": "2026-11-07T15:45:12+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-07T12:56:48+00:00",
+      "stand": "2026-11-07T15:45:12+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -198,7 +198,7 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-07T12:56:48+00:00",
+      "stand": "2026-11-07T15:45:12+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
@@ -220,7 +220,7 @@
         },
         {
           "titel": "Basel",
-          "untertitel": "Regenschauer · 6° bis 13°",
+          "untertitel": "Regenschauer · 7° bis 13°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -238,12 +238,12 @@
         },
         {
           "titel": "Lugano",
-          "untertitel": "Bewölkt · 6° bis 12°",
+          "untertitel": "Nebel · 6° bis 12°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
           "info": "Regenrisiko 0%",
-          "emoji": "☁️"
+          "emoji": "🌫️"
         }
       ]
     }
