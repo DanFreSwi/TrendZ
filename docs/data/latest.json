@@ -1,12 +1,12 @@
 {
-  "aktualisiert": "2026-11-07T01:05:03+00:00",
+  "aktualisiert": "2026-11-07T03:55:45+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-07T01:05:03+00:00",
+      "stand": "2026-11-07T03:55:45+00:00",
       "eintraege": [
         {
           "titel": "Video zeigt Polizeieinsatz in Schaffhausen",
@@ -41,7 +41,7 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-07T01:05:03+00:00",
+      "stand": "2026-11-07T03:55:45+00:00",
       "eintraege": [
         {
           "titel": "Spain's rail authorities face European fraud probe after Urda rail disaster",
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-07T01:05:03+00:00",
+      "stand": "2026-11-07T03:55:45+00:00",
       "eintraege": [
+        {
+          "titel": "passagier",
+          "untertitel": "Kurz vor dem Start: Renitenter Passagier zwingt Swiss-Flug nach Oslo zur Umkehr",
+          "link": "https://www.tagesanzeiger.ch/swiss-flug-nach-oslo-renitenter-passagier-stoppt-start-in-zuerich-700779989438",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZ5IgRVUe4ofObrITb6Y29mo7WBmtxtPr_odBZ5LJCw0QseFQyyTJxXg-svSg",
+          "quelle": "Google Trends · Tages-Anzeiger",
+          "info": "100+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "guy roux",
+          "untertitel": "Avec un bijou d'Amine Gouiri, l'OM l'emporte à Leverkusen et se relance en Ligue Europa",
+          "link": "https://www.lequipe.fr/Football/Actualites/Avec-un-bijou-d-amine-gouiri-l-om-l-emporte-a-leverkusen-et-se-relance-en-ligue-europa/1741488",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcROR8qKC6c5-hdySOiEqKWYGGeVt20BXrI0i_vWEq6AVw3bbp_iBblO06z5tgQ",
+          "quelle": "Google Trends · L'Équipe",
+          "info": "100+ Suchanfragen",
+          "trend": "neu"
+        },
         {
           "titel": "novartis",
           "untertitel": "Novartis reports cases of tumours in children following treatment with Zolgensma",
           "link": "https://www.swissinfo.ch/eng/pharma-health/novartis-reports-cases-of-tumours-in-children-following-treatment-with-zolgensma/92340287",
           "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1PpGlpq-Y5imVKI4kh0w9I06nk-vBqlmkSTws6yDTpEhet8fzHHrip1JnvL8",
           "quelle": "Google Trends · SWI swissinfo.ch",
-          "info": "100+ Suchanfragen",
-          "trend": "neu"
-        },
-        {
-          "titel": "bahnhof schaffhausen polizeieinsatz",
-          "untertitel": "Bahnhof in Schaffhausen - Verdächtiger Koffer am Bahnhof: Polizei gibt Entwarnung",
-          "link": "https://www.srf.ch/news/schweiz/bahnhof-in-schaffhausen-verdaechtiger-koffer-am-bahnhof-polizei-gibt-entwarnung",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZU41d7dFXX4bQDGOJKwKS6qp3wVZHev8lSw68lQ8simPo1Z5nKUxk8N9wuxI",
-          "quelle": "Google Trends · SRF",
-          "info": "2000+ Suchanfragen",
-          "trend": "neu"
-        },
-        {
-          "titel": "star academy",
-          "untertitel": "Star Academy 2026 - Quotidienne 26 du 6 novembre 2026",
-          "link": "https://www.tf1.fr/fr-ch/tf1/star-academy/videos/star-academy-2026-quotidienne-26-du-6-novembre-2026-24095576.html",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSsSyMISOjN3tkbe7ku0xUvQGePFMTGD3E7l-8Wpx89SJMTA9lCGOI55wAhllc",
-          "quelle": "Google Trends · TF1+",
-          "info": "500+ Suchanfragen",
+          "info": "200+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-07T01:05:03+00:00",
+      "stand": "2026-11-07T03:55:45+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-07T01:05:03+00:00",
+      "stand": "2026-11-07T03:55:45+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-07T01:05:03+00:00",
+      "stand": "2026-11-07T03:55:45+00:00",
       "eintraege": [
         {
           "titel": "«Traurig»: Zürcher Tirggel-Stand fliegt aus HB-Weihnachtsmarkt",
@@ -198,16 +198,16 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-07T01:05:03+00:00",
+      "stand": "2026-11-07T03:55:45+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
-          "untertitel": "Regenschauer · 6° bis 12°",
+          "untertitel": "Nebel · 6° bis 12°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
           "info": "Regenrisiko 23%",
-          "emoji": "🌦️"
+          "emoji": "🌫️"
         },
         {
           "titel": "Bern",
@@ -220,7 +220,7 @@
         },
         {
           "titel": "Basel",
-          "untertitel": "Nebel · 6° bis 13°",
+          "untertitel": "Nebel · 7° bis 13°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -229,7 +229,7 @@
         },
         {
           "titel": "Genf",
-          "untertitel": "Leichter Regen · 2° bis 14°",
+          "untertitel": "Regenschauer · 2° bis 14°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -238,7 +238,7 @@
         },
         {
           "titel": "Lugano",
-          "untertitel": "Bewölkt · 6° bis 13°",
+          "untertitel": "Bewölkt · 7° bis 13°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
