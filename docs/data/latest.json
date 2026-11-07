@@ -1,13 +1,22 @@
 {
-  "aktualisiert": "2026-11-07T07:04:15+00:00",
+  "aktualisiert": "2026-11-07T09:52:50+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-07T07:04:15+00:00",
+      "stand": "2026-11-07T09:52:50+00:00",
       "eintraege": [
+        {
+          "titel": "Auto brennt lichterloh",
+          "untertitel": "Nach einem Unfall nahe Härkingen SO stand am Samstagmorgen ein Auto in Flammen. Warum sich der Wagen überschlug, ist noch unklar. Der Lenker wurde nach Polizeiangaben leicht …",
+          "link": "https://www.blick.ch/schweiz/haerkingen-so-auto-geht-in-flammen-auf/6t555f1",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/TypktkuTURBXy9jNzY0YzY4Ny03ZGEyLTQyMzEtYmFkNy00ZmRlYmYyM2U2MDguanBlZ5KTBc0CWM0BO5MJpmRmZDQxOAY/9g0bcdyk416.jpg",
+          "quelle": "Blick",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
         {
           "titel": "Krieg in der Ukraine – Kiew und Umland wieder Ziel russischer Raketenangriffe",
           "untertitel": "In der Nacht hat das russische Militär die ukrainische Hauptstadt mit ballistischen Raketen angegriffen.",
@@ -18,20 +27,11 @@
           "trend": "neu"
         },
         {
-          "titel": "Video zeigt Polizeieinsatz in Schaffhausen",
-          "untertitel": "verdächtigen Gegenstandes gesperrt. Auf Alert Swiss wird empfohlen, das Bahnhofsgelände sowie die Bahnhofsstrasse zu meiden.",
-          "link": "https://www.blick.ch/schweiz/polizeieinsatz-am-bahnhof-schaffhausen/r4yy85k",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/R_AktkuTURBXy84OWM5Y2RiZS0xNmY2LTQ1MDQtYTUyZS03YzM4NzZjZjZlZmQuanBlZ5KTBc0CWM0BO5MJpjg5Yzg5NgY/5i0aw7b07la.jpg",
+          "titel": "Polizeieinsatz legte Bahnhof Schaffhausen lahm – Polizei «körperlich angegangen»",
+          "untertitel": "Polizeieinsatz am Bahnhof Schaffhausen. Das Gelände wurde wegen eines verdächtigen Gegenstandes gesperrt. Auf Alert Swiss wurde empfohlen, das Bahnhofsgelände sowie die …",
+          "link": "https://www.blick.ch/schweiz/schaffhausen/bahnhof-schaffhausen-wegen-verdaechtigem-gegenstand-gesperrt/n3b8fkm",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/msjktktTURBXy81YTY1MTYxMS1hMDUwLTQwMmQtYjFiZC02OWEzOGI1MDA4YjEucG5nkpMFzQJYzQE7kwmmM2M1ZDFhBg/c2tw2lh5v8.jpg",
           "quelle": "Blick",
-          "info": "3 Quellen berichten",
-          "trend": "runter"
-        },
-        {
-          "titel": "Besitz von Kinderpornografie – Vater von Herzogin Meghan in den USA festgenommen",
-          "untertitel": "Thomas Markle wurde wegen des mutmasslichen Besitzes kinderpornografischen Materials angeklagt.",
-          "link": "https://www.srf.ch/news/international/besitz-von-kinderpornografie-vater-von-herzogin-meghan-in-den-usa-festgenommen",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/37315ff.webp",
-          "quelle": "SRF",
           "info": "3 Quellen berichten",
           "trend": "neu"
         }
@@ -41,16 +41,25 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-07T07:04:15+00:00",
+      "stand": "2026-11-07T09:52:50+00:00",
       "eintraege": [
         {
-          "titel": "Spain's rail authorities face European fraud probe after Urda rail disaster",
-          "untertitel": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
-          "link": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26ed/live/81d3a0d0-d9ee-11f1-bbe5-797ee05bee69.jpg",
+          "titel": "Paraguay's president impeached and under house arrest after bank collapse",
+          "untertitel": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+          "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a65d/live/3fe15d20-da57-11f1-af22-a97b84c9ca63.jpg",
           "quelle": "BBC",
-          "info": "3 Quellen berichten",
+          "info": "2 Quellen berichten",
           "trend": "neu"
+        },
+        {
+          "titel": "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children",
+          "untertitel": "Paul Mackenzie convicted over deaths of children and one adult after followers were ordered to starve themselves and their families The leader of a Kenyan doomsday sect has been …",
+          "link": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie",
+          "bild": "https://i.guim.co.uk/img/media/017bd9f3ebe11c01312f4eefff5b6fce391376f3/332_0_3320_2656/master/3320.jpg?width=140&quality=85&auto=format&fit=max&s=de3f13d6c01242a2b2e958fbe65a4439",
+          "quelle": "The Guardian",
+          "info": "2 Quellen berichten",
+          "trend": "gleich"
         },
         {
           "titel": "AI stocks climb after trillions wiped from market values",
@@ -60,15 +69,6 @@
           "quelle": "BBC",
           "info": "2 Quellen berichten",
           "trend": "runter"
-        },
-        {
-          "titel": "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children",
-          "untertitel": "Paul Mackenzie convicted over deaths of children and one adult after followers were ordered to starve themselves and their families The leader of a Kenyan doomsday sect has been …",
-          "link": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie",
-          "bild": "https://i.guim.co.uk/img/media/017bd9f3ebe11c01312f4eefff5b6fce391376f3/332_0_3320_2656/master/3320.jpg?width=140&quality=85&auto=format&fit=max&s=de3f13d6c01242a2b2e958fbe65a4439",
-          "quelle": "The Guardian",
-          "info": "2 Quellen berichten",
-          "trend": "runter"
         }
       ]
     },
@@ -76,32 +76,32 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-07T07:04:15+00:00",
+      "stand": "2026-11-07T09:52:50+00:00",
       "eintraege": [
         {
-          "titel": "prix",
-          "untertitel": "L'espoir d'un retour à la paix fait chuter le prix de l'essence",
-          "link": "https://www.20min.ch/fr/story/en-suisse-l-espoir-d-un-retour-a-la-paix-fait-chuter-le-prix-de-l-essence-103663430",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSZgTGdT1hHZ0Z4iu4jSiDfFmklYk4zSD6qqZLY6Iy-oPTa6_RJXIiapStbxs",
+          "titel": "20 minuten",
+          "untertitel": "Bleifrei 95 kostet erstmals seit August weniger als 2 Franken: Tankstellen senken über Nacht um 12 Rappen",
+          "link": "https://www.20min.ch/story/12-rappen-ueber-nacht-blaue-welle-senkt-benzinpreis-bleifrei-95-sinkt-unter-2-franken-103663223",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNu-pJaXgmyf8ny8zmMy4WFv4ntkGwiZpIdN58r5vjk4q2qekRwR6rroYc25I",
           "quelle": "Google Trends · 20 Minuten",
-          "info": "100+ Suchanfragen",
+          "info": "1000+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "kran",
-          "untertitel": "Gegenverkehr lässt fünfachsigen Autodrehkran von der Straße abkommen - Fahrer verletzt",
-          "link": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/bei-parchim-autodrehkran-kippt-in-strassengaben,mvregioschwerin-6402.html",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkdXpTnGWQ3nqYTRAFSbKP8EZazSE3UoBzwI7ZBLy-R6LBYgyt90ssFvtWtBk",
-          "quelle": "Google Trends · tagesschau.de",
-          "info": "100+ Suchanfragen",
+          "titel": "zolgensma novartis",
+          "untertitel": "Novartis reports cases of tumours in children following treatment with Zolgensma",
+          "link": "https://www.swissinfo.ch/eng/pharma-health/novartis-reports-cases-of-tumours-in-children-following-treatment-with-zolgensma/92340287",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1PpGlpq-Y5imVKI4kh0w9I06nk-vBqlmkSTws6yDTpEhet8fzHHrip1JnvL8",
+          "quelle": "Google Trends · SWI swissinfo.ch",
+          "info": "1000+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "königsjodler klettersteig",
-          "untertitel": "Am Berg zurückgelassen: 17-Jährige harrt nachts an der Zugspitze aus, 20-Jähriger gerät bei Schneefall in Not",
-          "link": "https://www.nzz.ch/sport/alpinismus/zugspitze-und-koenigsjodler-junge-berggaenger-lassen-kameraden-in-not-zurueck-ld.10055185",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQogA6XkL54AoFJpPfUxab9TtbyjCkAbxPYg05JbBXPiJnAt4dqLHQFA4_gwAE",
-          "quelle": "Google Trends · NZZ",
+          "titel": "tarantel",
+          "untertitel": "Über 200 Taranteln in Österreich gemeldet – sie suchen jetzt Unterschlupf in Wohnungen und Garagen",
+          "link": "https://www.20min.ch/story/mehr-als-200-meldungen-spinnen-alarm-taranteln-breiten-sich-in-oesterreich-aus-103662692",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDp3e0QDKSZSHcszr0FOmL430VqKUxzoGhD9nR8YD_ufUJQRu4lvpcuhxjo08",
+          "quelle": "Google Trends · 20 Minuten",
           "info": "100+ Suchanfragen",
           "trend": "neu"
         }
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-07T03:55:45+00:00",
+      "stand": "2026-11-07T09:52:50+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-07T07:04:15+00:00",
+      "stand": "2026-11-07T09:52:50+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-07T03:55:45+00:00",
+      "stand": "2026-11-07T09:52:50+00:00",
       "eintraege": [
         {
           "titel": "«Traurig»: Zürcher Tirggel-Stand fliegt aus HB-Weihnachtsmarkt",
@@ -198,7 +198,7 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-07T07:04:15+00:00",
+      "stand": "2026-11-07T09:52:50+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
@@ -206,7 +206,7 @@
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 23%",
+          "info": "Regenrisiko 25%",
           "emoji": "🌫️"
         },
         {
@@ -215,16 +215,16 @@
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 35%",
+          "info": "Regenrisiko 23%",
           "emoji": "🌫️"
         },
         {
           "titel": "Basel",
-          "untertitel": "Nebel · 7° bis 13°",
+          "untertitel": "Nebel · 6° bis 13°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 8%",
+          "info": "Regenrisiko 3%",
           "emoji": "🌫️"
         },
         {
@@ -233,17 +233,17 @@
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 28%",
+          "info": "Regenrisiko 8%",
           "emoji": "🌦️"
         },
         {
           "titel": "Lugano",
-          "untertitel": "Nebel · 6° bis 13°",
+          "untertitel": "Bewölkt · 6° bis 13°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 3%",
-          "emoji": "🌫️"
+          "info": "Regenrisiko 0%",
+          "emoji": "☁️"
         }
       ]
     }
