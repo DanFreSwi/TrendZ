@@ -1,37 +1,37 @@
 {
-  "aktualisiert": "2026-11-07T18:51:38+00:00",
+  "aktualisiert": "2026-11-07T21:43:32+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-07T18:51:38+00:00",
+      "stand": "2026-11-07T21:43:32+00:00",
       "eintraege": [
         {
-          "titel": "Schütze trug Militäruniform – 6 Tote, 14 Verletzte",
-          "untertitel": "Am Samstag wurden im historischen Zentrum von Krakau aus einem Auto heraus Schüsse abgegeben. Die Polizei bestätigt fünf Tote und 15 Verletzte.",
-          "link": "https://www.20min.ch/story/polen-schuesse-in-krakau-mehrere-tote-und-verletzte-103663649",
-          "bild": "https://image.20min.ch/2026/11/07/75d2c5b9-9401-4ab2-89ea-84c5a96d7575.png?s=ea7590a868f5147d397a7ecd0e7bb276",
+          "titel": "Rechtsextreme Spur? 3 weitere Tote im Haus des Schützen entdeckt",
+          "untertitel": "Am Samstagnachmittag hat ein Täter im polnischen Krakau aus einem Auto geschossen und sechs Menschen getötet. Mindestens 15 Personen wurden verletzt, viele schwebten in …",
+          "link": "https://www.20min.ch/story/krakau-polen-schuetze-von-krakau-soll-radikale-ansichten-gehabt-haben-103663871",
+          "bild": "https://image.20min.ch/2026/11/07/e382e0ee-ac16-4c6d-8932-c7221044032f.png?s=b6ba0ad4a7a9554fc60f2620dd20e753",
           "quelle": "20 Minuten",
           "info": "4 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "«Der Fahrer weiss, was nun auf ihn zukommt»",
-          "untertitel": "In Gossau SG gab ein junger Mann Gas, als ihn die Polizei anhalten wollte. Die Flucht endete in Andwil an einer Hausfassade: Der Mann kam schwer verletzt ins Spital, das Haus ist …",
-          "link": "https://www.blick.ch/schweiz/nachbarin-slanja-gmuender-31-zu-unfall-in-andwil-sg/yrwjwsp",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/y0qktktTURBXy85MWEwNTVlMS0yNDhkLTQ0N2MtYjFlZS03ZTBkZTQxYzFkMjAucG5nkpMFzQJYzQE7kwmmMmMxYjBiBg/x1vhcwb8dg.jpg",
+          "titel": "Novartis meldet Tumorfälle nach Gentherapie",
+          "untertitel": "Das Novartis-Medikament Zolgensma ist mit rund 2 Millionen Franken pro Infusion extrem teuer. Die US-Gesundheitsbehörde FDA untersucht nun, ob es das Tumorrisiko erhöht, weil bei …",
+          "link": "https://www.blick.ch/schweiz/basel/wegen-novartis-medikament-zolgensma-tumore-gemeldet/zlle6kj",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/xOGktkuTURBXy9iZjQ2Yjg3NS0wZjVkLTQ3ZmQtYTU0MC1hNWJlNTJkYTlhNWEuanBlZ5KTBc0CWM0BO5MJpjM4NjI3OAY/8fv3lv06cuc.jpg",
           "quelle": "Blick",
           "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Elon Musk will Texas kaufen",
-          "untertitel": "Ein eigener republikanischer Senator ist dem reichsten Mann der Welt rund 200 Millionen Dollar wert.",
-          "link": "https://www.watson.ch/international/analyse/312008068-us-midterms-elon-musk-will-texas-kaufen",
-          "bild": "",
-          "quelle": "watson",
+          "titel": "«Noch nie gesehen, dass ein ganzes Auto im Erdgeschoss steckt»",
+          "untertitel": "Nach der Flucht vor einer Polizeikontrolle ist ein 21-Jähriger in Andwil SG mit einem Mercedes in ein Wohnhaus gekracht. Laut dem zuständigen Statiker wurde das Tragwerk …",
+          "link": "https://www.blick.ch/schweiz/ostschweiz/st-gallen/mercedes-steckt-in-kueche-haus-in-andwil-sg-einsturzgefaehrdet/m0mz70c",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/VPgktkuTURBXy84NjQyZmI5YS1iMzExLTRjODMtOWJmMy1mN2ViMTVmOGU2NTYuanBlZ5KTBc0CWM0BO5MJpjdiMGQ3ZgY/e51nqq9lfe.jpg",
+          "quelle": "Blick",
           "info": "3 Quellen berichten",
           "trend": "neu"
         }
@@ -41,7 +41,7 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-07T18:51:38+00:00",
+      "stand": "2026-11-07T21:43:32+00:00",
       "eintraege": [
         {
           "titel": "With Stephen Miller pick, Trump readies for a battle",
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-07T18:51:38+00:00",
+      "stand": "2026-11-07T21:43:32+00:00",
       "eintraege": [
         {
-          "titel": "yb",
-          "untertitel": "",
-          "link": "https://www.google.ch/search?q=yb",
-          "bild": "",
-          "quelle": "Google Trends",
+          "titel": "basler herbstmesse",
+          "untertitel": "«Fast hätte es uns erwischt»: Familie erlebt Seilriss am T-Rex Tower in Basel",
+          "link": "https://www.20min.ch/story/basler-herbstmesse-seil-reisst-mitten-im-betrieb-fast-haette-es-uns-erwischt-103663564",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFgsMGmBMh6PfQvGNXHl8zbGBvuG8SbjNBfaZ8x_DcCUY1pxicLkj8snhTn40",
+          "quelle": "Google Trends · 20 Minuten",
           "info": "200+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "srf live",
-          "untertitel": "GC: Mit Klarheit und Kompaktheit gegen die Kompliziertheit",
-          "link": "https://www.srf.ch/sport/fussball/super-league/super-league-live-bei-srf-gc-mit-klarheit-und-kompaktheit-gegen-die-kompliziertheit",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQlVEcj2o_WXtifNqhBPurABFPuLjDYz7qHuj7MksicbbJBIsymoK3h0VvMAjc",
-          "quelle": "Google Trends · SRF",
-          "info": "200+ Suchanfragen",
+          "titel": "fahrzeugbrand",
+          "untertitel": "Schreckliche Entdeckung auf der A73: Feuerwehr findet verbrannte Leiche auf Autobahn",
+          "link": "https://www.bild.de/news/inland/schreckliche-entdeckung-auf-der-a73-feuerwehr-findet-verbrannte-leiche-auf-autobahn-6aeef4cba389bc337cfc8e3d",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQccYUzpumhjGRFOh4sPZsAFO1E1lbHRsPa0jxb-oJ4bIbrtCcuqANSQTPQ-HM",
+          "quelle": "Google Trends · BILD",
+          "info": "500+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "fc sion",
-          "untertitel": "Christian Constantin bereut verpasste Verpflichtung von Diego Maradona",
-          "link": "https://www.bluewin.ch/de/sport/fussball/super-league/christian-constantin-bereut-verpasste-verpflichtung-von-diego-maradona-li.3661342",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy85tfICAsYkp73i3MHdz7tTRXCIKAg0rSDR9u8FPbWH8r-s4abVfksel3cz8",
-          "quelle": "Google Trends · blue News",
-          "info": "200+ Suchanfragen",
+          "titel": "brigandage",
+          "untertitel": "Boncourt: un homme armé braque la station-service Jubin et menace une employée",
+          "link": "https://www.20min.ch/fr/story/boncourt-ju-un-homme-arme-braque-une-station-service-et-menace-une-employee-103663708",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRjw3q044hLA-LB1q5r9UoEVP7Ff9618iUL4mnZpCfVxaZReOBxJ8UVsVhGuY",
+          "quelle": "Google Trends · 20 Minuten",
+          "info": "100+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-07T18:51:38+00:00",
+      "stand": "2026-11-07T21:43:32+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-07T18:51:38+00:00",
+      "stand": "2026-11-07T21:43:32+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -198,15 +198,15 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-07T18:51:38+00:00",
+      "stand": "2026-11-07T21:43:32+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
-          "untertitel": "Nebel · 6° bis 12°",
+          "untertitel": "Nebel · 5° bis 12°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 10%",
+          "info": "Regenrisiko 5%",
           "emoji": "🌫️"
         },
         {
@@ -215,17 +215,17 @@
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 10%",
+          "info": "Regenrisiko 8%",
           "emoji": "🌫️"
         },
         {
           "titel": "Basel",
-          "untertitel": "Nebel · 7° bis 13°",
+          "untertitel": "Regenschauer · 7° bis 13°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
           "info": "Regenrisiko 0%",
-          "emoji": "🌫️"
+          "emoji": "🌦️"
         },
         {
           "titel": "Genf",
@@ -233,17 +233,17 @@
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 8%",
+          "info": "Regenrisiko 0%",
           "emoji": "🌫️"
         },
         {
           "titel": "Lugano",
-          "untertitel": "Regenschauer · 5° bis 12°",
+          "untertitel": "Nebel · 6° bis 12°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
           "info": "Regenrisiko 0%",
-          "emoji": "🌦️"
+          "emoji": "🌫️"
         }
       ]
     }

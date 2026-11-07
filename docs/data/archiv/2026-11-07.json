@@ -1,0 +1,251 @@
+{
+  "aktualisiert": "2026-11-07T21:43:32+00:00",
+  "land": "ch",
+  "kategorien": [
+    {
+      "id": "news_ch",
+      "name": "News Schweiz",
+      "symbol": "🇨🇭",
+      "stand": "2026-11-07T21:43:32+00:00",
+      "eintraege": [
+        {
+          "titel": "Rechtsextreme Spur? 3 weitere Tote im Haus des Schützen entdeckt",
+          "untertitel": "Am Samstagnachmittag hat ein Täter im polnischen Krakau aus einem Auto geschossen und sechs Menschen getötet. Mindestens 15 Personen wurden verletzt, viele schwebten in …",
+          "link": "https://www.20min.ch/story/krakau-polen-schuetze-von-krakau-soll-radikale-ansichten-gehabt-haben-103663871",
+          "bild": "https://image.20min.ch/2026/11/07/e382e0ee-ac16-4c6d-8932-c7221044032f.png?s=b6ba0ad4a7a9554fc60f2620dd20e753",
+          "quelle": "20 Minuten",
+          "info": "4 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Novartis meldet Tumorfälle nach Gentherapie",
+          "untertitel": "Das Novartis-Medikament Zolgensma ist mit rund 2 Millionen Franken pro Infusion extrem teuer. Die US-Gesundheitsbehörde FDA untersucht nun, ob es das Tumorrisiko erhöht, weil bei …",
+          "link": "https://www.blick.ch/schweiz/basel/wegen-novartis-medikament-zolgensma-tumore-gemeldet/zlle6kj",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/xOGktkuTURBXy9iZjQ2Yjg3NS0wZjVkLTQ3ZmQtYTU0MC1hNWJlNTJkYTlhNWEuanBlZ5KTBc0CWM0BO5MJpjM4NjI3OAY/8fv3lv06cuc.jpg",
+          "quelle": "Blick",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "«Noch nie gesehen, dass ein ganzes Auto im Erdgeschoss steckt»",
+          "untertitel": "Nach der Flucht vor einer Polizeikontrolle ist ein 21-Jähriger in Andwil SG mit einem Mercedes in ein Wohnhaus gekracht. Laut dem zuständigen Statiker wurde das Tragwerk …",
+          "link": "https://www.blick.ch/schweiz/ostschweiz/st-gallen/mercedes-steckt-in-kueche-haus-in-andwil-sg-einsturzgefaehrdet/m0mz70c",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/VPgktkuTURBXy84NjQyZmI5YS1iMzExLTRjODMtOWJmMy1mN2ViMTVmOGU2NTYuanBlZ5KTBc0CWM0BO5MJpjdiMGQ3ZgY/e51nqq9lfe.jpg",
+          "quelle": "Blick",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        }
+      ]
+    },
+    {
+      "id": "news_welt",
+      "name": "News Welt",
+      "symbol": "🌍",
+      "stand": "2026-11-07T21:43:32+00:00",
+      "eintraege": [
+        {
+          "titel": "With Stephen Miller pick, Trump readies for a battle",
+          "untertitel": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+          "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/492d/live/41326240-da17-11f1-bba7-b50f1faa7672.jpg",
+          "quelle": "BBC",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "No clear winner after tight New Zealand general election",
+          "untertitel": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
+          "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3578/live/a76cb0d0-dab5-11f1-a701-fddedf244c16.jpg",
+          "quelle": "BBC",
+          "info": "2 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "US offers $20m reward for information about Iran's nuclear programme",
+          "untertitel": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+          "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b84/live/0f887590-dad0-11f1-93e1-3b657b665bcf.jpg",
+          "quelle": "BBC",
+          "info": "2 Quellen berichten",
+          "trend": "neu"
+        }
+      ]
+    },
+    {
+      "id": "suche",
+      "name": "Gesucht in der Schweiz",
+      "symbol": "🔎",
+      "stand": "2026-11-07T21:43:32+00:00",
+      "eintraege": [
+        {
+          "titel": "basler herbstmesse",
+          "untertitel": "«Fast hätte es uns erwischt»: Familie erlebt Seilriss am T-Rex Tower in Basel",
+          "link": "https://www.20min.ch/story/basler-herbstmesse-seil-reisst-mitten-im-betrieb-fast-haette-es-uns-erwischt-103663564",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFgsMGmBMh6PfQvGNXHl8zbGBvuG8SbjNBfaZ8x_DcCUY1pxicLkj8snhTn40",
+          "quelle": "Google Trends · 20 Minuten",
+          "info": "200+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "fahrzeugbrand",
+          "untertitel": "Schreckliche Entdeckung auf der A73: Feuerwehr findet verbrannte Leiche auf Autobahn",
+          "link": "https://www.bild.de/news/inland/schreckliche-entdeckung-auf-der-a73-feuerwehr-findet-verbrannte-leiche-auf-autobahn-6aeef4cba389bc337cfc8e3d",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQccYUzpumhjGRFOh4sPZsAFO1E1lbHRsPa0jxb-oJ4bIbrtCcuqANSQTPQ-HM",
+          "quelle": "Google Trends · BILD",
+          "info": "500+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "brigandage",
+          "untertitel": "Boncourt: un homme armé braque la station-service Jubin et menace une employée",
+          "link": "https://www.20min.ch/fr/story/boncourt-ju-un-homme-arme-braque-une-station-service-et-menace-une-employee-103663708",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRjw3q044hLA-LB1q5r9UoEVP7Ff9618iUL4mnZpCfVxaZReOBxJ8UVsVhGuY",
+          "quelle": "Google Trends · 20 Minuten",
+          "info": "100+ Suchanfragen",
+          "trend": "neu"
+        }
+      ]
+    },
+    {
+      "id": "musik",
+      "name": "Musik",
+      "symbol": "🎵",
+      "stand": "2026-11-07T21:43:32+00:00",
+      "eintraege": [
+        {
+          "titel": "Housewife",
+          "untertitel": "Tate McRae",
+          "link": "https://music.apple.com/ch/album/housewife/6822497770?i=6822497774",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/300x300bb.jpg",
+          "quelle": "Apple Music Charts CH",
+          "info": "Pop",
+          "trend": "gleich"
+        },
+        {
+          "titel": "BbY WOW",
+          "untertitel": "KAROL G, Judeline & rusowsky",
+          "link": "https://music.apple.com/ch/album/bby-wow/6796864741?i=6796864754",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/300x300bb.jpg",
+          "quelle": "Apple Music Charts CH",
+          "info": "Latin",
+          "trend": "gleich"
+        },
+        {
+          "titel": "Movin' To The Sun",
+          "untertitel": "HUGEL, Imael Angel & Ultra Naté",
+          "link": "https://music.apple.com/ch/album/movin-to-the-sun/6769069923?i=6769070199",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/300x300bb.jpg",
+          "quelle": "Apple Music Charts CH",
+          "info": "Electronic, Dance",
+          "trend": "gleich"
+        }
+      ]
+    },
+    {
+      "id": "podcasts",
+      "name": "Podcasts",
+      "symbol": "🎙️",
+      "stand": "2026-11-07T21:43:32+00:00",
+      "eintraege": [
+        {
+          "titel": "Echo der Zeit",
+          "untertitel": "Schweizer Radio und Fernsehen (SRF)",
+          "link": "https://podcasts.apple.com/ch/podcast/echo-der-zeit/id81345425",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/91/51/f5/9151f5c8-97b2-43c1-d728-1850b4311aaf/mza_10466666821884933927.jpg/300x300bb.png",
+          "quelle": "Apple Podcasts Charts CH",
+          "info": "Nachrichten",
+          "trend": "gleich"
+        },
+        {
+          "titel": "Lanz + Precht",
+          "untertitel": "ZDF, Markus Lanz & Richard David Precht",
+          "link": "https://podcasts.apple.com/ch/podcast/lanz-precht/id1582828457",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/77/6b/e0/776be00d-6661-737d-a7dd-f5662c5fa110/mza_18360247097984895676.jpg/300x300bb.png",
+          "quelle": "Apple Podcasts Charts CH",
+          "info": "Nachrichten, Gesellschaft und Kultur",
+          "trend": "gleich"
+        },
+        {
+          "titel": "RONZHEIMER.",
+          "untertitel": "Paul Ronzheimer",
+          "link": "https://podcasts.apple.com/ch/podcast/ronzheimer/id1700432142",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/16/ab/81/16ab81cb-e31f-5ea0-81a7-902a96dfd750/mza_17924075471806194431.jpg/300x300bb.png",
+          "quelle": "Apple Podcasts Charts CH",
+          "info": "Nachrichten",
+          "trend": "gleich"
+        }
+      ]
+    },
+    {
+      "id": "events",
+      "name": "Events in den News",
+      "symbol": "🎟️",
+      "stand": "2026-11-07T09:52:50+00:00",
+      "eintraege": [
+        {
+          "titel": "«Traurig»: Zürcher Tirggel-Stand fliegt aus HB-Weihnachtsmarkt",
+          "untertitel": "Jahrzehntelang verkaufte Suter Tirggel am Weihnachtsmarkt im Zürcher Hauptbahnhof. Nun ist Schluss – zumindest vorerst. Beim Betreiber ist die Enttäuschung riesig.",
+          "link": "https://www.20min.ch/story/zuerich-hb-weihnachtsmarkt-suter-tirggel-rauswurf-traditionsstand-103662811",
+          "bild": "https://image.20min.ch/2026/11/05/68dc8ba7-3a65-46b3-ae0e-c5180a07e200.jpg?s=cf818d8c4122001825b3cadbb96c35e4",
+          "quelle": "20 Minuten",
+          "info": "",
+          "trend": "gleich"
+        }
+      ]
+    },
+    {
+      "id": "wetter",
+      "name": "Wetter morgen",
+      "symbol": "🌤️",
+      "stand": "2026-11-07T21:43:32+00:00",
+      "eintraege": [
+        {
+          "titel": "Zürich",
+          "untertitel": "Nebel · 5° bis 12°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 5%",
+          "emoji": "🌫️"
+        },
+        {
+          "titel": "Bern",
+          "untertitel": "Nebel · 4° bis 11°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 8%",
+          "emoji": "🌫️"
+        },
+        {
+          "titel": "Basel",
+          "untertitel": "Regenschauer · 7° bis 13°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 0%",
+          "emoji": "🌦️"
+        },
+        {
+          "titel": "Genf",
+          "untertitel": "Nebel · 2° bis 14°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 0%",
+          "emoji": "🌫️"
+        },
+        {
+          "titel": "Lugano",
+          "untertitel": "Nebel · 6° bis 12°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 0%",
+          "emoji": "🌫️"
+        }
+      ]
+    }
+  ]
+}
