@@ -1,12 +1,12 @@
 {
-  "aktualisiert": "2026-11-06T21:47:04+00:00",
+  "aktualisiert": "2026-11-07T01:05:03+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-06T21:47:04+00:00",
+      "stand": "2026-11-07T01:05:03+00:00",
       "eintraege": [
         {
           "titel": "Video zeigt Polizeieinsatz in Schaffhausen",
@@ -14,6 +14,15 @@
           "link": "https://www.blick.ch/schweiz/polizeieinsatz-am-bahnhof-schaffhausen/r4yy85k",
           "bild": "https://ocdn.eu/pulscms-transforms/1/R_AktkuTURBXy84OWM5Y2RiZS0xNmY2LTQ1MDQtYTUyZS03YzM4NzZjZjZlZmQuanBlZ5KTBc0CWM0BO5MJpjg5Yzg5NgY/5i0aw7b07la.jpg",
           "quelle": "Blick",
+          "info": "3 Quellen berichten",
+          "trend": "gleich"
+        },
+        {
+          "titel": "Krise nach Bankenskandal – Nach Amtsenthebung: Paraguays Präsident Peña unter Hausarrest",
+          "untertitel": "Millionen Sparer bangen um ihr Geld, während Paraguay in eine politische Krise rutscht. Der Überblick.",
+          "link": "https://www.srf.ch/news/international/krise-nach-bankenskandal-nach-amtsenthebung-paraguays-praesident-pena-unter-hausarrest",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/0324e4.webp",
+          "quelle": "SRF",
           "info": "3 Quellen berichten",
           "trend": "neu"
         },
@@ -24,16 +33,7 @@
           "bild": "https://image.20min.ch/2026/11/06/6cb62a4d-76f2-4185-ba4e-ee3383b8a4fc.jpg?s=537413def9a3e4d66d752ae04aa40da7",
           "quelle": "20 Minuten",
           "info": "3 Quellen berichten",
-          "trend": "neu"
-        },
-        {
-          "titel": "456 Milliarden Dollar weg: Wie sich Elon Musk verzockt hat",
-          "untertitel": "In zwei Tagen nach den US-Midterms verschwinden 456 Milliarden Börsenwert. Musk investierte zuvor Hunderte Millionen in den Wahlkampf der Republikaner.",
-          "link": "https://www.20min.ch/story/tesla-und-spacex-456-milliarden-dollar-weg-wie-sich-elon-musk-verzockt-hat-103663317",
-          "bild": "https://image.20min.ch/2026/11/06/aab192fb-45b0-4e07-a7a8-e417ac61c595.jpg?s=f867688cc2f3959c781159e087e60060",
-          "quelle": "20 Minuten",
-          "info": "3 Quellen berichten",
-          "trend": "neu"
+          "trend": "runter"
         }
       ]
     },
@@ -41,8 +41,17 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-06T21:47:04+00:00",
+      "stand": "2026-11-07T01:05:03+00:00",
       "eintraege": [
+        {
+          "titel": "Spain's rail authorities face European fraud probe after Urda rail disaster",
+          "untertitel": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
+          "link": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26ed/live/81d3a0d0-d9ee-11f1-bbe5-797ee05bee69.jpg",
+          "quelle": "BBC",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
         {
           "titel": "AI stocks climb after trillions wiped from market values",
           "untertitel": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
@@ -50,7 +59,7 @@
           "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg",
           "quelle": "BBC",
           "info": "2 Quellen berichten",
-          "trend": "neu"
+          "trend": "runter"
         },
         {
           "titel": "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children",
@@ -59,16 +68,7 @@
           "bild": "https://i.guim.co.uk/img/media/017bd9f3ebe11c01312f4eefff5b6fce391376f3/332_0_3320_2656/master/3320.jpg?width=140&quality=85&auto=format&fit=max&s=de3f13d6c01242a2b2e958fbe65a4439",
           "quelle": "The Guardian",
           "info": "2 Quellen berichten",
-          "trend": "neu"
-        },
-        {
-          "titel": "Four midterms takeaways for 2028 White House race",
-          "untertitel": "The buzz about the presidential election is already under way - here's what we learned this week.",
-          "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/613a/live/900577b0-d9ed-11f1-b441-2b33b063138f.png",
-          "quelle": "BBC",
-          "info": "2 Quellen berichten",
-          "trend": "neu"
+          "trend": "runter"
         }
       ]
     },
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-06T21:47:04+00:00",
+      "stand": "2026-11-07T01:05:03+00:00",
       "eintraege": [
         {
-          "titel": "euromillions",
-          "untertitel": "Winner of £1m lottery jackpot finally claims prize",
-          "link": "https://www.bbc.com/news/articles/c9gkv5knv52xo",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZZYRcDxlPJP7L9zFPg-KAF1PmYvslO8rHtRg3gkC4rzBpllqxhBS6o66IqBE",
-          "quelle": "Google Trends · BBC",
-          "info": "1000+ Suchanfragen",
-          "trend": "neu"
-        },
-        {
-          "titel": "atp paris",
-          "untertitel": "DIRECT. Fritz - Alcaraz, ATP 1000, Rolex Paris Masters, Quarts de finale : 2-5 Jeu Alcaraz",
-          "link": "https://www.lequipe.fr/Tennis/rolex-paris-masters/epreuve-simple-messieurs/annee-2026/match-direct/taylor-fritz-carlos-alcaraz-live/716510",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTr6jq8gEz9PgXNfgWLDiL_LsVgoYR6eNbbWy5X8SdFzidrg_f1gosyduhMwxE",
-          "quelle": "Google Trends · L'Équipe",
+          "titel": "novartis",
+          "untertitel": "Novartis reports cases of tumours in children following treatment with Zolgensma",
+          "link": "https://www.swissinfo.ch/eng/pharma-health/novartis-reports-cases-of-tumours-in-children-following-treatment-with-zolgensma/92340287",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1PpGlpq-Y5imVKI4kh0w9I06nk-vBqlmkSTws6yDTpEhet8fzHHrip1JnvL8",
+          "quelle": "Google Trends · SWI swissinfo.ch",
           "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "adriana karembeu",
-          "untertitel": "Marc Lavoine : « Rêver plus loin, c’est vivre encore »",
-          "link": "https://soirmag.lesoir.be/781268/article/2026-11-06/marc-lavoine-rever-plus-loin-cest-vivre-encore",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLUTqt9oAd11PPaodapdVPT5duPd9rTG6fvMr2PdWBQAbLYWmXkWDq6g8uzAY",
-          "quelle": "Google Trends · Soirmag",
-          "info": "200+ Suchanfragen",
+          "titel": "bahnhof schaffhausen polizeieinsatz",
+          "untertitel": "Bahnhof in Schaffhausen - Verdächtiger Koffer am Bahnhof: Polizei gibt Entwarnung",
+          "link": "https://www.srf.ch/news/schweiz/bahnhof-in-schaffhausen-verdaechtiger-koffer-am-bahnhof-polizei-gibt-entwarnung",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZU41d7dFXX4bQDGOJKwKS6qp3wVZHev8lSw68lQ8simPo1Z5nKUxk8N9wuxI",
+          "quelle": "Google Trends · SRF",
+          "info": "2000+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "star academy",
+          "untertitel": "Star Academy 2026 - Quotidienne 26 du 6 novembre 2026",
+          "link": "https://www.tf1.fr/fr-ch/tf1/star-academy/videos/star-academy-2026-quotidienne-26-du-6-novembre-2026-24095576.html",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSsSyMISOjN3tkbe7ku0xUvQGePFMTGD3E7l-8Wpx89SJMTA9lCGOI55wAhllc",
+          "quelle": "Google Trends · TF1+",
+          "info": "500+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-06T21:47:04+00:00",
+      "stand": "2026-11-07T01:05:03+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-06T21:47:04+00:00",
+      "stand": "2026-11-07T01:05:03+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -164,7 +164,7 @@
           "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/77/6b/e0/776be00d-6661-737d-a7dd-f5662c5fa110/mza_18360247097984895676.jpg/300x300bb.png",
           "quelle": "Apple Podcasts Charts CH",
           "info": "Nachrichten, Gesellschaft und Kultur",
-          "trend": "neu"
+          "trend": "gleich"
         },
         {
           "titel": "RONZHEIMER.",
@@ -173,7 +173,7 @@
           "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/16/ab/81/16ab81cb-e31f-5ea0-81a7-902a96dfd750/mza_17924075471806194431.jpg/300x300bb.png",
           "quelle": "Apple Podcasts Charts CH",
           "info": "Nachrichten",
-          "trend": "runter"
+          "trend": "gleich"
         }
       ]
     },
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-06T21:47:04+00:00",
+      "stand": "2026-11-07T01:05:03+00:00",
       "eintraege": [
         {
           "titel": "«Traurig»: Zürcher Tirggel-Stand fliegt aus HB-Weihnachtsmarkt",
@@ -190,7 +190,7 @@
           "bild": "https://image.20min.ch/2026/11/05/68dc8ba7-3a65-46b3-ae0e-c5180a07e200.jpg?s=cf818d8c4122001825b3cadbb96c35e4",
           "quelle": "20 Minuten",
           "info": "",
-          "trend": "neu"
+          "trend": "gleich"
         }
       ]
     },
@@ -198,52 +198,52 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-06T21:47:04+00:00",
+      "stand": "2026-11-07T01:05:03+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
-          "untertitel": "Leichter Regen · 7° bis 11°",
+          "untertitel": "Regenschauer · 6° bis 12°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 58%",
+          "info": "Regenrisiko 23%",
           "emoji": "🌦️"
         },
         {
           "titel": "Bern",
-          "untertitel": "Regenschauer · 6° bis 11°",
+          "untertitel": "Nebel · 5° bis 11°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 80%",
-          "emoji": "🌦️"
-        },
-        {
-          "titel": "Basel",
-          "untertitel": "Leichter Regen · 6° bis 12°",
-          "link": "https://www.meteoschweiz.admin.ch/",
-          "bild": "",
-          "quelle": "Open-Meteo",
-          "info": "Regenrisiko 63%",
-          "emoji": "🌦️"
-        },
-        {
-          "titel": "Genf",
-          "untertitel": "Nebel · 5° bis 13°",
-          "link": "https://www.meteoschweiz.admin.ch/",
-          "bild": "",
-          "quelle": "Open-Meteo",
-          "info": "Regenrisiko 28%",
+          "info": "Regenrisiko 30%",
           "emoji": "🌫️"
         },
         {
-          "titel": "Lugano",
-          "untertitel": "Regenschauer · 10° bis 11°",
+          "titel": "Basel",
+          "untertitel": "Nebel · 6° bis 13°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 85%",
+          "info": "Regenrisiko 8%",
+          "emoji": "🌫️"
+        },
+        {
+          "titel": "Genf",
+          "untertitel": "Leichter Regen · 2° bis 14°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 5%",
           "emoji": "🌦️"
+        },
+        {
+          "titel": "Lugano",
+          "untertitel": "Bewölkt · 6° bis 13°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 5%",
+          "emoji": "☁️"
         }
       ]
     }
