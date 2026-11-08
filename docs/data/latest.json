@@ -1,12 +1,12 @@
 {
-  "aktualisiert": "2026-11-07T21:43:32+00:00",
+  "aktualisiert": "2026-11-08T01:11:46+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-07T21:43:32+00:00",
+      "stand": "2026-11-08T01:11:46+00:00",
       "eintraege": [
         {
           "titel": "Rechtsextreme Spur? 3 weitere Tote im Haus des Schützen entdeckt",
@@ -15,7 +15,7 @@
           "bild": "https://image.20min.ch/2026/11/07/e382e0ee-ac16-4c6d-8932-c7221044032f.png?s=b6ba0ad4a7a9554fc60f2620dd20e753",
           "quelle": "20 Minuten",
           "info": "4 Quellen berichten",
-          "trend": "neu"
+          "trend": "gleich"
         },
         {
           "titel": "Novartis meldet Tumorfälle nach Gentherapie",
@@ -24,13 +24,13 @@
           "bild": "https://ocdn.eu/pulscms-transforms/1/xOGktkuTURBXy9iZjQ2Yjg3NS0wZjVkLTQ3ZmQtYTU0MC1hNWJlNTJkYTlhNWEuanBlZ5KTBc0CWM0BO5MJpjM4NjI3OAY/8fv3lv06cuc.jpg",
           "quelle": "Blick",
           "info": "3 Quellen berichten",
-          "trend": "neu"
+          "trend": "gleich"
         },
         {
-          "titel": "«Noch nie gesehen, dass ein ganzes Auto im Erdgeschoss steckt»",
-          "untertitel": "Nach der Flucht vor einer Polizeikontrolle ist ein 21-Jähriger in Andwil SG mit einem Mercedes in ein Wohnhaus gekracht. Laut dem zuständigen Statiker wurde das Tragwerk …",
-          "link": "https://www.blick.ch/schweiz/ostschweiz/st-gallen/mercedes-steckt-in-kueche-haus-in-andwil-sg-einsturzgefaehrdet/m0mz70c",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/VPgktkuTURBXy84NjQyZmI5YS1iMzExLTRjODMtOWJmMy1mN2ViMTVmOGU2NTYuanBlZ5KTBc0CWM0BO5MJpjdiMGQ3ZgY/e51nqq9lfe.jpg",
+          "titel": "«Der Fahrer weiss, was nun auf ihn zukommt»",
+          "untertitel": "In Gossau SG gab ein junger Mann Gas, als ihn die Polizei anhalten wollte. Die Flucht endete in Andwil an einer Hausfassade: Der Mann kam schwer verletzt ins Spital, das Haus ist …",
+          "link": "https://www.blick.ch/schweiz/nachbarin-slanja-gmuender-31-zu-unfall-in-andwil-sg/yrwjwsp",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/y0qktktTURBXy85MWEwNTVlMS0yNDhkLTQ0N2MtYjFlZS03ZTBkZTQxYzFkMjAucG5nkpMFzQJYzQE7kwmmMmMxYjBiBg/x1vhcwb8dg.jpg",
           "quelle": "Blick",
           "info": "3 Quellen berichten",
           "trend": "neu"
@@ -41,8 +41,17 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-07T21:43:32+00:00",
+      "stand": "2026-11-08T01:11:46+00:00",
       "eintraege": [
+        {
+          "titel": "Israel's president tasks opposition leader Eisenkot with forming government",
+          "untertitel": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+          "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ff8/live/d9aea170-daf1-11f1-a701-fddedf244c16.jpg",
+          "quelle": "BBC",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
         {
           "titel": "With Stephen Miller pick, Trump readies for a battle",
           "untertitel": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
@@ -50,23 +59,14 @@
           "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/492d/live/41326240-da17-11f1-bba7-b50f1faa7672.jpg",
           "quelle": "BBC",
           "info": "3 Quellen berichten",
-          "trend": "neu"
+          "trend": "runter"
         },
         {
-          "titel": "No clear winner after tight New Zealand general election",
-          "untertitel": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-          "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3578/live/a76cb0d0-dab5-11f1-a701-fddedf244c16.jpg",
-          "quelle": "BBC",
-          "info": "2 Quellen berichten",
-          "trend": "neu"
-        },
-        {
-          "titel": "US offers $20m reward for information about Iran's nuclear programme",
-          "untertitel": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
-          "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b84/live/0f887590-dad0-11f1-93e1-3b657b665bcf.jpg",
-          "quelle": "BBC",
+          "titel": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
+          "untertitel": "Former liberation movement’s share of national vote almost 14 percentage points below 2021 result The African National Congress is on course to suffer a bruising defeat in South …",
+          "link": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections",
+          "bild": "https://i.guim.co.uk/img/media/ca80f1733421e850930a8c2267b7214219fef832/697_286_4649_3719/master/4649.jpg?width=140&quality=85&auto=format&fit=max&s=f4831bd02c6a91cdc25376cf8e9b3a3b",
+          "quelle": "The Guardian",
           "info": "2 Quellen berichten",
           "trend": "neu"
         }
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-07T21:43:32+00:00",
+      "stand": "2026-11-08T01:11:46+00:00",
       "eintraege": [
         {
-          "titel": "basler herbstmesse",
-          "untertitel": "«Fast hätte es uns erwischt»: Familie erlebt Seilriss am T-Rex Tower in Basel",
-          "link": "https://www.20min.ch/story/basler-herbstmesse-seil-reisst-mitten-im-betrieb-fast-haette-es-uns-erwischt-103663564",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFgsMGmBMh6PfQvGNXHl8zbGBvuG8SbjNBfaZ8x_DcCUY1pxicLkj8snhTn40",
-          "quelle": "Google Trends · 20 Minuten",
+          "titel": "eptingen",
+          "untertitel": "Mann (25) verliert Kontrolle über BMW – Teenager (†17) tot",
+          "link": "https://www.blick.ch/schweiz/basel-landschaft/mann-25-verliert-kontrolle-ueber-bmw-teenager-17-tot/8q1zn56",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQwpnG_Adbf8ecnI9alx1Y1wRd6YtW6edCLg4Hw4bIBdjh5JnqJcasAjR3-9M",
+          "quelle": "Google Trends · Blick",
           "info": "200+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "fahrzeugbrand",
-          "untertitel": "Schreckliche Entdeckung auf der A73: Feuerwehr findet verbrannte Leiche auf Autobahn",
-          "link": "https://www.bild.de/news/inland/schreckliche-entdeckung-auf-der-a73-feuerwehr-findet-verbrannte-leiche-auf-autobahn-6aeef4cba389bc337cfc8e3d",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQccYUzpumhjGRFOh4sPZsAFO1E1lbHRsPa0jxb-oJ4bIbrtCcuqANSQTPQ-HM",
-          "quelle": "Google Trends · BILD",
-          "info": "500+ Suchanfragen",
+          "titel": "zürich",
+          "untertitel": "Zürich HB: Tram schleift 39-Jährigen mehrere Meter mit – Mann stürzt zwischen Perron und Tram",
+          "link": "https://www.20min.ch/story/zuerich-bahnhof-tram-erfasst-fussgaenger-und-schleift-ihn-mehrere-meter-mit-103663814",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgXcahXCeOCE0x65xT3J-Hv6tRvEXbnznGB-pOnODbkXq0ZvaH1gak45i_gGw",
+          "quelle": "Google Trends · 20 Minuten",
+          "info": "1000+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "brigandage",
-          "untertitel": "Boncourt: un homme armé braque la station-service Jubin et menace une employée",
-          "link": "https://www.20min.ch/fr/story/boncourt-ju-un-homme-arme-braque-une-station-service-et-menace-une-employee-103663708",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRjw3q044hLA-LB1q5r9UoEVP7Ff9618iUL4mnZpCfVxaZReOBxJ8UVsVhGuY",
-          "quelle": "Google Trends · 20 Minuten",
-          "info": "100+ Suchanfragen",
+          "titel": "novartis zolgensma tumor",
+          "untertitel": "Novartis reports cases of tumours in children following treatment with Zolgensma",
+          "link": "https://www.swissinfo.ch/eng/pharma-health/novartis-reports-cases-of-tumours-in-children-following-treatment-with-zolgensma/92340287",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1PpGlpq-Y5imVKI4kh0w9I06nk-vBqlmkSTws6yDTpEhet8fzHHrip1JnvL8",
+          "quelle": "Google Trends · SWI swissinfo.ch",
+          "info": "500+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-07T21:43:32+00:00",
+      "stand": "2026-11-08T01:11:46+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-07T21:43:32+00:00",
+      "stand": "2026-11-08T01:11:46+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -198,51 +198,51 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-07T21:43:32+00:00",
+      "stand": "2026-11-08T01:11:46+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
-          "untertitel": "Nebel · 5° bis 12°",
+          "untertitel": "Leichter Regen · 6° bis 10°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 5%",
-          "emoji": "🌫️"
+          "info": "Regenrisiko 90%",
+          "emoji": "🌦️"
         },
         {
           "titel": "Bern",
-          "untertitel": "Nebel · 4° bis 11°",
+          "untertitel": "Regenschauer · 6° bis 10°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 8%",
-          "emoji": "🌫️"
+          "info": "Regenrisiko 81%",
+          "emoji": "🌦️"
         },
         {
           "titel": "Basel",
-          "untertitel": "Regenschauer · 7° bis 13°",
+          "untertitel": "Leichter Regen · 6° bis 11°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 0%",
+          "info": "Regenrisiko 81%",
           "emoji": "🌦️"
         },
         {
           "titel": "Genf",
-          "untertitel": "Nebel · 2° bis 14°",
+          "untertitel": "Leichter Regen · 8° bis 12°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 0%",
-          "emoji": "🌫️"
+          "info": "Regenrisiko 83%",
+          "emoji": "🌦️"
         },
         {
           "titel": "Lugano",
-          "untertitel": "Nebel · 6° bis 12°",
+          "untertitel": "Nebel · 5° bis 12°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 0%",
+          "info": "Regenrisiko 20%",
           "emoji": "🌫️"
         }
       ]
