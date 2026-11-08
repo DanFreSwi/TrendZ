@@ -1,28 +1,28 @@
 {
-  "aktualisiert": "2026-11-08T15:43:51+00:00",
+  "aktualisiert": "2026-11-08T18:51:34+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-08T15:43:51+00:00",
+      "stand": "2026-11-08T18:51:34+00:00",
       "eintraege": [
         {
-          "titel": "Sorge um Xhaka: Verpasst der Captain den Nati-Zusammenzug?",
-          "untertitel": "Was läuft in der Bundesliga, Premier League, Serie A, La Liga und der Ligue 1? Wie schlagen sich die Schweizer im Ausland? Alle News gibt es im Ticker.",
-          "link": "https://www.20min.ch/story/verletzt-ausgewechselt-sorge-um-xhaka-verpasst-der-captain-den-nati-zusammenzug-143273245706",
-          "bild": "https://image.20min.ch/2026/11/08/c25e7926-ce05-4aef-b517-455b6b62cf5c.jpg?s=e932c35b2fe878f40394b6fceb784607",
+          "titel": "Lisa (13) verschwand auf dem Schulweg – Polizei entdeckt Leiche",
+          "untertitel": "Seit Dienstag wurde die 13-jährige Lisa aus Berlin vermisst. Nun entdeckte die Polizei in Brandenburg eine Mädchenleiche und einen schwer verletzten Mann.",
+          "link": "https://www.20min.ch/story/berlin-lisa-13-verschwand-auf-dem-schulweg-polizei-entdeckt-leiche-103664321",
+          "bild": "https://image.20min.ch/2026/11/08/338cceac-2a1c-4d54-8c9e-695b4388a85c.png?s=86f230d19d8cb99dd4920693a0f5d11e",
           "quelle": "20 Minuten",
           "info": "4 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Tram schleift Fussgänger (39) mehrere Meter mit",
-          "untertitel": "Am Samstagabend stürzte ein Fussgänger bei einer Tramhaltestelle im Kreis 1 und wurde durch ein losfahrendes Tram verletzt.",
-          "link": "https://www.blick.ch/schweiz/zuerich/zuerich-tram-schleift-fussgaenger-mehrere-meter-mit/gcnc1hh",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/_1UktkuTURBXy85MjNjOTgwYi1jM2QxLTQyZjktYTFkZS0wYTY5NzM3MzhkZTAuanBlZ5KTBc0CWM0BO5MJpjJiMTZlNgY/bvmr2l2iim.jpg",
-          "quelle": "Blick",
+          "titel": "Ärzte-Duo sass bei Mittagessen – dann wurden sie zu Lebensrettern",
+          "untertitel": "Am Samstagnachmittag hat ein Täter im polnischen Krakau aus einem Auto geschossen und sechs Menschen getötet. Mindestens 15 Personen wurden verletzt, viele schwebten in …",
+          "link": "https://www.20min.ch/story/krakau-polen-schuetze-von-krakau-soll-radikale-ansichten-gehabt-haben-103663871",
+          "bild": "https://image.20min.ch/2026/11/08/3abb6c4b-d639-48b0-8a91-09874d6c96e5.png?s=7645aa33fe9fec54eca78c887bf47d67",
+          "quelle": "20 Minuten",
           "info": "4 Quellen berichten",
           "trend": "neu"
         },
@@ -41,7 +41,7 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-08T15:43:51+00:00",
+      "stand": "2026-11-08T18:51:34+00:00",
       "eintraege": [
         {
           "titel": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
@@ -53,20 +53,20 @@
           "trend": "neu"
         },
         {
-          "titel": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-          "untertitel": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
-          "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d485/live/0685e840-dab9-11f1-b441-2b33b063138f.jpg",
-          "quelle": "BBC",
+          "titel": "Collision of two trains in Egypt kills at least seven",
+          "untertitel": "President orders prompt investigation after one train derails in collision in al-Ayyat about 30 miles from Cairo Seven people were killed and more than 100 injured when two …",
+          "link": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
+          "bild": "https://i.guim.co.uk/img/media/7527078bbb41cf17b1a35718b70ebdceeada7492/206_271_4462_3569/master/4462.jpg?width=140&quality=85&auto=format&fit=max&s=24b5e48c937f7ee0a5afbdfdeb04cf94",
+          "quelle": "The Guardian",
           "info": "2 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-          "untertitel": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
-          "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44f1/live/699ff730-daab-11f1-93e1-3b657b665bcf.jpg",
-          "quelle": "BBC",
+          "titel": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
+          "untertitel": "Former liberation movement’s share of national vote almost 14 percentage points below 2021 result The African National Congress is on course to suffer a bruising defeat in South …",
+          "link": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections",
+          "bild": "https://i.guim.co.uk/img/media/ca80f1733421e850930a8c2267b7214219fef832/697_286_4649_3719/master/4649.jpg?width=140&quality=85&auto=format&fit=max&s=f4831bd02c6a91cdc25376cf8e9b3a3b",
+          "quelle": "The Guardian",
           "info": "2 Quellen berichten",
           "trend": "neu"
         }
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-08T15:43:51+00:00",
+      "stand": "2026-11-08T18:51:34+00:00",
       "eintraege": [
         {
-          "titel": "emilio ballack",
-          "untertitel": "Simone Ballack über den Tod ihres Sohnes Emilio: «Teilweise konnte ich gar nichts, nicht mal aufstehen»",
-          "link": "https://www.20min.ch/story/simone-ballack-ueber-den-tod-von-emilio-nichts-mehr-verschieben-103663983",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQntbCi3mNlsH3gqsepNNGR9c-axp0dH-6So3NWbX8j2yKPdessRJqNQ3DBZkI",
-          "quelle": "Google Trends · 20 Minuten",
+          "titel": "treno",
+          "untertitel": "Scontro fra due treni a Giza in Egitto, almeno 7 morti",
+          "link": "https://www.swissinfo.ch/ita/scontro-fra-due-treni-a-giza-in-egitto%2C-almeno-7-morti/92347234",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlsiDpcclFbnrd4hw4C-uCaNBr7H1m-EJsGgHtLgIn2-dJNMJcDCgpzU4gzgI",
+          "quelle": "Google Trends · SWI swissinfo.ch",
           "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "notruf",
-          "untertitel": "Wer, wo, was: Einsatzleiter Daniel Plüss muss bei jedem Notruf innert Sekunden entscheiden",
-          "link": "https://www.20min.ch/story/eine-nacht-bei-117-hoerte-nur-noch-kind-schreien-notruf-geht-einsatzleiter-nahe-103652427",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrQuqcozTTDzk-rkgrAeyrQlQQZLmcXwuLYHlEi5-8mv7E-LZa7lIROV-IU5A",
-          "quelle": "Google Trends · 20 Minuten",
-          "info": "100+ Suchanfragen",
+          "titel": "hoffenheim – schalke",
+          "untertitel": "Ärger um Ticketpreise: Zockt Hoffenheim Auswärtsfans ab?",
+          "link": "https://www.gmx.ch/magazine/sport/fussball/bundesliga/aerger-ticketpreise-zockt-hoffenheim-auswaertsfans-42917856",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ik9zriYgXuaz9g7Sr2PTMNWZ_f2kWtv-p6_2g3MDM0urKNlHP0-Peomz6Kk",
+          "quelle": "Google Trends · GMX",
+          "info": "200+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "monza - atalanta",
-          "untertitel": "",
-          "link": "https://www.google.ch/search?q=monza+-+atalanta",
-          "bild": "",
-          "quelle": "Google Trends",
-          "info": "100+ Suchanfragen",
+          "titel": "beşiktaş – gençlerbirliği",
+          "untertitel": "Son 5 resmi maçta ev sahibi takım kazanamadı — Beşiktaş Vs Gençlerbirliği",
+          "link": "https://twaslnews1.twaslnews.com/7331407/",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSlWaTEXoWYRNpPDOiSGa43htA5ZLRb69S_dwGkvSHAqVv5fJRmkx3cE1gIUdU",
+          "quelle": "Google Trends · شبكة تواصل الإخبارية",
+          "info": "200+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-08T15:43:51+00:00",
+      "stand": "2026-11-08T18:51:34+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-08T15:43:51+00:00",
+      "stand": "2026-11-08T18:51:34+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-08T15:43:51+00:00",
+      "stand": "2026-11-08T18:51:34+00:00",
       "eintraege": [
         {
           "titel": "Toter nach Konzert: Marco K. ist der Neonazi-Schläger von Tuggen SZ",
@@ -191,6 +191,15 @@
           "quelle": "Blick",
           "info": "",
           "trend": "neu"
+        },
+        {
+          "titel": "Sicherheitsempfinden im Wandel – Eine Ausstellung zur Kunst, Risiko zu leben",
+          "untertitel": "Das Stapferhaus Lenzburg befasst sich mit der Beziehung zwischen Sicherheit und Risiko. Ein Experte ordnet ein.",
+          "link": "https://www.srf.ch/news/schweiz/sicherheitsempfinden-im-wandel-eine-ausstellung-zur-kunst-risiko-zu-leben",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/3d63bd.webp",
+          "quelle": "SRF",
+          "info": "",
+          "trend": "neu"
         }
       ]
     },
@@ -198,51 +207,51 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-08T15:43:51+00:00",
+      "stand": "2026-11-08T18:51:34+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
-          "untertitel": "Leichter Regen · 6° bis 9°",
+          "untertitel": "Leichter Regen · 6° bis 10°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 98%",
+          "info": "Regenrisiko 100%",
           "emoji": "🌦️"
         },
         {
           "titel": "Bern",
-          "untertitel": "Leichter Regen · 7° bis 10°",
+          "untertitel": "Leichter Regen · 6° bis 9°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 70%",
+          "info": "Regenrisiko 83%",
           "emoji": "🌦️"
         },
         {
           "titel": "Basel",
-          "untertitel": "Leichter Regen · 6° bis 11°",
+          "untertitel": "Leichter Regen · 6° bis 10°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 80%",
+          "info": "Regenrisiko 95%",
           "emoji": "🌦️"
         },
         {
           "titel": "Genf",
-          "untertitel": "Leichter Regen · 9° bis 13°",
+          "untertitel": "Leichter Regen · 8° bis 13°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 65%",
+          "info": "Regenrisiko 63%",
           "emoji": "🌦️"
         },
         {
           "titel": "Lugano",
-          "untertitel": "Bewölkt · 5° bis 12°",
+          "untertitel": "Bewölkt · 4° bis 12°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 18%",
+          "info": "Regenrisiko 15%",
           "emoji": "☁️"
         }
       ]
