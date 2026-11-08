@@ -1,28 +1,19 @@
 {
-  "aktualisiert": "2026-11-08T09:53:16+00:00",
+  "aktualisiert": "2026-11-08T12:57:27+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-08T09:53:16+00:00",
+      "stand": "2026-11-08T12:57:27+00:00",
       "eintraege": [
         {
-          "titel": "Novartis meldet Tumorfälle nach Gentherapie",
-          "untertitel": "Das Novartis-Medikament Zolgensma ist mit rund 2 Millionen Franken pro Infusion extrem teuer. Die US-Gesundheitsbehörde FDA untersucht nun, ob es das Tumorrisiko erhöht, weil bei …",
-          "link": "https://www.blick.ch/schweiz/basel/wegen-novartis-medikament-zolgensma-tumore-gemeldet/zlle6kj",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/xOGktkuTURBXy9iZjQ2Yjg3NS0wZjVkLTQ3ZmQtYTU0MC1hNWJlNTJkYTlhNWEuanBlZ5KTBc0CWM0BO5MJpjM4NjI3OAY/8fv3lv06cuc.jpg",
-          "quelle": "Blick",
-          "info": "4 Quellen berichten",
-          "trend": "hoch"
-        },
-        {
-          "titel": "Toter nach Konzert: Marco K. ist der Neonazi-Schläger von Tuggen SZ",
-          "untertitel": "Der Schweizer (42), der nach einem Konzert einen Deutschen getötet haben soll, lebt im Kanton Zug und ist seit seiner Jugend Teil der Neonazi-Szene. Das Blood-and-Honour-Mitglied …",
-          "link": "https://www.blick.ch/schweiz/zentralschweiz/schwyz/toter-nach-konzert-das-ist-der-neonazi-schlaeger-von-tuggen/lwzt2dv",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/bhEktkuTURBXy80ODc4MGRkMi1jOWY0LTRhYjAtYjNmMi05NDMzNWUzYmVhYmYuanBlZ5KTBc0CWM0BO5MJpjI5YWE2OAY/m6ac6okgmd.jpg",
-          "quelle": "Blick",
+          "titel": "Mann (22) gerät auf Gleis und wird von Zug erfasst – tot",
+          "untertitel": "Bei einem Bahnunfall ist in der Nacht auf Sonntag im Hauptbahnhof Zürich ein 22-Jähriger verstorben.",
+          "link": "https://www.20min.ch/story/unfall-am-zuercher-hb-mann-22-geraet-auf-gleis-und-wird-von-zug-erfasst-tot-103664027",
+          "bild": "https://image.20min.ch/2026/11/08/096341df-b854-47f1-a204-014f8022b29e.jpg?s=2049f1afd394ce284d07133d92734529",
+          "quelle": "20 Minuten",
           "info": "3 Quellen berichten",
           "trend": "neu"
         },
@@ -34,6 +25,15 @@
           "quelle": "Blick",
           "info": "3 Quellen berichten",
           "trend": "neu"
+        },
+        {
+          "titel": "Wurde Lisa T. (13) Opfer eines Verbrechens?",
+          "untertitel": "Seit Dienstag fehlt von Lisa T. aus Berlin jede Spur. Die Polizei vermutet, dass die 13-Jährige Opfer einer Straftat wurde.",
+          "link": "https://www.20min.ch/story/vermisstenfall-in-berlin-wurde-lisa-t-13-opfer-eines-verbrechens-103664032",
+          "bild": "https://image.20min.ch/2026/11/08/03f5f80f-cbe9-48ff-8482-f1fd38e7c2f7.png?s=72216bc183ff704161bceeb44771f933",
+          "quelle": "20 Minuten",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
         }
       ]
     },
@@ -41,31 +41,31 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-08T09:53:16+00:00",
+      "stand": "2026-11-08T12:57:27+00:00",
       "eintraege": [
         {
-          "titel": "Israel's president tasks opposition leader Eisenkot with forming government",
-          "untertitel": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
-          "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ff8/live/d9aea170-daf1-11f1-a701-fddedf244c16.jpg",
+          "titel": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+          "untertitel": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
+          "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0554/live/2786bc40-daa0-11f1-a523-f508a3e924cb.jpg",
           "quelle": "BBC",
           "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
-          "untertitel": "Former liberation movement’s share of national vote almost 14 percentage points below 2021 result The African National Congress is on course to suffer a bruising defeat in South …",
-          "link": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections",
-          "bild": "https://i.guim.co.uk/img/media/ca80f1733421e850930a8c2267b7214219fef832/697_286_4649_3719/master/4649.jpg?width=140&quality=85&auto=format&fit=max&s=f4831bd02c6a91cdc25376cf8e9b3a3b",
-          "quelle": "The Guardian",
+          "titel": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+          "untertitel": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
+          "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d485/live/0685e840-dab9-11f1-b441-2b33b063138f.jpg",
+          "quelle": "BBC",
           "info": "2 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Paraguay's former president charged after bank collapse",
-          "untertitel": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-          "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a65d/live/3fe15d20-da57-11f1-af22-a97b84c9ca63.jpg",
+          "titel": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+          "untertitel": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+          "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44f1/live/699ff730-daab-11f1-93e1-3b657b665bcf.jpg",
           "quelle": "BBC",
           "info": "2 Quellen berichten",
           "trend": "neu"
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-08T09:53:16+00:00",
+      "stand": "2026-11-08T12:57:27+00:00",
       "eintraege": [
         {
-          "titel": "japan erdbeben",
-          "untertitel": "Starkes Erdbeben erschüttert Zentraljapan: Mindestens 22 Verletzte",
-          "link": "https://www.tagesanzeiger.ch/erdbeben-japan-mindestens-22-verletzte-in-shizuoka-251681446893",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV0VEVcuOf079-SnuZSl0zPgtWpT3Xs3WjzckGnwbRvu08TbtvIBkD5KoWqs4",
-          "quelle": "Google Trends · Tages-Anzeiger",
+          "titel": "çorum fk – fenerbahçe",
+          "untertitel": "Fenerbahçe maçı öncesi Çorum FK'de sakatlık şoku",
+          "link": "https://www.sozcu.com.tr/fenerbahce-maci-oncesi-sakatlik-soku-p377201",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS223AL7zzUTQhCKhmwfz065AVp4_Q8B9Y0ZLIBfsc5nglhJQKo5LljsQlxozs",
+          "quelle": "Google Trends · Sözcü Gazetesi",
           "info": "200+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "ski alpin",
-          "untertitel": "",
-          "link": "https://www.google.ch/search?q=ski+alpin",
-          "bild": "",
-          "quelle": "Google Trends",
-          "info": "2000+ Suchanfragen",
+          "titel": "election fribourg",
+          "untertitel": "Suivez les élections cantonales en direct ce dimanche. L’Entente de droite est en tête dans la course au Conseil d’Etat",
+          "link": "https://www.laliberte.ch/articles/regions/politique-cantonale/suivez-les-elections-cantonales-en-direct-ce-dimanche-1479816",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtPK-e35sSbcoxhgVsC6WokzElvsbmb6aRZItGhBtntlHH1xTWVcobqRU0F6U",
+          "quelle": "Google Trends · La Liberté",
+          "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "unfall andwil sg",
-          "untertitel": "Autofahrer flüchtet vor Polizei und kracht in Wohnhaus",
-          "link": "https://www.srf.ch/news/schweiz/andwil-sg-autofahrer-fluechtet-vor-polizei-und-kracht-in-wohnhaus",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTyW3M54QhP41r6Se3ZxsAGCKDnxNX9AHDmL8nYw3w2Wx0WRmVHQIL4_j6zSGY",
-          "quelle": "Google Trends · SRF",
-          "info": "5000+ Suchanfragen",
+          "titel": "st. gallen – lugano",
+          "untertitel": "Ski kaputt – Slalom-Kugelgewinner mit Abflug im Training",
+          "link": "https://www.blick.ch/sport/ski/mcgrath-faehrt-ski-im-training-zu-schrott/ks1sm0y",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGyC33REKDXOv3vxOcpSmDFLLVKHwAjhXWrODvcQux_Pdh1zEs0MmnEgOB4vs",
+          "quelle": "Google Trends · Blick",
+          "info": "1000+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-08T09:53:16+00:00",
+      "stand": "2026-11-08T12:57:27+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-08T09:53:16+00:00",
+      "stand": "2026-11-08T12:57:27+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-08T09:53:16+00:00",
+      "stand": "2026-11-08T12:57:27+00:00",
       "eintraege": [
         {
           "titel": "Toter nach Konzert: Marco K. ist der Neonazi-Schläger von Tuggen SZ",
@@ -198,11 +198,11 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-08T09:53:16+00:00",
+      "stand": "2026-11-08T12:57:27+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
-          "untertitel": "Regenschauer · 6° bis 9°",
+          "untertitel": "Leichter Regen · 6° bis 9°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -211,7 +211,7 @@
         },
         {
           "titel": "Bern",
-          "untertitel": "Leichter Regen · 6° bis 10°",
+          "untertitel": "Leichter Regen · 7° bis 10°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -220,7 +220,7 @@
         },
         {
           "titel": "Basel",
-          "untertitel": "Leichter Regen · 6° bis 10°",
+          "untertitel": "Leichter Regen · 6° bis 11°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -229,7 +229,7 @@
         },
         {
           "titel": "Genf",
-          "untertitel": "Leichter Regen · 9° bis 13°",
+          "untertitel": "Regenschauer · 9° bis 13°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -238,7 +238,7 @@
         },
         {
           "titel": "Lugano",
-          "untertitel": "Bewölkt · 6° bis 13°",
+          "untertitel": "Bewölkt · 5° bis 12°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
