@@ -1,37 +1,37 @@
 {
-  "aktualisiert": "2026-11-08T18:51:34+00:00",
+  "aktualisiert": "2026-11-08T21:43:33+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-08T18:51:34+00:00",
+      "stand": "2026-11-08T21:43:33+00:00",
       "eintraege": [
+        {
+          "titel": "«Wir akzeptieren nicht, dass Arbeitsplätze verschwinden»",
+          "untertitel": "Der Streit bei Just Eat eskaliert: Dutzende Kuriere legten am Sonntag in Zürich ihre Arbeit nieder. Sie wehren sich gegen den drohenden Jobverlust und die neuen …",
+          "link": "https://www.blick.ch/schweiz/zuerich/fertig-geliefert-nach-streik-spricht-ein-just-eat-kurier-klartext/jztyl9k",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/jNoktkuTURBXy9jMDMxMGZiMy1iMmEyLTRkZDctOTk2MS1lNDBiNWQyZjM1NzcuanBlZ5KTBc0CWM0BO5MJpjkzYjc2YwY/dwhr4i0amp7.jpg",
+          "quelle": "Blick",
+          "info": "4 Quellen berichten",
+          "trend": "neu"
+        },
         {
           "titel": "Lisa (13) verschwand auf dem Schulweg – Polizei entdeckt Leiche",
           "untertitel": "Seit Dienstag wurde die 13-jährige Lisa aus Berlin vermisst. Nun entdeckte die Polizei in Brandenburg eine Mädchenleiche und einen schwer verletzten Mann.",
           "link": "https://www.20min.ch/story/berlin-lisa-13-verschwand-auf-dem-schulweg-polizei-entdeckt-leiche-103664321",
           "bild": "https://image.20min.ch/2026/11/08/338cceac-2a1c-4d54-8c9e-695b4388a85c.png?s=86f230d19d8cb99dd4920693a0f5d11e",
           "quelle": "20 Minuten",
-          "info": "4 Quellen berichten",
+          "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Ärzte-Duo sass bei Mittagessen – dann wurden sie zu Lebensrettern",
-          "untertitel": "Am Samstagnachmittag hat ein Täter im polnischen Krakau aus einem Auto geschossen und sechs Menschen getötet. Mindestens 15 Personen wurden verletzt, viele schwebten in …",
-          "link": "https://www.20min.ch/story/krakau-polen-schuetze-von-krakau-soll-radikale-ansichten-gehabt-haben-103663871",
-          "bild": "https://image.20min.ch/2026/11/08/3abb6c4b-d639-48b0-8a91-09874d6c96e5.png?s=7645aa33fe9fec54eca78c887bf47d67",
-          "quelle": "20 Minuten",
-          "info": "4 Quellen berichten",
-          "trend": "neu"
-        },
-        {
-          "titel": "Die 10-Millionen-Moschee, die keine mehr sein soll",
-          "untertitel": "Ein Bieler Verein warb mit zehn Millionen Franken für eine Moschee. Nach Fragen von Blick ist die Zahl weg. Sein Präsident sitzt im Rat einer Stiftung, die mit Geldern aus den …",
-          "link": "https://www.blick.ch/schweiz/bern/bieler-moschee-fragen-zu-geld-aus-katar-und-kuwait/jwtg10f",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/ptOktkuTURBXy8yNjllNDljMi1jMzE4LTQ0MzYtYTQ1Yi1lN2Q1ZDVmNjVkNzguanBlZ5KTBc0CWM0BO5MJpmNlNTYxYgY/5tgqmp66ee3.jpg",
-          "quelle": "Blick",
+          "titel": "Formel 1: GP Brasilien – Norris triumphiert – Verstappen mit Riesen-Aufholjagd",
+          "untertitel": "Der Brite siegt in Sao Paulo, der Niederländer fährt von Rang 21 auf 2. Mercedes gewinnt die Konstrukteure-WM.",
+          "link": "https://www.srf.ch/sport/motorsport/motorrad/formel-1-gp-brasilien-norris-triumphiert-verstappen-mit-riesen-aufholjagd",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/6fc99b.webp",
+          "quelle": "SRF",
           "info": "3 Quellen berichten",
           "trend": "neu"
         }
@@ -41,7 +41,7 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-08T18:51:34+00:00",
+      "stand": "2026-11-08T21:43:33+00:00",
       "eintraege": [
         {
           "titel": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-08T18:51:34+00:00",
+      "stand": "2026-11-08T21:43:33+00:00",
       "eintraege": [
         {
-          "titel": "treno",
-          "untertitel": "Scontro fra due treni a Giza in Egitto, almeno 7 morti",
-          "link": "https://www.swissinfo.ch/ita/scontro-fra-due-treni-a-giza-in-egitto%2C-almeno-7-morti/92347234",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlsiDpcclFbnrd4hw4C-uCaNBr7H1m-EJsGgHtLgIn2-dJNMJcDCgpzU4gzgI",
-          "quelle": "Google Trends · SWI swissinfo.ch",
+          "titel": "valentino rossi",
+          "untertitel": "MotoGP, Giannantonio, 2nd in the Sprint at Losail: “I was a bit upset because I didn’t have a soft tyre available”",
+          "link": "https://www.gpone.com/en/2026/11/07/motogp/giannantonio-2nd-in-the-sprint-at-losail-i-was-a-bit-upset-because-i-didnt-have-a-soft-tyre.html",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAGLGkoTASKUG6PWdbo7OaJAWns4pPlhajs2o13v22mink7RVXETYLN3j8RDM",
+          "quelle": "Google Trends · GPOne.com",
           "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "hoffenheim – schalke",
-          "untertitel": "Ärger um Ticketpreise: Zockt Hoffenheim Auswärtsfans ab?",
-          "link": "https://www.gmx.ch/magazine/sport/fussball/bundesliga/aerger-ticketpreise-zockt-hoffenheim-auswaertsfans-42917856",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ik9zriYgXuaz9g7Sr2PTMNWZ_f2kWtv-p6_2g3MDM0urKNlHP0-Peomz6Kk",
-          "quelle": "Google Trends · GMX",
-          "info": "200+ Suchanfragen",
+          "titel": "13 novembre",
+          "untertitel": "Vidéo. À Londres, les illuminations de Noël 2026 dévoilées à Regent Street",
+          "link": "https://fr.euronews.com/video/2026/11/06/londres-allume-ses-illuminations-de-noel-des-milliers-de-personnes-dans-les-rues",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDbG7-MrqWtxi3kRgyHSozYMcOPIRBuPf_aDtSLwt_R4qDUVyXLskDKofrtzI",
+          "quelle": "Google Trends · Euronews.com",
+          "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "beşiktaş – gençlerbirliği",
-          "untertitel": "Son 5 resmi maçta ev sahibi takım kazanamadı — Beşiktaş Vs Gençlerbirliği",
-          "link": "https://twaslnews1.twaslnews.com/7331407/",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSlWaTEXoWYRNpPDOiSGa43htA5ZLRb69S_dwGkvSHAqVv5fJRmkx3cE1gIUdU",
-          "quelle": "Google Trends · شبكة تواصل الإخبارية",
-          "info": "200+ Suchanfragen",
+          "titel": "alice huang",
+          "untertitel": "Statement from NVIDIA Board of Directors",
+          "link": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjCZHNG_dz8zbGDFGEGKs9xpu7wXxXPIT8CfNOdPbPkHVJx6XLsDgjnbLWNdQ",
+          "quelle": "Google Trends · NVIDIA Newsroom",
+          "info": "500+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-08T18:51:34+00:00",
+      "stand": "2026-11-08T21:43:33+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-08T18:51:34+00:00",
+      "stand": "2026-11-08T21:43:33+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-08T18:51:34+00:00",
+      "stand": "2026-11-08T21:43:33+00:00",
       "eintraege": [
         {
           "titel": "Toter nach Konzert: Marco K. ist der Neonazi-Schläger von Tuggen SZ",
@@ -207,7 +207,7 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-08T18:51:34+00:00",
+      "stand": "2026-11-08T21:43:33+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
@@ -224,7 +224,7 @@
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 83%",
+          "info": "Regenrisiko 88%",
           "emoji": "🌦️"
         },
         {
@@ -242,7 +242,7 @@
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 63%",
+          "info": "Regenrisiko 70%",
           "emoji": "🌦️"
         },
         {
@@ -251,7 +251,7 @@
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 15%",
+          "info": "Regenrisiko 20%",
           "emoji": "☁️"
         }
       ]
