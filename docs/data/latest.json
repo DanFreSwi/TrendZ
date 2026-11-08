@@ -1,20 +1,20 @@
 {
-  "aktualisiert": "2026-11-08T12:57:27+00:00",
+  "aktualisiert": "2026-11-08T15:43:51+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-08T12:57:27+00:00",
+      "stand": "2026-11-08T15:43:51+00:00",
       "eintraege": [
         {
-          "titel": "Mann (22) gerät auf Gleis und wird von Zug erfasst – tot",
-          "untertitel": "Bei einem Bahnunfall ist in der Nacht auf Sonntag im Hauptbahnhof Zürich ein 22-Jähriger verstorben.",
-          "link": "https://www.20min.ch/story/unfall-am-zuercher-hb-mann-22-geraet-auf-gleis-und-wird-von-zug-erfasst-tot-103664027",
-          "bild": "https://image.20min.ch/2026/11/08/096341df-b854-47f1-a204-014f8022b29e.jpg?s=2049f1afd394ce284d07133d92734529",
+          "titel": "Sorge um Xhaka: Verpasst der Captain den Nati-Zusammenzug?",
+          "untertitel": "Was läuft in der Bundesliga, Premier League, Serie A, La Liga und der Ligue 1? Wie schlagen sich die Schweizer im Ausland? Alle News gibt es im Ticker.",
+          "link": "https://www.20min.ch/story/verletzt-ausgewechselt-sorge-um-xhaka-verpasst-der-captain-den-nati-zusammenzug-143273245706",
+          "bild": "https://image.20min.ch/2026/11/08/c25e7926-ce05-4aef-b517-455b6b62cf5c.jpg?s=e932c35b2fe878f40394b6fceb784607",
           "quelle": "20 Minuten",
-          "info": "3 Quellen berichten",
+          "info": "4 Quellen berichten",
           "trend": "neu"
         },
         {
@@ -23,15 +23,15 @@
           "link": "https://www.blick.ch/schweiz/zuerich/zuerich-tram-schleift-fussgaenger-mehrere-meter-mit/gcnc1hh",
           "bild": "https://ocdn.eu/pulscms-transforms/1/_1UktkuTURBXy85MjNjOTgwYi1jM2QxLTQyZjktYTFkZS0wYTY5NzM3MzhkZTAuanBlZ5KTBc0CWM0BO5MJpjJiMTZlNgY/bvmr2l2iim.jpg",
           "quelle": "Blick",
-          "info": "3 Quellen berichten",
+          "info": "4 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Wurde Lisa T. (13) Opfer eines Verbrechens?",
-          "untertitel": "Seit Dienstag fehlt von Lisa T. aus Berlin jede Spur. Die Polizei vermutet, dass die 13-Jährige Opfer einer Straftat wurde.",
-          "link": "https://www.20min.ch/story/vermisstenfall-in-berlin-wurde-lisa-t-13-opfer-eines-verbrechens-103664032",
-          "bild": "https://image.20min.ch/2026/11/08/03f5f80f-cbe9-48ff-8482-f1fd38e7c2f7.png?s=72216bc183ff704161bceeb44771f933",
-          "quelle": "20 Minuten",
+          "titel": "Die 10-Millionen-Moschee, die keine mehr sein soll",
+          "untertitel": "Ein Bieler Verein warb mit zehn Millionen Franken für eine Moschee. Nach Fragen von Blick ist die Zahl weg. Sein Präsident sitzt im Rat einer Stiftung, die mit Geldern aus den …",
+          "link": "https://www.blick.ch/schweiz/bern/bieler-moschee-fragen-zu-geld-aus-katar-und-kuwait/jwtg10f",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/ptOktkuTURBXy8yNjllNDljMi1jMzE4LTQ0MzYtYTQ1Yi1lN2Q1ZDVmNjVkNzguanBlZ5KTBc0CWM0BO5MJpmNlNTYxYgY/5tgqmp66ee3.jpg",
+          "quelle": "Blick",
           "info": "3 Quellen berichten",
           "trend": "neu"
         }
@@ -41,7 +41,7 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-08T12:57:27+00:00",
+      "stand": "2026-11-08T15:43:51+00:00",
       "eintraege": [
         {
           "titel": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-08T12:57:27+00:00",
+      "stand": "2026-11-08T15:43:51+00:00",
       "eintraege": [
         {
-          "titel": "çorum fk – fenerbahçe",
-          "untertitel": "Fenerbahçe maçı öncesi Çorum FK'de sakatlık şoku",
-          "link": "https://www.sozcu.com.tr/fenerbahce-maci-oncesi-sakatlik-soku-p377201",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS223AL7zzUTQhCKhmwfz065AVp4_Q8B9Y0ZLIBfsc5nglhJQKo5LljsQlxozs",
-          "quelle": "Google Trends · Sözcü Gazetesi",
-          "info": "200+ Suchanfragen",
-          "trend": "neu"
-        },
-        {
-          "titel": "election fribourg",
-          "untertitel": "Suivez les élections cantonales en direct ce dimanche. L’Entente de droite est en tête dans la course au Conseil d’Etat",
-          "link": "https://www.laliberte.ch/articles/regions/politique-cantonale/suivez-les-elections-cantonales-en-direct-ce-dimanche-1479816",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtPK-e35sSbcoxhgVsC6WokzElvsbmb6aRZItGhBtntlHH1xTWVcobqRU0F6U",
-          "quelle": "Google Trends · La Liberté",
+          "titel": "emilio ballack",
+          "untertitel": "Simone Ballack über den Tod ihres Sohnes Emilio: «Teilweise konnte ich gar nichts, nicht mal aufstehen»",
+          "link": "https://www.20min.ch/story/simone-ballack-ueber-den-tod-von-emilio-nichts-mehr-verschieben-103663983",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQntbCi3mNlsH3gqsepNNGR9c-axp0dH-6So3NWbX8j2yKPdessRJqNQ3DBZkI",
+          "quelle": "Google Trends · 20 Minuten",
           "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "st. gallen – lugano",
-          "untertitel": "Ski kaputt – Slalom-Kugelgewinner mit Abflug im Training",
-          "link": "https://www.blick.ch/sport/ski/mcgrath-faehrt-ski-im-training-zu-schrott/ks1sm0y",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGyC33REKDXOv3vxOcpSmDFLLVKHwAjhXWrODvcQux_Pdh1zEs0MmnEgOB4vs",
-          "quelle": "Google Trends · Blick",
-          "info": "1000+ Suchanfragen",
+          "titel": "notruf",
+          "untertitel": "Wer, wo, was: Einsatzleiter Daniel Plüss muss bei jedem Notruf innert Sekunden entscheiden",
+          "link": "https://www.20min.ch/story/eine-nacht-bei-117-hoerte-nur-noch-kind-schreien-notruf-geht-einsatzleiter-nahe-103652427",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrQuqcozTTDzk-rkgrAeyrQlQQZLmcXwuLYHlEi5-8mv7E-LZa7lIROV-IU5A",
+          "quelle": "Google Trends · 20 Minuten",
+          "info": "100+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "monza - atalanta",
+          "untertitel": "",
+          "link": "https://www.google.ch/search?q=monza+-+atalanta",
+          "bild": "",
+          "quelle": "Google Trends",
+          "info": "100+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-08T12:57:27+00:00",
+      "stand": "2026-11-08T15:43:51+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-08T12:57:27+00:00",
+      "stand": "2026-11-08T15:43:51+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-08T12:57:27+00:00",
+      "stand": "2026-11-08T15:43:51+00:00",
       "eintraege": [
         {
           "titel": "Toter nach Konzert: Marco K. ist der Neonazi-Schläger von Tuggen SZ",
@@ -198,7 +198,7 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-08T12:57:27+00:00",
+      "stand": "2026-11-08T15:43:51+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
@@ -229,7 +229,7 @@
         },
         {
           "titel": "Genf",
-          "untertitel": "Regenschauer · 9° bis 13°",
+          "untertitel": "Leichter Regen · 9° bis 13°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
