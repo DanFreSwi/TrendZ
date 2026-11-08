@@ -1,12 +1,12 @@
 {
-  "aktualisiert": "2026-11-08T01:11:46+00:00",
+  "aktualisiert": "2026-11-08T03:57:54+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-08T01:11:46+00:00",
+      "stand": "2026-11-08T03:57:54+00:00",
       "eintraege": [
         {
           "titel": "Rechtsextreme Spur? 3 weitere Tote im Haus des Schützen entdeckt",
@@ -41,7 +41,7 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-08T01:11:46+00:00",
+      "stand": "2026-11-08T03:57:54+00:00",
       "eintraege": [
         {
           "titel": "Israel's president tasks opposition leader Eisenkot with forming government",
@@ -76,15 +76,24 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-08T01:11:46+00:00",
+      "stand": "2026-11-08T03:57:54+00:00",
       "eintraege": [
+        {
+          "titel": "tottenham",
+          "untertitel": "Okafor Leads Leeds to Victory",
+          "link": "https://www.bluewin.ch/en/sport/football/okafor-leads-leeds-to-victory-li.3665250",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy2ljeN2qIITOGw_xnOE8akTNgj5WdQGZMjYRHI0ehXrWtEFZ94BZHBZdrsBs",
+          "quelle": "Google Trends · blue News",
+          "info": "500+ Suchanfragen",
+          "trend": "neu"
+        },
         {
           "titel": "eptingen",
           "untertitel": "Mann (25) verliert Kontrolle über BMW – Teenager (†17) tot",
           "link": "https://www.blick.ch/schweiz/basel-landschaft/mann-25-verliert-kontrolle-ueber-bmw-teenager-17-tot/8q1zn56",
           "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQwpnG_Adbf8ecnI9alx1Y1wRd6YtW6edCLg4Hw4bIBdjh5JnqJcasAjR3-9M",
           "quelle": "Google Trends · Blick",
-          "info": "200+ Suchanfragen",
+          "info": "500+ Suchanfragen",
           "trend": "neu"
         },
         {
@@ -95,15 +104,6 @@
           "quelle": "Google Trends · 20 Minuten",
           "info": "1000+ Suchanfragen",
           "trend": "neu"
-        },
-        {
-          "titel": "novartis zolgensma tumor",
-          "untertitel": "Novartis reports cases of tumours in children following treatment with Zolgensma",
-          "link": "https://www.swissinfo.ch/eng/pharma-health/novartis-reports-cases-of-tumours-in-children-following-treatment-with-zolgensma/92340287",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1PpGlpq-Y5imVKI4kh0w9I06nk-vBqlmkSTws6yDTpEhet8fzHHrip1JnvL8",
-          "quelle": "Google Trends · SWI swissinfo.ch",
-          "info": "500+ Suchanfragen",
-          "trend": "neu"
         }
       ]
     },
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-08T01:11:46+00:00",
+      "stand": "2026-11-08T03:57:54+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-08T01:11:46+00:00",
+      "stand": "2026-11-08T03:57:54+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -198,7 +198,7 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-08T01:11:46+00:00",
+      "stand": "2026-11-08T03:57:54+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
@@ -211,7 +211,7 @@
         },
         {
           "titel": "Bern",
-          "untertitel": "Regenschauer · 6° bis 10°",
+          "untertitel": "Regenschauer · 7° bis 10°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -220,7 +220,7 @@
         },
         {
           "titel": "Basel",
-          "untertitel": "Leichter Regen · 6° bis 11°",
+          "untertitel": "Leichter Regen · 6° bis 10°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -229,7 +229,7 @@
         },
         {
           "titel": "Genf",
-          "untertitel": "Leichter Regen · 8° bis 12°",
+          "untertitel": "Leichter Regen · 8° bis 13°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -238,12 +238,12 @@
         },
         {
           "titel": "Lugano",
-          "untertitel": "Nebel · 5° bis 12°",
+          "untertitel": "Bewölkt · 5° bis 12°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
           "info": "Regenrisiko 20%",
-          "emoji": "🌫️"
+          "emoji": "☁️"
         }
       ]
     }
