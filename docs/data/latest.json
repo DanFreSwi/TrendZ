@@ -1,13 +1,22 @@
 {
-  "aktualisiert": "2026-11-08T03:57:54+00:00",
+  "aktualisiert": "2026-11-08T07:07:22+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-08T03:57:54+00:00",
+      "stand": "2026-11-08T07:07:22+00:00",
       "eintraege": [
+        {
+          "titel": "5 Schweizer Unterkünfte, die auf den Reiseradar der Gen Z gehören",
+          "untertitel": "Vom hippen Hostel mit Hallenbad bis zum gemütlichen Chalet mit Seeblick: Wir stellen fünf angesagte Schweizer Unterkünfte für junge Menschen vor.",
+          "link": "https://www.20min.ch/story/guenstige-hotels-hostels-schweiz-reisetipps-wochenendtrip-103662640",
+          "bild": "https://image.20min.ch/2026/11/05/a81f07cd-f3fb-4c03-9efc-36070e7ad7a7.jpg?s=c46406e8c6f00f89108d456cd721c164",
+          "quelle": "20 Minuten",
+          "info": "4 Quellen berichten",
+          "trend": "neu"
+        },
         {
           "titel": "Rechtsextreme Spur? 3 weitere Tote im Haus des Schützen entdeckt",
           "untertitel": "Am Samstagnachmittag hat ein Täter im polnischen Krakau aus einem Auto geschossen und sechs Menschen getötet. Mindestens 15 Personen wurden verletzt, viele schwebten in …",
@@ -15,23 +24,14 @@
           "bild": "https://image.20min.ch/2026/11/07/e382e0ee-ac16-4c6d-8932-c7221044032f.png?s=b6ba0ad4a7a9554fc60f2620dd20e753",
           "quelle": "20 Minuten",
           "info": "4 Quellen berichten",
-          "trend": "gleich"
+          "trend": "runter"
         },
         {
-          "titel": "Novartis meldet Tumorfälle nach Gentherapie",
-          "untertitel": "Das Novartis-Medikament Zolgensma ist mit rund 2 Millionen Franken pro Infusion extrem teuer. Die US-Gesundheitsbehörde FDA untersucht nun, ob es das Tumorrisiko erhöht, weil bei …",
-          "link": "https://www.blick.ch/schweiz/basel/wegen-novartis-medikament-zolgensma-tumore-gemeldet/zlle6kj",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/xOGktkuTURBXy9iZjQ2Yjg3NS0wZjVkLTQ3ZmQtYTU0MC1hNWJlNTJkYTlhNWEuanBlZ5KTBc0CWM0BO5MJpjM4NjI3OAY/8fv3lv06cuc.jpg",
-          "quelle": "Blick",
-          "info": "3 Quellen berichten",
-          "trend": "gleich"
-        },
-        {
-          "titel": "«Der Fahrer weiss, was nun auf ihn zukommt»",
-          "untertitel": "In Gossau SG gab ein junger Mann Gas, als ihn die Polizei anhalten wollte. Die Flucht endete in Andwil an einer Hausfassade: Der Mann kam schwer verletzt ins Spital, das Haus ist …",
-          "link": "https://www.blick.ch/schweiz/nachbarin-slanja-gmuender-31-zu-unfall-in-andwil-sg/yrwjwsp",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/y0qktktTURBXy85MWEwNTVlMS0yNDhkLTQ0N2MtYjFlZS03ZTBkZTQxYzFkMjAucG5nkpMFzQJYzQE7kwmmMmMxYjBiBg/x1vhcwb8dg.jpg",
-          "quelle": "Blick",
+          "titel": "Elon Musk will Texas kaufen",
+          "untertitel": "Ein eigener republikanischer Senator ist dem reichsten Mann der Welt rund 200 Millionen Dollar wert.",
+          "link": "https://www.watson.ch/international/analyse/312008068-us-midterms-elon-musk-will-texas-kaufen",
+          "bild": "",
+          "quelle": "watson",
           "info": "3 Quellen berichten",
           "trend": "neu"
         }
@@ -41,7 +41,7 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-08T03:57:54+00:00",
+      "stand": "2026-11-08T07:07:22+00:00",
       "eintraege": [
         {
           "titel": "Israel's president tasks opposition leader Eisenkot with forming government",
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-08T03:57:54+00:00",
+      "stand": "2026-11-08T07:07:22+00:00",
       "eintraege": [
         {
-          "titel": "tottenham",
-          "untertitel": "Okafor Leads Leeds to Victory",
-          "link": "https://www.bluewin.ch/en/sport/football/okafor-leads-leeds-to-victory-li.3665250",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy2ljeN2qIITOGw_xnOE8akTNgj5WdQGZMjYRHI0ehXrWtEFZ94BZHBZdrsBs",
-          "quelle": "Google Trends · blue News",
-          "info": "500+ Suchanfragen",
+          "titel": "élevage",
+          "untertitel": "Lot-et-Garonne : disparu depuis des années, un club de rugby local relancé grâce à un élevage de chiens",
+          "link": "https://actu.fr/nouvelle-aquitaine/saint-leger_47250/lot-et-garonne-disparu-depuis-des-annees-un-club-de-rugby-local-relance-grace-a-un-elevage-de-chiens_65029192.html",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbn3ncHyDOgaUHlZCdpQ6kGTEW1SQ9SaexTDzvIhydxBexPiYJANxH5K1m_8Y",
+          "quelle": "Google Trends · Actu.fr",
+          "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "eptingen",
-          "untertitel": "Mann (25) verliert Kontrolle über BMW – Teenager (†17) tot",
-          "link": "https://www.blick.ch/schweiz/basel-landschaft/mann-25-verliert-kontrolle-ueber-bmw-teenager-17-tot/8q1zn56",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQwpnG_Adbf8ecnI9alx1Y1wRd6YtW6edCLg4Hw4bIBdjh5JnqJcasAjR3-9M",
-          "quelle": "Google Trends · Blick",
-          "info": "500+ Suchanfragen",
+          "titel": "sebastián lelio gestorben",
+          "untertitel": "Starregisseur Sebastián Lelio mit 52 gestorben",
+          "link": "https://www.bild.de/unterhaltung/stars-und-leute/starregisseur-sebastian-lelio-mit-52-gestorben-6aeed55ba389bc337cfc8bff",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjErsZH-nF9dPQKQI5W4rGk3bLUIh1gFFRJnMOM7NJ3HJADEUGF6D_Xu17Svc",
+          "quelle": "Google Trends · BILD",
+          "info": "2000+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "zürich",
-          "untertitel": "Zürich HB: Tram schleift 39-Jährigen mehrere Meter mit – Mann stürzt zwischen Perron und Tram",
-          "link": "https://www.20min.ch/story/zuerich-bahnhof-tram-erfasst-fussgaenger-und-schleift-ihn-mehrere-meter-mit-103663814",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgXcahXCeOCE0x65xT3J-Hv6tRvEXbnznGB-pOnODbkXq0ZvaH1gak45i_gGw",
-          "quelle": "Google Trends · 20 Minuten",
-          "info": "1000+ Suchanfragen",
+          "titel": "jörg reber",
+          "untertitel": "SCL Tigers: Nachwuchstrainer Reber muss gehen und ist davon überrascht",
+          "link": "https://sport.ch/scl-tigers/1669177/nachwuchstrainer-reber-muss-gehen-und-ist-davon-ueberrascht",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOCE4CBfsiyxKvZTZ_8J8RhvO4CNao48rxY1hAdAycf8mDKMYPxO_7eVgJy7g",
+          "quelle": "Google Trends · sport.ch",
+          "info": "100+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-08T03:57:54+00:00",
+      "stand": "2026-11-08T07:07:22+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-08T03:57:54+00:00",
+      "stand": "2026-11-08T07:07:22+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,16 +181,16 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-07T09:52:50+00:00",
+      "stand": "2026-11-08T07:07:22+00:00",
       "eintraege": [
         {
-          "titel": "«Traurig»: Zürcher Tirggel-Stand fliegt aus HB-Weihnachtsmarkt",
-          "untertitel": "Jahrzehntelang verkaufte Suter Tirggel am Weihnachtsmarkt im Zürcher Hauptbahnhof. Nun ist Schluss – zumindest vorerst. Beim Betreiber ist die Enttäuschung riesig.",
-          "link": "https://www.20min.ch/story/zuerich-hb-weihnachtsmarkt-suter-tirggel-rauswurf-traditionsstand-103662811",
-          "bild": "https://image.20min.ch/2026/11/05/68dc8ba7-3a65-46b3-ae0e-c5180a07e200.jpg?s=cf818d8c4122001825b3cadbb96c35e4",
-          "quelle": "20 Minuten",
+          "titel": "Toter nach Konzert: Marco K. ist der Neonazi-Schläger von Tuggen SZ",
+          "untertitel": "Der Schweizer (42), der nach einem Konzert einen Deutschen getötet haben soll, lebt im Kanton Zug und ist seit seiner Jugend Teil der Neonazi-Szene. Das Blood-and-Honour-Mitglied …",
+          "link": "https://www.blick.ch/schweiz/zentralschweiz/schwyz/toter-nach-konzert-das-ist-der-neonazi-schlaeger-von-tuggen/lwzt2dv",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/gG3ktkuTURBXy80ODc4MGRkMi1jOWY0LTRhYjAtYjNmMi05NDMzNWUzYmVhYmYuanBlZ5KTBc0CWM0BO5MJpjFhNGViNQY/bpp356w3ge.jpg",
+          "quelle": "Blick",
           "info": "",
-          "trend": "gleich"
+          "trend": "neu"
         }
       ]
     },
@@ -198,24 +198,24 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-08T03:57:54+00:00",
+      "stand": "2026-11-08T07:07:22+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
-          "untertitel": "Leichter Regen · 6° bis 10°",
+          "untertitel": "Leichter Regen · 5° bis 9°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 90%",
+          "info": "Regenrisiko 95%",
           "emoji": "🌦️"
         },
         {
           "titel": "Bern",
-          "untertitel": "Regenschauer · 7° bis 10°",
+          "untertitel": "Leichter Regen · 7° bis 10°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 81%",
+          "info": "Regenrisiko 65%",
           "emoji": "🌦️"
         },
         {
@@ -224,25 +224,25 @@
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 81%",
-          "emoji": "🌦️"
-        },
-        {
-          "titel": "Genf",
-          "untertitel": "Leichter Regen · 8° bis 13°",
-          "link": "https://www.meteoschweiz.admin.ch/",
-          "bild": "",
-          "quelle": "Open-Meteo",
           "info": "Regenrisiko 83%",
           "emoji": "🌦️"
         },
         {
-          "titel": "Lugano",
-          "untertitel": "Bewölkt · 5° bis 12°",
+          "titel": "Genf",
+          "untertitel": "Leichter Regen · 9° bis 13°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 20%",
+          "info": "Regenrisiko 55%",
+          "emoji": "🌦️"
+        },
+        {
+          "titel": "Lugano",
+          "untertitel": "Bewölkt · 6° bis 12°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 15%",
           "emoji": "☁️"
         }
       ]
