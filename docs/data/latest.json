@@ -1,12 +1,12 @@
 {
-  "aktualisiert": "2026-11-09T07:33:31+00:00",
+  "aktualisiert": "2026-11-09T10:06:06+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-09T07:33:31+00:00",
+      "stand": "2026-11-09T10:06:06+00:00",
       "eintraege": [
         {
           "titel": "Trump über Kriegsende: Ukraine wird «etwas andere Form» haben",
@@ -41,7 +41,7 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-09T07:33:31+00:00",
+      "stand": "2026-11-09T10:06:06+00:00",
       "eintraege": [
         {
           "titel": "Pope delivers veiled rebuke of Milei's austerity measures",
@@ -62,13 +62,13 @@
           "trend": "neu"
         },
         {
-          "titel": "Seven dead and more than 100 injured after trains collide in Egypt",
-          "untertitel": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
-          "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3886/live/ab03aa70-db8a-11f1-b441-2b33b063138f.jpg",
-          "quelle": "BBC",
+          "titel": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
+          "untertitel": "Former liberation movement’s share of national vote almost 14 percentage points below 2021 result The African National Congress is on course to suffer a bruising defeat in South …",
+          "link": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections",
+          "bild": "https://i.guim.co.uk/img/media/ca80f1733421e850930a8c2267b7214219fef832/697_286_4649_3719/master/4649.jpg?width=140&quality=85&auto=format&fit=max&s=f4831bd02c6a91cdc25376cf8e9b3a3b",
+          "quelle": "The Guardian",
           "info": "2 Quellen berichten",
-          "trend": "neu"
+          "trend": "gleich"
         }
       ]
     },
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-09T07:33:31+00:00",
+      "stand": "2026-11-09T10:06:06+00:00",
       "eintraege": [
         {
-          "titel": "werbespot",
-          "untertitel": "Pistolen-Gesten an der Kasse: Migros-Spot im GTA-Stil sorgt für Kritik",
-          "link": "https://www.20min.ch/story/migi-city-pistolen-gesten-im-gta-style-migros-eckt-mit-werbespot-an-103664164",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS0GE63qtlAzNoO0qEuPaXLjPoOSdnKZD9mwPBOmAqCS8-UMtir0YpEKe6e7uM",
-          "quelle": "Google Trends · 20 Minuten",
+          "titel": "st. galler tagblatt",
+          "untertitel": "Parmelin-Nachfolge: Mit Aeschi erhält das Kandidatenfeld klare Konturen",
+          "link": "https://www.srf.ch/news/schweiz/parmelin-nachfolge-mit-aeschi-erhaelt-das-kandidatenfeld-klare-konturen",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTVypgIYRhRvdTNQfso_aIgAxzY2i47krcY50oBCRs2qgz7rboNBM3SZaSzPA",
+          "quelle": "Google Trends · SRF",
           "info": "500+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "nvidia aktie",
-          "untertitel": "Tückische Liebschaft - Nvidia-Chef hatte Affäre mit möglicher chinesischer Spionin",
-          "link": "https://www.srf.ch/news/international/tueckische-liebschaft-nvidia-chef-hatte-affaere-mit-moeglicher-chinesischer-spionin",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLkrvmo73hSfmRnQw6BF90K_Yom_ae_z8d946mDnGUGZQNz2-jhUyTUwjO-LI",
-          "quelle": "Google Trends · SRF",
-          "info": "200+ Suchanfragen",
+          "titel": "logement",
+          "untertitel": "Lesneven. Logement : un service pour les 16-30 ans",
+          "link": "https://www.ouest-france.fr/bretagne/lesneven-29260/lesneven-logement-un-service-pour-les-16-30-ans-08a672cc-d77e-11f1-9911-9179baff22e2",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdM2ojA4sm1Li_7XiJZxDM4U5CxGa49Uc6_sCQhRB6lSyYiMMD1U6zMtIsbA0",
+          "quelle": "Google Trends · Ouest-France",
+          "info": "500+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "kloster",
-          "untertitel": "Schwester Andrea postet auf Facebook – dann checkt Studentin Leonie im Kloster Mariazell ein",
-          "link": "https://www.tagesanzeiger.ch/kloster-mariazell-studierende-lernen-hinter-klostermauern-257703845317",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSMnKTh8gyx9lv6rwDfIL_5ZKgvewnQF4CCTJFtanp6QUYNcxpw0ggOBE96X-g",
-          "quelle": "Google Trends · Tages-Anzeiger",
-          "info": "100+ Suchanfragen",
+          "titel": "ennetbühl",
+          "untertitel": "Unfall in Ennetbühl SG: Vier Verletzte nach Frontalkollision",
+          "link": "https://www.blick.ch/schweiz/ostschweiz/st-gallen/unfall-in-ennetbuehl-sg-vier-verletzte-nach-frontalkollision/swfee89",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRX-ADGVPb6Xwwf9O1t0Gv6DkjXmh8XNqyAPD8c3UM2ZgSXwu6nbQTvP0SijR0",
+          "quelle": "Google Trends · Blick",
+          "info": "200+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-09T07:33:31+00:00",
+      "stand": "2026-11-09T10:06:06+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-09T07:33:31+00:00",
+      "stand": "2026-11-09T10:06:06+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-09T07:33:31+00:00",
+      "stand": "2026-11-09T10:06:06+00:00",
       "eintraege": [
         {
           "titel": "Toter nach Konzert: Marco K. ist der Neonazi-Schläger von Tuggen SZ",
@@ -207,7 +207,7 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-09T07:33:31+00:00",
+      "stand": "2026-11-09T10:06:06+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
@@ -224,17 +224,17 @@
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 88%",
+          "info": "Regenrisiko 100%",
           "emoji": "🌦️"
         },
         {
           "titel": "Basel",
-          "untertitel": "Leichter Regen · 9° bis 11°",
+          "untertitel": "Regen · 9° bis 11°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
           "info": "Regenrisiko 100%",
-          "emoji": "🌦️"
+          "emoji": "🌧️"
         },
         {
           "titel": "Genf",
@@ -242,7 +242,7 @@
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 98%",
+          "info": "Regenrisiko 100%",
           "emoji": "🌦️"
         },
         {
@@ -251,7 +251,7 @@
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 50%",
+          "info": "Regenrisiko 58%",
           "emoji": "🌦️"
         }
       ]
