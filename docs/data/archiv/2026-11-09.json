@@ -1,0 +1,260 @@
+{
+  "aktualisiert": "2026-11-09T21:54:03+00:00",
+  "land": "ch",
+  "kategorien": [
+    {
+      "id": "news_ch",
+      "name": "News Schweiz",
+      "symbol": "🇨🇭",
+      "stand": "2026-11-09T21:54:03+00:00",
+      "eintraege": [
+        {
+          "titel": "Wetziker Imam tritt nach homophoben Posts von Ämtern zurück",
+          "untertitel": "Lange galt Bashkim Aliu als Brückenbauer. Nun tritt der Wetziker Imam zurück, nachdem Recherchen homophobe Äusserungen und seine Teilnahme an einer Konferenz im Umfeld der …",
+          "link": "https://www.blick.ch/schweiz/zuerich/homophobe-posts-wetziker-imam-bashkim-aliu-tritt-zurueck/1182q3b",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/ZKlktktTURBXy85Yjk4MmMwYS04YzY2LTRmNGMtYmQ5Yy03MDAzYTVhY2I4M2EucG5nkpMFzQJYzQE7kwmmMGQ0M2U4Bg/kewlhqt43b.jpg",
+          "quelle": "Blick",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Video zeigt grosse Rauchsäule",
+          "untertitel": "Im Bundesasylzentrum in Zürich ist am Montag gegen 17 Uhr ein Brand ausgebrochen. Die Stadtpolizei bestätigt den Einsatz, weitere Angaben lagen zunächst nicht vor.",
+          "link": "https://www.blick.ch/schweiz/zuerich/brand-im-bundesasylzentrum-zuerich/tyv2q1k",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/1OQktkuTURBXy9jYzdlZDkzZS1kODQ4LTQwZmEtOGYwNS1hNWNhOGU5NTVjNWUuanBlZ5KTBc0CWM0BO5MJpjEyNDY2MQY/q7ajxxc3r4o.jpg",
+          "quelle": "Blick",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Grosse Suchaktion nach Emma (13) – sie verschwand auf Schulweg",
+          "untertitel": "Am Sonntag wurde die 13-jährige Lisa aus Berlin tot aufgefunden, nachdem sie vermisst wurde. Nur einen Tag später bereitet das Verschwinden der gleichaltrigen Emma aus dem …",
+          "link": "https://www.20min.ch/story/saarland-d-grosse-suchaktion-nach-emma-13-sie-verschwand-auf-schulweg-103664872",
+          "bild": "https://image.20min.ch/2026/11/09/a9332c47-17d2-4c2c-a1fc-b9554f6a91ff.jpg?s=c83bd7382e77839f9915307dbed4ad26",
+          "quelle": "20 Minuten",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        }
+      ]
+    },
+    {
+      "id": "news_welt",
+      "name": "News Welt",
+      "symbol": "🌍",
+      "stand": "2026-11-09T21:54:03+00:00",
+      "eintraege": [
+        {
+          "titel": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+          "untertitel": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
+          "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/c8a877f0-dc7e-11f1-93e1-3b657b665bcf.png",
+          "quelle": "BBC",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "France accuses Iran of supermarket fridge hacking",
+          "untertitel": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
+          "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0bc/live/eec149b0-dc5d-11f1-8fe6-5becaee5408f.jpg",
+          "quelle": "BBC",
+          "info": "2 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Collision of two trains in Egypt kills at least seven",
+          "untertitel": "President orders prompt investigation after one train derails in collision in al-Ayyat about 50km from Cairo Seven people were killed and at least 125 injured when two trains …",
+          "link": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
+          "bild": "https://i.guim.co.uk/img/media/7527078bbb41cf17b1a35718b70ebdceeada7492/206_271_4462_3569/master/4462.jpg?width=140&quality=85&auto=format&fit=max&s=24b5e48c937f7ee0a5afbdfdeb04cf94",
+          "quelle": "The Guardian",
+          "info": "2 Quellen berichten",
+          "trend": "runter"
+        }
+      ]
+    },
+    {
+      "id": "suche",
+      "name": "Gesucht in der Schweiz",
+      "symbol": "🔎",
+      "stand": "2026-11-09T21:54:03+00:00",
+      "eintraege": [
+        {
+          "titel": "ehc basel",
+          "untertitel": "Swiss-League-Klub bläst zum Angriff auf National League",
+          "link": "https://www.blick.ch/sport/eishockey/nlb/ehc-basel-will-wieder-in-die-national-league-aufsteigen/j7lem3t",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRwoEjmxl5bYGw8027bWmpTD5bovG7-d1l6R5PFsbaxKD9eId3iccbSQAc7Xw",
+          "quelle": "Google Trends · Blick",
+          "info": "100+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "aryna sabalenka",
+          "untertitel": "Where to watch Aryna Sabalenka vs. Elina Svitolina WTA Finals tennis for free today",
+          "link": "https://www.mlive.com/tv/2026/11/where-to-watch-aryna-sabalenka-vs-elina-svitolina-wta-finals-tennis-for-free-today.html",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRuJgGSdqspQ_vbAEWPLjq56jjKUniVI54DJGWrK1YFZvE8V_SLG_WKq3O1IfQ",
+          "quelle": "Google Trends · MLive.com",
+          "info": "200+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "gta vi",
+          "untertitel": "Take-Two Interactive Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call",
+          "link": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/11/63024727/take-two-interactive-earnings-are-imminent-these-most-accurate-analysts-revise-forecasts-ahead-of-earnings-call",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQbvSe4D-bpn7gZ3QOHophbMJeK42Lka-q7NOOArtxy8ISeOn4pDdFW7iUouIM",
+          "quelle": "Google Trends · Benzinga",
+          "info": "100+ Suchanfragen",
+          "trend": "neu"
+        }
+      ]
+    },
+    {
+      "id": "musik",
+      "name": "Musik",
+      "symbol": "🎵",
+      "stand": "2026-11-09T21:54:03+00:00",
+      "eintraege": [
+        {
+          "titel": "Housewife",
+          "untertitel": "Tate McRae",
+          "link": "https://music.apple.com/ch/album/housewife/6822497770?i=6822497774",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/300x300bb.jpg",
+          "quelle": "Apple Music Charts CH",
+          "info": "Pop",
+          "trend": "gleich"
+        },
+        {
+          "titel": "BbY WOW",
+          "untertitel": "KAROL G, Judeline & rusowsky",
+          "link": "https://music.apple.com/ch/album/bby-wow/6796864741?i=6796864754",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/300x300bb.jpg",
+          "quelle": "Apple Music Charts CH",
+          "info": "Latin",
+          "trend": "gleich"
+        },
+        {
+          "titel": "Movin' To The Sun",
+          "untertitel": "HUGEL, Imael Angel & Ultra Naté",
+          "link": "https://music.apple.com/ch/album/movin-to-the-sun/6769069923?i=6769070199",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/300x300bb.jpg",
+          "quelle": "Apple Music Charts CH",
+          "info": "Electronic, Dance",
+          "trend": "gleich"
+        }
+      ]
+    },
+    {
+      "id": "podcasts",
+      "name": "Podcasts",
+      "symbol": "🎙️",
+      "stand": "2026-11-09T21:54:03+00:00",
+      "eintraege": [
+        {
+          "titel": "Echo der Zeit",
+          "untertitel": "Schweizer Radio und Fernsehen (SRF)",
+          "link": "https://podcasts.apple.com/ch/podcast/echo-der-zeit/id81345425",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/91/51/f5/9151f5c8-97b2-43c1-d728-1850b4311aaf/mza_10466666821884933927.jpg/300x300bb.png",
+          "quelle": "Apple Podcasts Charts CH",
+          "info": "Nachrichten",
+          "trend": "gleich"
+        },
+        {
+          "titel": "MORD AUF EX",
+          "untertitel": "Leonie Bartsch & Linn Schütze",
+          "link": "https://podcasts.apple.com/ch/podcast/mord-auf-ex/id1486608425",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b9/17/07/b91707ba-b4bf-2021-bafe-b4dd1e1f0196/mza_6370841172422755338.jpg/300x300bb.png",
+          "quelle": "Apple Podcasts Charts CH",
+          "info": "Wahre Kriminalfälle, Geschichte",
+          "trend": "neu"
+        },
+        {
+          "titel": "RONZHEIMER.",
+          "untertitel": "Paul Ronzheimer",
+          "link": "https://podcasts.apple.com/ch/podcast/ronzheimer/id1700432142",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/16/ab/81/16ab81cb-e31f-5ea0-81a7-902a96dfd750/mza_17924075471806194431.jpg/300x300bb.png",
+          "quelle": "Apple Podcasts Charts CH",
+          "info": "Nachrichten",
+          "trend": "gleich"
+        }
+      ]
+    },
+    {
+      "id": "events",
+      "name": "Events in den News",
+      "symbol": "🎟️",
+      "stand": "2026-11-09T21:54:03+00:00",
+      "eintraege": [
+        {
+          "titel": "Toter nach Konzert: Marco K. ist der Neonazi-Schläger von Tuggen SZ",
+          "untertitel": "Der Schweizer (42), der nach einem Konzert einen Deutschen getötet haben soll, lebt im Kanton Zug und ist seit seiner Jugend Teil der Neonazi-Szene. Das Blood-and-Honour-Mitglied …",
+          "link": "https://www.blick.ch/schweiz/zentralschweiz/schwyz/toter-nach-konzert-das-ist-der-neonazi-schlaeger-von-tuggen/lwzt2dv",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/bhEktkuTURBXy80ODc4MGRkMi1jOWY0LTRhYjAtYjNmMi05NDMzNWUzYmVhYmYuanBlZ5KTBc0CWM0BO5MJpjI5YWE2OAY/m6ac6okgmd.jpg",
+          "quelle": "Blick",
+          "info": "",
+          "trend": "gleich"
+        },
+        {
+          "titel": "Ausstellung «Alpensounds» – Nur für Boomer? Volksmusik kann auch anders!",
+          "untertitel": "Wie viel Veränderung verträgt Tradition? Das Alpine Museum in Bern beleuchtet den Wandel der Schweizer Volksmusik.",
+          "link": "https://www.srf.ch/news/gesellschaft/ausstellung-alpensounds-nur-fuer-boomer-volksmusik-kann-auch-anders",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/65b511.webp",
+          "quelle": "SRF",
+          "info": "",
+          "trend": "neu"
+        }
+      ]
+    },
+    {
+      "id": "wetter",
+      "name": "Wetter morgen",
+      "symbol": "🌤️",
+      "stand": "2026-11-09T21:54:03+00:00",
+      "eintraege": [
+        {
+          "titel": "Zürich",
+          "untertitel": "Leichter Regen · 8° bis 15°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 100%",
+          "emoji": "🌦️"
+        },
+        {
+          "titel": "Bern",
+          "untertitel": "Regenschauer · 8° bis 15°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 100%",
+          "emoji": "🌦️"
+        },
+        {
+          "titel": "Basel",
+          "untertitel": "Regenschauer · 9° bis 12°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 100%",
+          "emoji": "🌦️"
+        },
+        {
+          "titel": "Genf",
+          "untertitel": "Regen · 9° bis 15°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 100%",
+          "emoji": "🌧️"
+        },
+        {
+          "titel": "Lugano",
+          "untertitel": "Leichter Regen · 8° bis 13°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 93%",
+          "emoji": "🌦️"
+        }
+      ]
+    }
+  ]
+}

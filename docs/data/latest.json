@@ -1,37 +1,37 @@
 {
-  "aktualisiert": "2026-11-09T19:00:09+00:00",
+  "aktualisiert": "2026-11-09T21:54:03+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-09T19:00:09+00:00",
+      "stand": "2026-11-09T21:54:03+00:00",
       "eintraege": [
         {
-          "titel": "Bei Personenkontrolle – Polizei erschiesst angreifenden Hund im Kreis 11",
-          "untertitel": "In der Nacht auf Freitag hat die Stadtpolizei Zürich im Kreis 11 einen 60 Kilo schweren Presa-Canario-Hund erschossen.",
-          "link": "https://www.srf.ch/news/schweiz/bei-personenkontrolle-polizei-erschiesst-angreifenden-hund-im-kreis-11",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/e0842d.webp",
-          "quelle": "SRF",
-          "info": "4 Quellen berichten",
-          "trend": "neu"
-        },
-        {
-          "titel": "Kantonsklausel im Bundesrat – Zwei Bundesräte aus einem Kanton? Das war lange verboten",
-          "untertitel": "Früher galt: ein Bundesrat pro Kanton. 1999 ist die Regel gefallen. Die Herkunft spielt aber weiter eine wichtige Rolle.",
-          "link": "https://www.srf.ch/news/schweiz/kantonsklausel-im-bundesrat-zwei-bundesraete-aus-einem-kanton-das-war-lange-verboten",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/195c67.webp",
-          "quelle": "SRF",
+          "titel": "Wetziker Imam tritt nach homophoben Posts von Ämtern zurück",
+          "untertitel": "Lange galt Bashkim Aliu als Brückenbauer. Nun tritt der Wetziker Imam zurück, nachdem Recherchen homophobe Äusserungen und seine Teilnahme an einer Konferenz im Umfeld der …",
+          "link": "https://www.blick.ch/schweiz/zuerich/homophobe-posts-wetziker-imam-bashkim-aliu-tritt-zurueck/1182q3b",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/ZKlktktTURBXy85Yjk4MmMwYS04YzY2LTRmNGMtYmQ5Yy03MDAzYTVhY2I4M2EucG5nkpMFzQJYzQE7kwmmMGQ0M2U4Bg/kewlhqt43b.jpg",
+          "quelle": "Blick",
           "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Grosse Flammen aus Fenster – Feuer in Zürcher Bundesasylzentrum ausgebrochen",
-          "untertitel": "Im Bundesasylzentrum an der Zürcher Pfingstweidstrasse ist ein Feuer ausgebrochen – die Feuerwehr ist vor Ort.",
-          "link": "https://www.srf.ch/news/schweiz/grosse-flammen-aus-fenster-feuer-in-zuercher-bundesasylzentrum-ausgebrochen",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/a76025e.webp",
-          "quelle": "SRF",
+          "titel": "Video zeigt grosse Rauchsäule",
+          "untertitel": "Im Bundesasylzentrum in Zürich ist am Montag gegen 17 Uhr ein Brand ausgebrochen. Die Stadtpolizei bestätigt den Einsatz, weitere Angaben lagen zunächst nicht vor.",
+          "link": "https://www.blick.ch/schweiz/zuerich/brand-im-bundesasylzentrum-zuerich/tyv2q1k",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/1OQktkuTURBXy9jYzdlZDkzZS1kODQ4LTQwZmEtOGYwNS1hNWNhOGU5NTVjNWUuanBlZ5KTBc0CWM0BO5MJpjEyNDY2MQY/q7ajxxc3r4o.jpg",
+          "quelle": "Blick",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Grosse Suchaktion nach Emma (13) – sie verschwand auf Schulweg",
+          "untertitel": "Am Sonntag wurde die 13-jährige Lisa aus Berlin tot aufgefunden, nachdem sie vermisst wurde. Nur einen Tag später bereitet das Verschwinden der gleichaltrigen Emma aus dem …",
+          "link": "https://www.20min.ch/story/saarland-d-grosse-suchaktion-nach-emma-13-sie-verschwand-auf-schulweg-103664872",
+          "bild": "https://image.20min.ch/2026/11/09/a9332c47-17d2-4c2c-a1fc-b9554f6a91ff.jpg?s=c83bd7382e77839f9915307dbed4ad26",
+          "quelle": "20 Minuten",
           "info": "3 Quellen berichten",
           "trend": "neu"
         }
@@ -41,24 +41,24 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-09T19:00:09+00:00",
+      "stand": "2026-11-09T21:54:03+00:00",
       "eintraege": [
         {
-          "titel": "France accuses Iran of supermarket fridge hacking",
-          "untertitel": "The cyber-attack last month saw fridges and freezers in hundreds of supermarkets across France heated up.",
-          "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0bc/live/eec149b0-dc5d-11f1-8fe6-5becaee5408f.jpg",
+          "titel": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+          "untertitel": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
+          "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/c8a877f0-dc7e-11f1-93e1-3b657b665bcf.png",
           "quelle": "BBC",
           "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-          "untertitel": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
-          "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f5c/live/7cc0b9e0-dc6c-11f1-b441-2b33b063138f.jpg",
+          "titel": "France accuses Iran of supermarket fridge hacking",
+          "untertitel": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
+          "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0bc/live/eec149b0-dc5d-11f1-8fe6-5becaee5408f.jpg",
           "quelle": "BBC",
-          "info": "3 Quellen berichten",
+          "info": "2 Quellen berichten",
           "trend": "neu"
         },
         {
@@ -76,32 +76,32 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-09T19:00:09+00:00",
+      "stand": "2026-11-09T21:54:03+00:00",
       "eintraege": [
         {
-          "titel": "hünenberg",
-          "untertitel": "Drei Verletzte nach Verkehrsunfall in Hünenberg ZG",
-          "link": "https://www.blick.ch/schweiz/zentralschweiz/zug/drei-verletzte-nach-verkehrsunfall-in-huenenberg-zg/yvy8zjm",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSnSIgBbkrqVP-pYd2ewOjFaoQMFz87fvJ4uaOfkuxe1yDdZsigLVHV71DynM",
+          "titel": "ehc basel",
+          "untertitel": "Swiss-League-Klub bläst zum Angriff auf National League",
+          "link": "https://www.blick.ch/sport/eishockey/nlb/ehc-basel-will-wieder-in-die-national-league-aufsteigen/j7lem3t",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRwoEjmxl5bYGw8027bWmpTD5bovG7-d1l6R5PFsbaxKD9eId3iccbSQAc7Xw",
           "quelle": "Google Trends · Blick",
           "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "bombendrohung",
-          "untertitel": "Bombendrohungen gegen irische Medien – Mitarbeiter evakuiert",
-          "link": "https://www.srf.ch/news/international/e-mail-mit-drohung-bombendrohungen-gegen-irische-medien-mitarbeiter-evakuiert",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ95pI5zet6J6lUNCeRP96q6rwC0Ffzpx5E-_GSoP8hobkglA2zhRsN6BwrBoA",
-          "quelle": "Google Trends · SRF",
+          "titel": "aryna sabalenka",
+          "untertitel": "Where to watch Aryna Sabalenka vs. Elina Svitolina WTA Finals tennis for free today",
+          "link": "https://www.mlive.com/tv/2026/11/where-to-watch-aryna-sabalenka-vs-elina-svitolina-wta-finals-tennis-for-free-today.html",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRuJgGSdqspQ_vbAEWPLjq56jjKUniVI54DJGWrK1YFZvE8V_SLG_WKq3O1IfQ",
+          "quelle": "Google Trends · MLive.com",
           "info": "200+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "bundesasylzentrum zürich",
-          "untertitel": "Grosse Flammen aus Fenster - Feuer in Zürcher Bundesasylzentrum ausgebrochen",
-          "link": "https://www.srf.ch/news/schweiz/grosse-flammen-aus-fenster-feuer-in-zuercher-bundesasylzentrum-ausgebrochen",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXKeORX_CN8G4vSWCELZ6aLDo2ZQaCJjGTUOW5rWKg1_2itrWwiu04At_Qjp0",
-          "quelle": "Google Trends · SRF",
+          "titel": "gta vi",
+          "untertitel": "Take-Two Interactive Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call",
+          "link": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/11/63024727/take-two-interactive-earnings-are-imminent-these-most-accurate-analysts-revise-forecasts-ahead-of-earnings-call",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQbvSe4D-bpn7gZ3QOHophbMJeK42Lka-q7NOOArtxy8ISeOn4pDdFW7iUouIM",
+          "quelle": "Google Trends · Benzinga",
           "info": "100+ Suchanfragen",
           "trend": "neu"
         }
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-09T19:00:09+00:00",
+      "stand": "2026-11-09T21:54:03+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-09T16:09:12+00:00",
+      "stand": "2026-11-09T21:54:03+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -158,15 +158,6 @@
           "trend": "gleich"
         },
         {
-          "titel": "RONZHEIMER.",
-          "untertitel": "Paul Ronzheimer",
-          "link": "https://podcasts.apple.com/ch/podcast/ronzheimer/id1700432142",
-          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/16/ab/81/16ab81cb-e31f-5ea0-81a7-902a96dfd750/mza_17924075471806194431.jpg/300x300bb.png",
-          "quelle": "Apple Podcasts Charts CH",
-          "info": "Nachrichten",
-          "trend": "hoch"
-        },
-        {
           "titel": "MORD AUF EX",
           "untertitel": "Leonie Bartsch & Linn Schütze",
           "link": "https://podcasts.apple.com/ch/podcast/mord-auf-ex/id1486608425",
@@ -174,6 +165,15 @@
           "quelle": "Apple Podcasts Charts CH",
           "info": "Wahre Kriminalfälle, Geschichte",
           "trend": "neu"
+        },
+        {
+          "titel": "RONZHEIMER.",
+          "untertitel": "Paul Ronzheimer",
+          "link": "https://podcasts.apple.com/ch/podcast/ronzheimer/id1700432142",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/16/ab/81/16ab81cb-e31f-5ea0-81a7-902a96dfd750/mza_17924075471806194431.jpg/300x300bb.png",
+          "quelle": "Apple Podcasts Charts CH",
+          "info": "Nachrichten",
+          "trend": "gleich"
         }
       ]
     },
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-09T19:00:09+00:00",
+      "stand": "2026-11-09T21:54:03+00:00",
       "eintraege": [
         {
           "titel": "Toter nach Konzert: Marco K. ist der Neonazi-Schläger von Tuggen SZ",
@@ -207,11 +207,11 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-09T19:00:09+00:00",
+      "stand": "2026-11-09T21:54:03+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
-          "untertitel": "Regenschauer · 9° bis 16°",
+          "untertitel": "Leichter Regen · 8° bis 15°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -229,7 +229,7 @@
         },
         {
           "titel": "Basel",
-          "untertitel": "Regenschauer · 10° bis 12°",
+          "untertitel": "Regenschauer · 9° bis 12°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -238,20 +238,20 @@
         },
         {
           "titel": "Genf",
-          "untertitel": "Gewitter · 9° bis 16°",
+          "untertitel": "Regen · 9° bis 15°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
           "info": "Regenrisiko 100%",
-          "emoji": "⛈️"
+          "emoji": "🌧️"
         },
         {
           "titel": "Lugano",
-          "untertitel": "Leichter Regen · 7° bis 13°",
+          "untertitel": "Leichter Regen · 8° bis 13°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 75%",
+          "info": "Regenrisiko 93%",
           "emoji": "🌦️"
         }
       ]
