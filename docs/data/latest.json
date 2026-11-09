@@ -1,22 +1,13 @@
 {
-  "aktualisiert": "2026-11-09T16:09:12+00:00",
+  "aktualisiert": "2026-11-09T19:00:09+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-09T16:09:12+00:00",
+      "stand": "2026-11-09T19:00:09+00:00",
       "eintraege": [
-        {
-          "titel": "Bub (6) vermisst: Kinderschreie führen Polizei in Schlucht",
-          "untertitel": "Ein an Unterkühlung leidender 6-Jähriger wurde am Sonntagabend aus der Pilouvi-Schlucht gerettet. Die Rega musste eine anspruchsvolle Windenrettung durchführen.",
-          "link": "https://www.20min.ch/story/la-neuveville-be-anspruchsvolle-rega-rettung-bub-6-steckte-in-schlucht-fest-103664633",
-          "bild": "https://image.20min.ch/2026/11/09/f4dc000f-a35a-4c44-a093-80099046c655.jpg?s=ce0b0dcf64bda72fd2f9dd9f58441278",
-          "quelle": "20 Minuten",
-          "info": "4 Quellen berichten",
-          "trend": "neu"
-        },
         {
           "titel": "Bei Personenkontrolle – Polizei erschiesst angreifenden Hund im Kreis 11",
           "untertitel": "In der Nacht auf Freitag hat die Stadtpolizei Zürich im Kreis 11 einen 60 Kilo schweren Presa-Canario-Hund erschossen.",
@@ -27,11 +18,20 @@
           "trend": "neu"
         },
         {
-          "titel": "Wenn Mütter verreisen: «Wieso reicht der Vater allein nicht aus?»",
-          "untertitel": "Ein virales Video zeigt, wer die Kinder betreut, wenn Mütter verreisen. Dass neben den Vätern oft weitere weibliche Personen einspringen, sorgt für Diskussionen. Wie sieht das …",
-          "link": "https://www.20min.ch/story/kinderbetreuung-video-ueber-girls-trip-der-muetter-sorgt-im-netz-fuer-streit-103664607",
-          "bild": "https://image.20min.ch/2026/11/09/11a0524a-70d5-4f21-9269-a8cdf9bf7fdd.jpg?s=4eab9ed5fd3add3f335978571b5b77ab",
-          "quelle": "20 Minuten",
+          "titel": "Kantonsklausel im Bundesrat – Zwei Bundesräte aus einem Kanton? Das war lange verboten",
+          "untertitel": "Früher galt: ein Bundesrat pro Kanton. 1999 ist die Regel gefallen. Die Herkunft spielt aber weiter eine wichtige Rolle.",
+          "link": "https://www.srf.ch/news/schweiz/kantonsklausel-im-bundesrat-zwei-bundesraete-aus-einem-kanton-das-war-lange-verboten",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/195c67.webp",
+          "quelle": "SRF",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Grosse Flammen aus Fenster – Feuer in Zürcher Bundesasylzentrum ausgebrochen",
+          "untertitel": "Im Bundesasylzentrum an der Zürcher Pfingstweidstrasse ist ein Feuer ausgebrochen – die Feuerwehr ist vor Ort.",
+          "link": "https://www.srf.ch/news/schweiz/grosse-flammen-aus-fenster-feuer-in-zuercher-bundesasylzentrum-ausgebrochen",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/a76025e.webp",
+          "quelle": "SRF",
           "info": "3 Quellen berichten",
           "trend": "neu"
         }
@@ -41,34 +41,34 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-09T16:09:12+00:00",
+      "stand": "2026-11-09T19:00:09+00:00",
       "eintraege": [
         {
-          "titel": "Krakow shooting suspect has died in hospital, police say",
-          "untertitel": "Six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.",
-          "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/707b/live/625f7400-dc3b-11f1-b441-2b33b063138f.jpg",
+          "titel": "France accuses Iran of supermarket fridge hacking",
+          "untertitel": "The cyber-attack last month saw fridges and freezers in hundreds of supermarkets across France heated up.",
+          "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0bc/live/eec149b0-dc5d-11f1-8fe6-5becaee5408f.jpg",
           "quelle": "BBC",
-          "info": "2 Quellen berichten",
+          "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Trump says he was 'kidding' about Dana White press secretary offer",
-          "untertitel": "The president told the Ultimate Fighting Championship boss to \"please take the job\" in a Truth Social post on Saturday.",
-          "link": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcbb/live/2fcfac50-dc11-11f1-a631-078d47c5aafb.jpg",
+          "titel": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+          "untertitel": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+          "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f5c/live/7cc0b9e0-dc6c-11f1-b441-2b33b063138f.jpg",
           "quelle": "BBC",
-          "info": "2 Quellen berichten",
+          "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
-          "untertitel": "Former liberation movement’s share of national vote almost 14 percentage points below 2021 result The African National Congress is on course to suffer a bruising defeat in South …",
-          "link": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections",
-          "bild": "https://i.guim.co.uk/img/media/ca80f1733421e850930a8c2267b7214219fef832/697_286_4649_3719/master/4649.jpg?width=140&quality=85&auto=format&fit=max&s=f4831bd02c6a91cdc25376cf8e9b3a3b",
+          "titel": "Collision of two trains in Egypt kills at least seven",
+          "untertitel": "President orders prompt investigation after one train derails in collision in al-Ayyat about 50km from Cairo Seven people were killed and at least 125 injured when two trains …",
+          "link": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
+          "bild": "https://i.guim.co.uk/img/media/7527078bbb41cf17b1a35718b70ebdceeada7492/206_271_4462_3569/master/4462.jpg?width=140&quality=85&auto=format&fit=max&s=24b5e48c937f7ee0a5afbdfdeb04cf94",
           "quelle": "The Guardian",
           "info": "2 Quellen berichten",
-          "trend": "gleich"
+          "trend": "runter"
         }
       ]
     },
@@ -76,32 +76,32 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-09T16:09:12+00:00",
+      "stand": "2026-11-09T19:00:09+00:00",
       "eintraege": [
         {
-          "titel": "christina hänni",
-          "untertitel": "",
-          "link": "https://www.google.ch/search?q=christina+h%C3%A4nni",
-          "bild": "",
-          "quelle": "Google Trends",
+          "titel": "hünenberg",
+          "untertitel": "Drei Verletzte nach Verkehrsunfall in Hünenberg ZG",
+          "link": "https://www.blick.ch/schweiz/zentralschweiz/zug/drei-verletzte-nach-verkehrsunfall-in-huenenberg-zg/yvy8zjm",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSnSIgBbkrqVP-pYd2ewOjFaoQMFz87fvJ4uaOfkuxe1yDdZsigLVHV71DynM",
+          "quelle": "Google Trends · Blick",
+          "info": "100+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "bombendrohung",
+          "untertitel": "Bombendrohungen gegen irische Medien – Mitarbeiter evakuiert",
+          "link": "https://www.srf.ch/news/international/e-mail-mit-drohung-bombendrohungen-gegen-irische-medien-mitarbeiter-evakuiert",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ95pI5zet6J6lUNCeRP96q6rwC0Ffzpx5E-_GSoP8hobkglA2zhRsN6BwrBoA",
+          "quelle": "Google Trends · SRF",
           "info": "200+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "russell brand",
-          "untertitel": "Russell Brand sentenced to more than 10 years for rape and sexual assault offences – latest updates",
-          "link": "https://www.theguardian.com/uk-news/live/2026/nov/09/russell-brand-sentencing-rape-sexual-assault-live-news-updates",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3n3OiOM4rXWW34K_-nZtOQmBvv0g9nctYri0bH9ipsb4zULumnptoVpvK5Tk",
-          "quelle": "Google Trends · The Guardian",
-          "info": "2000+ Suchanfragen",
-          "trend": "neu"
-        },
-        {
-          "titel": "frauenfeld",
-          "untertitel": "Frauenfeld TG: Wohnideen fürs Alter – letzter Abend der Themenreihe",
-          "link": "https://www.nau.ch/ort/frauenfeld/frauenfeld-tg-wohnideen-furs-alter-letzter-abend-der-themenreihe-67199709",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFzrbdZ3SmuPplvbguUFVTru8p-NM9MTcNFLe-ZAufnob312pWpgWdjw5ot2o",
-          "quelle": "Google Trends · Nau",
+          "titel": "bundesasylzentrum zürich",
+          "untertitel": "Grosse Flammen aus Fenster - Feuer in Zürcher Bundesasylzentrum ausgebrochen",
+          "link": "https://www.srf.ch/news/schweiz/grosse-flammen-aus-fenster-feuer-in-zuercher-bundesasylzentrum-ausgebrochen",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXKeORX_CN8G4vSWCELZ6aLDo2ZQaCJjGTUOW5rWKg1_2itrWwiu04At_Qjp0",
+          "quelle": "Google Trends · SRF",
           "info": "100+ Suchanfragen",
           "trend": "neu"
         }
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-09T16:09:12+00:00",
+      "stand": "2026-11-09T19:00:09+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-09T16:09:12+00:00",
+      "stand": "2026-11-09T19:00:09+00:00",
       "eintraege": [
         {
           "titel": "Toter nach Konzert: Marco K. ist der Neonazi-Schläger von Tuggen SZ",
@@ -207,11 +207,11 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-09T16:09:12+00:00",
+      "stand": "2026-11-09T19:00:09+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
-          "untertitel": "Leichter Regen · 9° bis 15°",
+          "untertitel": "Regenschauer · 9° bis 16°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -229,7 +229,7 @@
         },
         {
           "titel": "Basel",
-          "untertitel": "Regenschauer · 9° bis 11°",
+          "untertitel": "Regenschauer · 10° bis 12°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -238,12 +238,12 @@
         },
         {
           "titel": "Genf",
-          "untertitel": "Regen · 10° bis 18°",
+          "untertitel": "Gewitter · 9° bis 16°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
           "info": "Regenrisiko 100%",
-          "emoji": "🌧️"
+          "emoji": "⛈️"
         },
         {
           "titel": "Lugano",
@@ -251,7 +251,7 @@
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 58%",
+          "info": "Regenrisiko 75%",
           "emoji": "🌦️"
         }
       ]
