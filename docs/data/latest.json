@@ -1,37 +1,37 @@
 {
-  "aktualisiert": "2026-11-09T10:06:06+00:00",
+  "aktualisiert": "2026-11-09T13:21:05+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-09T10:06:06+00:00",
+      "stand": "2026-11-09T13:21:05+00:00",
       "eintraege": [
         {
-          "titel": "Trump über Kriegsende: Ukraine wird «etwas andere Form» haben",
-          "untertitel": "Seit dem 24. Februar 2022 herrscht Krieg in der Ukraine. Alle Entwicklungen im Land und in der europäischen Sicherheitslage findest du hier im Ticker.",
-          "link": "https://www.20min.ch/story/ukraine-krieg-angriffe-kiew-wolodimir-selenksi-medizinische-einrichtungen-getroffen-453678534597",
-          "bild": "https://image.20min.ch/2026/11/09/40868625-25af-4a2d-9779-e4f40a3e6524.jpg?s=3af9cbbb1704226cec8037b05ae3d0c8",
+          "titel": "Todesschütze hatte vier Waffen und 500 Schuss Munition dabei",
+          "untertitel": "Am Samstagnachmittag hat ein Täter im polnischen Krakau aus einem Auto geschossen und sechs Menschen getötet. Mindestens 15 Personen wurden verletzt, viele schwebten in …",
+          "link": "https://www.20min.ch/story/krakau-polen-schuetze-von-krakau-soll-radikale-ansichten-gehabt-haben-103663871",
+          "bild": "https://image.20min.ch/2026/11/09/42f89a83-3cbc-4869-9c07-8b6409d0d857.jpg?s=f3aed6693a8c36d965297c19d5d0e55e",
           "quelle": "20 Minuten",
           "info": "4 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "1. WM-Sieg: Schweizerinnen gewinnen gegen Tschechien +++ Alcaraz siegt in Paris",
+          "titel": "Drei Spielsperren für Ajeti +++ 1. WM-Sieg: Schweizerinnen gewinnen gegen Tschechien",
           "untertitel": "Die wichtigsten News aus der weiten Welt des Sports: Fussball, Eishockey, Boxen, Tennis und mehr.",
-          "link": "https://www.watson.ch/sport/sport-news/195933263-sportnews-ticker-1-wm-sieg-schweizerinnen-gewinnen-gegen-tschechien",
+          "link": "https://www.watson.ch/sport/sport-news/195933263-sportnews-ticker-drei-spielsperren-fuer-albian-ajeti",
           "bild": "",
           "quelle": "watson",
           "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Todesschütze von Krakau ist tot",
-          "untertitel": "Am Samstagnachmittag hat ein Täter im polnischen Krakau aus einem Auto geschossen und sechs Menschen getötet. Mindestens 15 Personen wurden verletzt, viele schwebten in …",
-          "link": "https://www.20min.ch/story/krakau-polen-schuetze-von-krakau-soll-radikale-ansichten-gehabt-haben-103663871",
-          "bild": "https://image.20min.ch/2026/11/09/42f89a83-3cbc-4869-9c07-8b6409d0d857.jpg?s=f3aed6693a8c36d965297c19d5d0e55e",
-          "quelle": "20 Minuten",
+          "titel": "Betrunkene Mercedes-Fahrerin (35) kracht in Betonpfeiler",
+          "untertitel": "Auf dem Rastplatz Kölliken-Nord AG ist eine 35-jährige Mercedes-Fahrerin frontal in einen Betonpfeiler der Tankstelle gekracht. Sie wurde leicht verletzt. Die Polizei stellte …",
+          "link": "https://www.blick.ch/schweiz/mittelland/aargau/betrunkene-mercedes-fahrerin-35-kracht-in-betonpfeiler/n3905ts",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/u0TktkuTURBXy84Njc4NDI5OC0wZDcxLTQ1ZDEtYThiMS0xOWUyYjYxNzE4ZDUuanBlZ5KTBc0CWM0BO5MJpmM4ZTYwYQY/hho6b5liv05.jpg",
+          "quelle": "Blick",
           "info": "3 Quellen berichten",
           "trend": "neu"
         }
@@ -41,22 +41,22 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-09T10:06:06+00:00",
+      "stand": "2026-11-09T13:21:05+00:00",
       "eintraege": [
         {
-          "titel": "Pope delivers veiled rebuke of Milei's austerity measures",
-          "untertitel": "Pope Leo made the comments as he arrived in Argentina on the second leg of his Latin America tour.",
-          "link": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d83/live/ef505e30-dbf8-11f1-93e1-3b657b665bcf.jpg",
+          "titel": "Krakow shooting suspect has died in hospital, police say",
+          "untertitel": "Six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.",
+          "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/707b/live/625f7400-dc3b-11f1-b441-2b33b063138f.jpg",
           "quelle": "BBC",
-          "info": "3 Quellen berichten",
+          "info": "2 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Krakow shooting suspect has died in hospital, police say",
-          "untertitel": "At least six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.",
-          "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b131/live/b7c6ce50-dc06-11f1-b6f4-7b86d13131ad.jpg",
+          "titel": "Trump says he was 'kidding' about Dana White press secretary offer",
+          "untertitel": "The president told the Ultimate Fighting Championship boss to \"please take the job\" in a Truth Social post on Saturday.",
+          "link": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcbb/live/2fcfac50-dc11-11f1-a631-078d47c5aafb.jpg",
           "quelle": "BBC",
           "info": "2 Quellen berichten",
           "trend": "neu"
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-09T10:06:06+00:00",
+      "stand": "2026-11-09T13:21:05+00:00",
       "eintraege": [
         {
-          "titel": "st. galler tagblatt",
-          "untertitel": "Parmelin-Nachfolge: Mit Aeschi erhält das Kandidatenfeld klare Konturen",
-          "link": "https://www.srf.ch/news/schweiz/parmelin-nachfolge-mit-aeschi-erhaelt-das-kandidatenfeld-klare-konturen",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTVypgIYRhRvdTNQfso_aIgAxzY2i47krcY50oBCRs2qgz7rboNBM3SZaSzPA",
-          "quelle": "Google Trends · SRF",
-          "info": "500+ Suchanfragen",
+          "titel": "frauenfeld",
+          "untertitel": "Alle Bäume an der Promenade müssen weg: Stadträtin reagiert auf Kritik",
+          "link": "https://www.thurgauerzeitung.ch/ostschweiz/frauenfeld/promenade-in-frauenfeld-stadt-will-kastanienbaeume-faellen-lassen-ld.4261499",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSa7vdLjeN3sSG82IHJs4gOP4CaMGnheE1BfwZo1NoCIRE-MTZTtM9GEVubcas",
+          "quelle": "Google Trends · Thurgauer Zeitung",
+          "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "logement",
-          "untertitel": "Lesneven. Logement : un service pour les 16-30 ans",
-          "link": "https://www.ouest-france.fr/bretagne/lesneven-29260/lesneven-logement-un-service-pour-les-16-30-ans-08a672cc-d77e-11f1-9911-9179baff22e2",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdM2ojA4sm1Li_7XiJZxDM4U5CxGa49Uc6_sCQhRB6lSyYiMMD1U6zMtIsbA0",
-          "quelle": "Google Trends · Ouest-France",
-          "info": "500+ Suchanfragen",
-          "trend": "neu"
-        },
-        {
-          "titel": "ennetbühl",
-          "untertitel": "Unfall in Ennetbühl SG: Vier Verletzte nach Frontalkollision",
-          "link": "https://www.blick.ch/schweiz/ostschweiz/st-gallen/unfall-in-ennetbuehl-sg-vier-verletzte-nach-frontalkollision/swfee89",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRX-ADGVPb6Xwwf9O1t0Gv6DkjXmh8XNqyAPD8c3UM2ZgSXwu6nbQTvP0SijR0",
-          "quelle": "Google Trends · Blick",
+          "titel": "verletzt",
+          "untertitel": "Rufi: Bei Holzarbeiten schwer verletzt",
+          "link": "https://www.sg.ch/news/sgch_kantonspolizei/2026/11/rufi--bei-holzarbeiten-schwer-verletzt.html",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCPr-0xhKZzFW9wKHTYFi0-fKqZHrFesEvuq57kO3NiPGt-xaeJVlik76jZNM",
+          "quelle": "Google Trends · Kanton St. Gallen",
           "info": "200+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "cancer",
+          "untertitel": "Biden Says Health to Limit Book Promotion as Cancer ‘Slows Me Down’",
+          "link": "https://www.nytimes.com/2026/11/08/us/politics/biden-cancer-health-memoir.html",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTq-SM0fKfYMN-L7KCsbob52hrXpfmTvH4EGpGnPGd09fy0K2TffRDeq2_N44I",
+          "quelle": "Google Trends · The New York Times",
+          "info": "500+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-09T10:06:06+00:00",
+      "stand": "2026-11-09T13:21:05+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-09T10:06:06+00:00",
+      "stand": "2026-11-09T13:21:05+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -167,13 +167,13 @@
           "trend": "hoch"
         },
         {
-          "titel": "Lanz + Precht",
-          "untertitel": "ZDF, Markus Lanz & Richard David Precht",
-          "link": "https://podcasts.apple.com/ch/podcast/lanz-precht/id1582828457",
-          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/77/6b/e0/776be00d-6661-737d-a7dd-f5662c5fa110/mza_18360247097984895676.jpg/300x300bb.png",
+          "titel": "MORD AUF EX",
+          "untertitel": "Leonie Bartsch & Linn Schütze",
+          "link": "https://podcasts.apple.com/ch/podcast/mord-auf-ex/id1486608425",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b9/17/07/b91707ba-b4bf-2021-bafe-b4dd1e1f0196/mza_6370841172422755338.jpg/300x300bb.png",
           "quelle": "Apple Podcasts Charts CH",
-          "info": "Nachrichten, Gesellschaft und Kultur",
-          "trend": "runter"
+          "info": "Wahre Kriminalfälle, Geschichte",
+          "trend": "neu"
         }
       ]
     },
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-09T10:06:06+00:00",
+      "stand": "2026-11-09T13:21:05+00:00",
       "eintraege": [
         {
           "titel": "Toter nach Konzert: Marco K. ist der Neonazi-Schläger von Tuggen SZ",
@@ -193,13 +193,13 @@
           "trend": "gleich"
         },
         {
-          "titel": "Sicherheitsempfinden im Wandel – Eine Ausstellung zur Kunst, Risiko zu leben",
-          "untertitel": "Das Stapferhaus Lenzburg befasst sich mit der Beziehung zwischen Sicherheit und Risiko. Ein Experte ordnet ein.",
-          "link": "https://www.srf.ch/news/schweiz/sicherheitsempfinden-im-wandel-eine-ausstellung-zur-kunst-risiko-zu-leben",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/3d63bd.webp",
+          "titel": "Ausstellung «Alpensounds» – Nur für Boomer? Volksmusik kann auch anders!",
+          "untertitel": "Wie viel Veränderung verträgt Tradition? Das Alpine Museum in Bern beleuchtet den Wandel der Schweizer Volksmusik.",
+          "link": "https://www.srf.ch/news/gesellschaft/ausstellung-alpensounds-nur-fuer-boomer-volksmusik-kann-auch-anders",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/65b511.webp",
           "quelle": "SRF",
           "info": "",
-          "trend": "gleich"
+          "trend": "neu"
         }
       ]
     },
@@ -207,11 +207,11 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-09T10:06:06+00:00",
+      "stand": "2026-11-09T13:21:05+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
-          "untertitel": "Leichter Regen · 10° bis 13°",
+          "untertitel": "Leichter Regen · 10° bis 14°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -220,7 +220,7 @@
         },
         {
           "titel": "Bern",
-          "untertitel": "Regenschauer · 9° bis 14°",
+          "untertitel": "Regenschauer · 9° bis 15°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -229,16 +229,16 @@
         },
         {
           "titel": "Basel",
-          "untertitel": "Regen · 9° bis 11°",
+          "untertitel": "Leichter Regen · 9° bis 11°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
           "info": "Regenrisiko 100%",
-          "emoji": "🌧️"
+          "emoji": "🌦️"
         },
         {
           "titel": "Genf",
-          "untertitel": "Leichter Regen · 10° bis 18°",
+          "untertitel": "Regenschauer · 11° bis 18°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -247,7 +247,7 @@
         },
         {
           "titel": "Lugano",
-          "untertitel": "Leichter Regen · 8° bis 14°",
+          "untertitel": "Leichter Regen · 7° bis 13°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
