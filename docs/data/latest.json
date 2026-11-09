@@ -1,12 +1,12 @@
 {
-  "aktualisiert": "2026-11-09T01:14:28+00:00",
+  "aktualisiert": "2026-11-09T04:01:31+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-09T01:14:28+00:00",
+      "stand": "2026-11-09T04:01:31+00:00",
       "eintraege": [
         {
           "titel": "«Wir akzeptieren nicht, dass Arbeitsplätze verschwinden»",
@@ -18,22 +18,22 @@
           "trend": "gleich"
         },
         {
+          "titel": "1. WM-Sieg: Schweizerinnen gewinnen gegen Tschechien +++ Alcaraz siegt in Paris",
+          "untertitel": "Die wichtigsten News aus der weiten Welt des Sports: Fussball, Eishockey, Boxen, Tennis und mehr.",
+          "link": "https://www.watson.ch/sport/sport-news/195933263-sportnews-ticker-1-wm-sieg-schweizerinnen-gewinnen-gegen-tschechien",
+          "bild": "",
+          "quelle": "watson",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
+        {
           "titel": "Lisa (13) verschwand auf dem Schulweg – Polizei entdeckt Leiche",
           "untertitel": "Seit Dienstag wurde die 13-jährige Lisa aus Berlin vermisst. Nun entdeckte die Polizei in Brandenburg eine Mädchenleiche und einen schwer verletzten Mann.",
           "link": "https://www.20min.ch/story/berlin-lisa-13-verschwand-auf-dem-schulweg-polizei-entdeckt-leiche-103664321",
           "bild": "https://image.20min.ch/2026/11/08/338cceac-2a1c-4d54-8c9e-695b4388a85c.png?s=86f230d19d8cb99dd4920693a0f5d11e",
           "quelle": "20 Minuten",
           "info": "3 Quellen berichten",
-          "trend": "gleich"
-        },
-        {
-          "titel": "Formel 1: GP Brasilien – Norris triumphiert – Verstappen mit Riesen-Aufholjagd",
-          "untertitel": "Der Brite siegt in Sao Paulo, der Niederländer fährt von Rang 21 auf 2. Mercedes gewinnt die Konstrukteure-WM.",
-          "link": "https://www.srf.ch/sport/motorsport/motorrad/formel-1-gp-brasilien-norris-triumphiert-verstappen-mit-riesen-aufholjagd",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/6fc99b.webp",
-          "quelle": "SRF",
-          "info": "3 Quellen berichten",
-          "trend": "gleich"
+          "trend": "runter"
         }
       ]
     },
@@ -41,8 +41,17 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-09T01:14:28+00:00",
+      "stand": "2026-11-09T04:01:31+00:00",
       "eintraege": [
+        {
+          "titel": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit",
+          "untertitel": "Pontiff tells Argentina’s president the economy must benefit all on second stop of 12-day Latin America tour Pope Leo XIV has delivered a stinging critique of Argentine president …",
+          "link": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
+          "bild": "https://i.guim.co.uk/img/media/cebae71e5fdd86b5579126f7d39addd8b86cf7f9/123_0_2842_2274/master/2842.jpg?width=140&quality=85&auto=format&fit=max&s=cf86259dc8237fa6a6872433d1541e66",
+          "quelle": "The Guardian",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
         {
           "titel": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
           "untertitel": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
@@ -50,7 +59,7 @@
           "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0554/live/2786bc40-daa0-11f1-a523-f508a3e924cb.jpg",
           "quelle": "BBC",
           "info": "3 Quellen berichten",
-          "trend": "gleich"
+          "trend": "runter"
         },
         {
           "titel": "Collision of two trains in Egypt kills at least seven",
@@ -59,16 +68,7 @@
           "bild": "https://i.guim.co.uk/img/media/7527078bbb41cf17b1a35718b70ebdceeada7492/206_271_4462_3569/master/4462.jpg?width=140&quality=85&auto=format&fit=max&s=24b5e48c937f7ee0a5afbdfdeb04cf94",
           "quelle": "The Guardian",
           "info": "2 Quellen berichten",
-          "trend": "gleich"
-        },
-        {
-          "titel": "Papst Leo XIV. fordert in Argentinien mehr Rücksicht auf Schwache",
-          "untertitel": "Zu Beginn seines Argentinienbesuchs hat Papst Leo XIV. Kritik an der \"Kettensägen-Politik\" von Präsident Milei geübt und zu mehr Rücksicht aufgerufen. Seit fast vier Jahrzehnten …",
-          "link": "https://www.tagesschau.de/ausland/amerika/papst-in-argentinien-100.html",
-          "bild": "",
-          "quelle": "tagesschau",
-          "info": "2 Quellen berichten",
-          "trend": "neu"
+          "trend": "runter"
         }
       ]
     },
@@ -76,32 +76,32 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-09T01:14:28+00:00",
+      "stand": "2026-11-09T04:01:31+00:00",
       "eintraege": [
         {
-          "titel": "classement atlético madrid – fc barcelone",
-          "untertitel": "Barcelone reprend sa marche en avant en gagnant le match au sommet",
-          "link": "https://www.blick.ch/fr/sport/football/laliga/barcelone-reprend-sa-marche-en-avant-en-gagnant-le-match-au-sommet/26fztq1",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQizgvzRGG1hAgHodKtFoHC9SPSKPvdohVRJf6bgCM7k55Z1jPRm6WlC0y_Krc",
-          "quelle": "Google Trends · Blick",
-          "info": "200+ Suchanfragen",
+          "titel": "cyberangriff",
+          "untertitel": "Hacker legen Schweizer Kühlgeräte lahm. Auch Spitäler und Verkehr sind gefährdet",
+          "link": "https://www.tagesanzeiger.ch/hacker-greifen-kuehlsysteme-an-gefahren-fuer-die-schweiz-909784104320",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjgNoSkQ20Z8xO7LlQ4-r4qYlXnMNrH8Q8Cgucs-YfyRoI8bKPEze4H-whRyA",
+          "quelle": "Google Trends · Tages-Anzeiger",
+          "info": "2000+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "gta 6",
-          "untertitel": "Rockstar Might DMCA GTA 6 Spoilers, Even After Launch",
-          "link": "https://insider-gaming.com/rockstar-might-dmca-gta-6-spoilers/",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuvQ-0e3sPciIZG9bLr_3ha8z3lsFnNalTzY3oChmFeZ0QwDk5Qb-MIbziRHc",
-          "quelle": "Google Trends · Insider Gaming",
-          "info": "200+ Suchanfragen",
+          "titel": "bahnhof",
+          "untertitel": "Bahnhof in Schaffhausen - Verdächtiger Koffer am Bahnhof: Polizei gibt Entwarnung",
+          "link": "https://www.srf.ch/news/schweiz/bahnhof-in-schaffhausen-verdaechtiger-koffer-am-bahnhof-polizei-gibt-entwarnung",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQirAC4UYw0FVPSixkff11rBckG5twXB9eriGfi77f7u4OiMp5rnLv303j7wlk",
+          "quelle": "Google Trends · SRF",
+          "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "huile olive espagne",
-          "untertitel": "L’Espagne bloque la commercialisation de 188.000 tonnes d’huile d’olive",
-          "link": "https://www.20minutes.fr/monde/espagne/4261297-20261108-espagne-pourquoi-agriculteurs-recu-ordre-bloquer-commercialisation-188-000-tonnes-huile-olive",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLLZW2ZMpKZhyLLVo6iR5r01AyGT6BJae_2whHE1jOgGwO5-7i6FtBkKSlYn0",
-          "quelle": "Google Trends · 20 Minutes",
+          "titel": "mikaela shiffrin",
+          "untertitel": "Mikaela Shiffrin Reflects On New Approach To Ski Racing After Sölden World Cup Opener",
+          "link": "https://unofficialnetworks.com/2026/11/08/mikaela-shiffrin-reflects-after-solden/",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0LTrCUu1kMLPffNxttl4HWHRB1fRvONlFbLiD0XdU7h4BqRLJcPfpEzdpRo4",
+          "quelle": "Google Trends · Unofficial Networks",
           "info": "200+ Suchanfragen",
           "trend": "neu"
         }
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-09T01:14:28+00:00",
+      "stand": "2026-11-09T04:01:31+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-09T01:14:28+00:00",
+      "stand": "2026-11-09T04:01:31+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-09T01:14:28+00:00",
+      "stand": "2026-11-09T04:01:31+00:00",
       "eintraege": [
         {
           "titel": "Toter nach Konzert: Marco K. ist der Neonazi-Schläger von Tuggen SZ",
@@ -207,11 +207,11 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-09T01:14:28+00:00",
+      "stand": "2026-11-09T04:01:31+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
-          "untertitel": "Leichter Regen · 9° bis 13°",
+          "untertitel": "Leichter Regen · 9° bis 12°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -220,7 +220,7 @@
         },
         {
           "titel": "Bern",
-          "untertitel": "Regenschauer · 8° bis 13°",
+          "untertitel": "Leichter Regen · 9° bis 13°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -238,7 +238,7 @@
         },
         {
           "titel": "Genf",
-          "untertitel": "Regenschauer · 11° bis 17°",
+          "untertitel": "Regenschauer · 11° bis 16°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
