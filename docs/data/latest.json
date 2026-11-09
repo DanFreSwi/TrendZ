@@ -1,12 +1,12 @@
 {
-  "aktualisiert": "2026-11-08T21:43:33+00:00",
+  "aktualisiert": "2026-11-09T01:14:28+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-08T21:43:33+00:00",
+      "stand": "2026-11-09T01:14:28+00:00",
       "eintraege": [
         {
           "titel": "«Wir akzeptieren nicht, dass Arbeitsplätze verschwinden»",
@@ -15,7 +15,7 @@
           "bild": "https://ocdn.eu/pulscms-transforms/1/jNoktkuTURBXy9jMDMxMGZiMy1iMmEyLTRkZDctOTk2MS1lNDBiNWQyZjM1NzcuanBlZ5KTBc0CWM0BO5MJpjkzYjc2YwY/dwhr4i0amp7.jpg",
           "quelle": "Blick",
           "info": "4 Quellen berichten",
-          "trend": "neu"
+          "trend": "gleich"
         },
         {
           "titel": "Lisa (13) verschwand auf dem Schulweg – Polizei entdeckt Leiche",
@@ -24,7 +24,7 @@
           "bild": "https://image.20min.ch/2026/11/08/338cceac-2a1c-4d54-8c9e-695b4388a85c.png?s=86f230d19d8cb99dd4920693a0f5d11e",
           "quelle": "20 Minuten",
           "info": "3 Quellen berichten",
-          "trend": "neu"
+          "trend": "gleich"
         },
         {
           "titel": "Formel 1: GP Brasilien – Norris triumphiert – Verstappen mit Riesen-Aufholjagd",
@@ -33,7 +33,7 @@
           "bild": "https://www.srf.ch/static/cms/images//320ws/6fc99b.webp",
           "quelle": "SRF",
           "info": "3 Quellen berichten",
-          "trend": "neu"
+          "trend": "gleich"
         }
       ]
     },
@@ -41,7 +41,7 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-08T21:43:33+00:00",
+      "stand": "2026-11-09T01:14:28+00:00",
       "eintraege": [
         {
           "titel": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
@@ -50,23 +50,23 @@
           "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0554/live/2786bc40-daa0-11f1-a523-f508a3e924cb.jpg",
           "quelle": "BBC",
           "info": "3 Quellen berichten",
-          "trend": "neu"
+          "trend": "gleich"
         },
         {
           "titel": "Collision of two trains in Egypt kills at least seven",
-          "untertitel": "President orders prompt investigation after one train derails in collision in al-Ayyat about 30 miles from Cairo Seven people were killed and more than 100 injured when two …",
+          "untertitel": "President orders prompt investigation after one train derails in collision in al-Ayyat about 50km from Cairo Seven people were killed and at least 125 injured when two trains …",
           "link": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
           "bild": "https://i.guim.co.uk/img/media/7527078bbb41cf17b1a35718b70ebdceeada7492/206_271_4462_3569/master/4462.jpg?width=140&quality=85&auto=format&fit=max&s=24b5e48c937f7ee0a5afbdfdeb04cf94",
           "quelle": "The Guardian",
           "info": "2 Quellen berichten",
-          "trend": "neu"
+          "trend": "gleich"
         },
         {
-          "titel": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
-          "untertitel": "Former liberation movement’s share of national vote almost 14 percentage points below 2021 result The African National Congress is on course to suffer a bruising defeat in South …",
-          "link": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections",
-          "bild": "https://i.guim.co.uk/img/media/ca80f1733421e850930a8c2267b7214219fef832/697_286_4649_3719/master/4649.jpg?width=140&quality=85&auto=format&fit=max&s=f4831bd02c6a91cdc25376cf8e9b3a3b",
-          "quelle": "The Guardian",
+          "titel": "Papst Leo XIV. fordert in Argentinien mehr Rücksicht auf Schwache",
+          "untertitel": "Zu Beginn seines Argentinienbesuchs hat Papst Leo XIV. Kritik an der \"Kettensägen-Politik\" von Präsident Milei geübt und zu mehr Rücksicht aufgerufen. Seit fast vier Jahrzehnten …",
+          "link": "https://www.tagesschau.de/ausland/amerika/papst-in-argentinien-100.html",
+          "bild": "",
+          "quelle": "tagesschau",
           "info": "2 Quellen berichten",
           "trend": "neu"
         }
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-08T21:43:33+00:00",
+      "stand": "2026-11-09T01:14:28+00:00",
       "eintraege": [
         {
-          "titel": "valentino rossi",
-          "untertitel": "MotoGP, Giannantonio, 2nd in the Sprint at Losail: “I was a bit upset because I didn’t have a soft tyre available”",
-          "link": "https://www.gpone.com/en/2026/11/07/motogp/giannantonio-2nd-in-the-sprint-at-losail-i-was-a-bit-upset-because-i-didnt-have-a-soft-tyre.html",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAGLGkoTASKUG6PWdbo7OaJAWns4pPlhajs2o13v22mink7RVXETYLN3j8RDM",
-          "quelle": "Google Trends · GPOne.com",
-          "info": "100+ Suchanfragen",
+          "titel": "classement atlético madrid – fc barcelone",
+          "untertitel": "Barcelone reprend sa marche en avant en gagnant le match au sommet",
+          "link": "https://www.blick.ch/fr/sport/football/laliga/barcelone-reprend-sa-marche-en-avant-en-gagnant-le-match-au-sommet/26fztq1",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQizgvzRGG1hAgHodKtFoHC9SPSKPvdohVRJf6bgCM7k55Z1jPRm6WlC0y_Krc",
+          "quelle": "Google Trends · Blick",
+          "info": "200+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "13 novembre",
-          "untertitel": "Vidéo. À Londres, les illuminations de Noël 2026 dévoilées à Regent Street",
-          "link": "https://fr.euronews.com/video/2026/11/06/londres-allume-ses-illuminations-de-noel-des-milliers-de-personnes-dans-les-rues",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDbG7-MrqWtxi3kRgyHSozYMcOPIRBuPf_aDtSLwt_R4qDUVyXLskDKofrtzI",
-          "quelle": "Google Trends · Euronews.com",
-          "info": "100+ Suchanfragen",
+          "titel": "gta 6",
+          "untertitel": "Rockstar Might DMCA GTA 6 Spoilers, Even After Launch",
+          "link": "https://insider-gaming.com/rockstar-might-dmca-gta-6-spoilers/",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuvQ-0e3sPciIZG9bLr_3ha8z3lsFnNalTzY3oChmFeZ0QwDk5Qb-MIbziRHc",
+          "quelle": "Google Trends · Insider Gaming",
+          "info": "200+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "alice huang",
-          "untertitel": "Statement from NVIDIA Board of Directors",
-          "link": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjCZHNG_dz8zbGDFGEGKs9xpu7wXxXPIT8CfNOdPbPkHVJx6XLsDgjnbLWNdQ",
-          "quelle": "Google Trends · NVIDIA Newsroom",
-          "info": "500+ Suchanfragen",
+          "titel": "huile olive espagne",
+          "untertitel": "L’Espagne bloque la commercialisation de 188.000 tonnes d’huile d’olive",
+          "link": "https://www.20minutes.fr/monde/espagne/4261297-20261108-espagne-pourquoi-agriculteurs-recu-ordre-bloquer-commercialisation-188-000-tonnes-huile-olive",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLLZW2ZMpKZhyLLVo6iR5r01AyGT6BJae_2whHE1jOgGwO5-7i6FtBkKSlYn0",
+          "quelle": "Google Trends · 20 Minutes",
+          "info": "200+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-08T21:43:33+00:00",
+      "stand": "2026-11-09T01:14:28+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-08T21:43:33+00:00",
+      "stand": "2026-11-09T01:14:28+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-08T21:43:33+00:00",
+      "stand": "2026-11-09T01:14:28+00:00",
       "eintraege": [
         {
           "titel": "Toter nach Konzert: Marco K. ist der Neonazi-Schläger von Tuggen SZ",
@@ -190,7 +190,7 @@
           "bild": "https://ocdn.eu/pulscms-transforms/1/bhEktkuTURBXy80ODc4MGRkMi1jOWY0LTRhYjAtYjNmMi05NDMzNWUzYmVhYmYuanBlZ5KTBc0CWM0BO5MJpjI5YWE2OAY/m6ac6okgmd.jpg",
           "quelle": "Blick",
           "info": "",
-          "trend": "neu"
+          "trend": "gleich"
         },
         {
           "titel": "Sicherheitsempfinden im Wandel – Eine Ausstellung zur Kunst, Risiko zu leben",
@@ -199,7 +199,7 @@
           "bild": "https://www.srf.ch/static/cms/images//320ws/3d63bd.webp",
           "quelle": "SRF",
           "info": "",
-          "trend": "neu"
+          "trend": "gleich"
         }
       ]
     },
@@ -207,11 +207,11 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-08T21:43:33+00:00",
+      "stand": "2026-11-09T01:14:28+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
-          "untertitel": "Leichter Regen · 6° bis 10°",
+          "untertitel": "Leichter Regen · 9° bis 13°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -220,16 +220,16 @@
         },
         {
           "titel": "Bern",
-          "untertitel": "Leichter Regen · 6° bis 9°",
+          "untertitel": "Regenschauer · 8° bis 13°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 88%",
+          "info": "Regenrisiko 100%",
           "emoji": "🌦️"
         },
         {
           "titel": "Basel",
-          "untertitel": "Leichter Regen · 6° bis 10°",
+          "untertitel": "Leichter Regen · 9° bis 11°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -238,21 +238,21 @@
         },
         {
           "titel": "Genf",
-          "untertitel": "Leichter Regen · 8° bis 13°",
+          "untertitel": "Regenschauer · 11° bis 17°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 70%",
+          "info": "Regenrisiko 100%",
           "emoji": "🌦️"
         },
         {
           "titel": "Lugano",
-          "untertitel": "Bewölkt · 4° bis 12°",
+          "untertitel": "Leichter Regen · 9° bis 14°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 20%",
-          "emoji": "☁️"
+          "info": "Regenrisiko 65%",
+          "emoji": "🌦️"
         }
       ]
     }
