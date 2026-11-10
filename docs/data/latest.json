@@ -1,36 +1,36 @@
 {
-  "aktualisiert": "2026-11-10T09:59:56+00:00",
+  "aktualisiert": "2026-11-10T13:10:05+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-10T09:59:56+00:00",
+      "stand": "2026-11-10T13:10:05+00:00",
       "eintraege": [
         {
-          "titel": "Behörden finden Stimmenrekorder nach Horror-Absturz von Privatjet",
-          "untertitel": "Die Ermittler haben den Stimmenrekorder des in Florida abgestürzten Jets geborgen. Er könnte zeigen, was in den letzten Sekunden geschah.",
-          "link": "https://www.20min.ch/story/stimmenrekorder-nach-privatjet-absturz-in-florida-geborgen-auswertung-laeuft-103665010",
-          "bild": "https://image.20min.ch/2026/11/02/9103e39e-c132-482e-9f09-7f5164616694.jpg?s=0d21cc35769569d7b1613ac38d212723",
-          "quelle": "20 Minuten",
-          "info": "2 Quellen berichten",
-          "trend": "neu"
-        },
-        {
-          "titel": "Schwerverletzter nach Dreifach-Crash auf A13 bei Widnau SG",
-          "untertitel": "Auf der A13 bei Widnau SG sind am Montagabend drei Autos kollidiert. Ein 68-jähriger Lenker wurde schwer verletzt, zwei weitere Fahrer blieben unverletzt. Der Verkehr wurde über …",
-          "link": "https://www.blick.ch/schweiz/ostschweiz/st-gallen/schwerverletzter-nach-dreifach-crash-auf-a13-bei-widnau-sg/s2qlcd2",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/YshktkuTURBXy80YmJjMjdmZS1iYzVjLTQ1Y2ItYmVmMS03NzEzZmZhZmFlNGQuanBlZ5KTBc0CWM0BO5MJpmFhMDBmNgY/7yaqoelgnp.jpg",
+          "titel": "Nach Brand im Bundesasylzentrum Zürich – zwei Personen festgenommen",
+          "untertitel": "Am Montag brach in einem Zimmer im Bundesasylzentrum im Zürcher Kreis 5 ein Brand aus. Vier Personen mussten zur Überprüfung ins Spital gebracht werden. Die Stadtpolizei Zürich …",
+          "link": "https://www.blick.ch/schweiz/zuerich/zwei-festnahmen-nach-brand-im-zuercher-bundesasylzentrum/ltg6zjk",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/E0wktkuTURBXy9lODI1MjE1Yy00MGIxLTQ1MjctODlhNS02MjhiZWM2MzY0ZTkuanBlZ5KTBc0CWM0BO5MJpmZiODg5YwY/n08mytzmjgm.jpg",
           "quelle": "Blick",
-          "info": "2 Quellen berichten",
+          "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Krieg in der Ukraine – Ukraine-Gespräche in Abu Dhabi: Kiew und Moskau verhandeln",
-          "untertitel": "Unter US-Leitung haben Russland und die Ukraine in Abu Dhabi Gespräche aufgenommen. Die Verhandlungen dauern bis morgen.",
-          "link": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-ukraine-gespraeche-in-abu-dhabi-kiew-und-moskau-verhandeln",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/2ddfd1.webp",
+          "titel": "Auto touchiert Buben (11) auf Velo in Wängi TG – Fahrer flüchtet",
+          "untertitel": "Ein 11-jähriger Velofahrer ist am Montagmorgen in Wängi TG von einem Auto touchiert worden. Der Bub stürzte und wurde leicht verletzt. Der Fahrerin oder die Fahrerin flüchtete. …",
+          "link": "https://www.blick.ch/schweiz/ostschweiz/thurgau/waengi-tg-auto-touchiert-buben-auf-velo-fahrer-fluechtet/2s3rw7s",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/AxFktktTURBXy82Y2FlNWZkNS00MDk5LTQzMmYtOGRlZi1mZTRkZjkwYTE0YTEucG5nkpMFzQJYzQE7kwmmMTBlOTc4Bg/v0yl1pw6shp.jpg",
+          "quelle": "Blick",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Ende von Transalpes – Konkurs von Schweizer Mountainbike-Marke sorgt für Frust",
+          "untertitel": "Viele Kunden haben ihr Velo auf Vorkasse bezahlt – und stehen nach dem Aus von Transalpes mit leeren Händen da.",
+          "link": "https://www.srf.ch/sendungen/kassensturz-espresso/espresso/ende-von-transalpes-konkurs-von-schweizer-mountainbike-marke-sorgt-fuer-frust",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/59b431.webp",
           "quelle": "SRF",
           "info": "2 Quellen berichten",
           "trend": "neu"
@@ -41,34 +41,34 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-10T09:59:56+00:00",
+      "stand": "2026-11-10T13:10:05+00:00",
       "eintraege": [
         {
-          "titel": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-          "untertitel": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-          "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/123a/live/434e87b0-dcd9-11f1-a701-fddedf244c16.png",
+          "titel": "Israel's new parliament to be sworn in as leaders compete to form government",
+          "untertitel": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
+          "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36f9/live/603c9f80-dcf5-11f1-93e1-3b657b665bcf.jpg",
           "quelle": "BBC",
-          "info": "2 Quellen berichten",
+          "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
-          "untertitel": "Kyiv, Washington and Moscow have all sent delegations to the United Arab Emirates for the first trilateral talks since February.",
-          "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d4a/live/c60a1ad0-dc88-11f1-851a-19e868620cad.jpg",
-          "quelle": "BBC",
-          "info": "2 Quellen berichten",
+          "titel": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+          "untertitel": "CEO reportedly ‌had close relationship ‌with a Chinese businesswoman who passed information to ‌Beijing Nvidia said ⁠on Sunday it “is initiating an independent investigation in …",
+          "link": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
+          "bild": "https://i.guim.co.uk/img/media/3fc6a5d68684a58fece0294bce9094ed76072ecd/2488_14_5430_4347/master/5430.jpg?width=140&quality=85&auto=format&fit=max&s=57b1a4b39c9e4d81da1942f21f2da458",
+          "quelle": "The Guardian",
+          "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
-          "untertitel": "Former liberation movement’s share of national vote almost 14 percentage points below 2021 result The African National Congress is on course to suffer a bruising defeat in South …",
-          "link": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections",
-          "bild": "https://i.guim.co.uk/img/media/ca80f1733421e850930a8c2267b7214219fef832/697_286_4649_3719/master/4649.jpg?width=140&quality=85&auto=format&fit=max&s=f4831bd02c6a91cdc25376cf8e9b3a3b",
+          "titel": "Collision of two trains in Egypt kills at least seven",
+          "untertitel": "President orders prompt investigation after one train derails in collision in al-Ayyat about 50km from Cairo Seven people were killed and at least 125 injured when two trains …",
+          "link": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
+          "bild": "https://i.guim.co.uk/img/media/7527078bbb41cf17b1a35718b70ebdceeada7492/206_271_4462_3569/master/4462.jpg?width=140&quality=85&auto=format&fit=max&s=24b5e48c937f7ee0a5afbdfdeb04cf94",
           "quelle": "The Guardian",
           "info": "2 Quellen berichten",
-          "trend": "neu"
+          "trend": "gleich"
         }
       ]
     },
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-10T09:59:56+00:00",
+      "stand": "2026-11-10T13:10:05+00:00",
       "eintraege": [
         {
-          "titel": "brandanschlag",
-          "untertitel": "Nach Brand­anschlag auf Thuner Waffen­hersteller: «Bei uns sieht es aus wie im Krieg»",
-          "link": "https://www.bernerzeitung.ch/brandaschlag-thun-chef-der-b-t-ag-ueber-den-schaden-603610331881",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQStPzWp4bT-XpHs6a8J0vw2CmDEqz13gjEH9WLED33Op_j-BDfiTyyhCtuZs8",
-          "quelle": "Google Trends · Berner Zeitung",
+          "titel": "portugal",
+          "untertitel": "Baixa de peso por lesão para Marco Silva",
+          "link": "https://www.sporttv.pt/noticias/868433/baixa-de-peso-por-lesao-para-marco-silva",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDOFWEHvomaZJOKn1fPxrpr9_27RN1s52oZgAhlJPkDxpg3ExjkunRweHivzI",
+          "quelle": "Google Trends · Sport TV",
           "info": "200+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "zürcher tatort",
-          "untertitel": "«Frei wie ein Adler»: Zürcher «Tatort» erreicht Rekord-Marktanteil und spaltet die Kritik",
-          "link": "https://www.tagesanzeiger.ch/zuercher-tatort-rekord-in-ard-mit-7-54-millionen-zuschauern-453903329888",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3hFa5GhhMgMGwBHWThxE5hi0XCIMC8x3k2brI-CuG0_yddSnrov8b5ZnTAUQ",
-          "quelle": "Google Trends · Tages-Anzeiger",
+          "titel": "david walliams",
+          "untertitel": "David Walliams named as celebrity who tried to block publication of sexual misconduct allegations",
+          "link": "https://www.bbc.com/news/live/c6m2d0e91e18t",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRFq0Y-Iob-MM28wks0HPj4iqk2mTO3F-DEqISCupa4Bl_yOQQRqAQz1-NFj10",
+          "quelle": "Google Trends · BBC",
           "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "lösegeld",
-          "untertitel": "Heikle Daten gestohlen - Hacker fordern Lösegeld nach Angriff auf Publica-Lieferantin",
-          "link": "https://www.srf.ch/news/schweiz/heikle-daten-gestohlen-hacker-fordern-loesegeld-nach-angriff-auf-publica-lieferantin",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLlu6fS7MQquDAEdyPFhh1h67LMYTErYHDHBV4lfx2tC5mb1bUUxjVjEaP5RE",
-          "quelle": "Google Trends · SRF",
-          "info": "500+ Suchanfragen",
+          "titel": "mordfall fabian",
+          "untertitel": "",
+          "link": "https://www.google.ch/search?q=mordfall+fabian",
+          "bild": "",
+          "quelle": "Google Trends",
+          "info": "200+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-10T09:59:56+00:00",
+      "stand": "2026-11-10T13:10:05+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-10T09:59:56+00:00",
+      "stand": "2026-11-10T13:10:05+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-10T09:59:56+00:00",
+      "stand": "2026-11-10T13:10:05+00:00",
       "eintraege": [
         {
           "titel": "Ausstellung «Alpensounds» – Nur für Boomer? Volksmusik kann auch anders!",
@@ -198,7 +198,7 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-10T09:59:56+00:00",
+      "stand": "2026-11-10T13:10:05+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
@@ -211,7 +211,7 @@
         },
         {
           "titel": "Bern",
-          "untertitel": "Regenschauer · 9° bis 14°",
+          "untertitel": "Regenschauer · 8° bis 13°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -220,7 +220,7 @@
         },
         {
           "titel": "Basel",
-          "untertitel": "Regenschauer · 10° bis 14°",
+          "untertitel": "Regenschauer · 9° bis 14°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
