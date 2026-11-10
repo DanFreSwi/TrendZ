@@ -1,12 +1,12 @@
 {
-  "aktualisiert": "2026-11-10T01:09:17+00:00",
+  "aktualisiert": "2026-11-10T03:56:53+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-10T01:09:17+00:00",
+      "stand": "2026-11-10T03:56:53+00:00",
       "eintraege": [
         {
           "titel": "Wetziker Imam tritt nach homophoben Posts von Ämtern zurück",
@@ -41,8 +41,17 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-10T01:09:17+00:00",
+      "stand": "2026-11-10T03:56:53+00:00",
       "eintraege": [
+        {
+          "titel": "Trump says Iran war is 'effectively over' militarily with further strikes unlikely",
+          "untertitel": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation in the Middle East change.",
+          "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6017/live/b94816e0-dca5-11f1-b441-2b33b063138f.jpg",
+          "quelle": "BBC",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
         {
           "titel": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
           "untertitel": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
@@ -50,7 +59,7 @@
           "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/c8a877f0-dc7e-11f1-93e1-3b657b665bcf.png",
           "quelle": "BBC",
           "info": "3 Quellen berichten",
-          "trend": "gleich"
+          "trend": "runter"
         },
         {
           "titel": "Trump questions midterm elections integrity after previously accepting results",
@@ -60,15 +69,6 @@
           "quelle": "BBC",
           "info": "3 Quellen berichten",
           "trend": "neu"
-        },
-        {
-          "titel": "Collision of two trains in Egypt kills at least seven",
-          "untertitel": "President orders prompt investigation after one train derails in collision in al-Ayyat about 50km from Cairo Seven people were killed and at least 125 injured when two trains …",
-          "link": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
-          "bild": "https://i.guim.co.uk/img/media/7527078bbb41cf17b1a35718b70ebdceeada7492/206_271_4462_3569/master/4462.jpg?width=140&quality=85&auto=format&fit=max&s=24b5e48c937f7ee0a5afbdfdeb04cf94",
-          "quelle": "The Guardian",
-          "info": "2 Quellen berichten",
-          "trend": "gleich"
         }
       ]
     },
@@ -76,8 +76,17 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-10T01:09:17+00:00",
+      "stand": "2026-11-10T03:56:53+00:00",
       "eintraege": [
+        {
+          "titel": "lotto spielen",
+          "untertitel": "Lotto, SuperEnalotto und 10eLotto: Ziehungsergebnisse vom 7. November 2026",
+          "link": "https://www.ilmattino.it/de/lotto_superenalotto_und_10elotto_ziehungsergebnisse_vom_7._november_2026-9875100.html",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR2vp0kDZZ5LRIP0_DhHYDjmT1VOAYwSsWtH3Dtvg6e0SgBqtNErBSb4CbM-yE",
+          "quelle": "Google Trends · Il Mattino",
+          "info": "100+ Suchanfragen",
+          "trend": "neu"
+        },
         {
           "titel": "madeira unwetter",
           "untertitel": "",
@@ -88,20 +97,11 @@
           "trend": "neu"
         },
         {
-          "titel": "gta 6 release",
-          "untertitel": "Grand Theft Auto VI Pre-Load Begins on November 10",
-          "link": "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvr3MnhC7loBDcBhBXQOjgXQdBnSX1GgBl8Gp0wCtDiGaqob5Fx5ug4CQtEz4",
-          "quelle": "Google Trends · Rockstar Games",
-          "info": "100+ Suchanfragen",
-          "trend": "neu"
-        },
-        {
           "titel": "gta 6",
-          "untertitel": "Crime pays: how Grand Theft Auto became a cultural colossus",
-          "link": "https://www.theguardian.com/games/2026/nov/09/grand-theft-auto-creators-gta",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVwe5DkKg8lE67K9u2TTzGjHP2D0EUYTsxP5fSZm4A6xIi3A_VnNEILuFNlDc",
-          "quelle": "Google Trends · The Guardian",
+          "untertitel": "How To Preload GTA 6 In Full On Xbox Series X|S (Even If You Haven't Bought It)",
+          "link": "https://www.purexbox.com/news/2026/11/how-to-preload-gta-6-in-full-on-xbox-series-xs-even-if-you-havent-bought-it",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOmqHGEwGXL9r4lqahVFnWWzngQrylggy0AVwEw472XjRscM-ZFPdSzE2qBGw",
+          "quelle": "Google Trends · Pure Xbox",
           "info": "200+ Suchanfragen",
           "trend": "neu"
         }
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-10T01:09:17+00:00",
+      "stand": "2026-11-10T03:56:53+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-10T01:09:17+00:00",
+      "stand": "2026-11-10T03:56:53+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-10T01:09:17+00:00",
+      "stand": "2026-11-10T03:56:53+00:00",
       "eintraege": [
         {
           "titel": "Toter nach Konzert: Marco K. ist der Neonazi-Schläger von Tuggen SZ",
@@ -207,7 +207,7 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-10T01:09:17+00:00",
+      "stand": "2026-11-10T03:56:53+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
@@ -229,16 +229,16 @@
         },
         {
           "titel": "Basel",
-          "untertitel": "Gewitter mit Hagel · 10° bis 14°",
+          "untertitel": "Regenschauer · 10° bis 14°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
           "info": "Regenrisiko 78%",
-          "emoji": "⛈️"
+          "emoji": "🌦️"
         },
         {
           "titel": "Genf",
-          "untertitel": "Regenschauer · 10° bis 17°",
+          "untertitel": "Leichter Regen · 10° bis 17°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -247,7 +247,7 @@
         },
         {
           "titel": "Lugano",
-          "untertitel": "Regenschauer · 8° bis 12°",
+          "untertitel": "Leichter Regen · 8° bis 12°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
