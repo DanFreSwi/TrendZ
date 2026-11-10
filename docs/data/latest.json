@@ -1,12 +1,12 @@
 {
-  "aktualisiert": "2026-11-10T03:56:53+00:00",
+  "aktualisiert": "2026-11-10T07:16:17+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-10T03:56:53+00:00",
+      "stand": "2026-11-10T07:16:17+00:00",
       "eintraege": [
         {
           "titel": "Wetziker Imam tritt nach homophoben Posts von Ämtern zurück",
@@ -18,22 +18,22 @@
           "trend": "gleich"
         },
         {
-          "titel": "Video zeigt grosse Rauchsäule",
-          "untertitel": "Im Bundesasylzentrum in Zürich ist am Montag gegen 17 Uhr ein Brand ausgebrochen. Die Stadtpolizei bestätigt den Einsatz, weitere Angaben lagen zunächst nicht vor.",
-          "link": "https://www.blick.ch/schweiz/zuerich/brand-im-bundesasylzentrum-zuerich/tyv2q1k",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/1OQktkuTURBXy9jYzdlZDkzZS1kODQ4LTQwZmEtOGYwNS1hNWNhOGU5NTVjNWUuanBlZ5KTBc0CWM0BO5MJpjEyNDY2MQY/q7ajxxc3r4o.jpg",
-          "quelle": "Blick",
-          "info": "3 Quellen berichten",
-          "trend": "gleich"
-        },
-        {
-          "titel": "Grosse Suchaktion nach Emma (13) – sie verschwand auf Schulweg",
-          "untertitel": "Am Sonntag wurde die 13-jährige Lisa aus Berlin tot aufgefunden, nachdem sie vermisst wurde. Nur einen Tag später bereitet das Verschwinden der gleichaltrigen Emma aus dem …",
-          "link": "https://www.20min.ch/story/saarland-d-grosse-suchaktion-nach-emma-13-sie-verschwand-auf-schulweg-103664872",
-          "bild": "https://image.20min.ch/2026/11/09/a9332c47-17d2-4c2c-a1fc-b9554f6a91ff.jpg?s=c83bd7382e77839f9915307dbed4ad26",
+          "titel": "Mord auf Schweizer Kreuzfahrtschiff? Mann (48) in Haft",
+          "untertitel": "Auf einem Kreuzfahrtschiff vor Texas ist eine Frau ums Leben gekommen. Das FBI ermittelt wegen eines Tötungsdelikts, ein 48-jähriger Passagier ist in Gewahrsam.",
+          "link": "https://www.20min.ch/story/msc-seascape-in-texas-toetungsdelikt-auf-kreuzfahrtschiff-fbi-meldet-festnahme-103664910",
+          "bild": "https://image.20min.ch/2026/11/10/aac76df2-8b87-453d-a13f-a4730e206b4d.png?s=e088d58971571108915b2d9c21e09d65",
           "quelle": "20 Minuten",
           "info": "3 Quellen berichten",
-          "trend": "gleich"
+          "trend": "neu"
+        },
+        {
+          "titel": "«Das ist zu viel für die Gemeindekasse!»",
+          "untertitel": "Dem Waldschwimmbad in Reckingen VS fehlt Geld: 2,8 Millionen Franken kostet die Sanierung. Für die Gemeinde Goms ist das zu viel. Die Infrastruktur zu unterhalten und zu …",
+          "link": "https://www.blick.ch/schweiz/westschweiz/wallis/gemeinde-goms-kann-schwimmbadsanierung-nicht-stemmen/jbmxh3m",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/MPXktkuTURBXy8xNTVhZWY1MC1mNzViLTRlODItOTZhNy0zODgwODFiZTliNWUuanBlZ5KTBc0CWM0BO5MJpjI1NWY3MgY/jm8t2jam98l.jpg",
+          "quelle": "Blick",
+          "info": "2 Quellen berichten",
+          "trend": "neu"
         }
       ]
     },
@@ -41,17 +41,8 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-10T03:56:53+00:00",
+      "stand": "2026-11-10T07:16:17+00:00",
       "eintraege": [
-        {
-          "titel": "Trump says Iran war is 'effectively over' militarily with further strikes unlikely",
-          "untertitel": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation in the Middle East change.",
-          "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6017/live/b94816e0-dca5-11f1-b441-2b33b063138f.jpg",
-          "quelle": "BBC",
-          "info": "3 Quellen berichten",
-          "trend": "neu"
-        },
         {
           "titel": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
           "untertitel": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
@@ -59,15 +50,24 @@
           "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/c8a877f0-dc7e-11f1-93e1-3b657b665bcf.png",
           "quelle": "BBC",
           "info": "3 Quellen berichten",
-          "trend": "runter"
+          "trend": "gleich"
         },
         {
-          "titel": "Trump questions midterm elections integrity after previously accepting results",
-          "untertitel": "Trump made the claims, without evidence, on Truth Social on Monday.",
-          "link": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de62/live/5a7465d0-dc53-11f1-a869-656dc96bd12d.jpg",
+          "titel": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+          "untertitel": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+          "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f773/live/9c28e680-dc95-11f1-a701-fddedf244c16.jpg",
           "quelle": "BBC",
-          "info": "3 Quellen berichten",
+          "info": "2 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+          "untertitel": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
+          "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d4a/live/c60a1ad0-dc88-11f1-851a-19e868620cad.jpg",
+          "quelle": "BBC",
+          "info": "2 Quellen berichten",
           "trend": "neu"
         }
       ]
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-10T03:56:53+00:00",
+      "stand": "2026-11-10T07:16:17+00:00",
       "eintraege": [
         {
-          "titel": "lotto spielen",
-          "untertitel": "Lotto, SuperEnalotto und 10eLotto: Ziehungsergebnisse vom 7. November 2026",
-          "link": "https://www.ilmattino.it/de/lotto_superenalotto_und_10elotto_ziehungsergebnisse_vom_7._november_2026-9875100.html",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR2vp0kDZZ5LRIP0_DhHYDjmT1VOAYwSsWtH3Dtvg6e0SgBqtNErBSb4CbM-yE",
-          "quelle": "Google Trends · Il Mattino",
-          "info": "100+ Suchanfragen",
-          "trend": "neu"
-        },
-        {
-          "titel": "madeira unwetter",
-          "untertitel": "",
-          "link": "https://www.google.ch/search?q=madeira+unwetter",
-          "bild": "",
-          "quelle": "Google Trends",
-          "info": "100+ Suchanfragen",
-          "trend": "neu"
-        },
-        {
-          "titel": "gta 6",
-          "untertitel": "How To Preload GTA 6 In Full On Xbox Series X|S (Even If You Haven't Bought It)",
-          "link": "https://www.purexbox.com/news/2026/11/how-to-preload-gta-6-in-full-on-xbox-series-xs-even-if-you-havent-bought-it",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOmqHGEwGXL9r4lqahVFnWWzngQrylggy0AVwEw472XjRscM-ZFPdSzE2qBGw",
-          "quelle": "Google Trends · Pure Xbox",
+          "titel": "lösegeld",
+          "untertitel": "Heikle Daten gestohlen - Hacker fordern Lösegeld nach Angriff auf Publica-Lieferantin",
+          "link": "https://www.srf.ch/news/schweiz/heikle-daten-gestohlen-hacker-fordern-loesegeld-nach-angriff-auf-publica-lieferantin",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLlu6fS7MQquDAEdyPFhh1h67LMYTErYHDHBV4lfx2tC5mb1bUUxjVjEaP5RE",
+          "quelle": "Google Trends · SRF",
           "info": "200+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "albert rösti",
+          "untertitel": "Reto Scherrers Fondue bringt Bundesrat Rösti zum Kochen",
+          "link": "https://www.blick.ch/community/reto-scherrers-fondue-bringt-bundesrat-roesti-zum-kochen/q990ftz",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzV3E_yhNHZPP2oph_KazjRRfzPTE34Eu0J4-XchdrP7jjSb5phvZ0MkanTCk",
+          "quelle": "Google Trends · Blick",
+          "info": "100+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "tristan scherwey",
+          "untertitel": "Gnadenfrist für Milano – und kein «Romantik-Bonus» für Scherwey",
+          "link": "https://www.watson.ch/sport/eismeister-zaugg/668408577-gnadenfrist-fuer-milano-und-kein-romantik-bonus-fuer-scherwey",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvNNT3uampJGqNjXB47oIiyMNloZFxGc800lOzPXuYKWOiAXqNN61tpCTpM68",
+          "quelle": "Google Trends · Watson",
+          "info": "100+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-10T03:56:53+00:00",
+      "stand": "2026-11-10T07:16:17+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-10T03:56:53+00:00",
+      "stand": "2026-11-10T07:16:17+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,17 +181,8 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-10T03:56:53+00:00",
+      "stand": "2026-11-10T07:16:17+00:00",
       "eintraege": [
-        {
-          "titel": "Toter nach Konzert: Marco K. ist der Neonazi-Schläger von Tuggen SZ",
-          "untertitel": "Der Schweizer (42), der nach einem Konzert einen Deutschen getötet haben soll, lebt im Kanton Zug und ist seit seiner Jugend Teil der Neonazi-Szene. Das Blood-and-Honour-Mitglied …",
-          "link": "https://www.blick.ch/schweiz/zentralschweiz/schwyz/toter-nach-konzert-das-ist-der-neonazi-schlaeger-von-tuggen/lwzt2dv",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/bhEktkuTURBXy80ODc4MGRkMi1jOWY0LTRhYjAtYjNmMi05NDMzNWUzYmVhYmYuanBlZ5KTBc0CWM0BO5MJpjI5YWE2OAY/m6ac6okgmd.jpg",
-          "quelle": "Blick",
-          "info": "",
-          "trend": "gleich"
-        },
         {
           "titel": "Ausstellung «Alpensounds» – Nur für Boomer? Volksmusik kann auch anders!",
           "untertitel": "Wie viel Veränderung verträgt Tradition? Das Alpine Museum in Bern beleuchtet den Wandel der Schweizer Volksmusik.",
@@ -199,7 +190,7 @@
           "bild": "https://www.srf.ch/static/cms/images//320ws/65b511.webp",
           "quelle": "SRF",
           "info": "",
-          "trend": "gleich"
+          "trend": "hoch"
         }
       ]
     },
@@ -207,7 +198,7 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-10T03:56:53+00:00",
+      "stand": "2026-11-10T07:16:17+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
@@ -215,17 +206,17 @@
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 63%",
+          "info": "Regenrisiko 80%",
           "emoji": "🌦️"
         },
         {
           "titel": "Bern",
-          "untertitel": "Regenschauer · 9° bis 13°",
+          "untertitel": "Gewitter · 9° bis 13°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 58%",
-          "emoji": "🌦️"
+          "info": "Regenrisiko 70%",
+          "emoji": "⛈️"
         },
         {
           "titel": "Basel",
@@ -233,26 +224,26 @@
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 78%",
+          "info": "Regenrisiko 90%",
           "emoji": "🌦️"
         },
         {
           "titel": "Genf",
-          "untertitel": "Leichter Regen · 10° bis 17°",
+          "untertitel": "Regenschauer · 10° bis 18°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 63%",
+          "info": "Regenrisiko 73%",
           "emoji": "🌦️"
         },
         {
           "titel": "Lugano",
-          "untertitel": "Leichter Regen · 8° bis 12°",
+          "untertitel": "Nebel · 8° bis 13°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 13%",
-          "emoji": "🌦️"
+          "info": "Regenrisiko 33%",
+          "emoji": "🌫️"
         }
       ]
     }
