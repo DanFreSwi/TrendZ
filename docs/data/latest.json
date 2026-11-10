@@ -1,38 +1,38 @@
 {
-  "aktualisiert": "2026-11-10T13:10:05+00:00",
+  "aktualisiert": "2026-11-10T15:55:28+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-10T13:10:05+00:00",
+      "stand": "2026-11-10T15:55:28+00:00",
       "eintraege": [
         {
-          "titel": "Nach Brand im Bundesasylzentrum Zürich – zwei Personen festgenommen",
-          "untertitel": "Am Montag brach in einem Zimmer im Bundesasylzentrum im Zürcher Kreis 5 ein Brand aus. Vier Personen mussten zur Überprüfung ins Spital gebracht werden. Die Stadtpolizei Zürich …",
-          "link": "https://www.blick.ch/schweiz/zuerich/zwei-festnahmen-nach-brand-im-zuercher-bundesasylzentrum/ltg6zjk",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/E0wktkuTURBXy9lODI1MjE1Yy00MGIxLTQ1MjctODlhNS02MjhiZWM2MzY0ZTkuanBlZ5KTBc0CWM0BO5MJpmZiODg5YwY/n08mytzmjgm.jpg",
+          "titel": "Autofahrer (†49) stirbt bei Frontalcrash mit Lastwagen",
+          "untertitel": "Bei einem schweren Verkehrsunfall in Madiswil BE ist am Dienstagmorgen ein 49-jähriger Autofahrer ums Leben gekommen. Sein Wagen kollidierte frontal mit einem Lastwagen. Trotz …",
+          "link": "https://www.blick.ch/schweiz/bern/madiswil-be-autofahrer-stirbt-nach-frontalkollision/vz6lyee",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/UljktkuTURBXy8yMGZhZjY2MS1lYzgzLTQ3YmQtODA3Ni0xOWQ3Mzk3YzA2MWUuanBlZ5KTBc0CWM0BO5MJpmMzZTExYQY/xdwpmb9vq8o.jpg",
           "quelle": "Blick",
+          "info": "4 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Bio-Debatte: «Die ehrlichen Kunden zahlen für die Diebe mit»",
+          "untertitel": "Gülshas Aussage zum Self-Checkout sorgt für Kritik. In der Community geht es aber auch um hohe Bio-Preise, Margen und den Aufwand auf den Höfen.",
+          "link": "https://www.20min.ch/story/bio-preise-und-diebstahl-guelshas-self-checkout-aussage-sorgt-fuer-kritik-103665116",
+          "bild": "https://image.20min.ch/2026/11/10/3fbc31ad-9f15-4ff8-8013-0aae76e91c12.jpg?s=fb0b3c118b5b90d9a48090ce942b44ca",
+          "quelle": "20 Minuten",
           "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Auto touchiert Buben (11) auf Velo in Wängi TG – Fahrer flüchtet",
-          "untertitel": "Ein 11-jähriger Velofahrer ist am Montagmorgen in Wängi TG von einem Auto touchiert worden. Der Bub stürzte und wurde leicht verletzt. Der Fahrerin oder die Fahrerin flüchtete. …",
-          "link": "https://www.blick.ch/schweiz/ostschweiz/thurgau/waengi-tg-auto-touchiert-buben-auf-velo-fahrer-fluechtet/2s3rw7s",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/AxFktktTURBXy82Y2FlNWZkNS00MDk5LTQzMmYtOGRlZi1mZTRkZjkwYTE0YTEucG5nkpMFzQJYzQE7kwmmMTBlOTc4Bg/v0yl1pw6shp.jpg",
-          "quelle": "Blick",
-          "info": "3 Quellen berichten",
-          "trend": "neu"
-        },
-        {
-          "titel": "Ende von Transalpes – Konkurs von Schweizer Mountainbike-Marke sorgt für Frust",
-          "untertitel": "Viele Kunden haben ihr Velo auf Vorkasse bezahlt – und stehen nach dem Aus von Transalpes mit leeren Händen da.",
-          "link": "https://www.srf.ch/sendungen/kassensturz-espresso/espresso/ende-von-transalpes-konkurs-von-schweizer-mountainbike-marke-sorgt-fuer-frust",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/59b431.webp",
+          "titel": "Causa Blausee – «Keine Bagatelle»: Gericht verurteilt Transportunternehmer",
+          "untertitel": "Im Umweltskandal Mitholz gibt es ein Urteil. Der Berner Transportunternehmer wurde teilweise schuldig gesprochen.",
+          "link": "https://www.srf.ch/news/schweiz/causa-blausee-keine-bagatelle-gericht-verurteilt-transportunternehmer",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/b3abed.webp",
           "quelle": "SRF",
-          "info": "2 Quellen berichten",
+          "info": "3 Quellen berichten",
           "trend": "neu"
         }
       ]
@@ -41,17 +41,8 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-10T13:10:05+00:00",
+      "stand": "2026-11-10T15:55:28+00:00",
       "eintraege": [
-        {
-          "titel": "Israel's new parliament to be sworn in as leaders compete to form government",
-          "untertitel": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
-          "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36f9/live/603c9f80-dcf5-11f1-93e1-3b657b665bcf.jpg",
-          "quelle": "BBC",
-          "info": "3 Quellen berichten",
-          "trend": "neu"
-        },
         {
           "titel": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
           "untertitel": "CEO reportedly ‌had close relationship ‌with a Chinese businesswoman who passed information to ‌Beijing Nvidia said ⁠on Sunday it “is initiating an independent investigation in …",
@@ -68,7 +59,16 @@
           "bild": "https://i.guim.co.uk/img/media/7527078bbb41cf17b1a35718b70ebdceeada7492/206_271_4462_3569/master/4462.jpg?width=140&quality=85&auto=format&fit=max&s=24b5e48c937f7ee0a5afbdfdeb04cf94",
           "quelle": "The Guardian",
           "info": "2 Quellen berichten",
-          "trend": "gleich"
+          "trend": "hoch"
+        },
+        {
+          "titel": "How African philosophies inspired a new approach to staging film festivals in Manchester",
+          "untertitel": "See My World, an event highlighting the pan-African thought via film, poetry and dance, builds on momentum sparked by local activists and creatives African philosophies including …",
+          "link": "https://www.theguardian.com/news/2026/nov/08/african-philosophies-see-my-world-film-festival-manchester",
+          "bild": "https://i.guim.co.uk/img/media/bcb07f839060d7b54330feb02b27ea2cae25f696/62_0_2371_1897/master/2371.jpg?width=140&quality=85&auto=format&fit=max&s=aac1a0e90bbdcc40e6993511572b0f95",
+          "quelle": "The Guardian",
+          "info": "2 Quellen berichten",
+          "trend": "neu"
         }
       ]
     },
@@ -76,32 +76,32 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-10T13:10:05+00:00",
+      "stand": "2026-11-10T15:55:28+00:00",
       "eintraege": [
         {
-          "titel": "portugal",
-          "untertitel": "Baixa de peso por lesão para Marco Silva",
-          "link": "https://www.sporttv.pt/noticias/868433/baixa-de-peso-por-lesao-para-marco-silva",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDOFWEHvomaZJOKn1fPxrpr9_27RN1s52oZgAhlJPkDxpg3ExjkunRweHivzI",
-          "quelle": "Google Trends · Sport TV",
-          "info": "200+ Suchanfragen",
-          "trend": "neu"
-        },
-        {
-          "titel": "david walliams",
-          "untertitel": "David Walliams named as celebrity who tried to block publication of sexual misconduct allegations",
-          "link": "https://www.bbc.com/news/live/c6m2d0e91e18t",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRFq0Y-Iob-MM28wks0HPj4iqk2mTO3F-DEqISCupa4Bl_yOQQRqAQz1-NFj10",
-          "quelle": "Google Trends · BBC",
+          "titel": "madiswil",
+          "untertitel": "Autofahrer stirbt nach Frontalkollision in Madiswil BE",
+          "link": "https://www.blick.ch/schweiz/bern/madiswil-be-autofahrer-stirbt-nach-frontalkollision/vz6lyee",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTgaYuSp76pyEqLeYFaEfQViftDiKg6BZkvxiJn85mu8IS3XHT4JN2ftC_JYKk",
+          "quelle": "Google Trends · Blick",
           "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "mordfall fabian",
-          "untertitel": "",
-          "link": "https://www.google.ch/search?q=mordfall+fabian",
-          "bild": "",
-          "quelle": "Google Trends",
+          "titel": "verhaftung",
+          "untertitel": "Rund 1000 Liter Salzsäure in Liestal BL ausgelaufen",
+          "link": "https://www.blick.ch/schweiz/basel-landschaft/rund-1000-liter-salzsaeure-in-liestal-bl-ausgelaufen/sd3vbrj",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcg2xTnuSqO6cMFEh_4gALQixgzIdZxF8FWsU0u6NEv-MLtRBPl0FIjiCedNU",
+          "quelle": "Google Trends · Blick",
+          "info": "200+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "maria shurochkina",
+          "untertitel": "Two-Time Olympic Champion Hospitalized With Serious Burns After Fireplace Accident",
+          "link": "https://www.essentiallysports.com/olympics-news-swimming-two-time-olympic-champion-hospitalized-with-serious-burns-after-fireplace-accident/",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRtNO37Yb2rKAzIXha0a5jjO_m7HlQqSlBmGNNKwx3GIjuRTXxg_BjzNGQhaZE",
+          "quelle": "Google Trends · EssentiallySports",
           "info": "200+ Suchanfragen",
           "trend": "neu"
         }
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-10T13:10:05+00:00",
+      "stand": "2026-11-10T15:55:28+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-10T13:10:05+00:00",
+      "stand": "2026-11-10T15:55:28+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,8 +181,17 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-10T13:10:05+00:00",
+      "stand": "2026-11-10T15:55:28+00:00",
       "eintraege": [
+        {
+          "titel": "St. Galler Weihnachtsmarkt schmeisst zwei Kult-Bahnen raus",
+          "untertitel": "Kein Zügli, kein Karussell: Der St. Galler Weihnachtsmarkt krempelt sein Konzept um. Ab dem 26. November sollen Kerzenziehen und Singen die Kinder begeistern – Platz für die …",
+          "link": "https://www.blick.ch/schweiz/ostschweiz/st-gallen/das-ist-ein-witz-weihnachtsmarkt-schmeisst-bahnen-raus/gxjrejh",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/1mOktktTURBXy9jMGViNDIwNS0yNWFkLTQ4OGYtOGM1NC1jM2Y3OTljMzJiOGYucG5nkpMFzQJYzQE7kwmmYjc0MzQ4Bg/fkad72sns44.jpg",
+          "quelle": "Blick",
+          "info": "",
+          "trend": "neu"
+        },
         {
           "titel": "Ausstellung «Alpensounds» – Nur für Boomer? Volksmusik kann auch anders!",
           "untertitel": "Wie viel Veränderung verträgt Tradition? Das Alpine Museum in Bern beleuchtet den Wandel der Schweizer Volksmusik.",
@@ -190,7 +199,7 @@
           "bild": "https://www.srf.ch/static/cms/images//320ws/65b511.webp",
           "quelle": "SRF",
           "info": "",
-          "trend": "hoch"
+          "trend": "gleich"
         }
       ]
     },
@@ -198,11 +207,11 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-10T13:10:05+00:00",
+      "stand": "2026-11-10T15:55:28+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
-          "untertitel": "Regenschauer · 10° bis 14°",
+          "untertitel": "Regenschauer · 10° bis 13°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -220,7 +229,7 @@
         },
         {
           "titel": "Basel",
-          "untertitel": "Regenschauer · 9° bis 14°",
+          "untertitel": "Leichter Regen · 9° bis 13°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
