@@ -1,37 +1,37 @@
 {
-  "aktualisiert": "2026-11-10T07:16:17+00:00",
+  "aktualisiert": "2026-11-10T09:59:56+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-10T07:16:17+00:00",
+      "stand": "2026-11-10T09:59:56+00:00",
       "eintraege": [
         {
-          "titel": "Wetziker Imam tritt nach homophoben Posts von Ämtern zurück",
-          "untertitel": "Lange galt Bashkim Aliu als Brückenbauer. Nun tritt der Wetziker Imam zurück, nachdem Recherchen homophobe Äusserungen und seine Teilnahme an einer Konferenz im Umfeld der …",
-          "link": "https://www.blick.ch/schweiz/zuerich/homophobe-posts-wetziker-imam-bashkim-aliu-tritt-zurueck/1182q3b",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/ZKlktktTURBXy85Yjk4MmMwYS04YzY2LTRmNGMtYmQ5Yy03MDAzYTVhY2I4M2EucG5nkpMFzQJYzQE7kwmmMGQ0M2U4Bg/kewlhqt43b.jpg",
-          "quelle": "Blick",
-          "info": "3 Quellen berichten",
-          "trend": "gleich"
-        },
-        {
-          "titel": "Mord auf Schweizer Kreuzfahrtschiff? Mann (48) in Haft",
-          "untertitel": "Auf einem Kreuzfahrtschiff vor Texas ist eine Frau ums Leben gekommen. Das FBI ermittelt wegen eines Tötungsdelikts, ein 48-jähriger Passagier ist in Gewahrsam.",
-          "link": "https://www.20min.ch/story/msc-seascape-in-texas-toetungsdelikt-auf-kreuzfahrtschiff-fbi-meldet-festnahme-103664910",
-          "bild": "https://image.20min.ch/2026/11/10/aac76df2-8b87-453d-a13f-a4730e206b4d.png?s=e088d58971571108915b2d9c21e09d65",
+          "titel": "Behörden finden Stimmenrekorder nach Horror-Absturz von Privatjet",
+          "untertitel": "Die Ermittler haben den Stimmenrekorder des in Florida abgestürzten Jets geborgen. Er könnte zeigen, was in den letzten Sekunden geschah.",
+          "link": "https://www.20min.ch/story/stimmenrekorder-nach-privatjet-absturz-in-florida-geborgen-auswertung-laeuft-103665010",
+          "bild": "https://image.20min.ch/2026/11/02/9103e39e-c132-482e-9f09-7f5164616694.jpg?s=0d21cc35769569d7b1613ac38d212723",
           "quelle": "20 Minuten",
-          "info": "3 Quellen berichten",
+          "info": "2 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "«Das ist zu viel für die Gemeindekasse!»",
-          "untertitel": "Dem Waldschwimmbad in Reckingen VS fehlt Geld: 2,8 Millionen Franken kostet die Sanierung. Für die Gemeinde Goms ist das zu viel. Die Infrastruktur zu unterhalten und zu …",
-          "link": "https://www.blick.ch/schweiz/westschweiz/wallis/gemeinde-goms-kann-schwimmbadsanierung-nicht-stemmen/jbmxh3m",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/MPXktkuTURBXy8xNTVhZWY1MC1mNzViLTRlODItOTZhNy0zODgwODFiZTliNWUuanBlZ5KTBc0CWM0BO5MJpjI1NWY3MgY/jm8t2jam98l.jpg",
+          "titel": "Schwerverletzter nach Dreifach-Crash auf A13 bei Widnau SG",
+          "untertitel": "Auf der A13 bei Widnau SG sind am Montagabend drei Autos kollidiert. Ein 68-jähriger Lenker wurde schwer verletzt, zwei weitere Fahrer blieben unverletzt. Der Verkehr wurde über …",
+          "link": "https://www.blick.ch/schweiz/ostschweiz/st-gallen/schwerverletzter-nach-dreifach-crash-auf-a13-bei-widnau-sg/s2qlcd2",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/YshktkuTURBXy80YmJjMjdmZS1iYzVjLTQ1Y2ItYmVmMS03NzEzZmZhZmFlNGQuanBlZ5KTBc0CWM0BO5MJpmFhMDBmNgY/7yaqoelgnp.jpg",
           "quelle": "Blick",
+          "info": "2 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Krieg in der Ukraine – Ukraine-Gespräche in Abu Dhabi: Kiew und Moskau verhandeln",
+          "untertitel": "Unter US-Leitung haben Russland und die Ukraine in Abu Dhabi Gespräche aufgenommen. Die Verhandlungen dauern bis morgen.",
+          "link": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-ukraine-gespraeche-in-abu-dhabi-kiew-und-moskau-verhandeln",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/2ddfd1.webp",
+          "quelle": "SRF",
           "info": "2 Quellen berichten",
           "trend": "neu"
         }
@@ -41,32 +41,32 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-10T07:16:17+00:00",
+      "stand": "2026-11-10T09:59:56+00:00",
       "eintraege": [
-        {
-          "titel": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-          "untertitel": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
-          "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/c8a877f0-dc7e-11f1-93e1-3b657b665bcf.png",
-          "quelle": "BBC",
-          "info": "3 Quellen berichten",
-          "trend": "gleich"
-        },
         {
           "titel": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
           "untertitel": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
           "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f773/live/9c28e680-dc95-11f1-a701-fddedf244c16.jpg",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/123a/live/434e87b0-dcd9-11f1-a701-fddedf244c16.png",
           "quelle": "BBC",
           "info": "2 Quellen berichten",
           "trend": "neu"
         },
         {
           "titel": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
-          "untertitel": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
+          "untertitel": "Kyiv, Washington and Moscow have all sent delegations to the United Arab Emirates for the first trilateral talks since February.",
           "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
           "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d4a/live/c60a1ad0-dc88-11f1-851a-19e868620cad.jpg",
           "quelle": "BBC",
+          "info": "2 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
+          "untertitel": "Former liberation movement’s share of national vote almost 14 percentage points below 2021 result The African National Congress is on course to suffer a bruising defeat in South …",
+          "link": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections",
+          "bild": "https://i.guim.co.uk/img/media/ca80f1733421e850930a8c2267b7214219fef832/697_286_4649_3719/master/4649.jpg?width=140&quality=85&auto=format&fit=max&s=f4831bd02c6a91cdc25376cf8e9b3a3b",
+          "quelle": "The Guardian",
           "info": "2 Quellen berichten",
           "trend": "neu"
         }
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-10T07:16:17+00:00",
+      "stand": "2026-11-10T09:59:56+00:00",
       "eintraege": [
+        {
+          "titel": "brandanschlag",
+          "untertitel": "Nach Brand­anschlag auf Thuner Waffen­hersteller: «Bei uns sieht es aus wie im Krieg»",
+          "link": "https://www.bernerzeitung.ch/brandaschlag-thun-chef-der-b-t-ag-ueber-den-schaden-603610331881",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQStPzWp4bT-XpHs6a8J0vw2CmDEqz13gjEH9WLED33Op_j-BDfiTyyhCtuZs8",
+          "quelle": "Google Trends · Berner Zeitung",
+          "info": "200+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "zürcher tatort",
+          "untertitel": "«Frei wie ein Adler»: Zürcher «Tatort» erreicht Rekord-Marktanteil und spaltet die Kritik",
+          "link": "https://www.tagesanzeiger.ch/zuercher-tatort-rekord-in-ard-mit-7-54-millionen-zuschauern-453903329888",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3hFa5GhhMgMGwBHWThxE5hi0XCIMC8x3k2brI-CuG0_yddSnrov8b5ZnTAUQ",
+          "quelle": "Google Trends · Tages-Anzeiger",
+          "info": "100+ Suchanfragen",
+          "trend": "neu"
+        },
         {
           "titel": "lösegeld",
           "untertitel": "Heikle Daten gestohlen - Hacker fordern Lösegeld nach Angriff auf Publica-Lieferantin",
           "link": "https://www.srf.ch/news/schweiz/heikle-daten-gestohlen-hacker-fordern-loesegeld-nach-angriff-auf-publica-lieferantin",
           "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLlu6fS7MQquDAEdyPFhh1h67LMYTErYHDHBV4lfx2tC5mb1bUUxjVjEaP5RE",
           "quelle": "Google Trends · SRF",
-          "info": "200+ Suchanfragen",
-          "trend": "neu"
-        },
-        {
-          "titel": "albert rösti",
-          "untertitel": "Reto Scherrers Fondue bringt Bundesrat Rösti zum Kochen",
-          "link": "https://www.blick.ch/community/reto-scherrers-fondue-bringt-bundesrat-roesti-zum-kochen/q990ftz",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzV3E_yhNHZPP2oph_KazjRRfzPTE34Eu0J4-XchdrP7jjSb5phvZ0MkanTCk",
-          "quelle": "Google Trends · Blick",
-          "info": "100+ Suchanfragen",
-          "trend": "neu"
-        },
-        {
-          "titel": "tristan scherwey",
-          "untertitel": "Gnadenfrist für Milano – und kein «Romantik-Bonus» für Scherwey",
-          "link": "https://www.watson.ch/sport/eismeister-zaugg/668408577-gnadenfrist-fuer-milano-und-kein-romantik-bonus-fuer-scherwey",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvNNT3uampJGqNjXB47oIiyMNloZFxGc800lOzPXuYKWOiAXqNN61tpCTpM68",
-          "quelle": "Google Trends · Watson",
-          "info": "100+ Suchanfragen",
+          "info": "500+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-10T07:16:17+00:00",
+      "stand": "2026-11-10T09:59:56+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-10T07:16:17+00:00",
+      "stand": "2026-11-10T09:59:56+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-10T07:16:17+00:00",
+      "stand": "2026-11-10T09:59:56+00:00",
       "eintraege": [
         {
           "titel": "Ausstellung «Alpensounds» – Nur für Boomer? Volksmusik kann auch anders!",
@@ -198,25 +198,25 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-10T07:16:17+00:00",
+      "stand": "2026-11-10T09:59:56+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
-          "untertitel": "Regenschauer · 11° bis 14°",
+          "untertitel": "Regenschauer · 10° bis 14°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 80%",
+          "info": "Regenrisiko 83%",
           "emoji": "🌦️"
         },
         {
           "titel": "Bern",
-          "untertitel": "Gewitter · 9° bis 13°",
+          "untertitel": "Regenschauer · 9° bis 14°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 70%",
-          "emoji": "⛈️"
+          "info": "Regenrisiko 75%",
+          "emoji": "🌦️"
         },
         {
           "titel": "Basel",
@@ -224,26 +224,26 @@
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 90%",
+          "info": "Regenrisiko 88%",
           "emoji": "🌦️"
         },
         {
           "titel": "Genf",
-          "untertitel": "Regenschauer · 10° bis 18°",
+          "untertitel": "Regenschauer · 10° bis 17°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 73%",
+          "info": "Regenrisiko 78%",
           "emoji": "🌦️"
         },
         {
           "titel": "Lugano",
-          "untertitel": "Nebel · 8° bis 13°",
+          "untertitel": "Leichter Regen · 8° bis 12°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 33%",
-          "emoji": "🌫️"
+          "info": "Regenrisiko 23%",
+          "emoji": "🌦️"
         }
       ]
     }
