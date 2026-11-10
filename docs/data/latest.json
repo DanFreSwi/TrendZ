@@ -1,38 +1,38 @@
 {
-  "aktualisiert": "2026-11-10T15:55:28+00:00",
+  "aktualisiert": "2026-11-10T18:59:44+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-10T15:55:28+00:00",
+      "stand": "2026-11-10T18:59:44+00:00",
       "eintraege": [
         {
-          "titel": "Autofahrer (†49) stirbt bei Frontalcrash mit Lastwagen",
+          "titel": "Video zeigt die Unfallstelle in Madiswil BE",
           "untertitel": "Bei einem schweren Verkehrsunfall in Madiswil BE ist am Dienstagmorgen ein 49-jähriger Autofahrer ums Leben gekommen. Sein Wagen kollidierte frontal mit einem Lastwagen. Trotz …",
-          "link": "https://www.blick.ch/schweiz/bern/madiswil-be-autofahrer-stirbt-nach-frontalkollision/vz6lyee",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/UljktkuTURBXy8yMGZhZjY2MS1lYzgzLTQ3YmQtODA3Ni0xOWQ3Mzk3YzA2MWUuanBlZ5KTBc0CWM0BO5MJpmMzZTExYQY/xdwpmb9vq8o.jpg",
+          "link": "https://www.blick.ch/schweiz/bern/video-zeigt-die-unfallstelle-in-madiswil-be/c1bjjv0",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/soOktkuTURBXy8yMDE2YjczMi0xZjdmLTQwYTItYTQ1ZS02NDRlZDRiNDViYjkuanBlZ5KTBc0CWM0BO5MJpmMxZTcxMgY/uqthau7cpb.jpg",
           "quelle": "Blick",
           "info": "4 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Bio-Debatte: «Die ehrlichen Kunden zahlen für die Diebe mit»",
-          "untertitel": "Gülshas Aussage zum Self-Checkout sorgt für Kritik. In der Community geht es aber auch um hohe Bio-Preise, Margen und den Aufwand auf den Höfen.",
-          "link": "https://www.20min.ch/story/bio-preise-und-diebstahl-guelshas-self-checkout-aussage-sorgt-fuer-kritik-103665116",
-          "bild": "https://image.20min.ch/2026/11/10/3fbc31ad-9f15-4ff8-8013-0aae76e91c12.jpg?s=fb0b3c118b5b90d9a48090ce942b44ca",
-          "quelle": "20 Minuten",
-          "info": "3 Quellen berichten",
+          "titel": "Hackerangriff in Russland – Sind im Ukraine-Krieg eine halbe Million Russen gefallen?",
+          "untertitel": "Hackergruppen sollen sich Zugriff auf die russische Statistikbehörde verschafft haben. Die Daten lassen aufhorchen.",
+          "link": "https://www.srf.ch/news/international/ukraine/hackerangriff-in-russland-sind-im-ukraine-krieg-eine-halbe-million-russen-gefallen",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/02667c.webp",
+          "quelle": "SRF",
+          "info": "2 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Causa Blausee – «Keine Bagatelle»: Gericht verurteilt Transportunternehmer",
-          "untertitel": "Im Umweltskandal Mitholz gibt es ein Urteil. Der Berner Transportunternehmer wurde teilweise schuldig gesprochen.",
-          "link": "https://www.srf.ch/news/schweiz/causa-blausee-keine-bagatelle-gericht-verurteilt-transportunternehmer",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/b3abed.webp",
-          "quelle": "SRF",
-          "info": "3 Quellen berichten",
+          "titel": "Einsatzkräfte mit grossem Aufgebot vor Ort",
+          "untertitel": "Rund 800 Liter Salzsäure sind bei einem Pharma-Unternehmen in Liestal ausgelaufen. Die Einsatzkräfte rückten aus, Alertswiss warnte die Bevölkerung. Verletzte gab es keine.",
+          "link": "https://www.blick.ch/schweiz/basel-landschaft/liestal-bl-salzsaeure-bei-pharma-unternehmen-ausgelaufen/yy1fndd",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/zb0ktkuTURBXy81YTdjYWFhYi01YzFjLTQxMjctYmI0MC00NWEyNDhlMzMwMjcuanBlZ5KTBc0CWM0BO5MJpjhkMzQ1ZQY/fldc9n0i3.jpg",
+          "quelle": "Blick",
+          "info": "2 Quellen berichten",
           "trend": "neu"
         }
       ]
@@ -41,15 +41,15 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-10T15:55:28+00:00",
+      "stand": "2026-11-10T18:59:44+00:00",
       "eintraege": [
         {
-          "titel": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
-          "untertitel": "CEO reportedly ‌had close relationship ‌with a Chinese businesswoman who passed information to ‌Beijing Nvidia said ⁠on Sunday it “is initiating an independent investigation in …",
-          "link": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
-          "bild": "https://i.guim.co.uk/img/media/3fc6a5d68684a58fece0294bce9094ed76072ecd/2488_14_5430_4347/master/5430.jpg?width=140&quality=85&auto=format&fit=max&s=57b1a4b39c9e4d81da1942f21f2da458",
-          "quelle": "The Guardian",
-          "info": "3 Quellen berichten",
+          "titel": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+          "untertitel": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
+          "link": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59a5/live/b9ccd5d0-dd2a-11f1-ab46-9fae224bbf6f.jpg",
+          "quelle": "BBC",
+          "info": "2 Quellen berichten",
           "trend": "neu"
         },
         {
@@ -62,11 +62,11 @@
           "trend": "hoch"
         },
         {
-          "titel": "How African philosophies inspired a new approach to staging film festivals in Manchester",
-          "untertitel": "See My World, an event highlighting the pan-African thought via film, poetry and dance, builds on momentum sparked by local activists and creatives African philosophies including …",
-          "link": "https://www.theguardian.com/news/2026/nov/08/african-philosophies-see-my-world-film-festival-manchester",
-          "bild": "https://i.guim.co.uk/img/media/bcb07f839060d7b54330feb02b27ea2cae25f696/62_0_2371_1897/master/2371.jpg?width=140&quality=85&auto=format&fit=max&s=aac1a0e90bbdcc40e6993511572b0f95",
-          "quelle": "The Guardian",
+          "titel": "Israel's new parliament sworn in as leaders compete to form government",
+          "untertitel": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
+          "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36f9/live/603c9f80-dcf5-11f1-93e1-3b657b665bcf.jpg",
+          "quelle": "BBC",
           "info": "2 Quellen berichten",
           "trend": "neu"
         }
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-10T15:55:28+00:00",
+      "stand": "2026-11-10T18:59:44+00:00",
       "eintraege": [
         {
-          "titel": "madiswil",
-          "untertitel": "Autofahrer stirbt nach Frontalkollision in Madiswil BE",
-          "link": "https://www.blick.ch/schweiz/bern/madiswil-be-autofahrer-stirbt-nach-frontalkollision/vz6lyee",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTgaYuSp76pyEqLeYFaEfQViftDiKg6BZkvxiJn85mu8IS3XHT4JN2ftC_JYKk",
-          "quelle": "Google Trends · Blick",
+          "titel": "pompe",
+          "untertitel": "Ils font installer un Linky chez eux, une intervention sur le compteur provoque une surtension électrique qui détruit leur pompe à chaleur et plusieurs appareils électroménagers",
+          "link": "https://www.lesnumeriques.com/societe-numerique/ils-font-installer-un-linky-chez-eux-une-intervention-sur-le-compteur-provoque-une-surtension-electrique-qui-detruit-leur-pompe-a-chaleur-et-plusieurs-appareils-electromenagers-n267180.html",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgFmvA21WpFuiSPLe0kpmF7R3RA5UcsAkBNV5gj_L136OHXPK6ZpcYTcPxjBU",
+          "quelle": "Google Trends · Les Numériques",
           "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "verhaftung",
-          "untertitel": "Rund 1000 Liter Salzsäure in Liestal BL ausgelaufen",
-          "link": "https://www.blick.ch/schweiz/basel-landschaft/rund-1000-liter-salzsaeure-in-liestal-bl-ausgelaufen/sd3vbrj",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcg2xTnuSqO6cMFEh_4gALQixgzIdZxF8FWsU0u6NEv-MLtRBPl0FIjiCedNU",
-          "quelle": "Google Trends · Blick",
-          "info": "200+ Suchanfragen",
+          "titel": "künstliche intelligenz",
+          "untertitel": "Philosoph Rainer Mühlhoff - Die KI bedroht uns existenziell, aber anders, als wir denken",
+          "link": "https://www.srf.ch/kultur/gesellschaft-religion/philosoph-rainer-muehlhoff-die-ki-bedroht-uns-existenziell-aber-anders-als-wir-denken",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjV-ndiS8q1KPJqBBZBkjTbvoeqrPCtf6jpiW4UFAn1zKGF67HD1CbQ1g_uoA",
+          "quelle": "Google Trends · SRF",
+          "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "maria shurochkina",
-          "untertitel": "Two-Time Olympic Champion Hospitalized With Serious Burns After Fireplace Accident",
-          "link": "https://www.essentiallysports.com/olympics-news-swimming-two-time-olympic-champion-hospitalized-with-serious-burns-after-fireplace-accident/",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRtNO37Yb2rKAzIXha0a5jjO_m7HlQqSlBmGNNKwx3GIjuRTXxg_BjzNGQhaZE",
-          "quelle": "Google Trends · EssentiallySports",
-          "info": "200+ Suchanfragen",
+          "titel": "nations league",
+          "untertitel": "Messi left international football with grace. Ronaldo didn't...",
+          "link": "https://www.independent.co.uk/sport/football/lionel-messi-argentina-retirement-match-cristiano-ronaldo-b3079704.html",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmeu9htzeax88W32NkEWsQEKnwjacCsiJ7HCPmIaH8lLDtKVFttJ8n9OKpFeY",
+          "quelle": "Google Trends · The Independent",
+          "info": "100+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-10T15:55:28+00:00",
+      "stand": "2026-11-10T18:59:44+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-10T15:55:28+00:00",
+      "stand": "2026-11-10T18:59:44+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-10T15:55:28+00:00",
+      "stand": "2026-11-10T18:59:44+00:00",
       "eintraege": [
         {
           "titel": "St. Galler Weihnachtsmarkt schmeisst zwei Kult-Bahnen raus",
@@ -207,38 +207,20 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-10T15:55:28+00:00",
+      "stand": "2026-11-10T18:59:44+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
-          "untertitel": "Regenschauer · 10° bis 13°",
+          "untertitel": "Regenschauer · 10° bis 14°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 83%",
+          "info": "Regenrisiko 90%",
           "emoji": "🌦️"
         },
         {
           "titel": "Bern",
-          "untertitel": "Regenschauer · 8° bis 13°",
-          "link": "https://www.meteoschweiz.admin.ch/",
-          "bild": "",
-          "quelle": "Open-Meteo",
-          "info": "Regenrisiko 75%",
-          "emoji": "🌦️"
-        },
-        {
-          "titel": "Basel",
-          "untertitel": "Leichter Regen · 9° bis 13°",
-          "link": "https://www.meteoschweiz.admin.ch/",
-          "bild": "",
-          "quelle": "Open-Meteo",
-          "info": "Regenrisiko 88%",
-          "emoji": "🌦️"
-        },
-        {
-          "titel": "Genf",
-          "untertitel": "Regenschauer · 10° bis 17°",
+          "untertitel": "Leichter Regen · 8° bis 14°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -246,12 +228,30 @@
           "emoji": "🌦️"
         },
         {
-          "titel": "Lugano",
-          "untertitel": "Leichter Regen · 8° bis 12°",
+          "titel": "Basel",
+          "untertitel": "Regenschauer · 9° bis 13°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 23%",
+          "info": "Regenrisiko 98%",
+          "emoji": "🌦️"
+        },
+        {
+          "titel": "Genf",
+          "untertitel": "Regenschauer · 10° bis 18°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 55%",
+          "emoji": "🌦️"
+        },
+        {
+          "titel": "Lugano",
+          "untertitel": "Regenschauer · 8° bis 12°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 25%",
           "emoji": "🌦️"
         }
       ]
