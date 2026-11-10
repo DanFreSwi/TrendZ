@@ -1,12 +1,12 @@
 {
-  "aktualisiert": "2026-11-10T18:59:44+00:00",
+  "aktualisiert": "2026-11-10T21:48:01+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-10T18:59:44+00:00",
+      "stand": "2026-11-10T21:48:01+00:00",
       "eintraege": [
         {
           "titel": "Video zeigt die Unfallstelle in Madiswil BE",
@@ -14,16 +14,16 @@
           "link": "https://www.blick.ch/schweiz/bern/video-zeigt-die-unfallstelle-in-madiswil-be/c1bjjv0",
           "bild": "https://ocdn.eu/pulscms-transforms/1/soOktkuTURBXy8yMDE2YjczMi0xZjdmLTQwYTItYTQ1ZS02NDRlZDRiNDViYjkuanBlZ5KTBc0CWM0BO5MJpmMxZTcxMgY/uqthau7cpb.jpg",
           "quelle": "Blick",
-          "info": "4 Quellen berichten",
+          "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Hackerangriff in Russland – Sind im Ukraine-Krieg eine halbe Million Russen gefallen?",
-          "untertitel": "Hackergruppen sollen sich Zugriff auf die russische Statistikbehörde verschafft haben. Die Daten lassen aufhorchen.",
-          "link": "https://www.srf.ch/news/international/ukraine/hackerangriff-in-russland-sind-im-ukraine-krieg-eine-halbe-million-russen-gefallen",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/02667c.webp",
-          "quelle": "SRF",
-          "info": "2 Quellen berichten",
+          "titel": "Asbest-Opfer: Berufungsprozess im Fall Eternit neu aufgerollt",
+          "untertitel": "In Italien wird der Fall Eternit neu aufgerollt. Die Freiheitsstrafe von neun Jahren und sechs Monaten wurde nicht aufrechterhalten. Bei 25 Opfern ist die Anklage bereits verjährt.",
+          "link": "https://www.20min.ch/story/stephan-schmidheiny-asbest-opfer-berufungsprozess-im-fall-eternit-neu-aufgerollt-103665343",
+          "bild": "https://media.20min.ch/6/image/2025/03/22/6f345361-0dbd-44dd-b904-39c72805ca55.jpeg?s=13ebb69c9f4eca5d789f08e1dd47822e",
+          "quelle": "20 Minuten",
+          "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
@@ -41,7 +41,7 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-10T18:59:44+00:00",
+      "stand": "2026-11-10T21:48:01+00:00",
       "eintraege": [
         {
           "titel": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-10T18:59:44+00:00",
+      "stand": "2026-11-10T21:48:01+00:00",
       "eintraege": [
         {
-          "titel": "pompe",
-          "untertitel": "Ils font installer un Linky chez eux, une intervention sur le compteur provoque une surtension électrique qui détruit leur pompe à chaleur et plusieurs appareils électroménagers",
-          "link": "https://www.lesnumeriques.com/societe-numerique/ils-font-installer-un-linky-chez-eux-une-intervention-sur-le-compteur-provoque-une-surtension-electrique-qui-detruit-leur-pompe-a-chaleur-et-plusieurs-appareils-electromenagers-n267180.html",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgFmvA21WpFuiSPLe0kpmF7R3RA5UcsAkBNV5gj_L136OHXPK6ZpcYTcPxjBU",
-          "quelle": "Google Trends · Les Numériques",
+          "titel": "loup",
+          "untertitel": "Un loup s’invite dans un village valaisan, il est abattu 30 minutes après",
+          "link": "https://www.24heures.ch/valais-un-loup-abattu-30-minutes-apres-avoir-ete-filme-242178980688",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5G2I1Vx86muGYxxXLRVNDrnGl9-lYYtC28k_9O_Z8kKCT-O06huSCZYiNwOY",
+          "quelle": "Google Trends · 24 Heures",
+          "info": "200+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "tempête charles portugal",
+          "untertitel": "",
+          "link": "https://www.google.ch/search?q=temp%C3%AAte+charles+portugal",
+          "bild": "",
+          "quelle": "Google Trends",
           "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "künstliche intelligenz",
-          "untertitel": "Philosoph Rainer Mühlhoff - Die KI bedroht uns existenziell, aber anders, als wir denken",
-          "link": "https://www.srf.ch/kultur/gesellschaft-religion/philosoph-rainer-muehlhoff-die-ki-bedroht-uns-existenziell-aber-anders-als-wir-denken",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjV-ndiS8q1KPJqBBZBkjTbvoeqrPCtf6jpiW4UFAn1zKGF67HD1CbQ1g_uoA",
-          "quelle": "Google Trends · SRF",
-          "info": "100+ Suchanfragen",
-          "trend": "neu"
-        },
-        {
-          "titel": "nations league",
-          "untertitel": "Messi left international football with grace. Ronaldo didn't...",
-          "link": "https://www.independent.co.uk/sport/football/lionel-messi-argentina-retirement-match-cristiano-ronaldo-b3079704.html",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmeu9htzeax88W32NkEWsQEKnwjacCsiJ7HCPmIaH8lLDtKVFttJ8n9OKpFeY",
-          "quelle": "Google Trends · The Independent",
-          "info": "100+ Suchanfragen",
+          "titel": "notruf",
+          "untertitel": "Lisa (13) starb, nachdem Anwohner Hilferufe hörten: Wann du in der Schweiz die 117 wählen sollst",
+          "link": "https://www.20min.ch/story/notruf-117-wann-du-bei-hilferufen-oder-verdacht-die-polizei-rufen-solltest-103665255",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqlkuWtjcB4gx_TidG59hUhHbAVl1yDArSAuwTePlLgzQK_UzBWsbFvXDmo1A",
+          "quelle": "Google Trends · 20 Minuten",
+          "info": "1000+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-10T18:59:44+00:00",
+      "stand": "2026-11-10T21:48:01+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-10T18:59:44+00:00",
+      "stand": "2026-11-10T21:48:01+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-10T18:59:44+00:00",
+      "stand": "2026-11-10T21:48:01+00:00",
       "eintraege": [
         {
           "titel": "St. Galler Weihnachtsmarkt schmeisst zwei Kult-Bahnen raus",
@@ -207,11 +207,11 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-10T18:59:44+00:00",
+      "stand": "2026-11-10T21:48:01+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
-          "untertitel": "Regenschauer · 10° bis 14°",
+          "untertitel": "Regenschauer · 11° bis 14°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -220,7 +220,7 @@
         },
         {
           "titel": "Bern",
-          "untertitel": "Leichter Regen · 8° bis 14°",
+          "untertitel": "Regenschauer · 8° bis 14°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -229,7 +229,7 @@
         },
         {
           "titel": "Basel",
-          "untertitel": "Regenschauer · 9° bis 13°",
+          "untertitel": "Leichter Regen · 9° bis 13°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
