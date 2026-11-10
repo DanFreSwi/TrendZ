@@ -1,12 +1,12 @@
 {
-  "aktualisiert": "2026-11-09T21:54:03+00:00",
+  "aktualisiert": "2026-11-10T01:09:17+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-09T21:54:03+00:00",
+      "stand": "2026-11-10T01:09:17+00:00",
       "eintraege": [
         {
           "titel": "Wetziker Imam tritt nach homophoben Posts von Ämtern zurück",
@@ -15,7 +15,7 @@
           "bild": "https://ocdn.eu/pulscms-transforms/1/ZKlktktTURBXy85Yjk4MmMwYS04YzY2LTRmNGMtYmQ5Yy03MDAzYTVhY2I4M2EucG5nkpMFzQJYzQE7kwmmMGQ0M2U4Bg/kewlhqt43b.jpg",
           "quelle": "Blick",
           "info": "3 Quellen berichten",
-          "trend": "neu"
+          "trend": "gleich"
         },
         {
           "titel": "Video zeigt grosse Rauchsäule",
@@ -24,7 +24,7 @@
           "bild": "https://ocdn.eu/pulscms-transforms/1/1OQktkuTURBXy9jYzdlZDkzZS1kODQ4LTQwZmEtOGYwNS1hNWNhOGU5NTVjNWUuanBlZ5KTBc0CWM0BO5MJpjEyNDY2MQY/q7ajxxc3r4o.jpg",
           "quelle": "Blick",
           "info": "3 Quellen berichten",
-          "trend": "neu"
+          "trend": "gleich"
         },
         {
           "titel": "Grosse Suchaktion nach Emma (13) – sie verschwand auf Schulweg",
@@ -33,7 +33,7 @@
           "bild": "https://image.20min.ch/2026/11/09/a9332c47-17d2-4c2c-a1fc-b9554f6a91ff.jpg?s=c83bd7382e77839f9915307dbed4ad26",
           "quelle": "20 Minuten",
           "info": "3 Quellen berichten",
-          "trend": "neu"
+          "trend": "gleich"
         }
       ]
     },
@@ -41,24 +41,24 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-09T21:54:03+00:00",
+      "stand": "2026-11-10T01:09:17+00:00",
       "eintraege": [
         {
           "titel": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-          "untertitel": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
+          "untertitel": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
           "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
           "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/c8a877f0-dc7e-11f1-93e1-3b657b665bcf.png",
           "quelle": "BBC",
           "info": "3 Quellen berichten",
-          "trend": "neu"
+          "trend": "gleich"
         },
         {
-          "titel": "France accuses Iran of supermarket fridge hacking",
-          "untertitel": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
-          "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0bc/live/eec149b0-dc5d-11f1-8fe6-5becaee5408f.jpg",
+          "titel": "Trump questions midterm elections integrity after previously accepting results",
+          "untertitel": "Trump made the claims, without evidence, on Truth Social on Monday.",
+          "link": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de62/live/5a7465d0-dc53-11f1-a869-656dc96bd12d.jpg",
           "quelle": "BBC",
-          "info": "2 Quellen berichten",
+          "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
@@ -68,7 +68,7 @@
           "bild": "https://i.guim.co.uk/img/media/7527078bbb41cf17b1a35718b70ebdceeada7492/206_271_4462_3569/master/4462.jpg?width=140&quality=85&auto=format&fit=max&s=24b5e48c937f7ee0a5afbdfdeb04cf94",
           "quelle": "The Guardian",
           "info": "2 Quellen berichten",
-          "trend": "runter"
+          "trend": "gleich"
         }
       ]
     },
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-09T21:54:03+00:00",
+      "stand": "2026-11-10T01:09:17+00:00",
       "eintraege": [
         {
-          "titel": "ehc basel",
-          "untertitel": "Swiss-League-Klub bläst zum Angriff auf National League",
-          "link": "https://www.blick.ch/sport/eishockey/nlb/ehc-basel-will-wieder-in-die-national-league-aufsteigen/j7lem3t",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRwoEjmxl5bYGw8027bWmpTD5bovG7-d1l6R5PFsbaxKD9eId3iccbSQAc7Xw",
-          "quelle": "Google Trends · Blick",
+          "titel": "madeira unwetter",
+          "untertitel": "",
+          "link": "https://www.google.ch/search?q=madeira+unwetter",
+          "bild": "",
+          "quelle": "Google Trends",
           "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "aryna sabalenka",
-          "untertitel": "Where to watch Aryna Sabalenka vs. Elina Svitolina WTA Finals tennis for free today",
-          "link": "https://www.mlive.com/tv/2026/11/where-to-watch-aryna-sabalenka-vs-elina-svitolina-wta-finals-tennis-for-free-today.html",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRuJgGSdqspQ_vbAEWPLjq56jjKUniVI54DJGWrK1YFZvE8V_SLG_WKq3O1IfQ",
-          "quelle": "Google Trends · MLive.com",
+          "titel": "gta 6 release",
+          "untertitel": "Grand Theft Auto VI Pre-Load Begins on November 10",
+          "link": "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvr3MnhC7loBDcBhBXQOjgXQdBnSX1GgBl8Gp0wCtDiGaqob5Fx5ug4CQtEz4",
+          "quelle": "Google Trends · Rockstar Games",
+          "info": "100+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "gta 6",
+          "untertitel": "Crime pays: how Grand Theft Auto became a cultural colossus",
+          "link": "https://www.theguardian.com/games/2026/nov/09/grand-theft-auto-creators-gta",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVwe5DkKg8lE67K9u2TTzGjHP2D0EUYTsxP5fSZm4A6xIi3A_VnNEILuFNlDc",
+          "quelle": "Google Trends · The Guardian",
           "info": "200+ Suchanfragen",
-          "trend": "neu"
-        },
-        {
-          "titel": "gta vi",
-          "untertitel": "Take-Two Interactive Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call",
-          "link": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/11/63024727/take-two-interactive-earnings-are-imminent-these-most-accurate-analysts-revise-forecasts-ahead-of-earnings-call",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQbvSe4D-bpn7gZ3QOHophbMJeK42Lka-q7NOOArtxy8ISeOn4pDdFW7iUouIM",
-          "quelle": "Google Trends · Benzinga",
-          "info": "100+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-09T21:54:03+00:00",
+      "stand": "2026-11-10T01:09:17+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-09T21:54:03+00:00",
+      "stand": "2026-11-10T01:09:17+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -164,7 +164,7 @@
           "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b9/17/07/b91707ba-b4bf-2021-bafe-b4dd1e1f0196/mza_6370841172422755338.jpg/300x300bb.png",
           "quelle": "Apple Podcasts Charts CH",
           "info": "Wahre Kriminalfälle, Geschichte",
-          "trend": "neu"
+          "trend": "gleich"
         },
         {
           "titel": "RONZHEIMER.",
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-09T21:54:03+00:00",
+      "stand": "2026-11-10T01:09:17+00:00",
       "eintraege": [
         {
           "titel": "Toter nach Konzert: Marco K. ist der Neonazi-Schläger von Tuggen SZ",
@@ -199,7 +199,7 @@
           "bild": "https://www.srf.ch/static/cms/images//320ws/65b511.webp",
           "quelle": "SRF",
           "info": "",
-          "trend": "neu"
+          "trend": "gleich"
         }
       ]
     },
@@ -207,51 +207,51 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-09T21:54:03+00:00",
+      "stand": "2026-11-10T01:09:17+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
-          "untertitel": "Leichter Regen · 8° bis 15°",
+          "untertitel": "Regenschauer · 11° bis 14°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 100%",
+          "info": "Regenrisiko 63%",
           "emoji": "🌦️"
         },
         {
           "titel": "Bern",
-          "untertitel": "Regenschauer · 8° bis 15°",
+          "untertitel": "Regenschauer · 9° bis 13°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 100%",
+          "info": "Regenrisiko 58%",
           "emoji": "🌦️"
         },
         {
           "titel": "Basel",
-          "untertitel": "Regenschauer · 9° bis 12°",
+          "untertitel": "Gewitter mit Hagel · 10° bis 14°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 100%",
-          "emoji": "🌦️"
+          "info": "Regenrisiko 78%",
+          "emoji": "⛈️"
         },
         {
           "titel": "Genf",
-          "untertitel": "Regen · 9° bis 15°",
+          "untertitel": "Regenschauer · 10° bis 17°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 100%",
-          "emoji": "🌧️"
+          "info": "Regenrisiko 63%",
+          "emoji": "🌦️"
         },
         {
           "titel": "Lugano",
-          "untertitel": "Leichter Regen · 8° bis 13°",
+          "untertitel": "Regenschauer · 8° bis 12°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 93%",
+          "info": "Regenrisiko 13%",
           "emoji": "🌦️"
         }
       ]
