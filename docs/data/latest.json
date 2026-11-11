@@ -1,39 +1,39 @@
 {
-  "aktualisiert": "2026-11-11T10:05:52+00:00",
+  "aktualisiert": "2026-11-11T13:17:09+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-11T10:05:52+00:00",
+      "stand": "2026-11-11T13:17:09+00:00",
       "eintraege": [
         {
-          "titel": "Video zeigt die Unfallstelle in Madiswil BE",
-          "untertitel": "Bei einem schweren Verkehrsunfall in Madiswil BE ist am Dienstagmorgen ein 49-jähriger Autofahrer ums Leben gekommen. Sein Wagen kollidierte frontal mit einem Lastwagen. Trotz …",
-          "link": "https://www.blick.ch/schweiz/bern/video-zeigt-die-unfallstelle-in-madiswil-be/c1bjjv0",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/soOktkuTURBXy8yMDE2YjczMi0xZjdmLTQwYTItYTQ1ZS02NDRlZDRiNDViYjkuanBlZ5KTBc0CWM0BO5MJpmMxZTcxMgY/uqthau7cpb.jpg",
-          "quelle": "Blick",
-          "info": "4 Quellen berichten",
-          "trend": "gleich"
-        },
-        {
-          "titel": "Swiss-Smile-Schwestern wollen an US-Börse Milliarden holen",
-          "untertitel": "Haley und Goly Abivardi wurden mit Zahnarztpraxen bekannt. Jetzt soll die Zuger Firma Vvardis in New York an die Börse. Hinter den Wachstumsplänen stehen hohe Verluste und …",
-          "link": "https://www.20min.ch/story/trotz-millionenverlusten-swiss-smile-schwestern-wollen-an-boerse-milliarden-holen-103665474",
-          "bild": "https://image.20min.ch/2026/11/11/250ce148-5e8a-4b45-b99d-99002494fd3e.jpg?s=661805bf7e92677c42335083c56eb008",
-          "quelle": "20 Minuten",
+          "titel": "Unfall in Zürich – Tödlicher Unfall am Escher-Wyss-Platz: Lastwagenfahrer angeklagt",
+          "untertitel": "Vier Jahre nach dem Tod eines Fünfjährigen am Escher-Wyss-Platz erhebt die Zürcher Staatsanwaltschaft nun Anklage.",
+          "link": "https://www.srf.ch/news/schweiz/unfall-in-zuerich-toedlicher-unfall-am-escher-wyss-platz-lastwagenfahrer-angeklagt",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/bf990d.webp",
+          "quelle": "SRF",
           "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Einsatzkräfte mit grossem Aufgebot vor Ort",
-          "untertitel": "Rund 800 Liter Salzsäure sind bei einem Pharma-Unternehmen in Liestal ausgelaufen. Die Einsatzkräfte rückten aus, Alertswiss warnte die Bevölkerung. Verletzte gab es keine.",
-          "link": "https://www.blick.ch/schweiz/basel-landschaft/liestal-bl-salzsaeure-bei-pharma-unternehmen-ausgelaufen/yy1fndd",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/zb0ktkuTURBXy81YTdjYWFhYi01YzFjLTQxMjctYmI0MC00NWEyNDhlMzMwMjcuanBlZ5KTBc0CWM0BO5MJpjhkMzQ1ZQY/fldc9n0i3.jpg",
+          "titel": "Bahnverkehr in Zürich Altstetten unterbrochen",
+          "untertitel": "Der Verkehr im Bahnhof Zürich Altstetten ist unterbrochen. Dies hat Auswirkungen auf den schweizweiten Zugverkehr.",
+          "link": "https://www.blick.ch/schweiz/zuerich/bahnverkehr-in-zuerich-altstetten-unterbrochen/3p78zbm",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/1dXktktTURBXy9iZWU5OTI2OS02ZGE3LTRiYTYtYWQ3ZC0zYTE5YjNiZDVlOWEucG5nkpMFzQJYzQE7kwmmNWI1NDA4Bg/pbzrh0oo23.jpg",
           "quelle": "Blick",
           "info": "3 Quellen berichten",
-          "trend": "gleich"
+          "trend": "neu"
+        },
+        {
+          "titel": "Schwerer Unfall in Dörflingen SH",
+          "untertitel": "Ein junger Fahrer verlor in Dörflingen die Kontrolle über sein Auto und prallte damit gegen einen Baum. Der Lenker wurde ins Spital gebracht.",
+          "link": "https://www.blick.ch/schweiz/schaffhausen/schwerer-autounfall-in-doerflingen-sh/rp80qnm",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/v-8ktkuTURBXy83YjE1OWJlOS0zNmZjLTRmMjQtYjdlNC0zOTg2MzgzZDE1ZmUuanBlZ5KTBc0CWM0BO5MJpjczYmY4OAY/s17ucax0yes.jpg",
+          "quelle": "Blick",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
         }
       ]
     },
@@ -41,31 +41,31 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-11T10:05:52+00:00",
+      "stand": "2026-11-11T13:17:09+00:00",
       "eintraege": [
-        {
-          "titel": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-          "untertitel": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
-          "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5391/live/eb55ba30-dd67-11f1-a701-fddedf244c16.jpg",
-          "quelle": "BBC",
-          "info": "2 Quellen berichten",
-          "trend": "neu"
-        },
-        {
-          "titel": "Collision of two trains in Egypt kills at least seven",
-          "untertitel": "President orders prompt investigation after one train derails in collision in al-Ayyat about 50km from Cairo Seven people were killed and at least 125 injured when two trains …",
-          "link": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
-          "bild": "https://i.guim.co.uk/img/media/7527078bbb41cf17b1a35718b70ebdceeada7492/206_271_4462_3569/master/4462.jpg?width=140&quality=85&auto=format&fit=max&s=24b5e48c937f7ee0a5afbdfdeb04cf94",
-          "quelle": "The Guardian",
-          "info": "2 Quellen berichten",
-          "trend": "gleich"
-        },
         {
           "titel": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
           "untertitel": "Former liberation movement’s share of national vote almost 14 percentage points below 2021 result The African National Congress is on course to suffer a bruising defeat in South …",
           "link": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections",
           "bild": "https://i.guim.co.uk/img/media/ca80f1733421e850930a8c2267b7214219fef832/697_286_4649_3719/master/4649.jpg?width=140&quality=85&auto=format&fit=max&s=f4831bd02c6a91cdc25376cf8e9b3a3b",
+          "quelle": "The Guardian",
+          "info": "2 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Falkland Islanders face ‘devastating consequences’ if Argentina blocks oil project, says UK",
+          "untertitel": "Countries clash over Sea Lion project as Hamburg tribunal risks deepening sovereignty dispute The people of the Falkland Islands face “devastating consequences” if Argentina is …",
+          "link": "https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts",
+          "bild": "https://i.guim.co.uk/img/media/5d2b5e1b9e781a1b5a8dd0e647c4fd2a9b8b0afb/295_244_2470_1977/master/2470.jpg?width=140&quality=85&auto=format&fit=max&s=35f0b486f371c4981f8f6f278cadd89d",
+          "quelle": "The Guardian",
+          "info": "2 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit",
+          "untertitel": "Pontiff tells Argentina’s president the economy must benefit all on second stop of 12-day Latin America tour Pope Leo XIV has delivered a stinging critique of Argentine president …",
+          "link": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
+          "bild": "https://i.guim.co.uk/img/media/cebae71e5fdd86b5579126f7d39addd8b86cf7f9/123_0_2842_2274/master/2842.jpg?width=140&quality=85&auto=format&fit=max&s=cf86259dc8237fa6a6872433d1541e66",
           "quelle": "The Guardian",
           "info": "2 Quellen berichten",
           "trend": "neu"
@@ -76,32 +76,32 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-11T10:05:52+00:00",
+      "stand": "2026-11-11T13:17:09+00:00",
       "eintraege": [
         {
-          "titel": "phishing",
-          "untertitel": "Whale phishing (whaling): what it is, how it works and what to do if you answered one",
-          "link": "https://www.2-spyware.com/remove-whale-phishing.html",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNwKZBkni9vtS5hSdWyRqYvkfsFG2UyYry6uXJImOxSnxHu4WcraFEkos5wP4",
-          "quelle": "Google Trends · 2-Spyware",
-          "info": "100+ Suchanfragen",
+          "titel": "st. gallen",
+          "untertitel": "St. Gallen: Autofahrerin übersieht 6-Jährigen auf dem Weg in den Kindergarten",
+          "link": "https://www.20min.ch/story/st-gallen-frau-faehrt-6-jaehrigen-auf-fussgaengerstreifen-an-103665568",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRNDs2Cjoa23YQWrucLaZ_xLLnQxBd0FYeiDyK-sn56LS7k2bVlJhj2_zZMb8",
+          "quelle": "Google Trends · 20 Minuten",
+          "info": "200+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "rentner",
-          "untertitel": "«Ich spende alles», sagt Bernhard Russi – fünf Schweizer erzählen, was sie mit ihrer 13. AHV-Rente machen",
-          "link": "https://www.tagesanzeiger.ch/13-ahv-rente-wofuer-rentnerinnen-und-rentner-sie-brauchen-585000778801",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQme7y1PPV_5-krfgYZcxAzyOU3x1A9WZNP4CkeCtG0HU7XdvMxw_boy10KRrY",
+          "titel": "altstetten",
+          "untertitel": "Strecke unterbrochen - Eingeschränkter Bahnverkehr bei Zürich bis 15 Uhr",
+          "link": "https://www.srf.ch/news/schweiz/strecke-unterbrochen-eingeschraenkter-bahnverkehr-bei-zuerich-bis-15-uhr",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjLkqsriomT3TCQ0Ww37WiL2W6Vahz2gXSWWIPSfujLqXFi0m1TLUEy2w2EVk",
+          "quelle": "Google Trends · SRF",
+          "info": "200+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "bergsturz",
+          "untertitel": "Blatten nach dem Bergsturz von 2025: Aus der Zerstörung spriesst erstes Grün",
+          "link": "https://www.tagesanzeiger.ch/blatten-wie-die-natur-nach-dem-bergsturz-zurueckkehrt-496247846641",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHmcxM_wJrCJi7AQxPQ10BY5H4AobTP114rzCTC5902gIS1OLr-EKiwy2WVHw",
           "quelle": "Google Trends · Tages-Anzeiger",
-          "info": "500+ Suchanfragen",
-          "trend": "neu"
-        },
-        {
-          "titel": "11 novembre",
-          "untertitel": "11-Novembre: le ministère des Armées et des Anciens combattants regrette une \"polémique très regrettable\" et \"un irrespect total de notre mémoire\"",
-          "link": "https://www.bfmtv.com/politique/gouvernement/11-novembre-le-ministere-des-armees-et-des-anciens-combattants-regrette-une-polemique-tres-regrettable-et-un-irrespect-total-de-notre-memoire_AD-202611110268.html",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQec2_kSTrMEjnJLN7GPo55L7l3Xvdb-m43hblrPIkeUcodOegw8SXVLtlpBQ",
-          "quelle": "Google Trends · BFM",
           "info": "200+ Suchanfragen",
           "trend": "neu"
         }
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-11T10:05:52+00:00",
+      "stand": "2026-11-11T13:17:09+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-11T10:05:52+00:00",
+      "stand": "2026-11-11T13:17:09+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -158,13 +158,13 @@
           "trend": "gleich"
         },
         {
-          "titel": "MORD AUF EX",
-          "untertitel": "Leonie Bartsch & Linn Schütze",
-          "link": "https://podcasts.apple.com/ch/podcast/mord-auf-ex/id1486608425",
-          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b9/17/07/b91707ba-b4bf-2021-bafe-b4dd1e1f0196/mza_6370841172422755338.jpg/300x300bb.png",
+          "titel": "Podcast am Pistenrand",
+          "untertitel": "Tina Weirather, Marc Berthod und Michael Schweizer",
+          "link": "https://podcasts.apple.com/ch/podcast/podcast-am-pistenrand/id1649823890",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/b5/33/1b/b5331b80-51d6-a9b5-0202-26549181440f/mza_6739746491336226460.jpeg/300x300bb.png",
           "quelle": "Apple Podcasts Charts CH",
-          "info": "Wahre Kriminalfälle, Geschichte",
-          "trend": "gleich"
+          "info": "Sport, Comedy",
+          "trend": "neu"
         },
         {
           "titel": "RONZHEIMER.",
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-11T10:05:52+00:00",
+      "stand": "2026-11-11T13:17:09+00:00",
       "eintraege": [
         {
           "titel": "St. Galler Weihnachtsmarkt schmeisst zwei Kult-Bahnen raus",
@@ -216,38 +216,38 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-11T10:05:52+00:00",
+      "stand": "2026-11-11T13:17:09+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
-          "untertitel": "Regenschauer · 7° bis 13°",
+          "untertitel": "Leichter Regen · 7° bis 13°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 98%",
+          "info": "Regenrisiko 100%",
           "emoji": "🌦️"
         },
         {
           "titel": "Bern",
-          "untertitel": "Leichter Regen · 8° bis 11°",
-          "link": "https://www.meteoschweiz.admin.ch/",
-          "bild": "",
-          "quelle": "Open-Meteo",
-          "info": "Regenrisiko 98%",
-          "emoji": "🌦️"
-        },
-        {
-          "titel": "Basel",
           "untertitel": "Leichter Regen · 7° bis 12°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 95%",
+          "info": "Regenrisiko 100%",
           "emoji": "🌦️"
         },
         {
+          "titel": "Basel",
+          "untertitel": "Regen · 7° bis 12°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 90%",
+          "emoji": "🌧️"
+        },
+        {
           "titel": "Genf",
-          "untertitel": "Leichter Regen · 10° bis 13°",
+          "untertitel": "Leichter Regen · 9° bis 13°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -256,7 +256,7 @@
         },
         {
           "titel": "Lugano",
-          "untertitel": "Regenschauer · 9° bis 12°",
+          "untertitel": "Leichter Regen · 9° bis 12°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
