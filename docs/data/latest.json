@@ -1,13 +1,22 @@
 {
-  "aktualisiert": "2026-11-11T13:17:09+00:00",
+  "aktualisiert": "2026-11-11T15:57:35+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-11T13:17:09+00:00",
+      "stand": "2026-11-11T15:57:35+00:00",
       "eintraege": [
+        {
+          "titel": "Verhandlungen zu Ukrainekrieg – Die Gespräche in Abu Dhabi sind beendet – so geht es weiter",
+          "untertitel": "Delegationen aus Russland und der Ukraine haben erstmals wieder miteinander verhandelt. Die wichtigsten Punkte.",
+          "link": "https://www.srf.ch/news/international/verhandlungen-zu-ukrainekrieg-die-gespraeche-in-abu-dhabi-sind-beendet-so-geht-es-weiter",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/016f7d.webp",
+          "quelle": "SRF",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
         {
           "titel": "Unfall in Zürich – Tödlicher Unfall am Escher-Wyss-Platz: Lastwagenfahrer angeklagt",
           "untertitel": "Vier Jahre nach dem Tod eines Fünfjährigen am Escher-Wyss-Platz erhebt die Zürcher Staatsanwaltschaft nun Anklage.",
@@ -18,20 +27,11 @@
           "trend": "neu"
         },
         {
-          "titel": "Bahnverkehr in Zürich Altstetten unterbrochen",
-          "untertitel": "Der Verkehr im Bahnhof Zürich Altstetten ist unterbrochen. Dies hat Auswirkungen auf den schweizweiten Zugverkehr.",
-          "link": "https://www.blick.ch/schweiz/zuerich/bahnverkehr-in-zuerich-altstetten-unterbrochen/3p78zbm",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/1dXktktTURBXy9iZWU5OTI2OS02ZGE3LTRiYTYtYWQ3ZC0zYTE5YjNiZDVlOWEucG5nkpMFzQJYzQE7kwmmNWI1NDA4Bg/pbzrh0oo23.jpg",
-          "quelle": "Blick",
-          "info": "3 Quellen berichten",
-          "trend": "neu"
-        },
-        {
-          "titel": "Schwerer Unfall in Dörflingen SH",
-          "untertitel": "Ein junger Fahrer verlor in Dörflingen die Kontrolle über sein Auto und prallte damit gegen einen Baum. Der Lenker wurde ins Spital gebracht.",
-          "link": "https://www.blick.ch/schweiz/schaffhausen/schwerer-autounfall-in-doerflingen-sh/rp80qnm",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/v-8ktkuTURBXy83YjE1OWJlOS0zNmZjLTRmMjQtYjdlNC0zOTg2MzgzZDE1ZmUuanBlZ5KTBc0CWM0BO5MJpjczYmY4OAY/s17ucax0yes.jpg",
-          "quelle": "Blick",
+          "titel": "In Basel verkaufter Thunfisch sieht teils frischer aus, als er ist",
+          "untertitel": "Das Kantonslabor Basel-Stadt hat 4 von 16 Proben von frischem Thunfisch beanstandet. Sie wurden umgerötet, um frischer auszusehen – dies sei Lebensmittelbetrug.",
+          "link": "https://www.watson.ch/schweiz/food/627333614-basel-kantonslabor-bs-meldet-lebensmittelbetrug-bei-frischem-thunfisch",
+          "bild": "",
+          "quelle": "watson",
           "info": "3 Quellen berichten",
           "trend": "neu"
         }
@@ -41,34 +41,34 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-11T13:17:09+00:00",
+      "stand": "2026-11-11T15:57:35+00:00",
       "eintraege": [
         {
-          "titel": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
-          "untertitel": "Former liberation movement’s share of national vote almost 14 percentage points below 2021 result The African National Congress is on course to suffer a bruising defeat in South …",
-          "link": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections",
-          "bild": "https://i.guim.co.uk/img/media/ca80f1733421e850930a8c2267b7214219fef832/697_286_4649_3719/master/4649.jpg?width=140&quality=85&auto=format&fit=max&s=f4831bd02c6a91cdc25376cf8e9b3a3b",
-          "quelle": "The Guardian",
-          "info": "2 Quellen berichten",
+          "titel": "Spain sees widespread disruption in first general strike for 14 years",
+          "untertitel": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49d4/live/b795f200-ddc1-11f1-a50f-85eebf9e50e5.jpg",
+          "quelle": "BBC",
+          "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Falkland Islanders face ‘devastating consequences’ if Argentina blocks oil project, says UK",
-          "untertitel": "Countries clash over Sea Lion project as Hamburg tribunal risks deepening sovereignty dispute The people of the Falkland Islands face “devastating consequences” if Argentina is …",
-          "link": "https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts",
-          "bild": "https://i.guim.co.uk/img/media/5d2b5e1b9e781a1b5a8dd0e647c4fd2a9b8b0afb/295_244_2470_1977/master/2470.jpg?width=140&quality=85&auto=format&fit=max&s=35f0b486f371c4981f8f6f278cadd89d",
-          "quelle": "The Guardian",
-          "info": "2 Quellen berichten",
+          "titel": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+          "untertitel": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
+          "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93dc/live/ae624920-ddd7-11f1-93e1-3b657b665bcf.jpg",
+          "quelle": "BBC",
+          "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit",
-          "untertitel": "Pontiff tells Argentina’s president the economy must benefit all on second stop of 12-day Latin America tour Pope Leo XIV has delivered a stinging critique of Argentine president …",
-          "link": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
-          "bild": "https://i.guim.co.uk/img/media/cebae71e5fdd86b5579126f7d39addd8b86cf7f9/123_0_2842_2274/master/2842.jpg?width=140&quality=85&auto=format&fit=max&s=cf86259dc8237fa6a6872433d1541e66",
+          "titel": "Collision of two trains in Egypt kills at least seven",
+          "untertitel": "President orders prompt investigation after one train derails in collision in al-Ayyat about 50km from Cairo Seven people were killed and at least 125 injured when two trains …",
+          "link": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
+          "bild": "https://i.guim.co.uk/img/media/7527078bbb41cf17b1a35718b70ebdceeada7492/206_271_4462_3569/master/4462.jpg?width=140&quality=85&auto=format&fit=max&s=24b5e48c937f7ee0a5afbdfdeb04cf94",
           "quelle": "The Guardian",
           "info": "2 Quellen berichten",
-          "trend": "neu"
+          "trend": "runter"
         }
       ]
     },
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-11T13:17:09+00:00",
+      "stand": "2026-11-11T15:57:35+00:00",
       "eintraege": [
         {
-          "titel": "st. gallen",
-          "untertitel": "St. Gallen: Autofahrerin übersieht 6-Jährigen auf dem Weg in den Kindergarten",
-          "link": "https://www.20min.ch/story/st-gallen-frau-faehrt-6-jaehrigen-auf-fussgaengerstreifen-an-103665568",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRNDs2Cjoa23YQWrucLaZ_xLLnQxBd0FYeiDyK-sn56LS7k2bVlJhj2_zZMb8",
-          "quelle": "Google Trends · 20 Minuten",
-          "info": "200+ Suchanfragen",
+          "titel": "simon ammann",
+          "untertitel": "",
+          "link": "https://www.google.ch/search?q=simon+ammann",
+          "bild": "",
+          "quelle": "Google Trends",
+          "info": "500+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "altstetten",
-          "untertitel": "Strecke unterbrochen - Eingeschränkter Bahnverkehr bei Zürich bis 15 Uhr",
-          "link": "https://www.srf.ch/news/schweiz/strecke-unterbrochen-eingeschraenkter-bahnverkehr-bei-zuerich-bis-15-uhr",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjLkqsriomT3TCQ0Ww37WiL2W6Vahz2gXSWWIPSfujLqXFi0m1TLUEy2w2EVk",
-          "quelle": "Google Trends · SRF",
-          "info": "200+ Suchanfragen",
+          "titel": "sargans",
+          "untertitel": "Sarganser Oberstufenschüler entdecken die Vielfalt der Berufswelt",
+          "link": "https://www.sarganserlaender.ch/artikel/sarganser-oberstufenschueler-entdecken-die-vielfalt-der-berufswelt",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfBDT7zKBS5lrAGtbsaegSxFKTUuqi3rftW9O7PWDw2b5wMfh8mS7CXP7pImw",
+          "quelle": "Google Trends · Sarganserländer",
+          "info": "500+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "bergsturz",
-          "untertitel": "Blatten nach dem Bergsturz von 2025: Aus der Zerstörung spriesst erstes Grün",
-          "link": "https://www.tagesanzeiger.ch/blatten-wie-die-natur-nach-dem-bergsturz-zurueckkehrt-496247846641",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHmcxM_wJrCJi7AQxPQ10BY5H4AobTP114rzCTC5902gIS1OLr-EKiwy2WVHw",
-          "quelle": "Google Trends · Tages-Anzeiger",
-          "info": "200+ Suchanfragen",
+          "titel": "st gallen",
+          "untertitel": "Kind bei Kollision mit Auto erheblich verletzt",
+          "link": "https://www.stadt.sg.ch/news/stsg_stadtpolizei/2026/11/kind-bei-kollision-mit-auto-erheblich-verletzt.html",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE_MWGdgE-K5QpXWN5dynhKUYHUmRWvz_cHyXNclauJ-QtW-JXgrXL5HLSaqU",
+          "quelle": "Google Trends · Stadt St.Gallen",
+          "info": "2000+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-11T13:17:09+00:00",
+      "stand": "2026-11-11T15:57:35+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-11T13:17:09+00:00",
+      "stand": "2026-11-11T15:57:35+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,8 +181,17 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-11T13:17:09+00:00",
+      "stand": "2026-11-11T15:57:35+00:00",
       "eintraege": [
+        {
+          "titel": "«Zürich, war schön bei euch»: Tokio Hotel schwärmt nach Konzert",
+          "untertitel": "Tokio Hotel spielte am 10. November ein Konzert im Zürcher Hallenstadion. Im Publikum standen auch Heidi Klum und Yannik Zamboni. Die Kaulitz-Brüder schwärmen im Podcast von …",
+          "link": "https://www.20min.ch/story/tokio-hotel-in-zuerich-kaulitz-brueder-schwaermen-nach-konzert-vom-hotel-103665610",
+          "bild": "https://image.20min.ch/2026/11/11/f271f507-0177-470a-a415-1a5580b826fe.png?s=8a586db245243f2d4733ca943ea44156",
+          "quelle": "20 Minuten",
+          "info": "",
+          "trend": "neu"
+        },
         {
           "titel": "St. Galler Weihnachtsmarkt schmeisst zwei Kult-Bahnen raus",
           "untertitel": "Kein Zügli, kein Karussell: Der St. Galler Weihnachtsmarkt krempelt sein Konzept um. Ab dem 26. November sollen Kerzenziehen und Singen die Kinder begeistern – Platz für die …",
@@ -190,7 +199,7 @@
           "bild": "https://ocdn.eu/pulscms-transforms/1/VfZktktTURBXy9jMGViNDIwNS0yNWFkLTQ4OGYtOGM1NC1jM2Y3OTljMzJiOGYucG5nkpMFzQJYzQE7kwmmMGYzM2RmBg/gnyebv4bndw.jpg",
           "quelle": "Blick",
           "info": "",
-          "trend": "gleich"
+          "trend": "runter"
         },
         {
           "titel": "Schweizerinnen können jubeln: Viertelfinal-Ticket ist fix",
@@ -200,15 +209,6 @@
           "quelle": "20 Minuten",
           "info": "",
           "trend": "neu"
-        },
-        {
-          "titel": "Ausstellung «Alpensounds» – Nur für Boomer? Volksmusik kann auch anders!",
-          "untertitel": "Wie viel Veränderung verträgt Tradition? Das Alpine Museum in Bern beleuchtet den Wandel der Schweizer Volksmusik.",
-          "link": "https://www.srf.ch/news/gesellschaft/ausstellung-alpensounds-nur-fuer-boomer-volksmusik-kann-auch-anders",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/65b511.webp",
-          "quelle": "SRF",
-          "info": "",
-          "trend": "runter"
         }
       ]
     },
@@ -216,7 +216,7 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-11T13:17:09+00:00",
+      "stand": "2026-11-11T15:57:35+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
@@ -238,12 +238,12 @@
         },
         {
           "titel": "Basel",
-          "untertitel": "Regen · 7° bis 12°",
+          "untertitel": "Regenschauer · 7° bis 12°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
           "info": "Regenrisiko 90%",
-          "emoji": "🌧️"
+          "emoji": "🌦️"
         },
         {
           "titel": "Genf",
