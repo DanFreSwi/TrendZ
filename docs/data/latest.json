@@ -1,37 +1,37 @@
 {
-  "aktualisiert": "2026-11-11T01:11:29+00:00",
+  "aktualisiert": "2026-11-11T04:00:20+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-11T01:11:29+00:00",
+      "stand": "2026-11-11T04:00:20+00:00",
       "eintraege": [
         {
-          "titel": "Video zeigt die Unfallstelle in Madiswil BE",
-          "untertitel": "Bei einem schweren Verkehrsunfall in Madiswil BE ist am Dienstagmorgen ein 49-jähriger Autofahrer ums Leben gekommen. Sein Wagen kollidierte frontal mit einem Lastwagen. Trotz …",
-          "link": "https://www.blick.ch/schweiz/bern/video-zeigt-die-unfallstelle-in-madiswil-be/c1bjjv0",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/soOktkuTURBXy8yMDE2YjczMi0xZjdmLTQwYTItYTQ1ZS02NDRlZDRiNDViYjkuanBlZ5KTBc0CWM0BO5MJpmMxZTcxMgY/uqthau7cpb.jpg",
-          "quelle": "Blick",
+          "titel": "Oleschky-Waffenruhe: Ukrainer und Russen bereiten Evakuierung vor",
+          "untertitel": "Die seit Dienstag geltende Waffenruhe in der von russischen Truppen besetzten Frontstadt Oleschky im südukrainischen Gebiet Cherson hält weiter.",
+          "link": "https://www.watson.ch/international/russland/156525832-oleschky-waffenruhe-ukrainer-und-russen-bereiten-evakuierung-vor",
+          "bild": "",
+          "quelle": "watson",
           "info": "3 Quellen berichten",
-          "trend": "gleich"
+          "trend": "neu"
         },
         {
-          "titel": "Asbest-Opfer: Berufungsprozess im Fall Eternit neu aufgerollt",
-          "untertitel": "In Italien wird der Fall Eternit neu aufgerollt. Die Freiheitsstrafe von neun Jahren und sechs Monaten wurde nicht aufrechterhalten. Bei 25 Opfern ist die Anklage bereits verjährt.",
-          "link": "https://www.20min.ch/story/stephan-schmidheiny-asbest-opfer-berufungsprozess-im-fall-eternit-neu-aufgerollt-103665343",
-          "bild": "https://media.20min.ch/6/image/2025/03/22/6f345361-0dbd-44dd-b904-39c72805ca55.jpeg?s=13ebb69c9f4eca5d789f08e1dd47822e",
-          "quelle": "20 Minuten",
+          "titel": "Fussgängerin stirbt nach Kollision mit Tram in Zürich",
+          "untertitel": "Am Donnerstagmorgen ist eine Fussgängerin nach einer Kollision im Kreis 7 mit einem Tram verstorben.",
+          "link": "https://www.watson.ch/schweiz/polizeirapport/251568062-fussgaengerin-stirbt-nach-unfall-mit-tram-in-zuerich",
+          "bild": "",
+          "quelle": "watson",
           "info": "3 Quellen berichten",
-          "trend": "gleich"
+          "trend": "neu"
         },
         {
-          "titel": "Bis zu 310’000 Franken: So viel gibts 2027 in diesen Jobs",
-          "untertitel": "Für Berufseinsteigende wird der Eintritt in den Schweizer Arbeitsmarkt schwieriger. Gefragt bleiben Fachkräfte mit KI-Wissen, Erfahrung im Umgang mit gesetzlichen Vorschriften …",
-          "link": "https://www.20min.ch/story/gehaltsreport-2027-diese-skills-bleiben-trotz-haerterem-jobmarkt-gefragt-103665026",
-          "bild": "https://image.20min.ch/2026/11/10/6b358d96-95a7-4c3c-ba8f-f6b032a471a7.jpg?s=a66458912a7114821753fbc2699c0c31",
-          "quelle": "20 Minuten",
+          "titel": "Midterms 2026 – Impeachment von Verteidigungsminister Hegseth ist gescheitert",
+          "untertitel": "Das US-Repräsentantenhaus hat den Antrag zur Amtsenthebung von Verteidigungsminister Pete Hegseth abgelehnt.",
+          "link": "https://www.srf.ch/news/international/midterms-2026-impeachment-von-verteidigungsminister-hegseth-ist-gescheitert",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/3b2afc.webp",
+          "quelle": "SRF",
           "info": "2 Quellen berichten",
           "trend": "neu"
         }
@@ -41,17 +41,8 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-11T01:11:29+00:00",
+      "stand": "2026-11-11T04:00:20+00:00",
       "eintraege": [
-        {
-          "titel": "US-Repräsentantenhaus lehnt Amtsenthebungsverfahren gegen Hegseth ab",
-          "untertitel": "Die Republikaner im US-Repräsentantenhaus haben einen Vorstoß zur Amtsenthebung von Verteidigungsminister Pete Hegseth abgewehrt. Sie stimmten nahezu geschlossen gegen eine …",
-          "link": "https://www.tagesschau.de/ausland/amerika/hegseth-amtsenthebungsverfahren-gestoppt-100.html",
-          "bild": "",
-          "quelle": "tagesschau",
-          "info": "2 Quellen berichten",
-          "trend": "neu"
-        },
         {
           "titel": "Collision of two trains in Egypt kills at least seven",
           "untertitel": "President orders prompt investigation after one train derails in collision in al-Ayyat about 50km from Cairo Seven people were killed and at least 125 injured when two trains …",
@@ -59,7 +50,16 @@
           "bild": "https://i.guim.co.uk/img/media/7527078bbb41cf17b1a35718b70ebdceeada7492/206_271_4462_3569/master/4462.jpg?width=140&quality=85&auto=format&fit=max&s=24b5e48c937f7ee0a5afbdfdeb04cf94",
           "quelle": "The Guardian",
           "info": "2 Quellen berichten",
-          "trend": "gleich"
+          "trend": "hoch"
+        },
+        {
+          "titel": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+          "untertitel": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+          "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5391/live/eb55ba30-dd67-11f1-a701-fddedf244c16.jpg",
+          "quelle": "BBC",
+          "info": "2 Quellen berichten",
+          "trend": "neu"
         },
         {
           "titel": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-11T01:11:29+00:00",
+      "stand": "2026-11-11T04:00:20+00:00",
       "eintraege": [
         {
-          "titel": "betrug",
-          "untertitel": "Kriminalität: Betrug mit vermeintlichem Gewinnspiel: 40.000 Euro abgebucht",
-          "link": "https://www.zeit.de/news/2026-11/10/betrug-mit-vermeintlichem-gewinnspiel-40-000-euro-abgebucht",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtfwmD5I-XSrUimh6LsG8s1ZN49HXeOoSM-4naONc7iVGnTyRcKhgR-BbsgDQ",
-          "quelle": "Google Trends · DIE ZEIT",
+          "titel": "schnee",
+          "untertitel": "Folgt auf den Bremer Nebel bald der erste Schnee?",
+          "link": "https://www.butenunbinnen.de/nachrichten/wetter-bremen-bremerhaven-november-nebel-frost-100.html",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRzmOo5HcyqVRvCVxL1TgQRhn7yoKTCJEVyPfmRu6T0Q6UDxTJYiuZHr7NHenU",
+          "quelle": "Google Trends · buten un binnen",
           "info": "200+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "gta 6 release date",
-          "untertitel": "Pre-load Grand Theft Auto VI on PS5 starting today",
-          "link": "https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmQPZtB1cfmtJ8v-9159sSJpw2Cr8v495zAc5tM6Spqsus45lZErGPllHDXDY",
-          "quelle": "Google Trends · PlayStation.Blog",
+          "titel": "conducteur",
+          "untertitel": "Un automobiliste a perdu le contrôle de son véhicule sur l’autoroute A5",
+          "link": "http://www.arcinfo.ch/neuchatel-canton/un-automobiliste-a-perdu-le-controle-de-son-vehicule-sur-lautoroute-a5-1521193",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTI3UNEoGrfzbFugf-yi_b9jCEU4abVPLy30UGv83QHF5vamG6bg6GJxI6-y2A",
+          "quelle": "Google Trends · ArcInfo",
           "info": "500+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "silas huber",
-          "untertitel": "News zum Nationalteam - Goalie Silas Huber muss für die Fortsetzung passen",
-          "link": "https://www.srf.ch/sport/fussball/nationalmannschaft/news-zum-nationalteam-goalie-silas-huber-muss-fuer-die-fortsetzung-passen",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZNYYCfJ-XJ8MwaaSUVdzFXRycOXdWqEZ-UXJ45uAduk0hbA6G8xI6BnBqw-4",
-          "quelle": "Google Trends · SRF",
-          "info": "200+ Suchanfragen",
+          "titel": "cham",
+          "untertitel": "131 / Dietwil (AG): Auffahrunfall mit vier beteiligten Fahrzeugen",
+          "link": "https://zg.ch/de/zuger-polizei-news/2026/November/131-dietwil-ag-auffahrunfall-mit-vier-beteiligten-fahrzeugen",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD7r9koCaEQ5kDy0tzTf9Q7iOK1Q6VYXU_dKSrjYrCsIxaxwmUO_QeHEYfDoo",
+          "quelle": "Google Trends · zg.ch",
+          "info": "500+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-11T01:11:29+00:00",
+      "stand": "2026-11-11T04:00:20+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-11T01:11:29+00:00",
+      "stand": "2026-11-11T04:00:20+00:00",
       "eintraege": [
         {
           "titel": "St. Galler Weihnachtsmarkt schmeisst zwei Kult-Bahnen raus",
@@ -207,20 +207,20 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-11T01:11:29+00:00",
+      "stand": "2026-11-11T04:00:20+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
-          "untertitel": "Regen · 8° bis 12°",
+          "untertitel": "Leichter Regen · 8° bis 12°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
           "info": "Regenrisiko 98%",
-          "emoji": "🌧️"
+          "emoji": "🌦️"
         },
         {
           "titel": "Bern",
-          "untertitel": "Leichter Regen · 8° bis 12°",
+          "untertitel": "Leichter Regen · 8° bis 11°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -238,21 +238,21 @@
         },
         {
           "titel": "Genf",
-          "untertitel": "Regen · 10° bis 13°",
+          "untertitel": "Leichter Regen · 10° bis 13°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
           "info": "Regenrisiko 100%",
-          "emoji": "🌧️"
+          "emoji": "🌦️"
         },
         {
           "titel": "Lugano",
-          "untertitel": "Regen · 9° bis 12°",
+          "untertitel": "Leichter Regen · 9° bis 12°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
           "info": "Regenrisiko 100%",
-          "emoji": "🌧️"
+          "emoji": "🌦️"
         }
       ]
     }
