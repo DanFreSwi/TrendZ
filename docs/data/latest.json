@@ -1,35 +1,35 @@
 {
-  "aktualisiert": "2026-11-11T15:57:35+00:00",
+  "aktualisiert": "2026-11-11T19:03:59+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-11T15:57:35+00:00",
+      "stand": "2026-11-11T19:03:59+00:00",
       "eintraege": [
         {
-          "titel": "Verhandlungen zu Ukrainekrieg – Die Gespräche in Abu Dhabi sind beendet – so geht es weiter",
-          "untertitel": "Delegationen aus Russland und der Ukraine haben erstmals wieder miteinander verhandelt. Die wichtigsten Punkte.",
-          "link": "https://www.srf.ch/news/international/verhandlungen-zu-ukrainekrieg-die-gespraeche-in-abu-dhabi-sind-beendet-so-geht-es-weiter",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/016f7d.webp",
+          "titel": "Jubel und Empörung: Gans mit sieben Schlägen geköpft",
+          "untertitel": "Jedes Jahr sorgt die «Gansabhauet» in Sursee für Aufsehen. Während die Zuschauer beim Traditionsanlass am Mittwoch jubelten, haben empörte Demonstranten die Abschaffung des …",
+          "link": "https://www.20min.ch/story/sursee-lu-jubel-und-empoerung-gans-mit-sieben-schlaegen-gekoepft-103665689",
+          "bild": "https://image.20min.ch/2026/11/11/44989d16-03c5-45ca-91f1-67b15eb6de4c.jpg?s=c8a1e4487f3247c3ca2e6cd195b45677",
+          "quelle": "20 Minuten",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Bethesda Spital – Babyfenster: Viele Kinder finden später zu ihren Eltern zurück",
+          "untertitel": "Seit 2015 wurden im Basler Babyfenster fünf Neugeborene abgegeben. Mehrere Kinder leben heute wieder bei ihren Eltern.",
+          "link": "https://www.srf.ch/news/schweiz/bethesda-spital-babyfenster-viele-kinder-finden-spaeter-zu-ihren-eltern-zurueck",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/e07f2c.webp",
           "quelle": "SRF",
           "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Unfall in Zürich – Tödlicher Unfall am Escher-Wyss-Platz: Lastwagenfahrer angeklagt",
-          "untertitel": "Vier Jahre nach dem Tod eines Fünfjährigen am Escher-Wyss-Platz erhebt die Zürcher Staatsanwaltschaft nun Anklage.",
-          "link": "https://www.srf.ch/news/schweiz/unfall-in-zuerich-toedlicher-unfall-am-escher-wyss-platz-lastwagenfahrer-angeklagt",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/bf990d.webp",
-          "quelle": "SRF",
-          "info": "3 Quellen berichten",
-          "trend": "neu"
-        },
-        {
-          "titel": "In Basel verkaufter Thunfisch sieht teils frischer aus, als er ist",
-          "untertitel": "Das Kantonslabor Basel-Stadt hat 4 von 16 Proben von frischem Thunfisch beanstandet. Sie wurden umgerötet, um frischer auszusehen – dies sei Lebensmittelbetrug.",
-          "link": "https://www.watson.ch/schweiz/food/627333614-basel-kantonslabor-bs-meldet-lebensmittelbetrug-bei-frischem-thunfisch",
+          "titel": "Oleschky-Waffenruhe: Ukrainer und Russen bereiten Evakuierung vor",
+          "untertitel": "Die seit Dienstag geltende Waffenruhe in der von russischen Truppen besetzten Frontstadt Oleschky im südukrainischen Gebiet Cherson hält weiter.",
+          "link": "https://www.watson.ch/international/russland/156525832-oleschky-waffenruhe-ukrainer-und-russen-bereiten-evakuierung-vor",
           "bild": "",
           "quelle": "watson",
           "info": "3 Quellen berichten",
@@ -41,7 +41,7 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-11T15:57:35+00:00",
+      "stand": "2026-11-11T19:03:59+00:00",
       "eintraege": [
         {
           "titel": "Spain sees widespread disruption in first general strike for 14 years",
@@ -56,7 +56,7 @@
           "titel": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
           "untertitel": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
           "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93dc/live/ae624920-ddd7-11f1-93e1-3b657b665bcf.jpg",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cf0/live/2eb174e0-ddef-11f1-b441-2b33b063138f.jpg",
           "quelle": "BBC",
           "info": "3 Quellen berichten",
           "trend": "neu"
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-11T15:57:35+00:00",
+      "stand": "2026-11-11T19:03:59+00:00",
       "eintraege": [
         {
-          "titel": "simon ammann",
-          "untertitel": "",
-          "link": "https://www.google.ch/search?q=simon+ammann",
+          "titel": "selbstbedienungskasse",
+          "untertitel": "Gülsha Adiljis Trick überlistet selbst Self-Check-out-Kassen mit KI-Unterstützung",
+          "link": "https://www.nzz.ch/wirtschaft/die-methode-guelsha-bringt-sogar-self-checkouts-mit-ki-an-den-anschlag-die-differenz-zahlen-die-ehrlichen-kunden-mit-hoeheren-preisen-ld.10055049",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQm2Of5wk4XZXqEVq3Et3SbXs-6xQXQNqDnLgyVcZmCtgTMl30KENm9cmCl3CI",
+          "quelle": "Google Trends · NZZ",
+          "info": "200+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "gastronomie",
+          "untertitel": "Fleisch-Siegel: Koalition verschiebt staatliches Tierhaltungslogo erneut",
+          "link": "https://www.spiegel.de/wirtschaft/fleisch-siegel-koalition-verschiebt-staatliches-tierhaltungslogo-erneut-a-c8dfe463-defa-4c73-80e8-60e1e76ff0db",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5W_dCHw4hT39s30VuW4lAQ3MR3JxomS5X3-Bk0r-OWUXmFr0AxDAGex4MSQ0",
+          "quelle": "Google Trends · Spiegel",
+          "info": "100+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "usman nurmagomedov",
+          "untertitel": "Bloody Merab Dvalishvili claims ‘sneaky’ Usman Nurmagomedov and friends jumped him ahead of RAF Abu Dhabi",
+          "link": "https://www.mmafighting.com/ufc/520524/bloody-merab-dvalishvili-claims-sneaky-usman-nurmagomedov-and-friends-jumped-him-ahead-of-raf-abu-dhabi",
           "bild": "",
-          "quelle": "Google Trends",
-          "info": "500+ Suchanfragen",
-          "trend": "neu"
-        },
-        {
-          "titel": "sargans",
-          "untertitel": "Sarganser Oberstufenschüler entdecken die Vielfalt der Berufswelt",
-          "link": "https://www.sarganserlaender.ch/artikel/sarganser-oberstufenschueler-entdecken-die-vielfalt-der-berufswelt",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfBDT7zKBS5lrAGtbsaegSxFKTUuqi3rftW9O7PWDw2b5wMfh8mS7CXP7pImw",
-          "quelle": "Google Trends · Sarganserländer",
-          "info": "500+ Suchanfragen",
-          "trend": "neu"
-        },
-        {
-          "titel": "st gallen",
-          "untertitel": "Kind bei Kollision mit Auto erheblich verletzt",
-          "link": "https://www.stadt.sg.ch/news/stsg_stadtpolizei/2026/11/kind-bei-kollision-mit-auto-erheblich-verletzt.html",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE_MWGdgE-K5QpXWN5dynhKUYHUmRWvz_cHyXNclauJ-QtW-JXgrXL5HLSaqU",
-          "quelle": "Google Trends · Stadt St.Gallen",
-          "info": "2000+ Suchanfragen",
+          "quelle": "Google Trends · MMA Fighting",
+          "info": "100+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-11T15:57:35+00:00",
+      "stand": "2026-11-11T19:03:59+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -132,13 +132,13 @@
           "trend": "gleich"
         },
         {
-          "titel": "Movin' To The Sun",
-          "untertitel": "HUGEL, Imael Angel & Ultra Naté",
-          "link": "https://music.apple.com/ch/album/movin-to-the-sun/6769069923?i=6769070199",
-          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/300x300bb.jpg",
+          "titel": "So Easy (To Fall In Love)",
+          "untertitel": "Olivia Dean",
+          "link": "https://music.apple.com/ch/album/so-easy-to-fall-in-love/1817609404?i=1817609507",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/300x300bb.jpg",
           "quelle": "Apple Music Charts CH",
-          "info": "Electronic, Dance",
-          "trend": "gleich"
+          "info": "Pop",
+          "trend": "neu"
         }
       ]
     },
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-11T15:57:35+00:00",
+      "stand": "2026-11-11T19:03:59+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -167,13 +167,13 @@
           "trend": "neu"
         },
         {
-          "titel": "RONZHEIMER.",
-          "untertitel": "Paul Ronzheimer",
-          "link": "https://podcasts.apple.com/ch/podcast/ronzheimer/id1700432142",
-          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/16/ab/81/16ab81cb-e31f-5ea0-81a7-902a96dfd750/mza_17924075471806194431.jpg/300x300bb.png",
+          "titel": "MORD AUF EX",
+          "untertitel": "Leonie Bartsch & Linn Schütze",
+          "link": "https://podcasts.apple.com/ch/podcast/mord-auf-ex/id1486608425",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b9/17/07/b91707ba-b4bf-2021-bafe-b4dd1e1f0196/mza_6370841172422755338.jpg/300x300bb.png",
           "quelle": "Apple Podcasts Charts CH",
-          "info": "Nachrichten",
-          "trend": "gleich"
+          "info": "Wahre Kriminalfälle, Geschichte",
+          "trend": "runter"
         }
       ]
     },
@@ -181,8 +181,17 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-11T15:57:35+00:00",
+      "stand": "2026-11-11T19:03:59+00:00",
       "eintraege": [
+        {
+          "titel": "St. Galler Weihnachtsmarkt schmeisst zwei Kult-Bahnen raus",
+          "untertitel": "Kein Zügli, kein Karussell: Der St. Galler Weihnachtsmarkt krempelt sein Konzept um. Ab dem 26. November sollen Kerzenziehen und Singen die Kinder begeistern – Platz für die …",
+          "link": "https://www.blick.ch/schweiz/ostschweiz/st-gallen/das-ist-ein-witz-weihnachtsmarkt-schmeisst-bahnen-raus/gxjrejh",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/VfZktktTURBXy9jMGViNDIwNS0yNWFkLTQ4OGYtOGM1NC1jM2Y3OTljMzJiOGYucG5nkpMFzQJYzQE7kwmmMGYzM2RmBg/gnyebv4bndw.jpg",
+          "quelle": "Blick",
+          "info": "",
+          "trend": "gleich"
+        },
         {
           "titel": "«Zürich, war schön bei euch»: Tokio Hotel schwärmt nach Konzert",
           "untertitel": "Tokio Hotel spielte am 10. November ein Konzert im Zürcher Hallenstadion. Im Publikum standen auch Heidi Klum und Yannik Zamboni. Die Kaulitz-Brüder schwärmen im Podcast von …",
@@ -193,20 +202,11 @@
           "trend": "neu"
         },
         {
-          "titel": "St. Galler Weihnachtsmarkt schmeisst zwei Kult-Bahnen raus",
-          "untertitel": "Kein Zügli, kein Karussell: Der St. Galler Weihnachtsmarkt krempelt sein Konzept um. Ab dem 26. November sollen Kerzenziehen und Singen die Kinder begeistern – Platz für die …",
-          "link": "https://www.blick.ch/schweiz/ostschweiz/st-gallen/das-ist-ein-witz-weihnachtsmarkt-schmeisst-bahnen-raus/gxjrejh",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/VfZktktTURBXy9jMGViNDIwNS0yNWFkLTQ4OGYtOGM1NC1jM2Y3OTljMzJiOGYucG5nkpMFzQJYzQE7kwmmMGYzM2RmBg/gnyebv4bndw.jpg",
+          "titel": "Kannst du alle Fragen zur Fasnacht beantworten?",
+          "untertitel": "Die Fasnachtszeit ist offiziell eingeläutet! Zu diesem frohen Anlass haben wir ein Quiz vorbereitet. Wie gut kennst du dich mit Fasnachtsbräuchen und ihren Ursprüngen aus? Teste …",
+          "link": "https://www.blick.ch/schweiz/fasnachts-quiz-kennst-du-dich-mit-braeuchen-und-guggen-aus/zz5tmj6",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/L3UktkuTURBXy9iOThiYzllNy0xYzg2LTQ4NjMtYTRhNS1hMjgyNGQwMjk0MTYuanBlZ5KTBc0CWM0BO5MJpmMxNGQ0YQY/gd0mb4b4m2o.jpg",
           "quelle": "Blick",
-          "info": "",
-          "trend": "runter"
-        },
-        {
-          "titel": "Schweizerinnen können jubeln: Viertelfinal-Ticket ist fix",
-          "untertitel": "Berichte, News und alles andere, was das Schweizer Eishockey sonst noch bietet, gibts hier im Eishockey-Ticker.",
-          "link": "https://www.20min.ch/story/eishockey-wm-schweizerinnen-koennen-jubeln-viertelfinal-ticket-ist-fix-417448884869",
-          "bild": "https://image.20min.ch/2026/11/11/09521599-28c3-495a-b053-db7810378295.png?s=907c4810fb0f6a2a248e42dd67ccecf9",
-          "quelle": "20 Minuten",
           "info": "",
           "trend": "neu"
         }
@@ -216,7 +216,7 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-11T15:57:35+00:00",
+      "stand": "2026-11-11T19:03:59+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
@@ -229,7 +229,7 @@
         },
         {
           "titel": "Bern",
-          "untertitel": "Leichter Regen · 7° bis 12°",
+          "untertitel": "Leichter Regen · 8° bis 12°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -242,7 +242,7 @@
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 90%",
+          "info": "Regenrisiko 100%",
           "emoji": "🌦️"
         },
         {
@@ -256,7 +256,7 @@
         },
         {
           "titel": "Lugano",
-          "untertitel": "Leichter Regen · 9° bis 12°",
+          "untertitel": "Leichter Regen · 8° bis 12°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
