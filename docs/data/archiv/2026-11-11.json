@@ -1,0 +1,269 @@
+{
+  "aktualisiert": "2026-11-11T22:12:35+00:00",
+  "land": "ch",
+  "kategorien": [
+    {
+      "id": "news_ch",
+      "name": "News Schweiz",
+      "symbol": "🇨🇭",
+      "stand": "2026-11-11T22:12:35+00:00",
+      "eintraege": [
+        {
+          "titel": "Jubel und Empörung: Gans mit sieben Schlägen geköpft",
+          "untertitel": "Jedes Jahr sorgt die «Gansabhauet» in Sursee für Aufsehen. Während die Zuschauer beim Traditionsanlass am Mittwoch jubelten, haben empörte Demonstranten die Abschaffung des …",
+          "link": "https://www.20min.ch/story/sursee-lu-jubel-und-empoerung-gans-mit-sieben-schlaegen-gekoepft-103665689",
+          "bild": "https://image.20min.ch/2026/11/11/44989d16-03c5-45ca-91f1-67b15eb6de4c.jpg?s=c8a1e4487f3247c3ca2e6cd195b45677",
+          "quelle": "20 Minuten",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Explizite Inhalte – Spanien ermittelt wegen Kindesmissbrauchsinhalten auf TikTok",
+          "untertitel": "Ein spanisches Recherche-Netzwerk deckt Tausende Missbrauchsinhalte auf. Nun ermittelt die Behörde gegen TikTok.",
+          "link": "https://www.srf.ch/news/international/explizite-inhalte-spanien-ermittelt-wegen-kindesmissbrauchsinhalten-auf-tiktok",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/a1c991.webp",
+          "quelle": "SRF",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Liebe zwischen Bundesrichtern – Die Affäre am Bundesgericht nimmt überraschende Wendungen",
+          "untertitel": "Bundesrichter Donzallaz tritt nicht mehr an. Seine Amtskollegin Van de Graaf hingegen wird zur Wiederwahl empfohlen.",
+          "link": "https://www.srf.ch/news/schweiz/liebe-zwischen-bundesrichtern-die-affaere-am-bundesgericht-nimmt-ueberraschende-wendungen",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/cf4bfb.webp",
+          "quelle": "SRF",
+          "info": "2 Quellen berichten",
+          "trend": "neu"
+        }
+      ]
+    },
+    {
+      "id": "news_welt",
+      "name": "News Welt",
+      "symbol": "🌍",
+      "stand": "2026-11-11T22:12:35+00:00",
+      "eintraege": [
+        {
+          "titel": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+          "untertitel": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
+          "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cf0/live/2eb174e0-ddef-11f1-b441-2b33b063138f.jpg",
+          "quelle": "BBC",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Clashes erupt in Barcelona after thousands join Spain general strike",
+          "untertitel": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8f2/live/d0df2010-de11-11f1-a701-fddedf244c16.jpg",
+          "quelle": "BBC",
+          "info": "2 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Collision of two trains in Egypt kills at least seven",
+          "untertitel": "President orders prompt investigation after one train derails in collision in al-Ayyat about 50km from Cairo Seven people were killed and at least 125 injured when two trains …",
+          "link": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
+          "bild": "https://i.guim.co.uk/img/media/7527078bbb41cf17b1a35718b70ebdceeada7492/206_271_4462_3569/master/4462.jpg?width=140&quality=85&auto=format&fit=max&s=24b5e48c937f7ee0a5afbdfdeb04cf94",
+          "quelle": "The Guardian",
+          "info": "2 Quellen berichten",
+          "trend": "runter"
+        }
+      ]
+    },
+    {
+      "id": "suche",
+      "name": "Gesucht in der Schweiz",
+      "symbol": "🔎",
+      "stand": "2026-11-11T22:12:35+00:00",
+      "eintraege": [
+        {
+          "titel": "mummenschanz",
+          "untertitel": "Mummenschanz – Ende einer Bilderbuchkarriere",
+          "link": "https://www.srf.ch/play/tv/kulturplatz/video/mummenschanz---ende-einer-bilderbuchkarriere?urn=urn:srf:video:991e0d0c-5ee7-466b-ba8e-57ef5fb239e1",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAip9Tvo4_L0ED1sHEQ144AKl2I1w4QjA9GughabhkvekMqRTQHhelowNM7gg",
+          "quelle": "Google Trends · SRF",
+          "info": "200+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "la liberté",
+          "untertitel": "Boegli Renate, avis de décès",
+          "link": "https://www.laliberte.ch/avis-mortuaires/boegli-renate-avis-de-deces-1483863",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZMWMiANj4sJU53H725k3odSKjkNq0MTtZVKZiedG3ONm_jvOOnfAYSto8a-0",
+          "quelle": "Google Trends · La Liberté",
+          "info": "100+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "stockl rosenheim cops",
+          "untertitel": "„Eine große Lücke“: Max Müller spricht über den Abschied von Marisa Burger",
+          "link": "https://www.kleinezeitung.at/artikel/41443052/eine-grosse-luecke-max-mueller-spricht-ueber-den-abschied-von-marisa",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_fFca1Sv4Jqkq7-ScBJXDv6y741PNAbcdy9Og4-7RjNDa3fHO_oFTx5BfiEE",
+          "quelle": "Google Trends · Kleine Zeitung",
+          "info": "200+ Suchanfragen",
+          "trend": "neu"
+        }
+      ]
+    },
+    {
+      "id": "musik",
+      "name": "Musik",
+      "symbol": "🎵",
+      "stand": "2026-11-11T22:12:35+00:00",
+      "eintraege": [
+        {
+          "titel": "Housewife",
+          "untertitel": "Tate McRae",
+          "link": "https://music.apple.com/ch/album/housewife/6822497770?i=6822497774",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/300x300bb.jpg",
+          "quelle": "Apple Music Charts CH",
+          "info": "Pop",
+          "trend": "gleich"
+        },
+        {
+          "titel": "BbY WOW",
+          "untertitel": "KAROL G, Judeline & rusowsky",
+          "link": "https://music.apple.com/ch/album/bby-wow/6796864741?i=6796864754",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/300x300bb.jpg",
+          "quelle": "Apple Music Charts CH",
+          "info": "Latin",
+          "trend": "gleich"
+        },
+        {
+          "titel": "So Easy (To Fall In Love)",
+          "untertitel": "Olivia Dean",
+          "link": "https://music.apple.com/ch/album/so-easy-to-fall-in-love/1817609404?i=1817609507",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/300x300bb.jpg",
+          "quelle": "Apple Music Charts CH",
+          "info": "Pop",
+          "trend": "neu"
+        }
+      ]
+    },
+    {
+      "id": "podcasts",
+      "name": "Podcasts",
+      "symbol": "🎙️",
+      "stand": "2026-11-11T19:03:59+00:00",
+      "eintraege": [
+        {
+          "titel": "Echo der Zeit",
+          "untertitel": "Schweizer Radio und Fernsehen (SRF)",
+          "link": "https://podcasts.apple.com/ch/podcast/echo-der-zeit/id81345425",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/91/51/f5/9151f5c8-97b2-43c1-d728-1850b4311aaf/mza_10466666821884933927.jpg/300x300bb.png",
+          "quelle": "Apple Podcasts Charts CH",
+          "info": "Nachrichten",
+          "trend": "gleich"
+        },
+        {
+          "titel": "Podcast am Pistenrand",
+          "untertitel": "Tina Weirather, Marc Berthod und Michael Schweizer",
+          "link": "https://podcasts.apple.com/ch/podcast/podcast-am-pistenrand/id1649823890",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/b5/33/1b/b5331b80-51d6-a9b5-0202-26549181440f/mza_6739746491336226460.jpeg/300x300bb.png",
+          "quelle": "Apple Podcasts Charts CH",
+          "info": "Sport, Comedy",
+          "trend": "neu"
+        },
+        {
+          "titel": "MORD AUF EX",
+          "untertitel": "Leonie Bartsch & Linn Schütze",
+          "link": "https://podcasts.apple.com/ch/podcast/mord-auf-ex/id1486608425",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b9/17/07/b91707ba-b4bf-2021-bafe-b4dd1e1f0196/mza_6370841172422755338.jpg/300x300bb.png",
+          "quelle": "Apple Podcasts Charts CH",
+          "info": "Wahre Kriminalfälle, Geschichte",
+          "trend": "runter"
+        }
+      ]
+    },
+    {
+      "id": "events",
+      "name": "Events in den News",
+      "symbol": "🎟️",
+      "stand": "2026-11-11T22:12:35+00:00",
+      "eintraege": [
+        {
+          "titel": "St. Galler Weihnachtsmarkt schmeisst zwei Kult-Bahnen raus",
+          "untertitel": "Kein Zügli, kein Karussell: Der St. Galler Weihnachtsmarkt krempelt sein Konzept um. Ab dem 26. November sollen Kerzenziehen und Singen die Kinder begeistern – Platz für die …",
+          "link": "https://www.blick.ch/schweiz/ostschweiz/st-gallen/das-ist-ein-witz-weihnachtsmarkt-schmeisst-bahnen-raus/gxjrejh",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/VfZktktTURBXy9jMGViNDIwNS0yNWFkLTQ4OGYtOGM1NC1jM2Y3OTljMzJiOGYucG5nkpMFzQJYzQE7kwmmMGYzM2RmBg/gnyebv4bndw.jpg",
+          "quelle": "Blick",
+          "info": "",
+          "trend": "gleich"
+        },
+        {
+          "titel": "«Zürich, war schön bei euch»: Tokio Hotel schwärmt nach Konzert",
+          "untertitel": "Tokio Hotel spielte am 10. November ein Konzert im Zürcher Hallenstadion. Im Publikum standen auch Heidi Klum und Yannik Zamboni. Die Kaulitz-Brüder schwärmen im Podcast von …",
+          "link": "https://www.20min.ch/story/tokio-hotel-in-zuerich-kaulitz-brueder-schwaermen-nach-konzert-vom-hotel-103665610",
+          "bild": "https://image.20min.ch/2026/11/11/f271f507-0177-470a-a415-1a5580b826fe.png?s=8a586db245243f2d4733ca943ea44156",
+          "quelle": "20 Minuten",
+          "info": "",
+          "trend": "neu"
+        },
+        {
+          "titel": "Kannst du alle Fragen zur Fasnacht beantworten?",
+          "untertitel": "Die Fasnachtszeit ist offiziell eingeläutet! Zu diesem frohen Anlass haben wir ein Quiz vorbereitet. Wie gut kennst du dich mit Fasnachtsbräuchen und ihren Ursprüngen aus? Teste …",
+          "link": "https://www.blick.ch/schweiz/fasnachts-quiz-kennst-du-dich-mit-braeuchen-und-guggen-aus/zz5tmj6",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/L3UktkuTURBXy9iOThiYzllNy0xYzg2LTQ4NjMtYTRhNS1hMjgyNGQwMjk0MTYuanBlZ5KTBc0CWM0BO5MJpmMxNGQ0YQY/gd0mb4b4m2o.jpg",
+          "quelle": "Blick",
+          "info": "",
+          "trend": "neu"
+        }
+      ]
+    },
+    {
+      "id": "wetter",
+      "name": "Wetter morgen",
+      "symbol": "🌤️",
+      "stand": "2026-11-11T22:12:35+00:00",
+      "eintraege": [
+        {
+          "titel": "Zürich",
+          "untertitel": "Leichter Regen · 8° bis 13°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 100%",
+          "emoji": "🌦️"
+        },
+        {
+          "titel": "Bern",
+          "untertitel": "Leichter Regen · 8° bis 11°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 100%",
+          "emoji": "🌦️"
+        },
+        {
+          "titel": "Basel",
+          "untertitel": "Regen · 6° bis 12°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 100%",
+          "emoji": "🌧️"
+        },
+        {
+          "titel": "Genf",
+          "untertitel": "Leichter Regen · 9° bis 13°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 100%",
+          "emoji": "🌦️"
+        },
+        {
+          "titel": "Lugano",
+          "untertitel": "Leichter Regen · 9° bis 12°",
+          "link": "https://www.meteoschweiz.admin.ch/",
+          "bild": "",
+          "quelle": "Open-Meteo",
+          "info": "Regenrisiko 100%",
+          "emoji": "🌦️"
+        }
+      ]
+    }
+  ]
+}
