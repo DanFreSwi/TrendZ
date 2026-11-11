@@ -1,12 +1,12 @@
 {
-  "aktualisiert": "2026-11-11T07:22:09+00:00",
+  "aktualisiert": "2026-11-11T10:05:52+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-11T07:22:09+00:00",
+      "stand": "2026-11-11T10:05:52+00:00",
       "eintraege": [
         {
           "titel": "Video zeigt die Unfallstelle in Madiswil BE",
@@ -14,26 +14,26 @@
           "link": "https://www.blick.ch/schweiz/bern/video-zeigt-die-unfallstelle-in-madiswil-be/c1bjjv0",
           "bild": "https://ocdn.eu/pulscms-transforms/1/soOktkuTURBXy8yMDE2YjczMi0xZjdmLTQwYTItYTQ1ZS02NDRlZDRiNDViYjkuanBlZ5KTBc0CWM0BO5MJpmMxZTcxMgY/uqthau7cpb.jpg",
           "quelle": "Blick",
-          "info": "3 Quellen berichten",
+          "info": "4 Quellen berichten",
           "trend": "gleich"
         },
         {
-          "titel": "Unteroffizier fährt betrunken Auto und wird entlassen",
-          "untertitel": "Ein Armee-Angestellter ist entlassen worden, nachdem er unter Alkoholeinfluss am Steuer eines Zivilfahrzeugs angehalten wurde.",
-          "link": "https://www.watson.ch/schweiz/armee/365439363-unteroffizier-der-armee-faehrt-mit-1-7-promille-auto-und-wird-entlassen",
-          "bild": "",
-          "quelle": "watson",
+          "titel": "Swiss-Smile-Schwestern wollen an US-Börse Milliarden holen",
+          "untertitel": "Haley und Goly Abivardi wurden mit Zahnarztpraxen bekannt. Jetzt soll die Zuger Firma Vvardis in New York an die Börse. Hinter den Wachstumsplänen stehen hohe Verluste und …",
+          "link": "https://www.20min.ch/story/trotz-millionenverlusten-swiss-smile-schwestern-wollen-an-boerse-milliarden-holen-103665474",
+          "bild": "https://image.20min.ch/2026/11/11/250ce148-5e8a-4b45-b99d-99002494fd3e.jpg?s=661805bf7e92677c42335083c56eb008",
+          "quelle": "20 Minuten",
           "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Fussgängerin stirbt nach Kollision mit Tram in Zürich",
-          "untertitel": "Am Donnerstagmorgen ist eine Fussgängerin nach einer Kollision im Kreis 7 mit einem Tram verstorben.",
-          "link": "https://www.watson.ch/schweiz/polizeirapport/251568062-fussgaengerin-stirbt-nach-unfall-mit-tram-in-zuerich",
-          "bild": "",
-          "quelle": "watson",
+          "titel": "Einsatzkräfte mit grossem Aufgebot vor Ort",
+          "untertitel": "Rund 800 Liter Salzsäure sind bei einem Pharma-Unternehmen in Liestal ausgelaufen. Die Einsatzkräfte rückten aus, Alertswiss warnte die Bevölkerung. Verletzte gab es keine.",
+          "link": "https://www.blick.ch/schweiz/basel-landschaft/liestal-bl-salzsaeure-bei-pharma-unternehmen-ausgelaufen/yy1fndd",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/zb0ktkuTURBXy81YTdjYWFhYi01YzFjLTQxMjctYmI0MC00NWEyNDhlMzMwMjcuanBlZ5KTBc0CWM0BO5MJpjhkMzQ1ZQY/fldc9n0i3.jpg",
+          "quelle": "Blick",
           "info": "3 Quellen berichten",
-          "trend": "neu"
+          "trend": "gleich"
         }
       ]
     },
@@ -41,8 +41,17 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-11T07:22:09+00:00",
+      "stand": "2026-11-11T10:05:52+00:00",
       "eintraege": [
+        {
+          "titel": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+          "untertitel": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+          "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5391/live/eb55ba30-dd67-11f1-a701-fddedf244c16.jpg",
+          "quelle": "BBC",
+          "info": "2 Quellen berichten",
+          "trend": "neu"
+        },
         {
           "titel": "Collision of two trains in Egypt kills at least seven",
           "untertitel": "President orders prompt investigation after one train derails in collision in al-Ayyat about 50km from Cairo Seven people were killed and at least 125 injured when two trains …",
@@ -50,23 +59,14 @@
           "bild": "https://i.guim.co.uk/img/media/7527078bbb41cf17b1a35718b70ebdceeada7492/206_271_4462_3569/master/4462.jpg?width=140&quality=85&auto=format&fit=max&s=24b5e48c937f7ee0a5afbdfdeb04cf94",
           "quelle": "The Guardian",
           "info": "2 Quellen berichten",
-          "trend": "hoch"
+          "trend": "gleich"
         },
         {
-          "titel": "Papst Leo in Argentinien: Klartext gegen Mileis Kettensägen-Politik",
-          "untertitel": "Papst Leo XIV. ist in Argentinien von Millionen Menschen gefeiert worden. Bei seinem Besuch kritisierte er die Sozialpolitik von Präsident Milei deutlich. Aber erreicht die …",
-          "link": "https://www.tagesschau.de/ausland/amerika/papst-argentinien-milei-100.html",
-          "bild": "",
-          "quelle": "tagesschau",
-          "info": "2 Quellen berichten",
-          "trend": "neu"
-        },
-        {
-          "titel": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-          "untertitel": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
-          "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5391/live/eb55ba30-dd67-11f1-a701-fddedf244c16.jpg",
-          "quelle": "BBC",
+          "titel": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
+          "untertitel": "Former liberation movement’s share of national vote almost 14 percentage points below 2021 result The African National Congress is on course to suffer a bruising defeat in South …",
+          "link": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections",
+          "bild": "https://i.guim.co.uk/img/media/ca80f1733421e850930a8c2267b7214219fef832/697_286_4649_3719/master/4649.jpg?width=140&quality=85&auto=format&fit=max&s=f4831bd02c6a91cdc25376cf8e9b3a3b",
+          "quelle": "The Guardian",
           "info": "2 Quellen berichten",
           "trend": "neu"
         }
@@ -76,32 +76,32 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-11T07:22:09+00:00",
+      "stand": "2026-11-11T10:05:52+00:00",
       "eintraege": [
         {
+          "titel": "phishing",
+          "untertitel": "Whale phishing (whaling): what it is, how it works and what to do if you answered one",
+          "link": "https://www.2-spyware.com/remove-whale-phishing.html",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNwKZBkni9vtS5hSdWyRqYvkfsFG2UyYry6uXJImOxSnxHu4WcraFEkos5wP4",
+          "quelle": "Google Trends · 2-Spyware",
+          "info": "100+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "rentner",
+          "untertitel": "«Ich spende alles», sagt Bernhard Russi – fünf Schweizer erzählen, was sie mit ihrer 13. AHV-Rente machen",
+          "link": "https://www.tagesanzeiger.ch/13-ahv-rente-wofuer-rentnerinnen-und-rentner-sie-brauchen-585000778801",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQme7y1PPV_5-krfgYZcxAzyOU3x1A9WZNP4CkeCtG0HU7XdvMxw_boy10KRrY",
+          "quelle": "Google Trends · Tages-Anzeiger",
+          "info": "500+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
           "titel": "11 novembre",
-          "untertitel": "11 novembre 1918, côté allemand : 'Dans les replis de l’armistice, il y a l’ombre de la Seconde Guerre mondiale'",
-          "link": "https://www.rtbf.be/article/11-novembre-1918-cote-allemand-dans-les-replis-de-l-armistice-il-y-a-l-ombre-de-la-seconde-guerre-mondiale-11813582",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3vfE6ArKXziKNkuJaeh88tOBGzl-RtoC256uEaGjOL93k-m8Uh0rGlGYLo2M",
-          "quelle": "Google Trends · RTBF",
-          "info": "100+ Suchanfragen",
-          "trend": "neu"
-        },
-        {
-          "titel": "bulgarien",
-          "untertitel": "Nebelchaos in Bulgarien: 50 Fahrzeuge crashen auf der A1",
-          "link": "https://www.srf.ch/news/international/schwerer-unfall-in-bulgarien-nebelchaos-50-fahrzeuge-kollidieren-auf-autobahn-12-tote",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRftjvtBISvTLUdq7MzLu6flN_fiC_xcPQAAo35iKMUguHQyCas_SjfAwFrZGY",
-          "quelle": "Google Trends · SRF",
-          "info": "100+ Suchanfragen",
-          "trend": "neu"
-        },
-        {
-          "titel": "stacy keach",
-          "untertitel": "Stacy Keach, star of stage and ‘Mike Hammer’ series, dies at 85",
-          "link": "https://www.cnn.com/2026/11/10/entertainment/stacy-keach-death",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7NfaPfURjIFcCIdxa54AeyO3K39JFED1mCWtnL9XFe-K1JZ5U6FijymJwnMU",
-          "quelle": "Google Trends · CNN",
+          "untertitel": "11-Novembre: le ministère des Armées et des Anciens combattants regrette une \"polémique très regrettable\" et \"un irrespect total de notre mémoire\"",
+          "link": "https://www.bfmtv.com/politique/gouvernement/11-novembre-le-ministere-des-armees-et-des-anciens-combattants-regrette-une-polemique-tres-regrettable-et-un-irrespect-total-de-notre-memoire_AD-202611110268.html",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQec2_kSTrMEjnJLN7GPo55L7l3Xvdb-m43hblrPIkeUcodOegw8SXVLtlpBQ",
+          "quelle": "Google Trends · BFM",
           "info": "200+ Suchanfragen",
           "trend": "neu"
         }
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-11T01:11:29+00:00",
+      "stand": "2026-11-11T10:05:52+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-11T07:22:09+00:00",
+      "stand": "2026-11-11T10:05:52+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-11T07:22:09+00:00",
+      "stand": "2026-11-11T10:05:52+00:00",
       "eintraege": [
         {
           "titel": "St. Galler Weihnachtsmarkt schmeisst zwei Kult-Bahnen raus",
@@ -193,13 +193,22 @@
           "trend": "gleich"
         },
         {
+          "titel": "Schweizerinnen können jubeln: Viertelfinal-Ticket ist fix",
+          "untertitel": "Berichte, News und alles andere, was das Schweizer Eishockey sonst noch bietet, gibts hier im Eishockey-Ticker.",
+          "link": "https://www.20min.ch/story/eishockey-wm-schweizerinnen-koennen-jubeln-viertelfinal-ticket-ist-fix-417448884869",
+          "bild": "https://image.20min.ch/2026/11/11/09521599-28c3-495a-b053-db7810378295.png?s=907c4810fb0f6a2a248e42dd67ccecf9",
+          "quelle": "20 Minuten",
+          "info": "",
+          "trend": "neu"
+        },
+        {
           "titel": "Ausstellung «Alpensounds» – Nur für Boomer? Volksmusik kann auch anders!",
           "untertitel": "Wie viel Veränderung verträgt Tradition? Das Alpine Museum in Bern beleuchtet den Wandel der Schweizer Volksmusik.",
           "link": "https://www.srf.ch/news/gesellschaft/ausstellung-alpensounds-nur-fuer-boomer-volksmusik-kann-auch-anders",
           "bild": "https://www.srf.ch/static/cms/images//320ws/65b511.webp",
           "quelle": "SRF",
           "info": "",
-          "trend": "gleich"
+          "trend": "runter"
         }
       ]
     },
@@ -207,16 +216,16 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-11T07:22:09+00:00",
+      "stand": "2026-11-11T10:05:52+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
-          "untertitel": "Regen · 7° bis 13°",
+          "untertitel": "Regenschauer · 7° bis 13°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
           "info": "Regenrisiko 98%",
-          "emoji": "🌧️"
+          "emoji": "🌦️"
         },
         {
           "titel": "Bern",
