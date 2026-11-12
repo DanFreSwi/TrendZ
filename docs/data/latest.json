@@ -1,38 +1,38 @@
 {
-  "aktualisiert": "2026-11-12T04:00:13+00:00",
+  "aktualisiert": "2026-11-12T07:27:21+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-12T04:00:13+00:00",
+      "stand": "2026-11-12T07:27:21+00:00",
       "eintraege": [
-        {
-          "titel": "Gebäude stürzt ein – sieben Kinder unter den Verletzten",
-          "untertitel": "Im New Yorker Stadtteil Flatbush ist am Mittwochnachmittag ein dreistöckiges Gebäude eingestürzt. Mindestens zwei Menschen kommen ums Leben.",
-          "link": "https://www.20min.ch/story/new-york-brooklyn-flatbush-gebaeude-stuerzt-opfer-menschen-unter-truemmern-103665905",
-          "bild": "https://image.20min.ch/2026/11/12/7f4e6461-eda3-419f-bf78-83657c9a75d9.jpg?s=859f183ff1395f1cc5cb8b0cdb085b3d",
-          "quelle": "20 Minuten",
-          "info": "3 Quellen berichten",
-          "trend": "neu"
-        },
-        {
-          "titel": "Erstmals seit 1982: Demokrat holt Senatssitz in Mississippi",
-          "untertitel": "Am 3. November fanden in den USA die Zwischenwahlen statt. Im 20-Minuten-Ticker erfährst du alles rund um die Midterms.",
-          "link": "https://www.20min.ch/story/us-midterms-mississippi-demokrat-scott-h-colom-holt-sitz-im-senat-103660611",
-          "bild": "https://image.20min.ch/2026/11/04/43bb7ed4-4896-4dd3-ba0f-6d38d5c2d97d.jpg?s=fdd61e2c0c1b54ad1e2ad5ae46aff5ca",
-          "quelle": "20 Minuten",
-          "info": "3 Quellen berichten",
-          "trend": "neu"
-        },
         {
           "titel": "Doch der Ex-Gemeinderat baggert munter weiter",
           "untertitel": "In Walkringen BE tobt seit Jahren ein übler Streit unter Nachbarn. Bauer Thomas Zimmermann und sein Nachbar, Ex-Gemeinderat Andreas Künzler, streiten sich wegen eines Kieswegs. …",
           "link": "https://www.blick.ch/schweiz/bern/streit-in-walkringen-be-kanton-kippt-kiesweg-entscheid/mkxdxk4",
           "bild": "https://ocdn.eu/pulscms-transforms/1/PZaktkuTURBXy82MTUwYjJjMC1jNDA2LTQzMWYtYWQwYS1iMjBmNDExYTNkZDMuanBlZ5KTBc0CWM0BO5MJpmVlN2M0MQY/zn81hpcigvc.jpg",
           "quelle": "Blick",
-          "info": "2 Quellen berichten",
+          "info": "4 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Huangs zweite Affäre war mit einer ihm unterstellten Managerin",
+          "untertitel": "Am Mittwoch wurde eine zweite Affäre von Nvidia-Firmenchef Jensen Huang bekannt. Es handelt sich dabei um eine ihm unterstellte Top-Managerin des Unternehmens.",
+          "link": "https://www.20min.ch/story/kimberly-powell-huangs-zweite-affaere-war-mit-einer-ihm-unterstellten-managerin-103665934",
+          "bild": "https://image.20min.ch/2026/11/12/e039788c-ae8e-4ec0-8af5-669d0921d3c1.jpg?s=f5ce05295fdcd6cc150ba134e3a99549",
+          "quelle": "20 Minuten",
+          "info": "4 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Luzerner missbraucht 30 Kinder – 4,5 Jahre Haft",
+          "untertitel": "Das Luzerner Kantonsgericht hat einen 54-Jährigen für den Missbrauch von bis zu 30 Buben zu 4,5 Jahren Haft verurteilt. Der Staatsanwalt forderte 7,5 Jahre, doch das Gericht …",
+          "link": "https://www.blick.ch/schweiz/zentralschweiz/luzern/luzerner-missbraucht-30-kinder-45-jahre-haft/k9h9lh1",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/6_WktkuTURBXy80YzU0N2MwOC1mNWQzLTRkZTYtOGQ5YS1lZTMyYTMzODRlMDEuanBlZ5KTBc0CWM0BO5MJpmFkYjA4OQY/er6zwv9c2co.jpg",
+          "quelle": "Blick",
+          "info": "3 Quellen berichten",
           "trend": "neu"
         }
       ]
@@ -41,7 +41,7 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-12T04:00:13+00:00",
+      "stand": "2026-11-12T07:27:21+00:00",
       "eintraege": [
         {
           "titel": "Democrat Scott Colom seals historic win in Mississippi Senate race",
@@ -53,22 +53,22 @@
           "trend": "neu"
         },
         {
-          "titel": "Clashes erupt in Barcelona after thousands join Spain general strike",
-          "untertitel": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
-          "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8f2/live/d0df2010-de11-11f1-a701-fddedf244c16.jpg",
+          "titel": "New York building collapse kills at least two, officials say",
+          "untertitel": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
+          "link": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7651/live/2883df70-de5a-11f1-9b47-0919bf7329d1.jpg",
           "quelle": "BBC",
-          "info": "2 Quellen berichten",
-          "trend": "gleich"
+          "info": "3 Quellen berichten",
+          "trend": "neu"
         },
         {
-          "titel": "Im Stadtteil Brooklyn: Tote und Verletzte nach Gebäudeeinsturz in New York",
-          "untertitel": "Beim Einsturz eines mehrstöckigen Gebäudes in New York sind mindestens zwei Menschen ums Leben gekommen. Mehrere weitere wurden unter den Trümmern eingeschlossen.",
-          "link": "https://www.tagesschau.de/ausland/amerika/new-york-gebaeude-einsturz-104.html",
-          "bild": "",
-          "quelle": "tagesschau",
-          "info": "2 Quellen berichten",
-          "trend": "neu"
+          "titel": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+          "untertitel": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
+          "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cf0/live/2eb174e0-ddef-11f1-b441-2b33b063138f.jpg",
+          "quelle": "BBC",
+          "info": "3 Quellen berichten",
+          "trend": "runter"
         }
       ]
     },
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-12T04:00:13+00:00",
+      "stand": "2026-11-12T07:27:21+00:00",
       "eintraege": [
         {
-          "titel": "milchproduktion",
-          "untertitel": "Partnerschaft zwischen der ALDI SÜD Gruppe und Friesland­Campina",
-          "link": "https://www.frieslandcampina.com/de/news/partnerschaft-zwischen-der-aldi-sud-gruppe-und-frieslandcampina/",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQiZBa0Shbafmc1ypR1BKDkOPs5TpMIchJfEu59ca7s8t_RKuSc17hyzbGreU",
-          "quelle": "Google Trends · FrieslandCampina",
+          "titel": "outlook",
+          "untertitel": "Stocks end higher as CoreWeave results ease AI spending worries",
+          "link": "https://www.reuters.com/business/sp-500-nasdaq-futures-rise-after-coreweave-soothes-ai-spending-fears-2026-11-11/",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5cGqmq2I4e22JLFVPa0gIzEsMYYmIZW3sGIhChpqvEPEEaIuIMW2-cqJSEB0",
+          "quelle": "Google Trends · Reuters",
           "info": "200+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "kaltfront",
-          "untertitel": "Wettervorhersage für den Nachmittag und die Nacht des 11. November: In Nordvietnam wird es einen starken Temperatursturz geben, während in Zentralvietnam mit starken Regenfällen …",
-          "link": "https://www.vietnam.vn/de/thoi-tiet-chieu-va-dem-11-11-bac-bo-giam-nhiet-manh-trung-bo-mua-lon-bien-dong-manh",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSoWxdVjnrqDUHM05l1YDnkYHFeTsTF1kyfIig2D7jb-m_Ih5HbyQcrGtwqImk",
-          "quelle": "Google Trends · Vietnam.vn",
-          "info": "200+ Suchanfragen",
+          "titel": "ziehung",
+          "untertitel": "Glückspilz gewinnt eine Million Franken bei Swiss Lotto-Ziehung",
+          "link": "https://www.swissinfo.ch/ger/gl%C3%BCckspilz-gewinnt-eine-million-franken-bei-swiss-lotto-ziehung/92367159",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY-7DPV_ozLwLi_uiremwu2iCqMMU7ArbiDHoSwHX012-AfYYSkvEtemji0z0",
+          "quelle": "Google Trends · SWI swissinfo.ch",
+          "info": "500+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "sport",
-          "untertitel": "United Arab Emirates vs Honduras: Friendlies stats & head-to-head",
-          "link": "https://www.bbc.com/sport/football/live/c8y56xx74yzet",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw",
-          "quelle": "Google Trends · BBC",
-          "info": "100+ Suchanfragen",
+          "titel": "unwetter portugal lissabon",
+          "untertitel": "Sturmtief Charles: Starke Niederschläge in Portugal durch Sturmtief Charles",
+          "link": "https://www.zeit.de/wissenschaft/umwelt/2026-11/charles-sturmtief-portugal-madeira-spanien-unwetter",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-nE0UjHwhGwNhL625PRB3d2pOdjviRGbsrK-xj0IYDEVkNYHhUAqbuQkNfM4",
+          "quelle": "Google Trends · DIE ZEIT",
+          "info": "200+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-12T04:00:13+00:00",
+      "stand": "2026-11-12T07:27:21+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-12T04:00:13+00:00",
+      "stand": "2026-11-12T07:27:21+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-12T04:00:13+00:00",
+      "stand": "2026-11-12T07:27:21+00:00",
       "eintraege": [
         {
           "titel": "St. Galler Weihnachtsmarkt schmeisst zwei Kult-Bahnen raus",
@@ -216,7 +216,7 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-12T04:00:13+00:00",
+      "stand": "2026-11-12T07:27:21+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
@@ -238,11 +238,11 @@
         },
         {
           "titel": "Basel",
-          "untertitel": "Leichter Regen · 1° bis 8°",
+          "untertitel": "Leichter Regen · 2° bis 8°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 68%",
+          "info": "Regenrisiko 60%",
           "emoji": "🌦️"
         },
         {
@@ -251,16 +251,16 @@
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 98%",
+          "info": "Regenrisiko 100%",
           "emoji": "🌦️"
         },
         {
           "titel": "Lugano",
-          "untertitel": "Regenschauer · 6° bis 16°",
+          "untertitel": "Leichter Regen · 6° bis 16°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 40%",
+          "info": "Regenrisiko 60%",
           "emoji": "🌦️"
         }
       ]
