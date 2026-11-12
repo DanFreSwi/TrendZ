@@ -1,27 +1,18 @@
 {
-  "aktualisiert": "2026-11-12T16:09:04+00:00",
+  "aktualisiert": "2026-11-12T19:02:04+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-12T16:09:04+00:00",
+      "stand": "2026-11-12T19:02:04+00:00",
       "eintraege": [
         {
-          "titel": "Hintergründe unklar – Mehrere Menschen in Washington angeschossen – ein Toter",
-          "untertitel": "Bei Schüssen in der US-Hauptstadt wurden zudem vier Personen verletzt. Der mutmassliche Täter wurde gefasst.",
-          "link": "https://www.srf.ch/news/international/hintergruende-unklar-mehrere-menschen-in-washington-angeschossen-ein-toter",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/6669f4.webp",
-          "quelle": "SRF",
-          "info": "4 Quellen berichten",
-          "trend": "neu"
-        },
-        {
-          "titel": "Jetzt spricht sein bester Kollege",
-          "untertitel": "In Leibstadt im Kanton Aargau ist ein 16-jähriger Jugendlicher bei einem Arbeitsunfall ums Leben gekommen. Jetzt spricht sein bester Kollege.",
-          "link": "https://www.blick.ch/schweiz/mittelland/aargau/jetzt-spricht-sein-bester-kollege/xzctlx0",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/eUIktkuTURBXy82MWUwOTAyMi1mNGJkLTQ3YTAtYjY4ZC0zMmQ1YWM5NWNjMmYuanBlZ5KTBc0CWM0BO5MJpjQzYmU5NwY/px1fscu902b.jpg",
+          "titel": "«Verstehe nicht, wie das passieren konnte»",
+          "untertitel": "In Leibstadt im Kanton Aargau ist ein 16-jähriger Jugendlicher bei einem Arbeitsunfall ums Leben gekommen. Für ihn kam jede Hilfe zu spät.",
+          "link": "https://www.blick.ch/schweiz/mittelland/aargau/verstehe-nicht-wie-das-passieren-konnte/8p7http",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/gq-ktkuTURBXy81ZmZkNjYwZi0yOTY3LTQyZTctYmM0ZS05MjkxOWMyZmM2YTEuanBlZ5KTBc0CWM0BO5MJpjg0MTFmZAY/6gyfwxazjgj.jpg",
           "quelle": "Blick",
           "info": "3 Quellen berichten",
           "trend": "neu"
@@ -34,6 +25,15 @@
           "quelle": "20 Minuten",
           "info": "3 Quellen berichten",
           "trend": "neu"
+        },
+        {
+          "titel": "BAG meldet 14 Listeriosefälle – eine Person verstorben",
+          "untertitel": "Am Donnerstag bestätigte das BAG, dass ein Zusammenhang zwischen Listerien im Käse einer Käserei im Thurgau und den Listeriosefällen bestehen könnte.",
+          "link": "https://www.20min.ch/story/thurgau-bag-meldet-14-listeriosefaelle-eine-person-verstorben-103666240",
+          "bild": "https://image.20min.ch/2026/11/12/65f3b231-8468-41ab-b39a-e9f188a599f5.png?s=e7944795c7851dde596348e8ae7ea51b",
+          "quelle": "20 Minuten",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
         }
       ]
     },
@@ -41,15 +41,15 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-12T16:09:04+00:00",
+      "stand": "2026-11-12T19:02:04+00:00",
       "eintraege": [
         {
-          "titel": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-          "untertitel": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+          "titel": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+          "untertitel": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
           "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
           "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0196/live/ef110310-de9c-11f1-a701-fddedf244c16.jpg",
           "quelle": "BBC",
-          "info": "2 Quellen berichten",
+          "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
@@ -58,17 +58,17 @@
           "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
           "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/333a/live/e63a2ff0-dea1-11f1-93e1-3b657b665bcf.png",
           "quelle": "BBC",
-          "info": "2 Quellen berichten",
+          "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Nvidia-Chef Huang tritt nach Spionageaffäre zurück",
-          "untertitel": "Der Chef des weltgrößten Chipkonzerns Nvidia, Jensen Huang, tritt wegen einer Affäre mit einer mutmaßlichen chinesischen Spionin zurück. Seine Aufgaben übernehme vorübergehend …",
-          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-ruecktritt-100.html",
-          "bild": "",
-          "quelle": "tagesschau",
+          "titel": "Collision of two trains in Egypt kills at least seven",
+          "untertitel": "President orders prompt investigation after one train derails in collision in al-Ayyat about 50km from Cairo Seven people were killed and at least 125 injured when two trains …",
+          "link": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
+          "bild": "https://i.guim.co.uk/img/media/7527078bbb41cf17b1a35718b70ebdceeada7492/206_271_4462_3569/master/4462.jpg?width=140&quality=85&auto=format&fit=max&s=24b5e48c937f7ee0a5afbdfdeb04cf94",
+          "quelle": "The Guardian",
           "info": "2 Quellen berichten",
-          "trend": "neu"
+          "trend": "gleich"
         }
       ]
     },
@@ -76,32 +76,32 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-12T16:09:04+00:00",
+      "stand": "2026-11-12T19:02:04+00:00",
       "eintraege": [
         {
-          "titel": "verletzt",
-          "untertitel": "Lastwagen kollidiert mit Fussgängerin (76) – schwer verletzt",
-          "link": "https://www.blick.ch/schweiz/zuerich/lastwagen-kollidiert-mit-fussgaenger-passant-verletzt/dm4vw3m",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJWxp7VWoxDV2sMl9cmJIkQy07awsg9NHQSqTmFwKF4CfrhoSsA5RgjODT0Ks",
-          "quelle": "Google Trends · Blick",
-          "info": "200+ Suchanfragen",
+          "titel": "italie – france",
+          "untertitel": "Des trous déjà présents, la pluie n'arrange rien : la pelouse de San Siro est en mauvais état avant Italie-France",
+          "link": "https://www.lequipe.fr/Football/Actualites/Des-trous-deja-presents-la-pluie-n-arrange-rien-la-pelouse-de-san-siro-est-en-mauvais-etat-avant-italie-france/1743155",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQiSucGQdge8PCwV-VpeGEVGbyKAwc2nknPZ7zCePAanIky-f9GvsvzauZEImE",
+          "quelle": "Google Trends · L'Équipe",
+          "info": "500+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "flugzeugabsturz",
-          "untertitel": "„Was zum Teufel haben wir uns da nur eingebrockt?“",
-          "link": "https://www.welt.de/geschichte/article6ae83c0aa44ac0400ca56d42/flugzeugabsturz-was-zum-teufel-haben-wir-uns-da-nur-eingebrockt.html",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMjBk9ahzlaIJKpaLsCycafgEK5RnLVXsmo6ZYhylTTnpwVLC63FHNTH9yOrY",
-          "quelle": "Google Trends · WELT",
+          "titel": "millionnaire",
+          "untertitel": "Un nouveau gain millionnaire au tirage du Swiss Loto",
+          "link": "https://www.swissinfo.ch/fre/un-nouveau-gain-millionnaire-au-tirage-du-swiss-loto/92367096",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxp5SvrQVpX_97ZBtK-KlK_Kalz_LRJevApWqbtiImPHaPa5WwWkkfEkvx8GI",
+          "quelle": "Google Trends · SWI swissinfo.ch",
           "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "nvidia aktienkurs",
-          "untertitel": "Spy Scandal: Nvidia Drops 5 Percent in Premarket Trading",
-          "link": "https://www.trendingtopics.eu/spy-scandal-nvidia-stock-jensen-huang-china/",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhNIft1ga3CgflCqBlp3c_O-OBxfhzo5sgD5hW2CgpEl17S-pACQJxqreXiaQ",
-          "quelle": "Google Trends · www.trendingtopics.eu",
+          "titel": "italia francia",
+          "untertitel": "La selección de Italia recibe a Francia sin Mbappé por la Liga de Naciones este jueves; ¿a qué hora y dónde ver el partido? | El Colombiano",
+          "link": "https://www.elcolombiano.com/deportes/futbol/partidos-liga-de-naciones-italia-francia-espana-chequia-inglaterra-croacia-hora-y-donde-verlos-IK43494873",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPDEs9LolscBIcUz5njvKLKwnjGau42hXN62GK9omoZDpmjDksVgc2S2_hzXk",
+          "quelle": "Google Trends · El Colombiano",
           "info": "100+ Suchanfragen",
           "trend": "neu"
         }
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-12T16:09:04+00:00",
+      "stand": "2026-11-12T19:02:04+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-12T16:09:04+00:00",
+      "stand": "2026-11-12T19:02:04+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-12T16:09:04+00:00",
+      "stand": "2026-11-12T19:02:04+00:00",
       "eintraege": [
         {
           "titel": "Nachfolge von Guy Parmelin – Aeschi wohl fix auf dem SVP-Ticket – daneben viele Fragezeichen",
@@ -207,11 +207,11 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-12T16:09:04+00:00",
+      "stand": "2026-11-12T19:02:04+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
-          "untertitel": "Leichter Regen · 3° bis 7°",
+          "untertitel": "Leichter Regen · 2° bis 7°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -220,7 +220,7 @@
         },
         {
           "titel": "Bern",
-          "untertitel": "Leichter Regen · 1° bis 7°",
+          "untertitel": "Leichter Regen · 2° bis 8°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -233,7 +233,7 @@
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 53%",
+          "info": "Regenrisiko 68%",
           "emoji": "🌦️"
         },
         {
@@ -242,17 +242,17 @@
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 100%",
+          "info": "Regenrisiko 98%",
           "emoji": "🌦️"
         },
         {
           "titel": "Lugano",
-          "untertitel": "Bewölkt · 6° bis 17°",
+          "untertitel": "Leichter Regen · 7° bis 17°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 63%",
-          "emoji": "☁️"
+          "info": "Regenrisiko 53%",
+          "emoji": "🌦️"
         }
       ]
     }
