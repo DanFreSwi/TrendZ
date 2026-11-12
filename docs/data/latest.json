@@ -1,28 +1,19 @@
 {
-  "aktualisiert": "2026-11-12T10:10:20+00:00",
+  "aktualisiert": "2026-11-12T13:20:36+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-12T10:10:20+00:00",
+      "stand": "2026-11-12T13:20:36+00:00",
       "eintraege": [
         {
-          "titel": "Zweite Affäre: Managerin war Nvidia-CEO Huang direkt unterstellt",
-          "untertitel": "Am Mittwoch wurde eine zweite Affäre von Nvidia-Firmenchef Jensen Huang bekannt. Es handelt sich dabei um eine ihm unterstellte Top-Managerin des Unternehmens.",
-          "link": "https://www.20min.ch/story/kimberly-powell-huangs-zweite-affaere-war-mit-einer-ihm-unterstellten-managerin-103665934",
-          "bild": "https://image.20min.ch/2026/11/12/e039788c-ae8e-4ec0-8af5-669d0921d3c1.jpg?s=f5ce05295fdcd6cc150ba134e3a99549",
-          "quelle": "20 Minuten",
-          "info": "4 Quellen berichten",
-          "trend": "neu"
-        },
-        {
-          "titel": "Doch der Ex-Gemeinderat baggert munter weiter",
-          "untertitel": "In Walkringen BE tobt seit Jahren ein übler Streit unter Nachbarn. Bauer Thomas Zimmermann und sein Nachbar, Ex-Gemeinderat Andreas Künzler, streiten sich wegen eines Kieswegs. …",
-          "link": "https://www.blick.ch/schweiz/bern/streit-in-walkringen-be-kanton-kippt-kiesweg-entscheid/mkxdxk4",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/PZaktkuTURBXy82MTUwYjJjMC1jNDA2LTQzMWYtYWQwYS1iMjBmNDExYTNkZDMuanBlZ5KTBc0CWM0BO5MJpmVlN2M0MQY/zn81hpcigvc.jpg",
-          "quelle": "Blick",
+          "titel": "Eurovision Asia 2026 – ESC in Bangkok: Gelingt die Premiere in Asien?",
+          "untertitel": "Erstmals findet der Eurovision Song Contest in Asien statt. Fans in Bangkok hoffen auf eine grosse Show.",
+          "link": "https://www.srf.ch/kultur/musik/eurovision-asia-2026-esc-in-bangkok-gelingt-die-premiere-in-asien",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/a9cff3.webp",
+          "quelle": "SRF",
           "info": "4 Quellen berichten",
           "trend": "neu"
         },
@@ -34,6 +25,15 @@
           "quelle": "Blick",
           "info": "3 Quellen berichten",
           "trend": "neu"
+        },
+        {
+          "titel": "Oleschky-Waffenruhe: Ukrainer und Russen bereiten Evakuierung vor",
+          "untertitel": "Die seit Dienstag geltende Waffenruhe in der von russischen Truppen besetzten Frontstadt Oleschky im südukrainischen Gebiet Cherson hält weiter.",
+          "link": "https://www.watson.ch/international/russland/156525832-oleschky-waffenruhe-ukrainer-und-russen-bereiten-evakuierung-vor",
+          "bild": "",
+          "quelle": "watson",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
         }
       ]
     },
@@ -41,34 +41,34 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-12T10:10:20+00:00",
+      "stand": "2026-11-12T13:20:36+00:00",
       "eintraege": [
         {
-          "titel": "New York building collapse kills at least two, officials say",
-          "untertitel": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
-          "link": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7651/live/2883df70-de5a-11f1-9b47-0919bf7329d1.jpg",
+          "titel": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
+          "untertitel": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
+          "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a2c/live/a70e9220-de61-11f1-a701-fddedf244c16.jpg",
           "quelle": "BBC",
-          "info": "3 Quellen berichten",
+          "info": "2 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Democrat Scott Colom makes history as Mississippi elects first black senator for 150 years",
-          "untertitel": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
-          "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg",
+          "titel": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+          "untertitel": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+          "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d247/live/940d6f30-de7e-11f1-b88b-3f1671ea859d.jpg",
           "quelle": "BBC",
-          "info": "3 Quellen berichten",
+          "info": "2 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-          "untertitel": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
-          "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cf0/live/2eb174e0-ddef-11f1-b441-2b33b063138f.jpg",
+          "titel": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+          "untertitel": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+          "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3774/live/60c41ee0-de7d-11f1-b88b-3f1671ea859d.jpg",
           "quelle": "BBC",
-          "info": "3 Quellen berichten",
-          "trend": "runter"
+          "info": "2 Quellen berichten",
+          "trend": "neu"
         }
       ]
     },
@@ -76,32 +76,32 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-12T10:10:20+00:00",
+      "stand": "2026-11-12T13:20:36+00:00",
       "eintraege": [
         {
-          "titel": "russland",
-          "untertitel": "Kein Duell gegen Schweiz - Kanada verweigert Russland Visa für U20-WM",
-          "link": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/kein-duell-gegen-schweiz-kanada-verweigert-russland-visa-fuer-u20-wm",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS6raBR7qJn5z_kJ-niVmJC8ufQhtDe1MUl_KJehOc3VWOj-CpcFJIxbKUnSg0",
-          "quelle": "Google Trends · SRF",
-          "info": "200+ Suchanfragen",
+          "titel": "kreditklemme",
+          "untertitel": "",
+          "link": "https://www.google.ch/search?q=kreditklemme",
+          "bild": "",
+          "quelle": "Google Trends",
+          "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "tierquälerei",
-          "untertitel": "Drama um Tierquälerei auf Luzerner Hof nimmt kein Ende",
-          "link": "https://www.zentralplus.ch/justiz/drama-um-tierquaelerei-auf-luzerner-hof-nimmt-kein-ende-2910642/",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWWOmQB4Dv9PfL1DxFbcoTJYeXiNLJj7eMvoqlGLgXQfo9Pvv6qN_EqLHGc5o",
-          "quelle": "Google Trends · zentralplus",
-          "info": "200+ Suchanfragen",
+          "titel": "invalidenversicherung",
+          "untertitel": "Immer mehr Junge in der IV – bis 2031 droht der Bankrott",
+          "link": "https://www.beobachter.ch/geld/der-iv-droht-der-bankrott-darum-laufen-die-kosten-aus-dem-ruder-983701",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUWJPjjfS-uCeMa8dYgUZ3_4ERGLOslg9Xc1THavN7ImgamitUTdY_TQb4cTU",
+          "quelle": "Google Trends · Beobachter",
+          "info": "500+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "roman josi",
-          "untertitel": "Nashville Defenseman Roman Josi Scores 800th Career Point",
-          "link": "https://www.si.com/nhl/predators/onsi/news/nashville-defenseman-roman-josi-scores-800th-career-point",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0oxaRDOvRQ4eDh8O1q8fQtJFukrRdVAPbsKNyiSu4ge_iO_zBVyfPSb1boeU",
-          "quelle": "Google Trends · Sports Illustrated",
+          "titel": "hells angels",
+          "untertitel": "Hells Angels vor Berner Obergericht: Zwei Rocker kneifen aus Angst vor dem Landesverweis",
+          "link": "https://www.bernerzeitung.ch/hells-angels-zwei-ziehen-berufung-zurueck-wegen-landesverweis-638334254284",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYk1Qv_qsk9DrKcavygJ-iK252XRAO3r6ExivhrhF0_vlDjvqFDv0_nmXOdOc",
+          "quelle": "Google Trends · Berner Zeitung",
           "info": "200+ Suchanfragen",
           "trend": "neu"
         }
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-12T10:10:20+00:00",
+      "stand": "2026-11-12T13:20:36+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,17 +181,8 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-12T10:10:20+00:00",
+      "stand": "2026-11-12T13:20:36+00:00",
       "eintraege": [
-        {
-          "titel": "St. Galler Weihnachtsmarkt schmeisst zwei Kult-Bahnen raus",
-          "untertitel": "Kein Zügli, kein Karussell: Der St. Galler Weihnachtsmarkt krempelt sein Konzept um. Ab dem 26. November sollen Kerzenziehen und Singen die Kinder begeistern – Platz für die …",
-          "link": "https://www.blick.ch/schweiz/ostschweiz/st-gallen/das-ist-ein-witz-weihnachtsmarkt-schmeisst-bahnen-raus/gxjrejh",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/VfZktktTURBXy9jMGViNDIwNS0yNWFkLTQ4OGYtOGM1NC1jM2Y3OTljMzJiOGYucG5nkpMFzQJYzQE7kwmmMGYzM2RmBg/gnyebv4bndw.jpg",
-          "quelle": "Blick",
-          "info": "",
-          "trend": "gleich"
-        },
         {
           "titel": "«Zürich, war schön bei euch»: Tokio Hotel schwärmt nach Konzert",
           "untertitel": "Tokio Hotel spielte am 10. November ein Konzert im Zürcher Hallenstadion. Im Publikum standen auch Heidi Klum und Yannik Zamboni. Die Kaulitz-Brüder schwärmen im Podcast von …",
@@ -199,7 +190,16 @@
           "bild": "https://image.20min.ch/2026/11/11/f271f507-0177-470a-a415-1a5580b826fe.png?s=8a586db245243f2d4733ca943ea44156",
           "quelle": "20 Minuten",
           "info": "",
-          "trend": "gleich"
+          "trend": "hoch"
+        },
+        {
+          "titel": "Vorstoss im Stadtparlament – Zürcher Stadtrat soll Konzert von Israel-Kritikern verhindern",
+          "untertitel": "Bürgerliche Parteien wollen den Auftritt der Pro-Palästina-Band Kneecap in Zürich verhindern.",
+          "link": "https://www.srf.ch/news/schweiz/vorstoss-im-stadtparlament-zuercher-stadtrat-soll-konzert-von-israel-kritikern-verhindern",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/8e46bb4.webp",
+          "quelle": "SRF",
+          "info": "",
+          "trend": "neu"
         },
         {
           "titel": "Kannst du alle Fragen zur Fasnacht beantworten?",
@@ -216,11 +216,11 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-12T10:10:20+00:00",
+      "stand": "2026-11-12T13:20:36+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
-          "untertitel": "Leichter Regen · 2° bis 7°",
+          "untertitel": "Leichter Regen · 3° bis 7°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -242,7 +242,7 @@
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 60%",
+          "info": "Regenrisiko 53%",
           "emoji": "🌦️"
         },
         {
@@ -256,12 +256,12 @@
         },
         {
           "titel": "Lugano",
-          "untertitel": "Regenschauer · 6° bis 16°",
+          "untertitel": "Bewölkt · 6° bis 16°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 60%",
-          "emoji": "🌦️"
+          "info": "Regenrisiko 63%",
+          "emoji": "☁️"
         }
       ]
     }
