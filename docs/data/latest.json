@@ -1,37 +1,37 @@
 {
-  "aktualisiert": "2026-11-12T13:20:36+00:00",
+  "aktualisiert": "2026-11-12T16:09:04+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-12T13:20:36+00:00",
+      "stand": "2026-11-12T16:09:04+00:00",
       "eintraege": [
         {
-          "titel": "Eurovision Asia 2026 – ESC in Bangkok: Gelingt die Premiere in Asien?",
-          "untertitel": "Erstmals findet der Eurovision Song Contest in Asien statt. Fans in Bangkok hoffen auf eine grosse Show.",
-          "link": "https://www.srf.ch/kultur/musik/eurovision-asia-2026-esc-in-bangkok-gelingt-die-premiere-in-asien",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/a9cff3.webp",
+          "titel": "Hintergründe unklar – Mehrere Menschen in Washington angeschossen – ein Toter",
+          "untertitel": "Bei Schüssen in der US-Hauptstadt wurden zudem vier Personen verletzt. Der mutmassliche Täter wurde gefasst.",
+          "link": "https://www.srf.ch/news/international/hintergruende-unklar-mehrere-menschen-in-washington-angeschossen-ein-toter",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/6669f4.webp",
           "quelle": "SRF",
           "info": "4 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Fussgänger (51) bei Tram-Kollision in Zürich verletzt",
-          "untertitel": "Am Donnerstagmorgen ist in Zürich ein Fussgänger von einem Tram erfasst worden. Der 51-Jährige wurde verletzt und musste ins Spital gebracht werden.",
-          "link": "https://www.blick.ch/schweiz/zuerich/fussgaenger-51-bei-tram-kollision-in-zuerich-verletzt/t2fwm1x",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/VvVktkuTURBXy8xZjU0MDEzZi04MmZhLTQ2YjYtOTMxNS0yMmU4ZmJhNTI0MzAuanBlZ5KTBc0CWM0BO5MJpjYwMDEzNwY/snq51j3g3md.jpg",
+          "titel": "Jetzt spricht sein bester Kollege",
+          "untertitel": "In Leibstadt im Kanton Aargau ist ein 16-jähriger Jugendlicher bei einem Arbeitsunfall ums Leben gekommen. Jetzt spricht sein bester Kollege.",
+          "link": "https://www.blick.ch/schweiz/mittelland/aargau/jetzt-spricht-sein-bester-kollege/xzctlx0",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/eUIktkuTURBXy82MWUwOTAyMi1mNGJkLTQ3YTAtYjY4ZC0zMmQ1YWM5NWNjMmYuanBlZ5KTBc0CWM0BO5MJpjQzYmU5NwY/px1fscu902b.jpg",
           "quelle": "Blick",
           "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Oleschky-Waffenruhe: Ukrainer und Russen bereiten Evakuierung vor",
-          "untertitel": "Die seit Dienstag geltende Waffenruhe in der von russischen Truppen besetzten Frontstadt Oleschky im südukrainischen Gebiet Cherson hält weiter.",
-          "link": "https://www.watson.ch/international/russland/156525832-oleschky-waffenruhe-ukrainer-und-russen-bereiten-evakuierung-vor",
-          "bild": "",
-          "quelle": "watson",
+          "titel": "Premiere: Darum wollen SVP, Grüne und SP das Bundesbudget killen",
+          "untertitel": "Premiere im Bundeshaus: Eine unheilige Allianz lehnt das Bundesbudget 2027 ab. Während SP und Grüne finden, es werde zu viel gespart, sieht es die SVP genau andersrum.",
+          "link": "https://www.20min.ch/story/unheilige-allianz-premiere-darum-wollen-svp-gruene-und-sp-das-bundesbudget-killen-103666080",
+          "bild": "https://image.20min.ch/2026/11/12/ff45d4fd-9ca4-4448-ada7-c3ecd8982105.jpg?s=e1af43e2335c008dc26a588b6a574e27",
+          "quelle": "20 Minuten",
           "info": "3 Quellen berichten",
           "trend": "neu"
         }
@@ -41,32 +41,32 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-12T13:20:36+00:00",
+      "stand": "2026-11-12T16:09:04+00:00",
       "eintraege": [
-        {
-          "titel": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
-          "untertitel": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
-          "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a2c/live/a70e9220-de61-11f1-a701-fddedf244c16.jpg",
-          "quelle": "BBC",
-          "info": "2 Quellen berichten",
-          "trend": "neu"
-        },
-        {
-          "titel": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-          "untertitel": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
-          "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d247/live/940d6f30-de7e-11f1-b88b-3f1671ea859d.jpg",
-          "quelle": "BBC",
-          "info": "2 Quellen berichten",
-          "trend": "neu"
-        },
         {
           "titel": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
           "untertitel": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
           "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3774/live/60c41ee0-de7d-11f1-b88b-3f1671ea859d.jpg",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0196/live/ef110310-de9c-11f1-a701-fddedf244c16.jpg",
           "quelle": "BBC",
+          "info": "2 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+          "untertitel": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
+          "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/333a/live/e63a2ff0-dea1-11f1-93e1-3b657b665bcf.png",
+          "quelle": "BBC",
+          "info": "2 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Nvidia-Chef Huang tritt nach Spionageaffäre zurück",
+          "untertitel": "Der Chef des weltgrößten Chipkonzerns Nvidia, Jensen Huang, tritt wegen einer Affäre mit einer mutmaßlichen chinesischen Spionin zurück. Seine Aufgaben übernehme vorübergehend …",
+          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-ruecktritt-100.html",
+          "bild": "",
+          "quelle": "tagesschau",
           "info": "2 Quellen berichten",
           "trend": "neu"
         }
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-12T13:20:36+00:00",
+      "stand": "2026-11-12T16:09:04+00:00",
       "eintraege": [
         {
-          "titel": "kreditklemme",
-          "untertitel": "",
-          "link": "https://www.google.ch/search?q=kreditklemme",
-          "bild": "",
-          "quelle": "Google Trends",
+          "titel": "verletzt",
+          "untertitel": "Lastwagen kollidiert mit Fussgängerin (76) – schwer verletzt",
+          "link": "https://www.blick.ch/schweiz/zuerich/lastwagen-kollidiert-mit-fussgaenger-passant-verletzt/dm4vw3m",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJWxp7VWoxDV2sMl9cmJIkQy07awsg9NHQSqTmFwKF4CfrhoSsA5RgjODT0Ks",
+          "quelle": "Google Trends · Blick",
+          "info": "200+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "flugzeugabsturz",
+          "untertitel": "„Was zum Teufel haben wir uns da nur eingebrockt?“",
+          "link": "https://www.welt.de/geschichte/article6ae83c0aa44ac0400ca56d42/flugzeugabsturz-was-zum-teufel-haben-wir-uns-da-nur-eingebrockt.html",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMjBk9ahzlaIJKpaLsCycafgEK5RnLVXsmo6ZYhylTTnpwVLC63FHNTH9yOrY",
+          "quelle": "Google Trends · WELT",
           "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "invalidenversicherung",
-          "untertitel": "Immer mehr Junge in der IV – bis 2031 droht der Bankrott",
-          "link": "https://www.beobachter.ch/geld/der-iv-droht-der-bankrott-darum-laufen-die-kosten-aus-dem-ruder-983701",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUWJPjjfS-uCeMa8dYgUZ3_4ERGLOslg9Xc1THavN7ImgamitUTdY_TQb4cTU",
-          "quelle": "Google Trends · Beobachter",
-          "info": "500+ Suchanfragen",
-          "trend": "neu"
-        },
-        {
-          "titel": "hells angels",
-          "untertitel": "Hells Angels vor Berner Obergericht: Zwei Rocker kneifen aus Angst vor dem Landesverweis",
-          "link": "https://www.bernerzeitung.ch/hells-angels-zwei-ziehen-berufung-zurueck-wegen-landesverweis-638334254284",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYk1Qv_qsk9DrKcavygJ-iK252XRAO3r6ExivhrhF0_vlDjvqFDv0_nmXOdOc",
-          "quelle": "Google Trends · Berner Zeitung",
-          "info": "200+ Suchanfragen",
+          "titel": "nvidia aktienkurs",
+          "untertitel": "Spy Scandal: Nvidia Drops 5 Percent in Premarket Trading",
+          "link": "https://www.trendingtopics.eu/spy-scandal-nvidia-stock-jensen-huang-china/",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhNIft1ga3CgflCqBlp3c_O-OBxfhzo5sgD5hW2CgpEl17S-pACQJxqreXiaQ",
+          "quelle": "Google Trends · www.trendingtopics.eu",
+          "info": "100+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-12T10:10:20+00:00",
+      "stand": "2026-11-12T16:09:04+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-12T13:20:36+00:00",
+      "stand": "2026-11-12T16:09:04+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -158,22 +158,22 @@
           "trend": "gleich"
         },
         {
-          "titel": "Podcast am Pistenrand",
-          "untertitel": "Tina Weirather, Marc Berthod und Michael Schweizer",
-          "link": "https://podcasts.apple.com/ch/podcast/podcast-am-pistenrand/id1649823890",
-          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/b5/33/1b/b5331b80-51d6-a9b5-0202-26549181440f/mza_6739746491336226460.jpeg/300x300bb.png",
-          "quelle": "Apple Podcasts Charts CH",
-          "info": "Sport, Comedy",
-          "trend": "gleich"
-        },
-        {
           "titel": "MORD AUF EX",
           "untertitel": "Leonie Bartsch & Linn Schütze",
           "link": "https://podcasts.apple.com/ch/podcast/mord-auf-ex/id1486608425",
           "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b9/17/07/b91707ba-b4bf-2021-bafe-b4dd1e1f0196/mza_6370841172422755338.jpg/300x300bb.png",
           "quelle": "Apple Podcasts Charts CH",
           "info": "Wahre Kriminalfälle, Geschichte",
-          "trend": "gleich"
+          "trend": "hoch"
+        },
+        {
+          "titel": "RONZHEIMER.",
+          "untertitel": "Paul Ronzheimer",
+          "link": "https://podcasts.apple.com/ch/podcast/ronzheimer/id1700432142",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/16/ab/81/16ab81cb-e31f-5ea0-81a7-902a96dfd750/mza_17924075471806194431.jpg/300x300bb.png",
+          "quelle": "Apple Podcasts Charts CH",
+          "info": "Nachrichten",
+          "trend": "neu"
         }
       ]
     },
@@ -181,22 +181,13 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-12T13:20:36+00:00",
+      "stand": "2026-11-12T16:09:04+00:00",
       "eintraege": [
         {
-          "titel": "«Zürich, war schön bei euch»: Tokio Hotel schwärmt nach Konzert",
-          "untertitel": "Tokio Hotel spielte am 10. November ein Konzert im Zürcher Hallenstadion. Im Publikum standen auch Heidi Klum und Yannik Zamboni. Die Kaulitz-Brüder schwärmen im Podcast von …",
-          "link": "https://www.20min.ch/story/tokio-hotel-in-zuerich-kaulitz-brueder-schwaermen-nach-konzert-vom-hotel-103665610",
-          "bild": "https://image.20min.ch/2026/11/11/f271f507-0177-470a-a415-1a5580b826fe.png?s=8a586db245243f2d4733ca943ea44156",
-          "quelle": "20 Minuten",
-          "info": "",
-          "trend": "hoch"
-        },
-        {
-          "titel": "Vorstoss im Stadtparlament – Zürcher Stadtrat soll Konzert von Israel-Kritikern verhindern",
-          "untertitel": "Bürgerliche Parteien wollen den Auftritt der Pro-Palästina-Band Kneecap in Zürich verhindern.",
-          "link": "https://www.srf.ch/news/schweiz/vorstoss-im-stadtparlament-zuercher-stadtrat-soll-konzert-von-israel-kritikern-verhindern",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/8e46bb4.webp",
+          "titel": "Nachfolge von Guy Parmelin – Aeschi wohl fix auf dem SVP-Ticket – daneben viele Fragezeichen",
+          "untertitel": "Wer schafft es aufs offizielle SVP-Ticket? Bei dem Entscheid spielen nicht nur strategische Überlegungen eine Rolle.",
+          "link": "https://www.srf.ch/news/schweiz/nachfolge-von-guy-parmelin-aeschi-wohl-fix-auf-dem-svp-ticket-daneben-viele-fragezeichen",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/daf9a1.webp",
           "quelle": "SRF",
           "info": "",
           "trend": "neu"
@@ -208,7 +199,7 @@
           "bild": "https://ocdn.eu/pulscms-transforms/1/L3UktkuTURBXy9iOThiYzllNy0xYzg2LTQ4NjMtYTRhNS1hMjgyNGQwMjk0MTYuanBlZ5KTBc0CWM0BO5MJpmMxNGQ0YQY/gd0mb4b4m2o.jpg",
           "quelle": "Blick",
           "info": "",
-          "trend": "gleich"
+          "trend": "hoch"
         }
       ]
     },
@@ -216,7 +207,7 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-12T13:20:36+00:00",
+      "stand": "2026-11-12T16:09:04+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
@@ -256,7 +247,7 @@
         },
         {
           "titel": "Lugano",
-          "untertitel": "Bewölkt · 6° bis 16°",
+          "untertitel": "Bewölkt · 6° bis 17°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
