@@ -1,13 +1,22 @@
 {
-  "aktualisiert": "2026-11-12T07:27:21+00:00",
+  "aktualisiert": "2026-11-12T10:10:20+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-12T07:27:21+00:00",
+      "stand": "2026-11-12T10:10:20+00:00",
       "eintraege": [
+        {
+          "titel": "Zweite Affäre: Managerin war Nvidia-CEO Huang direkt unterstellt",
+          "untertitel": "Am Mittwoch wurde eine zweite Affäre von Nvidia-Firmenchef Jensen Huang bekannt. Es handelt sich dabei um eine ihm unterstellte Top-Managerin des Unternehmens.",
+          "link": "https://www.20min.ch/story/kimberly-powell-huangs-zweite-affaere-war-mit-einer-ihm-unterstellten-managerin-103665934",
+          "bild": "https://image.20min.ch/2026/11/12/e039788c-ae8e-4ec0-8af5-669d0921d3c1.jpg?s=f5ce05295fdcd6cc150ba134e3a99549",
+          "quelle": "20 Minuten",
+          "info": "4 Quellen berichten",
+          "trend": "neu"
+        },
         {
           "titel": "Doch der Ex-Gemeinderat baggert munter weiter",
           "untertitel": "In Walkringen BE tobt seit Jahren ein übler Streit unter Nachbarn. Bauer Thomas Zimmermann und sein Nachbar, Ex-Gemeinderat Andreas Künzler, streiten sich wegen eines Kieswegs. …",
@@ -18,19 +27,10 @@
           "trend": "neu"
         },
         {
-          "titel": "Huangs zweite Affäre war mit einer ihm unterstellten Managerin",
-          "untertitel": "Am Mittwoch wurde eine zweite Affäre von Nvidia-Firmenchef Jensen Huang bekannt. Es handelt sich dabei um eine ihm unterstellte Top-Managerin des Unternehmens.",
-          "link": "https://www.20min.ch/story/kimberly-powell-huangs-zweite-affaere-war-mit-einer-ihm-unterstellten-managerin-103665934",
-          "bild": "https://image.20min.ch/2026/11/12/e039788c-ae8e-4ec0-8af5-669d0921d3c1.jpg?s=f5ce05295fdcd6cc150ba134e3a99549",
-          "quelle": "20 Minuten",
-          "info": "4 Quellen berichten",
-          "trend": "neu"
-        },
-        {
-          "titel": "Luzerner missbraucht 30 Kinder – 4,5 Jahre Haft",
-          "untertitel": "Das Luzerner Kantonsgericht hat einen 54-Jährigen für den Missbrauch von bis zu 30 Buben zu 4,5 Jahren Haft verurteilt. Der Staatsanwalt forderte 7,5 Jahre, doch das Gericht …",
-          "link": "https://www.blick.ch/schweiz/zentralschweiz/luzern/luzerner-missbraucht-30-kinder-45-jahre-haft/k9h9lh1",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/6_WktkuTURBXy80YzU0N2MwOC1mNWQzLTRkZTYtOGQ5YS1lZTMyYTMzODRlMDEuanBlZ5KTBc0CWM0BO5MJpmFkYjA4OQY/er6zwv9c2co.jpg",
+          "titel": "Fussgänger (51) bei Tram-Kollision in Zürich verletzt",
+          "untertitel": "Am Donnerstagmorgen ist in Zürich ein Fussgänger von einem Tram erfasst worden. Der 51-Jährige wurde verletzt und musste ins Spital gebracht werden.",
+          "link": "https://www.blick.ch/schweiz/zuerich/fussgaenger-51-bei-tram-kollision-in-zuerich-verletzt/t2fwm1x",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/VvVktkuTURBXy8xZjU0MDEzZi04MmZhLTQ2YjYtOTMxNS0yMmU4ZmJhNTI0MzAuanBlZ5KTBc0CWM0BO5MJpjYwMDEzNwY/snq51j3g3md.jpg",
           "quelle": "Blick",
           "info": "3 Quellen berichten",
           "trend": "neu"
@@ -41,22 +41,22 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-12T07:27:21+00:00",
+      "stand": "2026-11-12T10:10:20+00:00",
       "eintraege": [
-        {
-          "titel": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-          "untertitel": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
-          "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg",
-          "quelle": "BBC",
-          "info": "3 Quellen berichten",
-          "trend": "neu"
-        },
         {
           "titel": "New York building collapse kills at least two, officials say",
           "untertitel": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
           "link": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
           "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7651/live/2883df70-de5a-11f1-9b47-0919bf7329d1.jpg",
+          "quelle": "BBC",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Democrat Scott Colom makes history as Mississippi elects first black senator for 150 years",
+          "untertitel": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
+          "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg",
           "quelle": "BBC",
           "info": "3 Quellen berichten",
           "trend": "neu"
@@ -76,32 +76,32 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-12T07:27:21+00:00",
+      "stand": "2026-11-12T10:10:20+00:00",
       "eintraege": [
         {
-          "titel": "outlook",
-          "untertitel": "Stocks end higher as CoreWeave results ease AI spending worries",
-          "link": "https://www.reuters.com/business/sp-500-nasdaq-futures-rise-after-coreweave-soothes-ai-spending-fears-2026-11-11/",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5cGqmq2I4e22JLFVPa0gIzEsMYYmIZW3sGIhChpqvEPEEaIuIMW2-cqJSEB0",
-          "quelle": "Google Trends · Reuters",
+          "titel": "russland",
+          "untertitel": "Kein Duell gegen Schweiz - Kanada verweigert Russland Visa für U20-WM",
+          "link": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/kein-duell-gegen-schweiz-kanada-verweigert-russland-visa-fuer-u20-wm",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS6raBR7qJn5z_kJ-niVmJC8ufQhtDe1MUl_KJehOc3VWOj-CpcFJIxbKUnSg0",
+          "quelle": "Google Trends · SRF",
           "info": "200+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "ziehung",
-          "untertitel": "Glückspilz gewinnt eine Million Franken bei Swiss Lotto-Ziehung",
-          "link": "https://www.swissinfo.ch/ger/gl%C3%BCckspilz-gewinnt-eine-million-franken-bei-swiss-lotto-ziehung/92367159",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY-7DPV_ozLwLi_uiremwu2iCqMMU7ArbiDHoSwHX012-AfYYSkvEtemji0z0",
-          "quelle": "Google Trends · SWI swissinfo.ch",
-          "info": "500+ Suchanfragen",
+          "titel": "tierquälerei",
+          "untertitel": "Drama um Tierquälerei auf Luzerner Hof nimmt kein Ende",
+          "link": "https://www.zentralplus.ch/justiz/drama-um-tierquaelerei-auf-luzerner-hof-nimmt-kein-ende-2910642/",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWWOmQB4Dv9PfL1DxFbcoTJYeXiNLJj7eMvoqlGLgXQfo9Pvv6qN_EqLHGc5o",
+          "quelle": "Google Trends · zentralplus",
+          "info": "200+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "unwetter portugal lissabon",
-          "untertitel": "Sturmtief Charles: Starke Niederschläge in Portugal durch Sturmtief Charles",
-          "link": "https://www.zeit.de/wissenschaft/umwelt/2026-11/charles-sturmtief-portugal-madeira-spanien-unwetter",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-nE0UjHwhGwNhL625PRB3d2pOdjviRGbsrK-xj0IYDEVkNYHhUAqbuQkNfM4",
-          "quelle": "Google Trends · DIE ZEIT",
+          "titel": "roman josi",
+          "untertitel": "Nashville Defenseman Roman Josi Scores 800th Career Point",
+          "link": "https://www.si.com/nhl/predators/onsi/news/nashville-defenseman-roman-josi-scores-800th-career-point",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0oxaRDOvRQ4eDh8O1q8fQtJFukrRdVAPbsKNyiSu4ge_iO_zBVyfPSb1boeU",
+          "quelle": "Google Trends · Sports Illustrated",
           "info": "200+ Suchanfragen",
           "trend": "neu"
         }
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-12T07:27:21+00:00",
+      "stand": "2026-11-12T10:10:20+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-12T07:27:21+00:00",
+      "stand": "2026-11-12T10:10:20+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-12T07:27:21+00:00",
+      "stand": "2026-11-12T10:10:20+00:00",
       "eintraege": [
         {
           "titel": "St. Galler Weihnachtsmarkt schmeisst zwei Kult-Bahnen raus",
@@ -216,7 +216,7 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-12T07:27:21+00:00",
+      "stand": "2026-11-12T10:10:20+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
@@ -256,7 +256,7 @@
         },
         {
           "titel": "Lugano",
-          "untertitel": "Leichter Regen · 6° bis 16°",
+          "untertitel": "Regenschauer · 6° bis 16°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
