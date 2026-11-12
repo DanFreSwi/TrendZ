@@ -1,13 +1,22 @@
 {
-  "aktualisiert": "2026-11-12T01:20:14+00:00",
+  "aktualisiert": "2026-11-12T04:00:13+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-12T01:20:14+00:00",
+      "stand": "2026-11-12T04:00:13+00:00",
       "eintraege": [
+        {
+          "titel": "Gebäude stürzt ein – sieben Kinder unter den Verletzten",
+          "untertitel": "Im New Yorker Stadtteil Flatbush ist am Mittwochnachmittag ein dreistöckiges Gebäude eingestürzt. Mindestens zwei Menschen kommen ums Leben.",
+          "link": "https://www.20min.ch/story/new-york-brooklyn-flatbush-gebaeude-stuerzt-opfer-menschen-unter-truemmern-103665905",
+          "bild": "https://image.20min.ch/2026/11/12/7f4e6461-eda3-419f-bf78-83657c9a75d9.jpg?s=859f183ff1395f1cc5cb8b0cdb085b3d",
+          "quelle": "20 Minuten",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
         {
           "titel": "Erstmals seit 1982: Demokrat holt Senatssitz in Mississippi",
           "untertitel": "Am 3. November fanden in den USA die Zwischenwahlen statt. Im 20-Minuten-Ticker erfährst du alles rund um die Midterms.",
@@ -16,15 +25,6 @@
           "quelle": "20 Minuten",
           "info": "3 Quellen berichten",
           "trend": "neu"
-        },
-        {
-          "titel": "Jubel und Empörung: Gans mit sieben Schlägen geköpft",
-          "untertitel": "Jedes Jahr sorgt die «Gansabhauet» in Sursee für Aufsehen. Während die Zuschauer beim Traditionsanlass am Mittwoch jubelten, haben empörte Demonstranten die Abschaffung des …",
-          "link": "https://www.20min.ch/story/sursee-lu-jubel-und-empoerung-gans-mit-sieben-schlaegen-gekoepft-103665689",
-          "bild": "https://image.20min.ch/2026/11/11/44989d16-03c5-45ca-91f1-67b15eb6de4c.jpg?s=c8a1e4487f3247c3ca2e6cd195b45677",
-          "quelle": "20 Minuten",
-          "info": "3 Quellen berichten",
-          "trend": "runter"
         },
         {
           "titel": "Doch der Ex-Gemeinderat baggert munter weiter",
@@ -41,16 +41,16 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-12T01:20:14+00:00",
+      "stand": "2026-11-12T04:00:13+00:00",
       "eintraege": [
         {
-          "titel": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-          "untertitel": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
-          "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cf0/live/2eb174e0-ddef-11f1-b441-2b33b063138f.jpg",
+          "titel": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+          "untertitel": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+          "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg",
           "quelle": "BBC",
           "info": "3 Quellen berichten",
-          "trend": "gleich"
+          "trend": "neu"
         },
         {
           "titel": "Clashes erupt in Barcelona after thousands join Spain general strike",
@@ -62,11 +62,11 @@
           "trend": "gleich"
         },
         {
-          "titel": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-          "untertitel": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
-          "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a54/live/d643ec30-de33-11f1-b8ec-f53576d91bbb.jpg",
-          "quelle": "BBC",
+          "titel": "Im Stadtteil Brooklyn: Tote und Verletzte nach Gebäudeeinsturz in New York",
+          "untertitel": "Beim Einsturz eines mehrstöckigen Gebäudes in New York sind mindestens zwei Menschen ums Leben gekommen. Mehrere weitere wurden unter den Trümmern eingeschlossen.",
+          "link": "https://www.tagesschau.de/ausland/amerika/new-york-gebaeude-einsturz-104.html",
+          "bild": "",
+          "quelle": "tagesschau",
           "info": "2 Quellen berichten",
           "trend": "neu"
         }
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-12T01:20:14+00:00",
+      "stand": "2026-11-12T04:00:13+00:00",
       "eintraege": [
         {
-          "titel": "gta vi",
-          "untertitel": "‘GTA 6’ Presales ‘Far in Excess’ of Expectations Ahead of Next Week’s Launch, Take-Two CEO Says",
-          "link": "https://variety.com/2026/gaming/news/gta-6-preorders-expectations-launch-1236943278/",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSe6D2hdsqu3Gusi3vyff-3VGSyM80FVd48wlWhpzECpRRdvlqqyJy62MZaT_o",
-          "quelle": "Google Trends · Variety",
+          "titel": "milchproduktion",
+          "untertitel": "Partnerschaft zwischen der ALDI SÜD Gruppe und Friesland­Campina",
+          "link": "https://www.frieslandcampina.com/de/news/partnerschaft-zwischen-der-aldi-sud-gruppe-und-frieslandcampina/",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQiZBa0Shbafmc1ypR1BKDkOPs5TpMIchJfEu59ca7s8t_RKuSc17hyzbGreU",
+          "quelle": "Google Trends · FrieslandCampina",
           "info": "200+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "aryna sabalenka",
-          "untertitel": "Aryna Sabalenka defeats Karolina Muchova in hard-fought WTA Finals opener",
-          "link": "https://theherald.co.za/sport/more-sport/2026-11-11-sabalenka-downs-muchova-to-win-wta-finals-opener/",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLkmS_npRfSz1FhAd2ljGD1u32Z44wUnrdKrfvevEWdZfVZAuFdSZtjF3T9pw",
-          "quelle": "Google Trends · HeraldLIVE",
-          "info": "100+ Suchanfragen",
+          "titel": "kaltfront",
+          "untertitel": "Wettervorhersage für den Nachmittag und die Nacht des 11. November: In Nordvietnam wird es einen starken Temperatursturz geben, während in Zentralvietnam mit starken Regenfällen …",
+          "link": "https://www.vietnam.vn/de/thoi-tiet-chieu-va-dem-11-11-bac-bo-giam-nhiet-manh-trung-bo-mua-lon-bien-dong-manh",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSoWxdVjnrqDUHM05l1YDnkYHFeTsTF1kyfIig2D7jb-m_Ih5HbyQcrGtwqImk",
+          "quelle": "Google Trends · Vietnam.vn",
+          "info": "200+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "kimberly powell",
-          "untertitel": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
-          "link": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDKCVVyUCCYyYSrjxTpqYVH7wwROEBvAlv_q8WRccDV6Hk3TUr6fineIAx8Bs",
-          "quelle": "Google Trends · The New York Times",
-          "info": "2000+ Suchanfragen",
+          "titel": "sport",
+          "untertitel": "United Arab Emirates vs Honduras: Friendlies stats & head-to-head",
+          "link": "https://www.bbc.com/sport/football/live/c8y56xx74yzet",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw",
+          "quelle": "Google Trends · BBC",
+          "info": "100+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-12T01:20:14+00:00",
+      "stand": "2026-11-12T04:00:13+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-12T01:20:14+00:00",
+      "stand": "2026-11-12T04:00:13+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-12T01:20:14+00:00",
+      "stand": "2026-11-12T04:00:13+00:00",
       "eintraege": [
         {
           "titel": "St. Galler Weihnachtsmarkt schmeisst zwei Kult-Bahnen raus",
@@ -216,7 +216,7 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-12T01:20:14+00:00",
+      "stand": "2026-11-12T04:00:13+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
@@ -256,7 +256,7 @@
         },
         {
           "titel": "Lugano",
-          "untertitel": "Leichter Regen · 6° bis 16°",
+          "untertitel": "Regenschauer · 6° bis 16°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
