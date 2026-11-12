@@ -1,13 +1,22 @@
 {
-  "aktualisiert": "2026-11-11T22:12:35+00:00",
+  "aktualisiert": "2026-11-12T01:20:14+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-11T22:12:35+00:00",
+      "stand": "2026-11-12T01:20:14+00:00",
       "eintraege": [
+        {
+          "titel": "Erstmals seit 1982: Demokrat holt Senatssitz in Mississippi",
+          "untertitel": "Am 3. November fanden in den USA die Zwischenwahlen statt. Im 20-Minuten-Ticker erfährst du alles rund um die Midterms.",
+          "link": "https://www.20min.ch/story/us-midterms-mississippi-demokrat-scott-h-colom-holt-sitz-im-senat-103660611",
+          "bild": "https://image.20min.ch/2026/11/04/43bb7ed4-4896-4dd3-ba0f-6d38d5c2d97d.jpg?s=fdd61e2c0c1b54ad1e2ad5ae46aff5ca",
+          "quelle": "20 Minuten",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
         {
           "titel": "Jubel und Empörung: Gans mit sieben Schlägen geköpft",
           "untertitel": "Jedes Jahr sorgt die «Gansabhauet» in Sursee für Aufsehen. Während die Zuschauer beim Traditionsanlass am Mittwoch jubelten, haben empörte Demonstranten die Abschaffung des …",
@@ -15,23 +24,14 @@
           "bild": "https://image.20min.ch/2026/11/11/44989d16-03c5-45ca-91f1-67b15eb6de4c.jpg?s=c8a1e4487f3247c3ca2e6cd195b45677",
           "quelle": "20 Minuten",
           "info": "3 Quellen berichten",
-          "trend": "neu"
+          "trend": "runter"
         },
         {
-          "titel": "Explizite Inhalte – Spanien ermittelt wegen Kindesmissbrauchsinhalten auf TikTok",
-          "untertitel": "Ein spanisches Recherche-Netzwerk deckt Tausende Missbrauchsinhalte auf. Nun ermittelt die Behörde gegen TikTok.",
-          "link": "https://www.srf.ch/news/international/explizite-inhalte-spanien-ermittelt-wegen-kindesmissbrauchsinhalten-auf-tiktok",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/a1c991.webp",
-          "quelle": "SRF",
-          "info": "3 Quellen berichten",
-          "trend": "neu"
-        },
-        {
-          "titel": "Liebe zwischen Bundesrichtern – Die Affäre am Bundesgericht nimmt überraschende Wendungen",
-          "untertitel": "Bundesrichter Donzallaz tritt nicht mehr an. Seine Amtskollegin Van de Graaf hingegen wird zur Wiederwahl empfohlen.",
-          "link": "https://www.srf.ch/news/schweiz/liebe-zwischen-bundesrichtern-die-affaere-am-bundesgericht-nimmt-ueberraschende-wendungen",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/cf4bfb.webp",
-          "quelle": "SRF",
+          "titel": "Doch der Ex-Gemeinderat baggert munter weiter",
+          "untertitel": "In Walkringen BE tobt seit Jahren ein übler Streit unter Nachbarn. Bauer Thomas Zimmermann und sein Nachbar, Ex-Gemeinderat Andreas Künzler, streiten sich wegen eines Kieswegs. …",
+          "link": "https://www.blick.ch/schweiz/bern/streit-in-walkringen-be-kanton-kippt-kiesweg-entscheid/mkxdxk4",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/PZaktkuTURBXy82MTUwYjJjMC1jNDA2LTQzMWYtYWQwYS1iMjBmNDExYTNkZDMuanBlZ5KTBc0CWM0BO5MJpmVlN2M0MQY/zn81hpcigvc.jpg",
+          "quelle": "Blick",
           "info": "2 Quellen berichten",
           "trend": "neu"
         }
@@ -41,7 +41,7 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-11T22:12:35+00:00",
+      "stand": "2026-11-12T01:20:14+00:00",
       "eintraege": [
         {
           "titel": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
@@ -50,7 +50,7 @@
           "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cf0/live/2eb174e0-ddef-11f1-b441-2b33b063138f.jpg",
           "quelle": "BBC",
           "info": "3 Quellen berichten",
-          "trend": "neu"
+          "trend": "gleich"
         },
         {
           "titel": "Clashes erupt in Barcelona after thousands join Spain general strike",
@@ -59,16 +59,16 @@
           "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8f2/live/d0df2010-de11-11f1-a701-fddedf244c16.jpg",
           "quelle": "BBC",
           "info": "2 Quellen berichten",
-          "trend": "neu"
+          "trend": "gleich"
         },
         {
-          "titel": "Collision of two trains in Egypt kills at least seven",
-          "untertitel": "President orders prompt investigation after one train derails in collision in al-Ayyat about 50km from Cairo Seven people were killed and at least 125 injured when two trains …",
-          "link": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
-          "bild": "https://i.guim.co.uk/img/media/7527078bbb41cf17b1a35718b70ebdceeada7492/206_271_4462_3569/master/4462.jpg?width=140&quality=85&auto=format&fit=max&s=24b5e48c937f7ee0a5afbdfdeb04cf94",
-          "quelle": "The Guardian",
+          "titel": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+          "untertitel": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+          "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a54/live/d643ec30-de33-11f1-b8ec-f53576d91bbb.jpg",
+          "quelle": "BBC",
           "info": "2 Quellen berichten",
-          "trend": "runter"
+          "trend": "neu"
         }
       ]
     },
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-11T22:12:35+00:00",
+      "stand": "2026-11-12T01:20:14+00:00",
       "eintraege": [
         {
-          "titel": "mummenschanz",
-          "untertitel": "Mummenschanz – Ende einer Bilderbuchkarriere",
-          "link": "https://www.srf.ch/play/tv/kulturplatz/video/mummenschanz---ende-einer-bilderbuchkarriere?urn=urn:srf:video:991e0d0c-5ee7-466b-ba8e-57ef5fb239e1",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAip9Tvo4_L0ED1sHEQ144AKl2I1w4QjA9GughabhkvekMqRTQHhelowNM7gg",
-          "quelle": "Google Trends · SRF",
+          "titel": "gta vi",
+          "untertitel": "‘GTA 6’ Presales ‘Far in Excess’ of Expectations Ahead of Next Week’s Launch, Take-Two CEO Says",
+          "link": "https://variety.com/2026/gaming/news/gta-6-preorders-expectations-launch-1236943278/",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSe6D2hdsqu3Gusi3vyff-3VGSyM80FVd48wlWhpzECpRRdvlqqyJy62MZaT_o",
+          "quelle": "Google Trends · Variety",
           "info": "200+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "la liberté",
-          "untertitel": "Boegli Renate, avis de décès",
-          "link": "https://www.laliberte.ch/avis-mortuaires/boegli-renate-avis-de-deces-1483863",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZMWMiANj4sJU53H725k3odSKjkNq0MTtZVKZiedG3ONm_jvOOnfAYSto8a-0",
-          "quelle": "Google Trends · La Liberté",
+          "titel": "aryna sabalenka",
+          "untertitel": "Aryna Sabalenka defeats Karolina Muchova in hard-fought WTA Finals opener",
+          "link": "https://theherald.co.za/sport/more-sport/2026-11-11-sabalenka-downs-muchova-to-win-wta-finals-opener/",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLkmS_npRfSz1FhAd2ljGD1u32Z44wUnrdKrfvevEWdZfVZAuFdSZtjF3T9pw",
+          "quelle": "Google Trends · HeraldLIVE",
           "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "stockl rosenheim cops",
-          "untertitel": "„Eine große Lücke“: Max Müller spricht über den Abschied von Marisa Burger",
-          "link": "https://www.kleinezeitung.at/artikel/41443052/eine-grosse-luecke-max-mueller-spricht-ueber-den-abschied-von-marisa",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_fFca1Sv4Jqkq7-ScBJXDv6y741PNAbcdy9Og4-7RjNDa3fHO_oFTx5BfiEE",
-          "quelle": "Google Trends · Kleine Zeitung",
-          "info": "200+ Suchanfragen",
+          "titel": "kimberly powell",
+          "untertitel": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+          "link": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDKCVVyUCCYyYSrjxTpqYVH7wwROEBvAlv_q8WRccDV6Hk3TUr6fineIAx8Bs",
+          "quelle": "Google Trends · The New York Times",
+          "info": "2000+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-11T22:12:35+00:00",
+      "stand": "2026-11-12T01:20:14+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -132,12 +132,12 @@
           "trend": "gleich"
         },
         {
-          "titel": "So Easy (To Fall In Love)",
-          "untertitel": "Olivia Dean",
-          "link": "https://music.apple.com/ch/album/so-easy-to-fall-in-love/1817609404?i=1817609507",
-          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/300x300bb.jpg",
+          "titel": "Movin' To The Sun",
+          "untertitel": "HUGEL, Imael Angel & Ultra Naté",
+          "link": "https://music.apple.com/ch/album/movin-to-the-sun/6769069923?i=6769070199",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/300x300bb.jpg",
           "quelle": "Apple Music Charts CH",
-          "info": "Pop",
+          "info": "Electronic, Dance",
           "trend": "neu"
         }
       ]
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-11T19:03:59+00:00",
+      "stand": "2026-11-12T01:20:14+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -164,7 +164,7 @@
           "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/b5/33/1b/b5331b80-51d6-a9b5-0202-26549181440f/mza_6739746491336226460.jpeg/300x300bb.png",
           "quelle": "Apple Podcasts Charts CH",
           "info": "Sport, Comedy",
-          "trend": "neu"
+          "trend": "gleich"
         },
         {
           "titel": "MORD AUF EX",
@@ -173,7 +173,7 @@
           "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b9/17/07/b91707ba-b4bf-2021-bafe-b4dd1e1f0196/mza_6370841172422755338.jpg/300x300bb.png",
           "quelle": "Apple Podcasts Charts CH",
           "info": "Wahre Kriminalfälle, Geschichte",
-          "trend": "runter"
+          "trend": "gleich"
         }
       ]
     },
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-11T22:12:35+00:00",
+      "stand": "2026-11-12T01:20:14+00:00",
       "eintraege": [
         {
           "titel": "St. Galler Weihnachtsmarkt schmeisst zwei Kult-Bahnen raus",
@@ -199,7 +199,7 @@
           "bild": "https://image.20min.ch/2026/11/11/f271f507-0177-470a-a415-1a5580b826fe.png?s=8a586db245243f2d4733ca943ea44156",
           "quelle": "20 Minuten",
           "info": "",
-          "trend": "neu"
+          "trend": "gleich"
         },
         {
           "titel": "Kannst du alle Fragen zur Fasnacht beantworten?",
@@ -208,7 +208,7 @@
           "bild": "https://ocdn.eu/pulscms-transforms/1/L3UktkuTURBXy9iOThiYzllNy0xYzg2LTQ4NjMtYTRhNS1hMjgyNGQwMjk0MTYuanBlZ5KTBc0CWM0BO5MJpmMxNGQ0YQY/gd0mb4b4m2o.jpg",
           "quelle": "Blick",
           "info": "",
-          "trend": "neu"
+          "trend": "gleich"
         }
       ]
     },
@@ -216,11 +216,11 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-11T22:12:35+00:00",
+      "stand": "2026-11-12T01:20:14+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
-          "untertitel": "Leichter Regen · 8° bis 13°",
+          "untertitel": "Leichter Regen · 2° bis 7°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -229,7 +229,7 @@
         },
         {
           "titel": "Bern",
-          "untertitel": "Leichter Regen · 8° bis 11°",
+          "untertitel": "Leichter Regen · 1° bis 7°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -238,29 +238,29 @@
         },
         {
           "titel": "Basel",
-          "untertitel": "Regen · 6° bis 12°",
+          "untertitel": "Leichter Regen · 1° bis 8°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 100%",
-          "emoji": "🌧️"
+          "info": "Regenrisiko 68%",
+          "emoji": "🌦️"
         },
         {
           "titel": "Genf",
-          "untertitel": "Leichter Regen · 9° bis 13°",
+          "untertitel": "Leichter Regen · 5° bis 12°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 100%",
+          "info": "Regenrisiko 98%",
           "emoji": "🌦️"
         },
         {
           "titel": "Lugano",
-          "untertitel": "Leichter Regen · 9° bis 12°",
+          "untertitel": "Leichter Regen · 6° bis 16°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 100%",
+          "info": "Regenrisiko 40%",
           "emoji": "🌦️"
         }
       ]
