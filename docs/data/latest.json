@@ -1,18 +1,18 @@
 {
-  "aktualisiert": "2026-11-13T07:24:24+00:00",
+  "aktualisiert": "2026-11-13T10:06:39+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-13T07:24:24+00:00",
+      "stand": "2026-11-13T10:06:39+00:00",
       "eintraege": [
         {
-          "titel": "Schweizer Militärgeschichte – Vom Importeur zur Waffenschmiede – und wieder zurück",
-          "untertitel": "Dass die Schweiz Rüstungsgüter herstellt und exportiert, war keineswegs immer so. Ein Blick auf die Geschichte.",
-          "link": "https://www.srf.ch/radio-srf-1/schweizer-militaergeschichte-vom-importeur-zur-waffenschmiede-und-wieder-zurueck",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/e2f776.webp",
+          "titel": "Software-Riese – Ausfälle von Microsoft bremsen Firmen und Behörden weltweit",
+          "untertitel": "Betroffen ist der Dienst Microsoft 365 – also Outlook, Teams oder Copilot. Wir halten sie im Ticker auf dem Laufenden.",
+          "link": "https://www.srf.ch/news/wirtschaft/software-riese-ausfaelle-von-microsoft-bremsen-firmen-und-behoerden-weltweit",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/84798f.webp",
           "quelle": "SRF",
           "info": "3 Quellen berichten",
           "trend": "neu"
@@ -27,10 +27,10 @@
           "trend": "gleich"
         },
         {
-          "titel": "Am US‑Veteranentag – Hegseth ehrt Soldat für Rüge seiner eigenen Besuchergruppe",
-          "untertitel": "US-Verteidigungsminister Hegseth wurde wegen unangemessenen Verhaltens am Nationalfriedhof in Arlington zurechtgewiesen.",
-          "link": "https://www.srf.ch/news/international/am-us-veteranentag-hegseth-ehrt-soldat-fuer-ruege-seiner-eigenen-besuchergruppe",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/45833f2.webp",
+          "titel": "Abstimmung Kanton Uri – Muss bald mehr bezahlen, wer in Uri Auto fährt?",
+          "untertitel": "Eine höhere Strassenverkehrssteuer soll mithelfen, die Finanzen ins Lot zu bringen. SVP und FDP sind dagegen.",
+          "link": "https://www.srf.ch/news/abstimmung-kanton-uri-muss-bald-mehr-bezahlen-wer-in-uri-auto-faehrt",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/d5e988.webp",
           "quelle": "SRF",
           "info": "3 Quellen berichten",
           "trend": "neu"
@@ -41,7 +41,7 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-13T07:24:24+00:00",
+      "stand": "2026-11-13T10:06:39+00:00",
       "eintraege": [
         {
           "titel": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
@@ -62,13 +62,13 @@
           "trend": "neu"
         },
         {
-          "titel": "Collision of two trains in Egypt kills at least seven",
-          "untertitel": "President orders prompt investigation after one train derails in collision in al-Ayyat about 50km from Cairo Seven people were killed and at least 125 injured when two trains …",
-          "link": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
-          "bild": "https://i.guim.co.uk/img/media/7527078bbb41cf17b1a35718b70ebdceeada7492/206_271_4462_3569/master/4462.jpg?width=140&quality=85&auto=format&fit=max&s=24b5e48c937f7ee0a5afbdfdeb04cf94",
-          "quelle": "The Guardian",
+          "titel": "What we know about the global Microsoft outage",
+          "untertitel": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
+          "quelle": "BBC",
           "info": "2 Quellen berichten",
-          "trend": "gleich"
+          "trend": "neu"
         }
       ]
     },
@@ -76,24 +76,24 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-13T07:24:24+00:00",
+      "stand": "2026-11-13T10:06:39+00:00",
       "eintraege": [
         {
-          "titel": "panne microsoft",
-          "untertitel": "Les réparations «ne fonctionnent pas comme prévu» : ce qu’il faut savoir de la panne géante d’Outlook et des outils Microsoft",
-          "link": "https://www.lefigaro.fr/secteur/high-tech/microsoft-dit-que-les-mesures-pour-resoudre-la-panne-mondiale-d-outlook-ne-fonctionnent-pas-comme-prevu-20261113",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1Qrx0nAhrq43EKMf44Gp2JQ1E3r9AwMzt1US_XfAmt0foZ7yT1mh94pb3D1I",
-          "quelle": "Google Trends · Le Figaro",
+          "titel": "europol",
+          "untertitel": "International Law Enforcement Operation Targeting Opioid and Fentanyl Traffickers on the Dark Web Results in over 350 Arrests Worldwide and the Seizure of Drugs, Weapons, and …",
+          "link": "https://www.justice.gov/opa/pr/international-law-enforcement-operation-targeting-opioid-and-fentanyl-traffickers-dark-web",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS218HAzFOEejVXM4zB4FFcK2eOQirPToH7-fDui4y4YtPRYRVgycULKVa_aa4",
+          "quelle": "Google Trends · Department of Justice (.gov)",
           "info": "200+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "freitag der 13",
-          "untertitel": "Taylor Swift feiert den Freitag, den 13., andere haben Angst",
-          "link": "https://www.blick.ch/people-tv/international/freitag-der-13-mythos-angst-und-aberglaube-tcs-entwarnt/mbsf134",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRdrD5m2Nt5I8hXjRUj2glyIgWknhBlNQWmu_7THd5iiTdOYYYNO4KgwNoTnl0",
-          "quelle": "Google Trends · Blick",
-          "info": "100+ Suchanfragen",
+          "titel": "panne microsoft",
+          "untertitel": "Microsoft 365 : une panne mondiale touche Outlook et Teams",
+          "link": "https://www.rts.ch/info/sciences-tech/2026/article/microsoft-365-une-panne-mondiale-touche-outlook-et-teams-29414808.html",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRz7aLUOKLQNXEgYdLkUaGjFlBnFr_7RQ45FGsaTvAg41TZA11YxTV2PM9tM-4",
+          "quelle": "Google Trends · rts.ch",
+          "info": "2000+ Suchanfragen",
           "trend": "neu"
         },
         {
@@ -102,7 +102,7 @@
           "link": "https://www.solothurnerzeitung.ch/solothurn/kanton-solothurn/fremde-personen-kochten-in-solothurner-restaurantkueche-ld.4250054",
           "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcp9WKEudQgs9cPhyVv3MILHtBf7RTIVDYSJXaahBfD0_oLhCVkc23E6oGxbA",
           "quelle": "Google Trends · Solothurner Zeitung",
-          "info": "100+ Suchanfragen",
+          "info": "500+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-13T07:24:24+00:00",
+      "stand": "2026-11-13T10:06:39+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-13T07:24:24+00:00",
+      "stand": "2026-11-13T10:06:39+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -181,17 +181,8 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-13T07:24:24+00:00",
+      "stand": "2026-11-13T10:06:39+00:00",
       "eintraege": [
-        {
-          "titel": "Nachfolge von Guy Parmelin – Aeschi wohl fix auf dem SVP-Ticket – daneben viele Fragezeichen",
-          "untertitel": "Wer schafft es aufs offizielle SVP-Ticket? Bei dem Entscheid spielen nicht nur strategische Überlegungen eine Rolle.",
-          "link": "https://www.srf.ch/news/schweiz/nachfolge-von-guy-parmelin-aeschi-wohl-fix-auf-dem-svp-ticket-daneben-viele-fragezeichen",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/daf9a1.webp",
-          "quelle": "SRF",
-          "info": "",
-          "trend": "gleich"
-        },
         {
           "titel": "Kannst du alle Fragen zur Fasnacht beantworten?",
           "untertitel": "Die Fasnachtszeit ist offiziell eingeläutet! Zu diesem frohen Anlass haben wir ein Quiz vorbereitet. Wie gut kennst du dich mit Fasnachtsbräuchen und ihren Ursprüngen aus? Teste …",
@@ -199,7 +190,7 @@
           "bild": "https://ocdn.eu/pulscms-transforms/1/L3UktkuTURBXy9iOThiYzllNy0xYzg2LTQ4NjMtYTRhNS1hMjgyNGQwMjk0MTYuanBlZ5KTBc0CWM0BO5MJpmMxNGQ0YQY/gd0mb4b4m2o.jpg",
           "quelle": "Blick",
           "info": "",
-          "trend": "gleich"
+          "trend": "hoch"
         }
       ]
     },
