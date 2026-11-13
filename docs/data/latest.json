@@ -1,37 +1,37 @@
 {
-  "aktualisiert": "2026-11-13T15:55:45+00:00",
+  "aktualisiert": "2026-11-13T18:59:34+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-13T15:55:45+00:00",
+      "stand": "2026-11-13T18:59:34+00:00",
       "eintraege": [
+        {
+          "titel": "Europol sucht falsche Apothekerin – sie arbeitet in der Schweiz",
+          "untertitel": "Eine Spanierin, die im Kanton Neuenburg lebt, wird wegen illegaler Ausübung der Medizin gesucht. Sie wurde von vier Schweizer Arbeitgebern angestellt.",
+          "link": "https://www.20min.ch/story/neuenburg-europol-sucht-falsche-apothekerin-sie-arbeitet-in-der-schweiz-103666938",
+          "bild": "https://image.20min.ch/2026/11/13/05139d22-dd57-47ad-80d6-ebe978b72810.jpg?s=a3dcc082aee36d9f7d84d7bcdab2bf7c",
+          "quelle": "20 Minuten",
+          "info": "4 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Wie viel erzählst du in deiner Partnerschaft vom Job?",
+          "untertitel": "Die Affäre des Nvidia-Chefs Jensen Huang mit der China-Spionin wirft die Frage auf: Welche Arbeitsgeheimnisse darf man mit seinem Partner/seiner Partnerin besprechen? Wie viel …",
+          "link": "https://www.20min.ch/story/arbeitsgeheimnisse-wie-viel-erzaehlst-du-in-deiner-partnerschaft-vom-job-103666274",
+          "bild": "https://image.20min.ch/2026/11/12/0c227b1e-3453-4c62-bf61-92c216202860.jpg?s=a803a38044d9e9c47ecd2086ccb8f4f2",
+          "quelle": "20 Minuten",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
         {
           "titel": "Schweizer (30) vergisst Sturmgewehr im Kofferraum",
           "untertitel": "Ein Schweizer ist vergangene Woche mit einem Sturmgewehr in seinem Auto vom deutschen Zoll gestoppt worden. Er hatte die Waffe laut eigener Aussage dort vergessen. Gegen ihn …",
           "link": "https://www.blick.ch/schweiz/schweizer-vergisst-gewehr-im-auto-strafverfahren-in-deutschland/kd8qhbz",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/vRcktkuTURBXy84NjU3YjVkYy01MDZjLTQ1NjUtYWNiZS1lZTcxYzFkNWFmODcuanBlZ5KTBc0CWM0BO5MJpjM2MWJmZAY/lz3r2e7husf.jpg",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/3T-ktkuTURBXy84NjU3YjVkYy01MDZjLTQ1NjUtYWNiZS1lZTcxYzFkNWFmODcuanBlZ5KTBc0CWM0BO5MJpjdjZjVmZgY/dbgh7mj2ttl.jpg",
           "quelle": "Blick",
-          "info": "4 Quellen berichten",
-          "trend": "neu"
-        },
-        {
-          "titel": "Oleschky-Waffenruhe: Ukrainer und Russen bereiten Evakuierung vor",
-          "untertitel": "Die seit Dienstag geltende Waffenruhe in der von russischen Truppen besetzten Frontstadt Oleschky im südukrainischen Gebiet Cherson hält weiter.",
-          "link": "https://www.watson.ch/international/russland/156525832-oleschky-waffenruhe-ukrainer-und-russen-bereiten-evakuierung-vor",
-          "bild": "",
-          "quelle": "watson",
-          "info": "4 Quellen berichten",
-          "trend": "neu"
-        },
-        {
-          "titel": "Ausfälle bei Software-Riesen – Microsoft meldet Fortschritte beim Kampf gegen Störungen",
-          "untertitel": "Betroffen ist der Dienst Microsoft 365 – also Outlook, Teams oder Copilot. Wir halten sie im Ticker auf dem Laufenden.",
-          "link": "https://www.srf.ch/news/wirtschaft/ausfaelle-bei-software-riesen-microsoft-meldet-fortschritte-beim-kampf-gegen-stoerungen",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/c34684.webp",
-          "quelle": "SRF",
           "info": "3 Quellen berichten",
           "trend": "neu"
         }
@@ -41,31 +41,31 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-13T15:55:45+00:00",
+      "stand": "2026-11-13T18:59:34+00:00",
       "eintraege": [
         {
-          "titel": "Why is the Microsoft outage lasting so long?",
-          "untertitel": "Microsoft says it is seeing \"improvements\" following a global outage but efforts to fully resume services are ongoing.",
-          "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
+          "titel": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+          "untertitel": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
+          "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a8d/live/606ff370-df85-11f1-93e1-3b657b665bcf.jpg",
           "quelle": "BBC",
-          "info": "2 Quellen berichten",
+          "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
-          "untertitel": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
-          "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg",
-          "quelle": "BBC",
+          "titel": "Collision of two trains in Egypt kills at least seven",
+          "untertitel": "President orders prompt investigation after one train derails in collision in al-Ayyat about 50km from Cairo Seven people were killed and at least 125 injured when two trains …",
+          "link": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
+          "bild": "https://i.guim.co.uk/img/media/7527078bbb41cf17b1a35718b70ebdceeada7492/206_271_4462_3569/master/4462.jpg?width=140&quality=85&auto=format&fit=max&s=24b5e48c937f7ee0a5afbdfdeb04cf94",
+          "quelle": "The Guardian",
           "info": "2 Quellen berichten",
-          "trend": "neu"
+          "trend": "hoch"
         },
         {
-          "titel": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-          "untertitel": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
-          "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9462/live/a60e9f80-df2b-11f1-a701-fddedf244c16.jpg",
+          "titel": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+          "untertitel": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
+          "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg",
           "quelle": "BBC",
           "info": "2 Quellen berichten",
           "trend": "neu"
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-13T15:55:45+00:00",
+      "stand": "2026-11-13T18:59:34+00:00",
       "eintraege": [
         {
-          "titel": "mélanie meillard",
-          "untertitel": "Slalom de Levi : Mélanie Meillard blessée et forfait",
-          "link": "https://www.rts.ch/sport/ski/2026/article/slalom-de-levi-melanie-meillard-blessee-et-forfait-29415252.html",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDY4nuW3LWJyn9vGwDOd3ARe4WoqsIADltxa7nCxgMj55RgHscoEwFj9kMZUc",
-          "quelle": "Google Trends · rts.ch",
-          "info": "200+ Suchanfragen",
-          "trend": "neu"
-        },
-        {
-          "titel": "meghan, duchess of sussex",
-          "untertitel": "Inside Meghan Markle’s Turmoil amid Her Father Thomas Markle’s Arrest: ‘She Is Devastated’ (Exclusive)",
-          "link": "https://people.com/meghan-markle-devastated-father-thomas-markle-allegations-arrest-exclusive-12249832",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTW3a4t-ZxUOoP6KKzvGXsvMvIryC9ni1ZPCle9VHqkQkh1UbJlMvLC3ejJEqs",
-          "quelle": "Google Trends · People.com",
-          "info": "200+ Suchanfragen",
-          "trend": "neu"
-        },
-        {
-          "titel": "listerien",
-          "untertitel": "Listerien-Alarm in Schweizer Käse: Bund meldet erste mutmassliche Krankheitsfälle",
-          "link": "https://www.aargauerzeitung.ch/wirtschaft/listerien-alarm-in-kaese-bund-meldet-erste-krankheitsfaelle-ld.4265593",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuIAhNU3aFDpT4u2lEX1IYBd9CNe-YsbCJgxoybrgFghOrbyo1kbHFDfz7agA",
-          "quelle": "Google Trends · Aargauer Zeitung",
+          "titel": "slowenien – schweiz",
+          "untertitel": "Vargas und Boteli verpassen das Slowenien-Spiel",
+          "link": "https://www.blick.ch/sport/fussball/nati/schweizer-nati-vargas-und-boteli-verpassen-slowenien-spiel/yc98cvk",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXnY-pjNj-qlozkxfZf-wtrU3XbtIOQaS8DBsUWio1M6KwYtDBiW_6WJX-UA0",
+          "quelle": "Google Trends · Blick",
           "info": "1000+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "slovénie – suisse",
+          "untertitel": "Pays-Bas - Grèce en direct : tous les buts et temps forts",
+          "link": "https://www.20min.ch/fr/sport/football/ligue-des-nations/pays-bas-vs-grece-7f2uuphgt26zk1eh9x152wb2s/ticker",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEWi2R_F4dHCeRi7xxoTR_98Liyovtb083qnjpZ8rPcoDD9hMWZXlazyYpP7M",
+          "quelle": "Google Trends · 20 Minuten",
+          "info": "200+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "taylor swift",
+          "untertitel": "Is Taylor Swift Participating in the Dolly Parton Tribute at CMA Awards 2026? The Truth",
+          "link": "https://www.eonline.com/news/1438024/taylor-swift-is-not-performing-in-dolly-parton-tribute-at-cma-awards-2026",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSX3vYNxHNc0xG2UXHQJFqkwQtPeAxyjvZdLGP0HPTLbRHnzhPAkcn_mqQDSac",
+          "quelle": "Google Trends · E! News",
+          "info": "100+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-13T15:55:45+00:00",
+      "stand": "2026-11-13T18:59:34+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -198,11 +198,11 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-13T15:55:45+00:00",
+      "stand": "2026-11-13T18:59:34+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
-          "untertitel": "Bewölkt · 1° bis 8°",
+          "untertitel": "Bewölkt · 1° bis 7°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -211,12 +211,12 @@
         },
         {
           "titel": "Bern",
-          "untertitel": "Nebel · 0° bis 7°",
+          "untertitel": "Bewölkt · -1° bis 7°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 0%",
-          "emoji": "🌫️"
+          "info": "Regenrisiko 8%",
+          "emoji": "☁️"
         },
         {
           "titel": "Basel",
@@ -233,16 +233,16 @@
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 35%",
+          "info": "Regenrisiko 38%",
           "emoji": "🌦️"
         },
         {
           "titel": "Lugano",
-          "untertitel": "Regenschauer · 8° bis 11°",
+          "untertitel": "Regenschauer · 7° bis 11°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 18%",
+          "info": "Regenrisiko 20%",
           "emoji": "🌦️"
         }
       ]
