@@ -1,37 +1,37 @@
 {
-  "aktualisiert": "2026-11-13T10:06:39+00:00",
+  "aktualisiert": "2026-11-13T13:16:07+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-13T10:06:39+00:00",
+      "stand": "2026-11-13T13:16:07+00:00",
       "eintraege": [
         {
-          "titel": "Software-Riese – Ausfälle von Microsoft bremsen Firmen und Behörden weltweit",
+          "titel": "Schweizer (30) vergisst Sturmgewehr im Kofferraum",
+          "untertitel": "Ein Schweizer ist vergangene Woche mit einem Sturmgewehr in seinem Auto vom deutschen Zoll gestoppt worden. Er hatte die Waffe laut eigener Aussage dort vergessen. Gegen ihn …",
+          "link": "https://www.blick.ch/schweiz/schweizer-vergisst-gewehr-im-auto-strafverfahren-in-deutschland/kd8qhbz",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/vRcktkuTURBXy84NjU3YjVkYy01MDZjLTQ1NjUtYWNiZS1lZTcxYzFkNWFmODcuanBlZ5KTBc0CWM0BO5MJpjM2MWJmZAY/lz3r2e7husf.jpg",
+          "quelle": "Blick",
+          "info": "4 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Ausfälle bei Software-Riesen – Microsoft meldet Fortschritte beim Kampf gegen Störungen",
           "untertitel": "Betroffen ist der Dienst Microsoft 365 – also Outlook, Teams oder Copilot. Wir halten sie im Ticker auf dem Laufenden.",
-          "link": "https://www.srf.ch/news/wirtschaft/software-riese-ausfaelle-von-microsoft-bremsen-firmen-und-behoerden-weltweit",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/84798f.webp",
+          "link": "https://www.srf.ch/news/wirtschaft/ausfaelle-bei-software-riesen-microsoft-meldet-fortschritte-beim-kampf-gegen-stoerungen",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/c34684.webp",
           "quelle": "SRF",
           "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "«Der Staat nutzt mein Leid aus», klagt ein Opfer sexuellen Missbrauchs",
-          "untertitel": "Mit zwölf wurde ein Waadtländer am Collège Champittet missbraucht. Die Kirche zahlte 220'000 Franken als Entschädigung. Doch das Finanzamt sieht einen Teil davon als …",
-          "link": "https://www.blick.ch/schweiz/westschweiz/waadt/lausanne-missbrauchsopfer-von-priester-wuetend-auf-den-staat/r8q2l1f",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/HsrktkuTURBXy9hZGI1NjZlYS1iNTE1LTQ5NmUtYjdjMS1mMjRlMDI4ZGU4ZWMuanBlZ5KTBc0CWM0BO5MJpjAxZTkyNgY/1h8xazo8z5y.jpg",
-          "quelle": "Blick",
-          "info": "3 Quellen berichten",
-          "trend": "gleich"
-        },
-        {
-          "titel": "Abstimmung Kanton Uri – Muss bald mehr bezahlen, wer in Uri Auto fährt?",
-          "untertitel": "Eine höhere Strassenverkehrssteuer soll mithelfen, die Finanzen ins Lot zu bringen. SVP und FDP sind dagegen.",
-          "link": "https://www.srf.ch/news/abstimmung-kanton-uri-muss-bald-mehr-bezahlen-wer-in-uri-auto-faehrt",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/d5e988.webp",
-          "quelle": "SRF",
+          "titel": "Fifa verliert vor Gericht – ManUnited verkündet neuen Trainer",
+          "untertitel": "Was läuft in der Bundesliga, Premier League, Serie A, La Liga und der Ligue 1? Wie schlagen sich die Schweizer im Ausland? Alle News gibt es im Ticker.",
+          "link": "https://www.20min.ch/story/aerger-fuer-infantino-streit-um-wm-millionen-fifa-verliert-vor-gericht-143273245706",
+          "bild": "https://image.20min.ch/2026/11/13/e1d84190-6bda-4a75-9e66-fe5134db9d04.jpg?s=fe7a4f239764e28f8c8b1b2f2c467da6",
+          "quelle": "20 Minuten",
           "info": "3 Quellen berichten",
           "trend": "neu"
         }
@@ -41,22 +41,13 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-13T10:06:39+00:00",
+      "stand": "2026-11-13T13:16:07+00:00",
       "eintraege": [
         {
           "titel": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
           "untertitel": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
           "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
           "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg",
-          "quelle": "BBC",
-          "info": "3 Quellen berichten",
-          "trend": "neu"
-        },
-        {
-          "titel": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-          "untertitel": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
-          "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9462/live/a60e9f80-df2b-11f1-a701-fddedf244c16.jpg",
           "quelle": "BBC",
           "info": "3 Quellen berichten",
           "trend": "neu"
@@ -69,6 +60,15 @@
           "quelle": "BBC",
           "info": "2 Quellen berichten",
           "trend": "neu"
+        },
+        {
+          "titel": "Microsoft-Ausfälle: \"Für viele Unternehmen digitaler Hirntod!\"",
+          "untertitel": "Und plötzlich waren Outlook und Teams weg - in unsicheren Zeiten brauche es mehr digitale Souveränität, sagt IT-Sicherheitsexperte Kipker im Interview mit tagesschau24. Weniger …",
+          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/sicherheitsexperte-abhaengigkeit-microsoft-outlook-teams-risiken-100.html",
+          "bild": "",
+          "quelle": "tagesschau",
+          "info": "2 Quellen berichten",
+          "trend": "neu"
         }
       ]
     },
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-13T10:06:39+00:00",
+      "stand": "2026-11-13T13:16:07+00:00",
       "eintraege": [
         {
-          "titel": "europol",
-          "untertitel": "International Law Enforcement Operation Targeting Opioid and Fentanyl Traffickers on the Dark Web Results in over 350 Arrests Worldwide and the Seizure of Drugs, Weapons, and …",
-          "link": "https://www.justice.gov/opa/pr/international-law-enforcement-operation-targeting-opioid-and-fentanyl-traffickers-dark-web",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS218HAzFOEejVXM4zB4FFcK2eOQirPToH7-fDui4y4YtPRYRVgycULKVa_aa4",
-          "quelle": "Google Trends · Department of Justice (.gov)",
+          "titel": "erdrutsch",
+          "untertitel": "Erdrutsche und Regen in Italien",
+          "link": "https://www.blick.ch/ausland/extremregen-erdrutsche-und-alarm-in-italien/9n4lhyv",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZPY8NqxyAOr8SmKwuxcBpuzC-hy0x-9-smdgeuYJlr1PWruY2e5bpvN_4dG0",
+          "quelle": "Google Trends · Blick",
           "info": "200+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "panne microsoft",
-          "untertitel": "Microsoft 365 : une panne mondiale touche Outlook et Teams",
-          "link": "https://www.rts.ch/info/sciences-tech/2026/article/microsoft-365-une-panne-mondiale-touche-outlook-et-teams-29414808.html",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRz7aLUOKLQNXEgYdLkUaGjFlBnFr_7RQ45FGsaTvAg41TZA11YxTV2PM9tM-4",
-          "quelle": "Google Trends · rts.ch",
-          "info": "2000+ Suchanfragen",
+          "titel": "jäger",
+          "untertitel": "Gewalttat: Mann mit Kopfschuss getötet - Prozess gegen Jäger",
+          "link": "https://www.zeit.de/news/2026-11/13/mann-mit-kopfschuss-getoetet-prozess-gegen-jaeger",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTMELDKqOgsdeXSFt_8z2SsaJRCtAXlvDMoSEZV4rE37J_uJOOfoHjzpvtPgEs",
+          "quelle": "Google Trends · DIE ZEIT",
+          "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "solothurner zeitung",
-          "untertitel": "Fremde kochten im Restaurant mit: Solothurner Beiz gebüsst",
-          "link": "https://www.solothurnerzeitung.ch/solothurn/kanton-solothurn/fremde-personen-kochten-in-solothurner-restaurantkueche-ld.4250054",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcp9WKEudQgs9cPhyVv3MILHtBf7RTIVDYSJXaahBfD0_oLhCVkc23E6oGxbA",
-          "quelle": "Google Trends · Solothurner Zeitung",
-          "info": "500+ Suchanfragen",
+          "titel": "tasche",
+          "untertitel": "Braune Tamaris-Taschen: Die schönsten Trends für Winter 2026",
+          "link": "https://www.fuersie.de/mode/modetrend-2026-warum-diesse-5-braunen-tamaris-taschen-zu-jedem-winter-outfit-passen-20265.html",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTOB1TsnpREbCrfpsVAAVrWArbB0RqFTTxvth_EsIn_go3DhUl2BLHtWF6k4fk",
+          "quelle": "Google Trends · Für Sie",
+          "info": "100+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-13T10:06:39+00:00",
+      "stand": "2026-11-13T13:16:07+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-13T10:06:39+00:00",
+      "stand": "2026-11-13T13:16:07+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
