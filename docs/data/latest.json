@@ -1,30 +1,21 @@
 {
-  "aktualisiert": "2026-11-13T03:59:13+00:00",
+  "aktualisiert": "2026-11-13T07:24:24+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-13T03:59:13+00:00",
+      "stand": "2026-11-13T07:24:24+00:00",
       "eintraege": [
         {
-          "titel": "Krieg in der Ukraine – Selenski will Europa mit am Verhandlungstisch haben",
-          "untertitel": "Wolodimir Selenski hofft bei den nächsten Friedensgesprächen mit Russland auf Verhandlungen über eine Waffenruhe.",
-          "link": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-selenski-will-europa-mit-am-verhandlungstisch-haben",
-          "bild": "https://www.srf.ch/static/cms/images//320ws/bc52212.webp",
+          "titel": "Schweizer Militärgeschichte – Vom Importeur zur Waffenschmiede – und wieder zurück",
+          "untertitel": "Dass die Schweiz Rüstungsgüter herstellt und exportiert, war keineswegs immer so. Ein Blick auf die Geschichte.",
+          "link": "https://www.srf.ch/radio-srf-1/schweizer-militaergeschichte-vom-importeur-zur-waffenschmiede-und-wieder-zurueck",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/e2f776.webp",
           "quelle": "SRF",
-          "info": "4 Quellen berichten",
+          "info": "3 Quellen berichten",
           "trend": "neu"
-        },
-        {
-          "titel": "Premiere: Darum wollen SVP, Grüne und SP das Bundesbudget killen",
-          "untertitel": "Premiere im Bundeshaus: Eine unheilige Allianz lehnt das Bundesbudget 2027 ab. Während SP und Grüne finden, es werde zu viel gespart, sieht es die SVP genau andersrum.",
-          "link": "https://www.20min.ch/story/unheilige-allianz-premiere-darum-wollen-svp-gruene-und-sp-das-bundesbudget-killen-103666080",
-          "bild": "https://image.20min.ch/2026/11/12/ff45d4fd-9ca4-4448-ada7-c3ecd8982105.jpg?s=e1af43e2335c008dc26a588b6a574e27",
-          "quelle": "20 Minuten",
-          "info": "4 Quellen berichten",
-          "trend": "runter"
         },
         {
           "titel": "«Der Staat nutzt mein Leid aus», klagt ein Opfer sexuellen Missbrauchs",
@@ -33,7 +24,16 @@
           "bild": "https://ocdn.eu/pulscms-transforms/1/HsrktkuTURBXy9hZGI1NjZlYS1iNTE1LTQ5NmUtYjdjMS1mMjRlMDI4ZGU4ZWMuanBlZ5KTBc0CWM0BO5MJpjAxZTkyNgY/1h8xazo8z5y.jpg",
           "quelle": "Blick",
           "info": "3 Quellen berichten",
-          "trend": "runter"
+          "trend": "gleich"
+        },
+        {
+          "titel": "Am US‑Veteranentag – Hegseth ehrt Soldat für Rüge seiner eigenen Besuchergruppe",
+          "untertitel": "US-Verteidigungsminister Hegseth wurde wegen unangemessenen Verhaltens am Nationalfriedhof in Arlington zurechtgewiesen.",
+          "link": "https://www.srf.ch/news/international/am-us-veteranentag-hegseth-ehrt-soldat-fuer-ruege-seiner-eigenen-besuchergruppe",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/45833f2.webp",
+          "quelle": "SRF",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
         }
       ]
     },
@@ -41,11 +41,11 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-13T03:59:13+00:00",
+      "stand": "2026-11-13T07:24:24+00:00",
       "eintraege": [
         {
-          "titel": "Ousted Nvidia CEO Jensen Huang summoned to testify before Congress",
-          "untertitel": "US lawmakers want to question him over whether one of his alleged relationships was with a Chinese spy.",
+          "titel": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+          "untertitel": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
           "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
           "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg",
           "quelle": "BBC",
@@ -56,7 +56,7 @@
           "titel": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
           "untertitel": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
           "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f44f/live/57b45570-df06-11f1-9f71-7d0084202c8a.jpg",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9462/live/a60e9f80-df2b-11f1-a701-fddedf244c16.jpg",
           "quelle": "BBC",
           "info": "3 Quellen berichten",
           "trend": "neu"
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-13T03:59:13+00:00",
+      "stand": "2026-11-13T07:24:24+00:00",
       "eintraege": [
         {
-          "titel": "paris",
-          "untertitel": "INFO EUROPE 1 - La diamanterie De Beers, installée rue de la Paix, braquée ce jeudi matin",
-          "link": "https://www.europe1.fr/police-justice/info-europe-1-la-diamanterie-de-beers-installee-rue-de-la-paix-braquee-ce-jeudi-matin-1227791",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSetswu9cHihdqQYLHdvgZg5DijF9XLRP3vv7jTJAQS02sy_HhUk-KWYLg7cdE",
-          "quelle": "Google Trends · Europe 1",
+          "titel": "panne microsoft",
+          "untertitel": "Les réparations «ne fonctionnent pas comme prévu» : ce qu’il faut savoir de la panne géante d’Outlook et des outils Microsoft",
+          "link": "https://www.lefigaro.fr/secteur/high-tech/microsoft-dit-que-les-mesures-pour-resoudre-la-panne-mondiale-d-outlook-ne-fonctionnent-pas-comme-prevu-20261113",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1Qrx0nAhrq43EKMf44Gp2JQ1E3r9AwMzt1US_XfAmt0foZ7yT1mh94pb3D1I",
+          "quelle": "Google Trends · Le Figaro",
           "info": "200+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "classement équipe de tchéquie de football – équipe d'espagne de football",
-          "untertitel": "Groupe A3, Tchéquie - Espagne (0-2): le résumé de la rencontre - Football - Ligue des Nations UEFA",
-          "link": "https://www.rts.ch/play/tv/football-ligue-des-nations-uefa/video/groupe-a3-tchequie-espagne-0-2-le-resume-de-la-rencontre?urn=urn:rts:video:d1bd7ac4-253f-3598-84cf-73b553d8de5b",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQscBrxai0vBeIbAWQqbZ1DsmWYC1X-SFN6wU3Bq4UodQBqP4ZzWfnAaCv4RGA",
-          "quelle": "Google Trends · rts.ch",
-          "info": "2000+ Suchanfragen",
+          "titel": "freitag der 13",
+          "untertitel": "Taylor Swift feiert den Freitag, den 13., andere haben Angst",
+          "link": "https://www.blick.ch/people-tv/international/freitag-der-13-mythos-angst-und-aberglaube-tcs-entwarnt/mbsf134",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRdrD5m2Nt5I8hXjRUj2glyIgWknhBlNQWmu_7THd5iiTdOYYYNO4KgwNoTnl0",
+          "quelle": "Google Trends · Blick",
+          "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "classifica di nazionale maschile di calcio dell'italia - nazionale francese",
-          "untertitel": "Una splendida Italia ribalta la Francia: Pio show, è 3-1. Per i quarti di Nations basta non perdere in Belgio",
-          "link": "https://www.gazzetta.it/Calcio/Nazionale/12-11-2026/italia-francia-live-risultato-e-gol-in-diretta-nations-league.shtml",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYBLYlG8tkzqQmrSwZHWB5oiuIjGM6GAIlRWwjzDdwS4zEv4Mr87KJLAgKUu8",
-          "quelle": "Google Trends · La Gazzetta dello Sport",
-          "info": "2000+ Suchanfragen",
+          "titel": "solothurner zeitung",
+          "untertitel": "Fremde kochten im Restaurant mit: Solothurner Beiz gebüsst",
+          "link": "https://www.solothurnerzeitung.ch/solothurn/kanton-solothurn/fremde-personen-kochten-in-solothurner-restaurantkueche-ld.4250054",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcp9WKEudQgs9cPhyVv3MILHtBf7RTIVDYSJXaahBfD0_oLhCVkc23E6oGxbA",
+          "quelle": "Google Trends · Solothurner Zeitung",
+          "info": "100+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-13T03:59:13+00:00",
+      "stand": "2026-11-13T07:24:24+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-13T03:59:13+00:00",
+      "stand": "2026-11-13T07:24:24+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -167,13 +167,13 @@
           "trend": "gleich"
         },
         {
-          "titel": "RONZHEIMER.",
-          "untertitel": "Paul Ronzheimer",
-          "link": "https://podcasts.apple.com/ch/podcast/ronzheimer/id1700432142",
-          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/16/ab/81/16ab81cb-e31f-5ea0-81a7-902a96dfd750/mza_17924075471806194431.jpg/300x300bb.png",
+          "titel": "Les Grosses Têtes",
+          "untertitel": "RTL",
+          "link": "https://podcasts.apple.com/ch/podcast/les-grosses-t%C3%AAtes/id369369012",
+          "bild": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fe/04/9f/fe049f64-d03c-3995-f7ed-ecd5c7bfa3fb/mza_10862868553998545135.jpg/300x300bb.png",
           "quelle": "Apple Podcasts Charts CH",
-          "info": "Nachrichten",
-          "trend": "gleich"
+          "info": "Nachrichten, Comedy",
+          "trend": "neu"
         }
       ]
     },
@@ -181,7 +181,7 @@
       "id": "events",
       "name": "Events in den News",
       "symbol": "🎟️",
-      "stand": "2026-11-13T03:59:13+00:00",
+      "stand": "2026-11-13T07:24:24+00:00",
       "eintraege": [
         {
           "titel": "Nachfolge von Guy Parmelin – Aeschi wohl fix auf dem SVP-Ticket – daneben viele Fragezeichen",
