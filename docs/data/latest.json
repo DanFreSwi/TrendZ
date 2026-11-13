@@ -1,37 +1,37 @@
 {
-  "aktualisiert": "2026-11-13T18:59:34+00:00",
+  "aktualisiert": "2026-11-13T21:53:17+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-13T18:59:34+00:00",
+      "stand": "2026-11-13T21:53:17+00:00",
       "eintraege": [
         {
-          "titel": "Europol sucht falsche Apothekerin – sie arbeitet in der Schweiz",
-          "untertitel": "Eine Spanierin, die im Kanton Neuenburg lebt, wird wegen illegaler Ausübung der Medizin gesucht. Sie wurde von vier Schweizer Arbeitgebern angestellt.",
-          "link": "https://www.20min.ch/story/neuenburg-europol-sucht-falsche-apothekerin-sie-arbeitet-in-der-schweiz-103666938",
-          "bild": "https://image.20min.ch/2026/11/13/05139d22-dd57-47ad-80d6-ebe978b72810.jpg?s=a3dcc082aee36d9f7d84d7bcdab2bf7c",
-          "quelle": "20 Minuten",
+          "titel": "In Basel verkaufter Thunfisch sieht teils frischer aus, als er ist",
+          "untertitel": "Das Kantonslabor Basel-Stadt hat 4 von 16 Proben von frischem Thunfisch beanstandet. Sie wurden umgerötet, um frischer auszusehen – dies sei Lebensmittelbetrug.",
+          "link": "https://www.watson.ch/schweiz/food/627333614-basel-kantonslabor-bs-meldet-lebensmittelbetrug-bei-frischem-thunfisch",
+          "bild": "",
+          "quelle": "watson",
           "info": "4 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Wie viel erzählst du in deiner Partnerschaft vom Job?",
-          "untertitel": "Die Affäre des Nvidia-Chefs Jensen Huang mit der China-Spionin wirft die Frage auf: Welche Arbeitsgeheimnisse darf man mit seinem Partner/seiner Partnerin besprechen? Wie viel …",
-          "link": "https://www.20min.ch/story/arbeitsgeheimnisse-wie-viel-erzaehlst-du-in-deiner-partnerschaft-vom-job-103666274",
-          "bild": "https://image.20min.ch/2026/11/12/0c227b1e-3453-4c62-bf61-92c216202860.jpg?s=a803a38044d9e9c47ecd2086ccb8f4f2",
+          "titel": "Landesweites Startverbot an US-Flughäfen verhängt",
+          "untertitel": "Seit Beginn von Donald Trumps zweiter Amtszeit als US-Präsident krempelt der 80-Jährige die US- und Aussenpolitik um. Die wichtigen Entwicklungen im Ticker.",
+          "link": "https://www.20min.ch/story/die-usa-unter-donald-trump-ueber-die-zukunft-von-kuba-103260600",
+          "bild": "https://image.20min.ch/2026/11/13/2bf191a5-fa13-4f4e-8e6d-819e14497bd1.jpg?s=2545e2d075d83cb4d9864fb252085229",
           "quelle": "20 Minuten",
           "info": "3 Quellen berichten",
           "trend": "neu"
         },
         {
-          "titel": "Schweizer (30) vergisst Sturmgewehr im Kofferraum",
-          "untertitel": "Ein Schweizer ist vergangene Woche mit einem Sturmgewehr in seinem Auto vom deutschen Zoll gestoppt worden. Er hatte die Waffe laut eigener Aussage dort vergessen. Gegen ihn …",
-          "link": "https://www.blick.ch/schweiz/schweizer-vergisst-gewehr-im-auto-strafverfahren-in-deutschland/kd8qhbz",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/3T-ktkuTURBXy84NjU3YjVkYy01MDZjLTQ1NjUtYWNiZS1lZTcxYzFkNWFmODcuanBlZ5KTBc0CWM0BO5MJpjdjZjVmZgY/dbgh7mj2ttl.jpg",
-          "quelle": "Blick",
+          "titel": "Tanker rammt Kreuzfahrtschiff mit 130 Personen an Bord",
+          "untertitel": "Am Freitag kam es im Hafen von New Orleans zu einem Unfall. Ein Tanker rammte ein Kreuzfahrtschiff, woraufhin dieses sank. 130 Personen waren an Bord. Ihr Status ist bisher …",
+          "link": "https://www.20min.ch/story/new-orleans-usa-tanker-rammt-kreuzfahrtschiff-mit-130-personen-an-bord-103667157",
+          "bild": "https://image.20min.ch/2026/11/13/79cf3b57-ed85-421c-89c7-4c9869203bfd.png?s=eaa49049f55cd352248057c25788ab2b",
+          "quelle": "20 Minuten",
           "info": "3 Quellen berichten",
           "trend": "neu"
         }
@@ -41,8 +41,17 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-13T18:59:34+00:00",
+      "stand": "2026-11-13T21:53:17+00:00",
       "eintraege": [
+        {
+          "titel": "Nvidia-Skandal: US-Handelsminister Lutnick wegen Chip-Exporten unter Druck",
+          "untertitel": "US-Handelsminister Lutnick steht in der Kritik. Sein Ministerium soll Warnungen vor der in den Nvidia-Skandal verwickelten Firma Megaspeed ignoriert haben. Kabinettskollege …",
+          "link": "https://www.tagesschau.de/ausland/usa-nvidia-finanzminister-handelminister-100.html",
+          "bild": "",
+          "quelle": "tagesschau",
+          "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
         {
           "titel": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
           "untertitel": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
@@ -53,19 +62,10 @@
           "trend": "neu"
         },
         {
-          "titel": "Collision of two trains in Egypt kills at least seven",
-          "untertitel": "President orders prompt investigation after one train derails in collision in al-Ayyat about 50km from Cairo Seven people were killed and at least 125 injured when two trains …",
-          "link": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
-          "bild": "https://i.guim.co.uk/img/media/7527078bbb41cf17b1a35718b70ebdceeada7492/206_271_4462_3569/master/4462.jpg?width=140&quality=85&auto=format&fit=max&s=24b5e48c937f7ee0a5afbdfdeb04cf94",
-          "quelle": "The Guardian",
-          "info": "2 Quellen berichten",
-          "trend": "hoch"
-        },
-        {
-          "titel": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-          "untertitel": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
-          "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg",
+          "titel": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+          "untertitel": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+          "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg",
           "quelle": "BBC",
           "info": "2 Quellen berichten",
           "trend": "neu"
@@ -76,32 +76,32 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-13T18:59:34+00:00",
+      "stand": "2026-11-13T21:53:17+00:00",
       "eintraege": [
         {
-          "titel": "slowenien – schweiz",
-          "untertitel": "Vargas und Boteli verpassen das Slowenien-Spiel",
-          "link": "https://www.blick.ch/sport/fussball/nati/schweizer-nati-vargas-und-boteli-verpassen-slowenien-spiel/yc98cvk",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXnY-pjNj-qlozkxfZf-wtrU3XbtIOQaS8DBsUWio1M6KwYtDBiW_6WJX-UA0",
-          "quelle": "Google Trends · Blick",
-          "info": "1000+ Suchanfragen",
+          "titel": "faa",
+          "untertitel": "Live updates: FAA issues nationwide ground stop for all flights",
+          "link": "https://www.cnn.com/2026/11/13/us/live-news/flights-ground-stop-faa",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLmMo1cNfAW0b79RqIQs_qfVFL3F2qTKmFXvcESdjYVoOWzLyeKw8TpeyFE1E",
+          "quelle": "Google Trends · CNN",
+          "info": "500+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "slovénie – suisse",
-          "untertitel": "Pays-Bas - Grèce en direct : tous les buts et temps forts",
-          "link": "https://www.20min.ch/fr/sport/football/ligue-des-nations/pays-bas-vs-grece-7f2uuphgt26zk1eh9x152wb2s/ticker",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEWi2R_F4dHCeRi7xxoTR_98Liyovtb083qnjpZ8rPcoDD9hMWZXlazyYpP7M",
-          "quelle": "Google Trends · 20 Minuten",
-          "info": "200+ Suchanfragen",
+          "titel": "schottland – nordmazedonien",
+          "untertitel": "Schottland vs. Nordmazedonien Tipp, KI Prognose & Quoten 13.11.2026 - Nations League",
+          "link": "https://www.wettbasis.com/sportwetten-tipps/schottland-vs-nordmazedonien-tipp-ki-prognose-quoten-13-11-2026-nations-league",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8ltHJLSfs0a1Ot0mXfcyUgigFYYhCNidgjlPdoYlEj5lXs1vlA5EW26x9VQQ",
+          "quelle": "Google Trends · Wettbasis",
+          "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "taylor swift",
-          "untertitel": "Is Taylor Swift Participating in the Dolly Parton Tribute at CMA Awards 2026? The Truth",
-          "link": "https://www.eonline.com/news/1438024/taylor-swift-is-not-performing-in-dolly-parton-tribute-at-cma-awards-2026",
-          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSX3vYNxHNc0xG2UXHQJFqkwQtPeAxyjvZdLGP0HPTLbRHnzhPAkcn_mqQDSac",
-          "quelle": "Google Trends · E! News",
+          "titel": "netherlands vs greece",
+          "untertitel": "Netherlands vs Greece: UEFA Nations League stats & head-to-head",
+          "link": "https://www.bbc.com/sport/football/live/cmqjn559ld2jt",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEk17kRpNjvnvGoQNEK1URooMJk8g162_XNrpacRxPdYc6b0RU5XcMfPcyUjA",
+          "quelle": "Google Trends · BBC",
           "info": "100+ Suchanfragen",
           "trend": "neu"
         }
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-13T15:55:45+00:00",
+      "stand": "2026-11-13T21:53:17+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-13T18:59:34+00:00",
+      "stand": "2026-11-13T21:53:17+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
