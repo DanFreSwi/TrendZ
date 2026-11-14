@@ -1,38 +1,38 @@
 {
-  "aktualisiert": "2026-11-14T03:58:24+00:00",
+  "aktualisiert": "2026-11-14T07:07:44+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-14T03:58:24+00:00",
+      "stand": "2026-11-14T07:07:44+00:00",
       "eintraege": [
         {
-          "titel": "Uno-Menschenrechtschef drängt auf Vertrag gegen «Killerroboter»",
-          "untertitel": "Nächste Woche beraten Staaten über die Zukunft autonomer Waffen. Uno-Menschenrechtschef Volker Türk drängt auf ein Verbot jener Systeme, die Menschen selbstständig ins Visier …",
-          "link": "https://www.blick.ch/schweiz/westschweiz/genf/volker-tuerk-uno-fordert-verbot-autonomer-waffensysteme/zt03tqx",
-          "bild": "https://ocdn.eu/pulscms-transforms/1/N7PktkuTURBXy8yM2NkNzBhYS1hNTZjLTRkZDAtODIyNi1mYmE4ZTdiODY3OGYuanBlZ5KTBc0CWM0BO5MJpjIxY2U5YgY/am0r09ojrqs.jpg",
-          "quelle": "Blick",
-          "info": "3 Quellen berichten",
-          "trend": "neu"
-        },
-        {
-          "titel": "Kreuzfahrt-Aus in Kambodscha sorgt weltweit für Aufsehen",
-          "untertitel": "Das Kreuzfahrtschiff Odyssey soll in Sihanoukville tanken und anschliessend weiterfahren. Wohin es geht und ob Passagiere an Bord sein werden, bleibt unklar.",
-          "link": "https://www.watson.ch/international/%C3%96l/489018966-sihanoukville-kreuzfahrtschiff-odyssey-soll-schon-bald-weiterfahren",
-          "bild": "",
-          "quelle": "watson",
-          "info": "3 Quellen berichten",
-          "trend": "neu"
-        },
-        {
-          "titel": "Nach Tod von de Miguel: Zwölf Spielsperren für Goalie Owono",
-          "untertitel": "Was läuft in der Bundesliga, Premier League, Serie A, La Liga und der Ligue 1? Wie schlagen sich die Schweizer im Ausland? Alle News gibt es im Ticker.",
-          "link": "https://www.20min.ch/story/spanien-nach-tod-von-de-miguel-12-spiele-sperre-fuer-goalie-owono-143273245706",
-          "bild": "https://image.20min.ch/2026/11/13/6045208d-ce02-4f9d-aaf5-2b23cc1cccb6.jpg?s=05b0dbc2fac4282e5d42ded50e21a0e1",
+          "titel": "«Falls du etwas geplant hast, findet es ohne mich statt»",
+          "untertitel": "Für GTA 6 nehmen Schweizer Gamer bis zu zwei Wochen Ferien. Einige planen durchzuzocken, andere haben ihre Partnerinnen bereits vorgewarnt.",
+          "link": "https://www.20min.ch/story/alle-warten-auf-gta-6-lorenz-ich-mache-krank-um-zocken-zu-koennen-103666835",
+          "bild": "https://image.20min.ch/2026/11/14/41401855-4fea-464f-acdd-bf485084c24c.jpg?s=6c744b3d465c1d7ca7bb8cc4852b0ad4",
           "quelle": "20 Minuten",
           "info": "3 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "Landesweites Startverbot – Technische Panne legte US-Flugverkehr lahm: Das steckt dahinter",
+          "untertitel": "Die US-Luftfahrtbehörde stoppte landesweit alle Starts für 4 Stunden. Die Auswirkungen dürften länger spürbar sein.",
+          "link": "https://www.srf.ch/news/international/landesweites-startverbot-technische-panne-legte-us-flugverkehr-lahm-das-steckt-dahinter",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/bddf81.webp",
+          "quelle": "SRF",
+          "info": "2 Quellen berichten",
+          "trend": "neu"
+        },
+        {
+          "titel": "In China – Weisses Haus kündigt Dreiertreffen Trumps mit Xi und Putin an",
+          "untertitel": "Bislang gab es nur bilaterale Gespräche zwischen den Atommächten, das Treffen ist historisch.",
+          "link": "https://www.srf.ch/news/international/in-china-weisses-haus-kuendigt-dreiertreffen-trumps-mit-xi-und-putin-an",
+          "bild": "https://www.srf.ch/static/cms/images//320ws/164f9e.webp",
+          "quelle": "SRF",
+          "info": "2 Quellen berichten",
           "trend": "neu"
         }
       ]
@@ -41,17 +41,8 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-14T03:58:24+00:00",
+      "stand": "2026-11-14T07:07:44+00:00",
       "eintraege": [
-        {
-          "titel": "Nvidia-Skandal: US-Handelsminister Lutnick wegen Chip-Exporten unter Druck",
-          "untertitel": "US-Handelsminister Lutnick steht in der Kritik. Sein Ministerium soll Warnungen vor der in den Nvidia-Skandal verwickelten Firma Megaspeed ignoriert haben. Kabinettskollege …",
-          "link": "https://www.tagesschau.de/ausland/usa-nvidia-finanzminister-handelminister-100.html",
-          "bild": "",
-          "quelle": "tagesschau",
-          "info": "3 Quellen berichten",
-          "trend": "gleich"
-        },
         {
           "titel": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
           "untertitel": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
@@ -59,13 +50,22 @@
           "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a8d/live/606ff370-df85-11f1-93e1-3b657b665bcf.jpg",
           "quelle": "BBC",
           "info": "3 Quellen berichten",
-          "trend": "gleich"
+          "trend": "hoch"
         },
         {
-          "titel": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-          "untertitel": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
-          "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
-          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg",
+          "titel": "Nvidia-Skandal: US-Handelsminister Lutnick wegen Chip-Exporten unter Druck",
+          "untertitel": "US-Handelsminister Lutnick steht in der Kritik. Sein Ministerium soll Warnungen vor der in den Nvidia-Skandal verwickelten Firma Megaspeed ignoriert haben. Kabinettskollege …",
+          "link": "https://www.tagesschau.de/ausland/usa-nvidia-finanzminister-handelminister-100.html",
+          "bild": "",
+          "quelle": "tagesschau",
+          "info": "3 Quellen berichten",
+          "trend": "runter"
+        },
+        {
+          "titel": "What we know about the longest ground stop since 9/11",
+          "untertitel": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a Microsoft outage.",
+          "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+          "bild": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg",
           "quelle": "BBC",
           "info": "2 Quellen berichten",
           "trend": "neu"
@@ -76,32 +76,32 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-14T03:58:24+00:00",
+      "stand": "2026-11-14T07:07:44+00:00",
       "eintraege": [
         {
-          "titel": "polarwirbel",
-          "untertitel": "Polarwirbel so früh geschwächt wie noch nie: Droht der Schweiz jetzt ein eisiger Winter?",
-          "link": "https://www.20min.ch/story/wetter-polarwirbel-schwaechelt-frueh-droht-uns-jetzt-ein-eisiger-winter-103666742",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQ-8j-bE4P4DtATUvqFnbQzjPLY6JisCsY1KohqbhBSRZsrUSxCeDdbUcy80w",
-          "quelle": "Google Trends · 20 Minuten",
+          "titel": "reparatur",
+          "untertitel": "Smartphone-Reparatur in der Schweiz: Warum die neue EU-Pflicht hier nicht gilt",
+          "link": "https://www.netz-trends.de/ch/smartphone-reparatur-schweiz-eu-pflicht-gilt-nicht/",
+          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw1l0Ki8xjNHCA5Cr9htWXYnC2gtPMqBtQLiz-gLrM-DJ8pAGcHUzsMgva4v0",
+          "quelle": "Google Trends · Netz Trends",
           "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "flüge usa",
-          "untertitel": "Kommunikationsprobleme - US-Luftfahrtbehörde hebt landesweiten Flugstopp wieder auf",
-          "link": "https://www.srf.ch/news/international/kommunikationsprobleme-us-luftfahrtbehoerde-hebt-landesweiten-flugstopp-wieder-auf",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQdF6jJypfZQUfYNIfg3lVjeEl9mlMvs0-oDmacN6jcbHdJ9GzkEh8M7lVvS5M",
-          "quelle": "Google Trends · SRF",
-          "info": "1000+ Suchanfragen",
+          "titel": "alexander zverev",
+          "untertitel": "Zverev, Alcaraz learn Nitto ATP Finals draw fate",
+          "link": "https://www.atptour.com/en/news/nitto-atp-finals-2026-draw",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWdra4Zdf0ZIAgvaj1bSy1iXffVjWoGA4DPwfMtXW5TIcB07v80eh9PXx2-Ps",
+          "quelle": "Google Trends · ATP Tour",
+          "info": "100+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "wasser",
-          "untertitel": "Turbenthal ZH setzt Chlor gegen Wasserverschmutzung ein",
-          "link": "https://www.swissinfo.ch/ger/turbenthal-zh-setzt-chlor-gegen-wasserverschmutzung-ein/92377764",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQKK88kPA5s31t2BMw_GvGcKFb119vxv_W2kMlmQfjnPzhdjXHDPtx56oLrBwM",
-          "quelle": "Google Trends · SWI swissinfo.ch",
+          "titel": "the voice of germany",
+          "untertitel": "The Voice of Germany: In den Teamfights entscheiden jetzt andere über das Weiterkommen",
+          "link": "https://www.suedostschweiz.ch/unterhaltung/the-voice-of-germany-in-den-teamfights-entscheiden-jetzt-andere-ueber-das-weiterkommen-2233924",
+          "bild": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSmh2jJjnT4AnrEMhRJGTGCuNVvHfZhtfclX-T2aAXboO1CAtMljrYlF0EZUBs",
+          "quelle": "Google Trends · Südostschweiz",
           "info": "100+ Suchanfragen",
           "trend": "neu"
         }
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-14T03:58:24+00:00",
+      "stand": "2026-11-14T07:07:44+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-14T03:58:24+00:00",
+      "stand": "2026-11-14T07:07:44+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -198,7 +198,7 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-14T03:58:24+00:00",
+      "stand": "2026-11-14T07:07:44+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
@@ -211,39 +211,39 @@
         },
         {
           "titel": "Bern",
-          "untertitel": "Regenschauer · 2° bis 10°",
+          "untertitel": "Leichter Regen · 1° bis 10°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 67%",
+          "info": "Regenrisiko 83%",
           "emoji": "🌦️"
         },
         {
           "titel": "Basel",
-          "untertitel": "Leichter Regen · 6° bis 13°",
+          "untertitel": "Leichter Regen · 5° bis 13°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 88%",
+          "info": "Regenrisiko 90%",
           "emoji": "🌦️"
         },
         {
           "titel": "Genf",
-          "untertitel": "Regenschauer · 6° bis 14°",
+          "untertitel": "Regenschauer · 6° bis 15°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 100%",
+          "info": "Regenrisiko 98%",
           "emoji": "🌦️"
         },
         {
           "titel": "Lugano",
-          "untertitel": "Bewölkt · 7° bis 11°",
+          "untertitel": "Nebel · 6° bis 11°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
-          "info": "Regenrisiko 15%",
-          "emoji": "☁️"
+          "info": "Regenrisiko 18%",
+          "emoji": "🌫️"
         }
       ]
     }
