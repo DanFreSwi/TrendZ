@@ -1,19 +1,19 @@
 {
-  "aktualisiert": "2026-11-14T01:08:26+00:00",
+  "aktualisiert": "2026-11-14T03:58:24+00:00",
   "land": "ch",
   "kategorien": [
     {
       "id": "news_ch",
       "name": "News Schweiz",
       "symbol": "🇨🇭",
-      "stand": "2026-11-14T01:08:26+00:00",
+      "stand": "2026-11-14T03:58:24+00:00",
       "eintraege": [
         {
-          "titel": "Nach Tod von de Miguel: Zwölf Spielsperren für Goalie Owono",
-          "untertitel": "Was läuft in der Bundesliga, Premier League, Serie A, La Liga und der Ligue 1? Wie schlagen sich die Schweizer im Ausland? Alle News gibt es im Ticker.",
-          "link": "https://www.20min.ch/story/spanien-nach-tod-von-de-miguel-12-spiele-sperre-fuer-goalie-owono-143273245706",
-          "bild": "https://image.20min.ch/2026/11/13/6045208d-ce02-4f9d-aaf5-2b23cc1cccb6.jpg?s=05b0dbc2fac4282e5d42ded50e21a0e1",
-          "quelle": "20 Minuten",
+          "titel": "Uno-Menschenrechtschef drängt auf Vertrag gegen «Killerroboter»",
+          "untertitel": "Nächste Woche beraten Staaten über die Zukunft autonomer Waffen. Uno-Menschenrechtschef Volker Türk drängt auf ein Verbot jener Systeme, die Menschen selbstständig ins Visier …",
+          "link": "https://www.blick.ch/schweiz/westschweiz/genf/volker-tuerk-uno-fordert-verbot-autonomer-waffensysteme/zt03tqx",
+          "bild": "https://ocdn.eu/pulscms-transforms/1/N7PktkuTURBXy8yM2NkNzBhYS1hNTZjLTRkZDAtODIyNi1mYmE4ZTdiODY3OGYuanBlZ5KTBc0CWM0BO5MJpjIxY2U5YgY/am0r09ojrqs.jpg",
+          "quelle": "Blick",
           "info": "3 Quellen berichten",
           "trend": "neu"
         },
@@ -27,11 +27,11 @@
           "trend": "neu"
         },
         {
-          "titel": "Unteroffizier fährt betrunken Auto und wird entlassen",
-          "untertitel": "Ein Armee-Angestellter ist entlassen worden, nachdem er unter Alkoholeinfluss am Steuer eines Zivilfahrzeugs angehalten wurde.",
-          "link": "https://www.watson.ch/schweiz/armee/365439363-unteroffizier-der-armee-faehrt-mit-1-7-promille-auto-und-wird-entlassen",
-          "bild": "",
-          "quelle": "watson",
+          "titel": "Nach Tod von de Miguel: Zwölf Spielsperren für Goalie Owono",
+          "untertitel": "Was läuft in der Bundesliga, Premier League, Serie A, La Liga und der Ligue 1? Wie schlagen sich die Schweizer im Ausland? Alle News gibt es im Ticker.",
+          "link": "https://www.20min.ch/story/spanien-nach-tod-von-de-miguel-12-spiele-sperre-fuer-goalie-owono-143273245706",
+          "bild": "https://image.20min.ch/2026/11/13/6045208d-ce02-4f9d-aaf5-2b23cc1cccb6.jpg?s=05b0dbc2fac4282e5d42ded50e21a0e1",
+          "quelle": "20 Minuten",
           "info": "3 Quellen berichten",
           "trend": "neu"
         }
@@ -41,7 +41,7 @@
       "id": "news_welt",
       "name": "News Welt",
       "symbol": "🌍",
-      "stand": "2026-11-14T01:08:26+00:00",
+      "stand": "2026-11-14T03:58:24+00:00",
       "eintraege": [
         {
           "titel": "Nvidia-Skandal: US-Handelsminister Lutnick wegen Chip-Exporten unter Druck",
@@ -76,33 +76,33 @@
       "id": "suche",
       "name": "Gesucht in der Schweiz",
       "symbol": "🔎",
-      "stand": "2026-11-14T01:08:26+00:00",
+      "stand": "2026-11-14T03:58:24+00:00",
       "eintraege": [
         {
-          "titel": "argentine – uruguay",
-          "untertitel": "Licensable picture: International Friendly - Argentina v Uruguay",
-          "link": "https://www.reutersconnect.com/item/international-friendly-argentina-v-uruguay/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkQxUDNJUlg",
-          "bild": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8E8pVqKJwK_2jLQXwsc7I8FKo2qV6g_iIsoqYZyp8zyDjITTemijXpD7s_Ls",
-          "quelle": "Google Trends · Reuters Connect",
+          "titel": "polarwirbel",
+          "untertitel": "Polarwirbel so früh geschwächt wie noch nie: Droht der Schweiz jetzt ein eisiger Winter?",
+          "link": "https://www.20min.ch/story/wetter-polarwirbel-schwaechelt-frueh-droht-uns-jetzt-ein-eisiger-winter-103666742",
+          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQ-8j-bE4P4DtATUvqFnbQzjPLY6JisCsY1KohqbhBSRZsrUSxCeDdbUcy80w",
+          "quelle": "Google Trends · 20 Minuten",
+          "info": "100+ Suchanfragen",
+          "trend": "neu"
+        },
+        {
+          "titel": "flüge usa",
+          "untertitel": "Kommunikationsprobleme - US-Luftfahrtbehörde hebt landesweiten Flugstopp wieder auf",
+          "link": "https://www.srf.ch/news/international/kommunikationsprobleme-us-luftfahrtbehoerde-hebt-landesweiten-flugstopp-wieder-auf",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQdF6jJypfZQUfYNIfg3lVjeEl9mlMvs0-oDmacN6jcbHdJ9GzkEh8M7lVvS5M",
+          "quelle": "Google Trends · SRF",
           "info": "1000+ Suchanfragen",
           "trend": "neu"
         },
         {
-          "titel": "argentinien – uruguay",
-          "untertitel": "Freundschaftsspiele: Argentinien gegen Uruguay ab 00:00 live",
-          "link": "https://www.nau.ch/sport/matchcenter/freundschaftsspiele-argentinien-gegen-uruguay-ab-0000-live-67202109",
-          "bild": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRfJ3s3yIadeK1o0kDufdf0622e_TZkeXT3RKTZSxDSvKxQQe5UT9vo57Gezao",
-          "quelle": "Google Trends · Nau",
-          "info": "500+ Suchanfragen",
-          "trend": "neu"
-        },
-        {
-          "titel": "condamné",
-          "untertitel": "France: Rebondissement dans l'affaire Depardieu",
-          "link": "https://www.lematin.ch/story/france-rebondissement-dans-l-affaire-depardieu-103666392",
-          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSw12qNrtuIE_K92optDRZX9Lc4zrW1zo3z3xJVE2dxQeNotX8u7OO3yAIDL9E",
-          "quelle": "Google Trends · Le Matin",
-          "info": "200+ Suchanfragen",
+          "titel": "wasser",
+          "untertitel": "Turbenthal ZH setzt Chlor gegen Wasserverschmutzung ein",
+          "link": "https://www.swissinfo.ch/ger/turbenthal-zh-setzt-chlor-gegen-wasserverschmutzung-ein/92377764",
+          "bild": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQKK88kPA5s31t2BMw_GvGcKFb119vxv_W2kMlmQfjnPzhdjXHDPtx56oLrBwM",
+          "quelle": "Google Trends · SWI swissinfo.ch",
+          "info": "100+ Suchanfragen",
           "trend": "neu"
         }
       ]
@@ -111,7 +111,7 @@
       "id": "musik",
       "name": "Musik",
       "symbol": "🎵",
-      "stand": "2026-11-14T01:08:26+00:00",
+      "stand": "2026-11-14T03:58:24+00:00",
       "eintraege": [
         {
           "titel": "Housewife",
@@ -146,7 +146,7 @@
       "id": "podcasts",
       "name": "Podcasts",
       "symbol": "🎙️",
-      "stand": "2026-11-14T01:08:26+00:00",
+      "stand": "2026-11-14T03:58:24+00:00",
       "eintraege": [
         {
           "titel": "Echo der Zeit",
@@ -198,11 +198,11 @@
       "id": "wetter",
       "name": "Wetter morgen",
       "symbol": "🌤️",
-      "stand": "2026-11-14T01:08:26+00:00",
+      "stand": "2026-11-14T03:58:24+00:00",
       "eintraege": [
         {
           "titel": "Zürich",
-          "untertitel": "Regenschauer · 1° bis 11°",
+          "untertitel": "Leichter Regen · 1° bis 11°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -211,7 +211,7 @@
         },
         {
           "titel": "Bern",
-          "untertitel": "Leichter Regen · 2° bis 10°",
+          "untertitel": "Regenschauer · 2° bis 10°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -220,7 +220,7 @@
         },
         {
           "titel": "Basel",
-          "untertitel": "Leichter Regen · 5° bis 11°",
+          "untertitel": "Leichter Regen · 6° bis 13°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -229,7 +229,7 @@
         },
         {
           "titel": "Genf",
-          "untertitel": "Leichter Regen · 6° bis 14°",
+          "untertitel": "Regenschauer · 6° bis 14°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
@@ -238,7 +238,7 @@
         },
         {
           "titel": "Lugano",
-          "untertitel": "Bewölkt · 8° bis 11°",
+          "untertitel": "Bewölkt · 7° bis 11°",
           "link": "https://www.meteoschweiz.admin.ch/",
           "bild": "",
           "quelle": "Open-Meteo",
